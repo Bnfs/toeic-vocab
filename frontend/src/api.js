@@ -1,4 +1,4 @@
-const BASE = "http://127.0.0.1:8003";
+const BASE = "https://toeic-vocab-production.up.railway.app";
 
 async function req(path, options = {}) {
   const res = await fetch(`${BASE}${path}`, {
