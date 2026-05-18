@@ -5,7 +5,7 @@ from typing import List
 
 from database import get_db
 from models import Mot
-from schemas import MotCreate, MotOut, QuizQuestion
+from schemas import MotCreate, MotOut, QuizQuestion, MarquerVus
 
 router = APIRouter()
 
@@ -50,15 +50,21 @@ def generer_quiz(n: int = 10, categorie: str = None, db: Session = Depends(get_d
     q = db.query(Mot)
     if categorie:
         q = q.filter(Mot.categorie == categorie)
-    tous = q.all()
+    tous = q.order_by(Mot.nb_vus.asc()).all()
 
     if len(tous) < 4:
         raise HTTPException(status_code=400, detail="Il faut au moins 4 mots pour générer un quiz")
 
     n = min(n, len(tous))
-    selection = random.sample(tous, n)
-    questions = []
 
+    # Prend le minimum nb_vus parmi les N premiers candidats
+    seuil = tous[n - 1].nb_vus
+
+    # Tous les mots avec nb_vus <= seuil sont candidats (priorité aux moins vus)
+    candidats_prioritaires = [m for m in tous if m.nb_vus <= seuil]
+    selection = random.sample(candidats_prioritaires, min(n, len(candidats_prioritaires)))
+
+    questions = []
     for mot in selection:
         mauvaises = random.sample([m for m in tous if m.id != mot.id], min(3, len(tous) - 1))
         options = [m.francais for m in mauvaises] + [mot.francais]
@@ -71,3 +77,12 @@ def generer_quiz(n: int = 10, categorie: str = None, db: Session = Depends(get_d
         ))
 
     return questions
+
+
+@router.post("/marquer-vus", status_code=200)
+def marquer_vus(data: MarquerVus, db: Session = Depends(get_db)):
+    db.query(Mot).filter(Mot.id.in_(data.ids)).update(
+        {Mot.nb_vus: Mot.nb_vus + 1}, synchronize_session=False
+    )
+    db.commit()
+    return {"ok": True}

@@ -41,8 +41,10 @@ export default function Quiz() {
     setReponses(prev => [...prev, { mot_id: questions[index].mot_id, correct: option === questions[index].correct }]);
   };
 
-  const suivant = () => {
+  const suivant = async () => {
     if (index + 1 >= questions.length) {
+      // Marquer tous les mots du quiz comme vus
+      await api.marquerVus(questions.map(q => q.mot_id)).catch(() => {});
       setEtape("resultat");
     } else {
       setIndex(i => i + 1);

@@ -19,4 +19,5 @@ export const api = {
   supprimerMot: (id) => req(`/mots/${id}`, { method: "DELETE" }),
   getCategories: () => req("/mots/categories"),
   getQuiz: (n, categorie) => req(`/mots/quiz?n=${n}${categorie ? `&categorie=${encodeURIComponent(categorie)}` : ""}`),
+  marquerVus: (ids) => req("/mots/marquer-vus", { method: "POST", body: JSON.stringify({ ids }) }),
 };

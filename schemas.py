@@ -24,3 +24,6 @@ class QuizQuestion(BaseModel):
 class QuizReponse(BaseModel):
     mot_id: int
     reponse: str
+
+class MarquerVus(BaseModel):
+    ids: list[int]

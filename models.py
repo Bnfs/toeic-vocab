@@ -10,3 +10,4 @@ class Mot(Base):
     francais = Column(String, nullable=False)
     categorie = Column(String, default="général")
     date_ajout = Column(DateTime, default=datetime.utcnow)
+    nb_vus = Column(Integer, default=0)
