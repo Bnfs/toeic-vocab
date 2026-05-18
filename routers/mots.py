@@ -57,12 +57,11 @@ def generer_quiz(n: int = 10, categorie: str = None, db: Session = Depends(get_d
 
     n = min(n, len(tous))
 
-    # Prend le minimum nb_vus parmi les N premiers candidats
-    seuil = tous[n - 1].nb_vus
-
-    # Tous les mots avec nb_vus <= seuil sont candidats (priorité aux moins vus)
-    candidats_prioritaires = [m for m in tous if m.nb_vus <= seuil]
-    selection = random.sample(candidats_prioritaires, min(n, len(candidats_prioritaires)))
+    # Mélange aléatoire dans chaque groupe de même nb_vus, puis prend les N moins vus
+    random.shuffle(tous)
+    tous.sort(key=lambda m: m.nb_vus)
+    selection = tous[:n]
+    random.shuffle(selection)
 
     questions = []
     for mot in selection:
