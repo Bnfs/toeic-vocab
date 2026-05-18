@@ -12,7 +12,7 @@ export default function Vocabulaire() {
   const [chargement, setChargement] = useState(false);
 
   const categories = [
-    "général", "emploi", "finance", "communication", "travel",
+    "général", "faux amis", "emploi", "finance", "communication", "travel",
     "RH", "marketing", "informatique", "environnement", "industrie",
     "divertissement", "objets", "métiers", "lieux", "vêtements", "transport", "verbes"
   ];

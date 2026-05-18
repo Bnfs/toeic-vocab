@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TOEIC Vocab</string>
+    <string name="title_activity_main">TOEIC Vocab</string>
+    <string name="package_name">com.bnfs.toeicvocab</string>
+    <string name="custom_url_scheme">com.bnfs.toeicvocab</string>
+</resources>

@@ -13,9 +13,9 @@ export default function Quiz() {
   const [erreur, setErreur] = useState("");
 
   const categories = [
-    "", "emploi", "finance", "communication", "travel",
+    "", "faux amis", "emploi", "finance", "communication", "travel",
     "RH", "marketing", "informatique", "environnement", "industrie",
-    "divertissement", "objets", "métiers", "lieux", "vêtements", "transport", "verbes"
+    "divertissement", "objets", "métiers", "lieux", "vêtements", "transport", "verbes", "général"
   ];
 
   const demarrer = async () => {
