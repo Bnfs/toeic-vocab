@@ -7,14 +7,16 @@ export default function Quiz() {
   const [categorie, setCategorie] = useState("");
   const [questions, setQuestions] = useState([]);
   const [index, setIndex] = useState(0);
-  const [reponses, setReponses] = useState([]);
-  const [choix, setChoix] = useState(null);
+  const [reponses, setReponses] = useState([]); // indexé par question : { mot_id, choix, correct }
   const [chargement, setChargement] = useState(false);
   const [erreur, setErreur] = useState("");
 
+  // Le choix de la question courante est dérivé des réponses déjà données
+  const choix = reponses[index]?.choix ?? null;
+
   const categories = [
-    "", "faux amis", "emploi", "finance", "communication", "travel",
-    "RH", "marketing", "informatique", "environnement", "industrie",
+    "", "faux amis", "emploi", "finance", "communication", "voyage",
+    "marketing", "informatique", "environnement", "industrie",
     "divertissement", "objets", "métiers", "lieux", "vêtements", "transport", "verbes", "général"
   ];
 
@@ -26,7 +28,6 @@ export default function Quiz() {
       setQuestions(q);
       setIndex(0);
       setReponses([]);
-      setChoix(null);
       setEtape("quiz");
     } catch (e) {
       setErreur(e.message);
@@ -36,9 +37,12 @@ export default function Quiz() {
   };
 
   const selectionner = (option) => {
-    if (choix !== null) return;
-    setChoix(option);
-    setReponses(prev => [...prev, { mot_id: questions[index].mot_id, correct: option === questions[index].correct }]);
+    if (choix !== null) return; // déjà répondu : on ne change pas la réponse
+    setReponses(prev => {
+      const copie = [...prev];
+      copie[index] = { mot_id: questions[index].mot_id, choix: option, correct: option === questions[index].correct };
+      return copie;
+    });
   };
 
   const suivant = async () => {
@@ -48,11 +52,21 @@ export default function Quiz() {
       setEtape("resultat");
     } else {
       setIndex(i => i + 1);
-      setChoix(null);
     }
   };
 
-  const score = reponses.filter(r => r.correct).length;
+  const precedent = () => {
+    if (index > 0) setIndex(i => i - 1);
+  };
+
+  const quitter = () => {
+    setQuestions([]);
+    setReponses([]);
+    setIndex(0);
+    setEtape("config");
+  };
+
+  const score = reponses.filter(r => r?.correct).length;
 
   if (etape === "config") return (
     <div className="quiz-config card">
@@ -120,10 +134,13 @@ export default function Quiz() {
 
   return (
     <div className="quiz-actif">
+      <div className="quiz-topbar">
+        <button className="btn-quitter" onClick={quitter}>← Quitter</button>
+        <div className="quiz-compteur">{index + 1} / {questions.length}</div>
+      </div>
       <div className="quiz-progress-bar">
         <div className="quiz-progress-fill" style={{ width: `${progression}%` }} />
       </div>
-      <div className="quiz-compteur">{index + 1} / {questions.length}</div>
 
       <div className="card question-card">
         <p className="question-label">Quelle est la traduction ?</p>
@@ -143,11 +160,16 @@ export default function Quiz() {
             );
           })}
         </div>
-        {choix !== null && (
-          <button className="btn-suivant" onClick={suivant}>
-            {index + 1 >= questions.length ? "Voir les résultats →" : "Suivant →"}
+        <div className="quiz-nav">
+          <button className="btn-precedent" onClick={precedent} disabled={index === 0}>
+            ← Précédent
           </button>
-        )}
+          {choix !== null && (
+            <button className="btn-suivant" onClick={suivant}>
+              {index + 1 >= questions.length ? "Voir les résultats →" : "Suivant →"}
+            </button>
+          )}
+        </div>
       </div>
     </div>
   );

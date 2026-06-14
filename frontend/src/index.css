@@ -70,9 +70,17 @@ body {
 
 /* ── Quiz actif ── */
 .quiz-actif { max-width: 600px; margin: 0 auto; padding-top: 8px; }
-.quiz-progress-bar { height: 6px; background: #e5e7eb; border-radius: 3px; margin-bottom: 8px; }
+.quiz-progress-bar { height: 6px; background: #e5e7eb; border-radius: 3px; margin-bottom: 12px; }
 .quiz-progress-fill { height: 100%; background: #1e3a8a; border-radius: 3px; transition: width 0.3s; }
-.quiz-compteur { text-align: right; color: #6b7280; font-size: 0.85rem; margin-bottom: 12px; }
+.quiz-compteur { color: #6b7280; font-size: 0.85rem; }
+
+.quiz-topbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+.btn-quitter {
+  padding: 6px 12px; border-radius: 8px; border: none;
+  background: #f3f4f6; color: #6b7280; font-size: 0.85rem; font-weight: 600;
+  cursor: pointer; transition: background 0.2s;
+}
+.btn-quitter:hover { background: #e5e7eb; color: #374151; }
 
 .question-card { text-align: center; }
 .question-label { color: #6b7280; margin-bottom: 10px; font-size: 0.9rem; }
@@ -89,12 +97,20 @@ body {
 .option-btn.faux { border-color: #dc2626; background: #fee2e2; color: #b91c1c; }
 .option-btn.grise { opacity: 0.5; cursor: default; }
 
+.quiz-nav { display: flex; gap: 10px; margin-top: 16px; }
 .btn-suivant {
-  margin-top: 16px; padding: 12px 24px; border-radius: 10px; border: none;
+  flex: 1; padding: 12px 24px; border-radius: 10px; border: none;
   background: #1e3a8a; color: white; font-size: 0.95rem; font-weight: 600;
-  cursor: pointer; width: 100%;
+  cursor: pointer;
 }
 .btn-suivant:hover { background: #1e40af; }
+.btn-precedent {
+  flex: 1; padding: 12px 24px; border-radius: 10px; border: 2px solid #e5e7eb;
+  background: white; color: #374151; font-size: 0.95rem; font-weight: 600;
+  cursor: pointer; transition: all 0.2s;
+}
+.btn-precedent:hover:not(:disabled) { border-color: #1e3a8a; background: #eff6ff; }
+.btn-precedent:disabled { opacity: 0.45; cursor: not-allowed; }
 
 /* ── Résultat ── */
 .resultat { max-width: 600px; margin: 0 auto; text-align: center; }
