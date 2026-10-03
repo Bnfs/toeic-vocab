@@ -243,3 +243,28 @@ body {
 .cat-vus, .cat-maitrise { position: absolute; left: 0; top: 0; height: 100%; border-radius: 3px; }
 .cat-vus { background: #93c5fd; }
 .cat-maitrise { background: #1e3a8a; }
+
+/* ── Favoris ── */
+.btn-etoile { background: none; border: none; font-size: 1.5rem; cursor: pointer; line-height: 1; align-self: flex-end; color: #f59e0b; }
+.btn-etoile.petit { font-size: 1.1rem; align-self: auto; }
+.question-card, .fiche { position: relative; }
+.question-card > .btn-etoile, .fiche > .btn-etoile { position: absolute; top: 10px; right: 14px; }
+.btn-filtre-fav { padding: 8px 12px; border-radius: 8px; border: 1px solid #d1d5db; background: white; cursor: pointer; font-size: 0.9rem; }
+.btn-filtre-fav.active { background: #fef3c7; border-color: #f59e0b; }
+
+/* ── Phrase à trous ── */
+.question-phrase { font-size: 1.15rem; font-weight: 500; line-height: 1.5; margin: 8px 0 16px; }
+
+/* ── Objectif du jour ── */
+.objectif { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; padding: 8px 16px; background: #e0e7ff; font-size: 0.85rem; color: #1e3a8a; }
+.objectif.atteint { background: #dcfce7; color: #166534; }
+.objectif select { padding: 3px 6px; border-radius: 6px; border: 1px solid #c7d2fe; background: white; font-size: 0.8rem; }
+.objectif-barre { flex-basis: 100%; height: 6px; background: rgba(255,255,255,0.7); border-radius: 3px; overflow: hidden; }
+.objectif-fill { height: 100%; background: #1e3a8a; transition: width 0.4s; }
+.objectif.atteint .objectif-fill { background: #16a34a; }
+
+/* ── Examen ── */
+.chrono { font-weight: 700; font-variant-numeric: tabular-nums; color: #1e3a8a; }
+.chrono.urgent { color: #dc2626; animation: clignote 1s infinite; }
+@keyframes clignote { 50% { opacity: 0.5; } }
+.option-btn.choisie { border-color: #1e3a8a; background: #dbeafe; }

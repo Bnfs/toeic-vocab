@@ -5,7 +5,9 @@ export default function Quiz() {
   const [etape, setEtape] = useState("config"); // config | quiz | resultat
   const [nbQuestions, setNbQuestions] = useState(10);
   const [categorie, setCategorie] = useState("");
-  const [mode, setMode] = useState("normal"); // normal | difficiles
+  const [mode, setMode] = useState("normal"); // normal | difficiles | favoris
+  const [type, setType] = useState("traduction"); // traduction | trou
+  const [favoris, setFavoris] = useState({}); // mot_id -> bool
   const [questions, setQuestions] = useState([]);
   const [index, setIndex] = useState(0);
   const [reponses, setReponses] = useState([]); // indexé par question : { mot_id, choix, correct }
@@ -25,8 +27,9 @@ export default function Quiz() {
     setChargement(true);
     setErreur("");
     try {
-      const q = await api.getQuiz(nbQuestions, categorie || undefined, mode);
+      const q = await api.getQuiz(nbQuestions, categorie || undefined, mode, type);
       setQuestions(q);
+      setFavoris(Object.fromEntries(q.map(x => [x.mot_id, x.favori])));
       setIndex(0);
       setReponses([]);
       setEtape("quiz");
@@ -67,6 +70,11 @@ export default function Quiz() {
     setEtape("config");
   };
 
+  const basculerFavori = async (id) => {
+    const etat = await api.toggleFavori(id);
+    setFavoris(prev => ({ ...prev, [id]: etat }));
+  };
+
   const score = reponses.filter(r => r?.correct).length;
 
   if (etape === "config") return (
@@ -74,10 +82,18 @@ export default function Quiz() {
       <h2>Configurer le quiz</h2>
       {erreur && <p className="erreur">{erreur}</p>}
       <div className="config-ligne">
+        <label>Type de question</label>
+        <div className="nb-select">
+          <button className={`nb-btn ${type === "traduction" ? "active" : ""}`} onClick={() => setType("traduction")}>🔤 Traduction</button>
+          <button className={`nb-btn ${type === "trou" ? "active" : ""}`} onClick={() => setType("trou")}>✏️ Phrase à trous</button>
+        </div>
+      </div>
+      <div className="config-ligne">
         <label>Mode</label>
         <div className="nb-select">
           <button className={`nb-btn ${mode === "normal" ? "active" : ""}`} onClick={() => setMode("normal")}>🧠 Révision intelligente</button>
           <button className={`nb-btn ${mode === "difficiles" ? "active" : ""}`} onClick={() => setMode("difficiles")}>🔥 Mots difficiles</button>
+          <button className={`nb-btn ${mode === "favoris" ? "active" : ""}`} onClick={() => setMode("favoris")}>⭐ Favoris</button>
         </div>
       </div>
       <div className="config-ligne">
@@ -126,8 +142,8 @@ export default function Quiz() {
             return (
               <div key={q.mot_id} className={`recap-item ${rep?.correct ? "correct" : "faux"}`}>
                 <span className="recap-icon">{rep?.correct ? "✅" : "❌"}</span>
-                <span className="recap-mot">{q.anglais}</span>
-                <span className="recap-trad">→ {q.correct}</span>
+                <span className="recap-mot">{q.type === "trou" ? q.correct : q.anglais}</span>
+                <span className="recap-trad">→ {q.traduction}</span>
               </div>
             );
           })}
@@ -151,8 +167,13 @@ export default function Quiz() {
       </div>
 
       <div className="card question-card">
-        <p className="question-label">Quelle est la traduction ?</p>
-        <h2 className="question-mot">{question.anglais}</h2>
+        <button className="btn-etoile" onClick={() => basculerFavori(question.mot_id)} title="Favori">
+          {favoris[question.mot_id] ? "⭐" : "☆"}
+        </button>
+        <p className="question-label">
+          {question.type === "trou" ? "Complète la phrase" : "Quelle est la traduction ?"}
+        </p>
+        <h2 className={question.type === "trou" ? "question-phrase" : "question-mot"}>{question.anglais}</h2>
         <div className="options">
           {question.options.map(opt => {
             let cls = "option-btn";
@@ -168,6 +189,9 @@ export default function Quiz() {
             );
           })}
         </div>
+        {choix !== null && question.type === "trou" && (
+          <p className="fiche-aide" style={{ marginTop: 12 }}>💡 {question.traduction}</p>
+        )}
         <div className="quiz-nav">
           <button className="btn-precedent" onClick={precedent} disabled={index === 0}>
             ← Précédent

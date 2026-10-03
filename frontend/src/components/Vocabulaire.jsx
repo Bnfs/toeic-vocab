@@ -5,6 +5,7 @@ export default function Vocabulaire() {
   const [mots, setMots] = useState([]);
   const [filtreCategorie, setFiltreCategorie] = useState("");
   const [recherche, setRecherche] = useState("");
+  const [seulementFavoris, setSeulementFavoris] = useState(false);
   const [anglais, setAnglais] = useState("");
   const [francais, setFrancais] = useState("");
   const [categorie, setCategorie] = useState("général");
@@ -47,10 +48,16 @@ export default function Vocabulaire() {
     setMots(prev => prev.filter(m => m.id !== id));
   };
 
+  const basculerFavori = async (id) => {
+    const etat = await api.toggleFavori(id);
+    setMots(prev => prev.map(m => m.id === id ? { ...m, favori: etat } : m));
+  };
+
   const motsFiltres = mots.filter(m =>
+    (!seulementFavoris || m.favori) && (
     m.anglais.toLowerCase().includes(recherche.toLowerCase()) ||
     m.francais.toLowerCase().includes(recherche.toLowerCase())
-  );
+  ));
 
   return (
     <div className="vocab-page">
@@ -93,6 +100,10 @@ export default function Vocabulaire() {
             <option value="">Tous les thèmes</option>
             {categories.map(c => <option key={c} value={c}>{c}</option>)}
           </select>
+          <button
+            className={`btn-filtre-fav ${seulementFavoris ? "active" : ""}`}
+            onClick={() => setSeulementFavoris(f => !f)}
+          >⭐ Favoris</button>
           <span className="nb-mots">{motsFiltres.length} mots</span>
         </div>
 
@@ -106,6 +117,9 @@ export default function Vocabulaire() {
               </div>
               <div className="mot-footer">
                 <span className="badge-categorie">{m.categorie}</span>
+                <button className="btn-etoile petit" onClick={() => basculerFavori(m.id)} title="Favori">
+                  {m.favori ? "⭐" : "☆"}
+                </button>
                 <button className="btn-suppr" onClick={() => supprimer(m.id)}>✕</button>
               </div>
             </div>

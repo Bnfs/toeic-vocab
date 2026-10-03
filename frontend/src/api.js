@@ -1,10 +1,11 @@
 // Version 100 % locale : les mots sont dans vocab.json, la progression et les
 // mots ajoutés/supprimés sont gardés dans le localStorage de l'appareil.
 import VOCAB from "./vocab.json";
+import CLOZE from "./cloze.json";
 
 const KEY = "toeic-vocab-state";
 
-const vide = () => ({ vus: {}, ajoutes: [], supprimes: [], progres: {}, historique: [], jours: [] });
+const vide = () => ({ vus: {}, ajoutes: [], supprimes: [], progres: {}, historique: [], jours: [], favoris: [], parJour: {}, objectif: 20 });
 
 const JOUR = 86400000;
 const INTERVALLES = [0, 1, 2, 4, 8, 16]; // jours avant la prochaine révision, par "boîte"
@@ -20,13 +21,15 @@ function load() {
 
 function save(state) {
   try { localStorage.setItem(KEY, JSON.stringify(state)); } catch { /* ignore */ }
+  if (typeof window !== "undefined") window.dispatchEvent(new Event("toeic-update"));
 }
 
 function motsActuels(state, categorie) {
   const supprimes = new Set(state.supprimes);
+  const favoris = new Set(state.favoris);
   return [...VOCAB, ...state.ajoutes]
     .filter(m => !supprimes.has(m.id) && (!categorie || m.categorie === categorie))
-    .map(m => ({ ...m, nb_vus: state.vus[m.id] || 0, ...etat(state, m.id) }));
+    .map(m => ({ ...m, nb_vus: state.vus[m.id] || 0, favori: favoris.has(m.id), ...etat(state, m.id) }));
 }
 
 function etat(state, id) {
@@ -38,6 +41,7 @@ function etat(state, id) {
 // les moins maîtrisés en premier (les ratés avant les jamais vus) ; ensuite ceux dont l'échéance est la plus proche.
 function prioriser(mots, mode) {
   const maintenant = Date.now();
+  if (mode === "favoris") mots = mots.filter(m => m.favori);
   if (mode === "difficiles") {
     return melanger(mots.filter(m => m.ko > 0 && m.boite < 4)).sort((a, b) => (b.ko - b.ok) - (a.ko - a.ok));
   }
@@ -53,6 +57,39 @@ function melanger(arr) {
     [arr[i], arr[j]] = [arr[j], arr[i]];
   }
   return arr;
+}
+
+const CATEGORIE_DE = new Map(VOCAB.map(m => [m.id, m.categorie]));
+const TROUS = new Map(CLOZE.map(c => [c.id, c]));
+
+function questionTraduction(mot, tous) {
+  const mauvaises = melanger(tous.filter(m => m.id !== mot.id)).slice(0, 3);
+  return {
+    mot_id: mot.id,
+    type: "traduction",
+    anglais: mot.anglais,
+    options: melanger([...mauvaises.map(m => m.francais), mot.francais]),
+    correct: mot.francais,
+    traduction: mot.francais,
+    favori: mot.favori,
+  };
+}
+
+// Distracteurs : autres mots à trous de même nature grammaticale, de préférence du même thème
+function questionTrou(mot) {
+  const c = TROUS.get(mot.id);
+  const pool = melanger(CLOZE.filter(x => x.tag === c.tag && x.id !== c.id && x.reponse !== c.reponse))
+    .sort((a, b) => (CATEGORIE_DE.get(a.id) !== mot.categorie) - (CATEGORIE_DE.get(b.id) !== mot.categorie));
+  const mauvaises = [...new Set(pool.map(x => x.reponse))].slice(0, 3);
+  return {
+    mot_id: mot.id,
+    type: "trou",
+    anglais: c.phrase,
+    options: melanger([...mauvaises, c.reponse]),
+    correct: c.reponse,
+    traduction: `${c.reponse} = ${mot.francais}`,
+    favori: mot.favori,
+  };
 }
 
 const reponse = async (fn) => fn();
@@ -81,27 +118,59 @@ export const api = {
   getCategories: () => reponse(() =>
     [...new Set(motsActuels(load()).map(m => m.categorie))].sort()),
 
-  getQuiz: (n, categorie, mode = "normal") => reponse(() => {
+  getQuiz: (n, categorie, mode = "normal", type = "traduction") => reponse(() => {
     const tous = motsActuels(load(), categorie);
     if (tous.length < 4) throw new Error("Il faut au moins 4 mots pour générer un quiz");
-    const candidats = prioriser([...tous], mode);
-    if (candidats.length < 4 && mode === "difficiles") {
-      throw new Error("Pas encore assez de mots difficiles : fais d'abord quelques quiz normaux.");
+    if (type === "trou") {
+      const avecTrou = tous.filter(m => TROUS.has(m.id));
+      const candidats = prioriser(avecTrou, mode);
+      if (candidats.length < 1) throw new Error("Pas de phrase à trous pour ce choix.");
+      return melanger(candidats.slice(0, n)).map(questionTrou);
     }
-    const selection = melanger(candidats.slice(0, Math.min(n, candidats.length)));
-    return selection.map(mot => {
-      const mauvaises = melanger(tous.filter(m => m.id !== mot.id)).slice(0, 3);
-      return {
-        mot_id: mot.id,
-        anglais: mot.anglais,
-        options: melanger([...mauvaises.map(m => m.francais), mot.francais]),
-        correct: mot.francais,
-      };
-    });
+    const candidats = prioriser([...tous], mode);
+    if (candidats.length < 4) {
+      throw new Error(mode === "favoris"
+        ? "Il faut au moins 4 mots favoris (⭐) pour ce mode."
+        : "Pas encore assez de mots difficiles : fais d'abord quelques quiz normaux.");
+    }
+    return melanger(candidats.slice(0, Math.min(n, candidats.length)))
+      .map(mot => questionTraduction(mot, tous));
   }),
 
-  getFiches: (n, categorie, mode = "normal") => reponse(() =>
-    prioriser(motsActuels(load(), categorie), mode).slice(0, n)),
+  // Examen blanc : mélange de phrases à trous et de traductions, tirés au hasard
+  getExamen: (n) => reponse(() => {
+    const tous = motsActuels(load());
+    const avecTrou = melanger(tous.filter(m => TROUS.has(m.id)));
+    const trous = avecTrou.slice(0, Math.min(Math.floor(n / 2), avecTrou.length));
+    const utilises = new Set(trous.map(m => m.id));
+    const trad = melanger(tous.filter(m => !utilises.has(m.id))).slice(0, n - trous.length);
+    return melanger([...trous.map(questionTrou), ...trad.map(m => questionTraduction(m, tous))]);
+  }),
+
+  getFiches: (n, categorie, mode = "normal") => reponse(() => {
+    const liste = prioriser(motsActuels(load(), categorie), mode).slice(0, n);
+    return liste;
+  }),
+
+  toggleFavori: (id) => reponse(() => {
+    const state = load();
+    const i = state.favoris.indexOf(id);
+    if (i >= 0) state.favoris.splice(i, 1); else state.favoris.push(id);
+    save(state);
+    return i < 0;
+  }),
+
+  getObjectif: () => reponse(() => {
+    const state = load();
+    return { objectif: state.objectif, fait: state.parJour[aujourdhui()] || 0 };
+  }),
+
+  setObjectif: (n) => reponse(() => {
+    const state = load();
+    state.objectif = n;
+    save(state);
+    return n;
+  }),
 
   // resultats : [{ mot_id, correct }] — met à jour la répétition espacée et l'historique
   enregistrerResultats: (resultats, type = "quiz") => reponse(() => {
@@ -119,6 +188,7 @@ export const api = {
       state.vus[mot_id] = (state.vus[mot_id] || 0) + 1;
     });
     const jour = aujourdhui();
+    state.parJour[jour] = (state.parJour[jour] || 0) + resultats.length;
     if (!state.jours.includes(jour)) state.jours.push(jour);
     state.historique.push({
       date: new Date().toISOString(), type,

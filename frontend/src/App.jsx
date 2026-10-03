@@ -3,10 +3,13 @@ import Vocabulaire from "./components/Vocabulaire";
 import Quiz from "./components/Quiz";
 import Fiches from "./components/Fiches";
 import Stats from "./components/Stats";
+import Examen from "./components/Examen";
+import ObjectifJour from "./components/ObjectifJour";
 import "./index.css";
 
 const ONGLETS = [
   { id: "quiz", label: "🎯 Quiz" },
+  { id: "examen", label: "⏱️ Examen" },
   { id: "fiches", label: "🃏 Fiches" },
   { id: "stats", label: "📊 Stats" },
   { id: "vocabulaire", label: "📚 Vocabulaire" },
@@ -32,8 +35,11 @@ export default function App() {
         </nav>
       </header>
 
+      <ObjectifJour />
+
       <main className="app-main">
         {onglet === "quiz" && <Quiz />}
+        {onglet === "examen" && <Examen />}
         {onglet === "fiches" && <Fiches />}
         {onglet === "stats" && <Stats />}
         {onglet === "vocabulaire" && <Vocabulaire />}

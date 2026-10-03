@@ -10,6 +10,7 @@ export default function Fiches() {
   const [retournee, setRetournee] = useState(false);
   const [resultats, setResultats] = useState([]);
   const [erreur, setErreur] = useState("");
+  const [favoris, setFavoris] = useState({});
 
   useEffect(() => { api.getCategories().then(setCategories); }, []);
 
@@ -20,10 +21,17 @@ export default function Fiches() {
       setErreur("Aucune fiche à réviser pour ce choix.");
       return;
     }
+    setFavoris(Object.fromEntries(liste.map(c => [c.id, c.favori])));
     setCartes(liste);
     setIndex(0);
     setRetournee(false);
     setResultats([]);
+  };
+
+  const basculerFavori = async (e, id) => {
+    e.stopPropagation();
+    const etat = await api.toggleFavori(id);
+    setFavoris(prev => ({ ...prev, [id]: etat }));
   };
 
   const repondre = async (correct) => {
@@ -46,6 +54,7 @@ export default function Fiches() {
         <div className="nb-select">
           <button className={`nb-btn ${mode === "normal" ? "active" : ""}`} onClick={() => setMode("normal")}>🧠 Révision intelligente</button>
           <button className={`nb-btn ${mode === "difficiles" ? "active" : ""}`} onClick={() => setMode("difficiles")}>🔥 Mots difficiles</button>
+          <button className={`nb-btn ${mode === "favoris" ? "active" : ""}`} onClick={() => setMode("favoris")}>⭐ Favoris</button>
         </div>
       </div>
       <div className="config-ligne">
@@ -82,6 +91,9 @@ export default function Fiches() {
         <div className="quiz-progress-fill" style={{ width: `${((index + 1) / cartes.length) * 100}%` }} />
       </div>
       <div className="card fiche" onClick={() => setRetournee(true)}>
+        <button className="btn-etoile" onClick={e => basculerFavori(e, carte.id)} title="Favori">
+          {favoris[carte.id] ? "⭐" : "☆"}
+        </button>
         <span className="badge-categorie">{carte.categorie}</span>
         <h2 className="question-mot">{carte.anglais}</h2>
         {retournee
