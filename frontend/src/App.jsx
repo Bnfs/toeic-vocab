@@ -1,10 +1,14 @@
 import { useState } from "react";
 import Vocabulaire from "./components/Vocabulaire";
 import Quiz from "./components/Quiz";
+import Fiches from "./components/Fiches";
+import Stats from "./components/Stats";
 import "./index.css";
 
 const ONGLETS = [
   { id: "quiz", label: "🎯 Quiz" },
+  { id: "fiches", label: "🃏 Fiches" },
+  { id: "stats", label: "📊 Stats" },
   { id: "vocabulaire", label: "📚 Vocabulaire" },
 ];
 
@@ -30,6 +34,8 @@ export default function App() {
 
       <main className="app-main">
         {onglet === "quiz" && <Quiz />}
+        {onglet === "fiches" && <Fiches />}
+        {onglet === "stats" && <Stats />}
         {onglet === "vocabulaire" && <Vocabulaire />}
       </main>
     </div>

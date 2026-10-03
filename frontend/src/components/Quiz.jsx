@@ -5,6 +5,7 @@ export default function Quiz() {
   const [etape, setEtape] = useState("config"); // config | quiz | resultat
   const [nbQuestions, setNbQuestions] = useState(10);
   const [categorie, setCategorie] = useState("");
+  const [mode, setMode] = useState("normal"); // normal | difficiles
   const [questions, setQuestions] = useState([]);
   const [index, setIndex] = useState(0);
   const [reponses, setReponses] = useState([]); // indexé par question : { mot_id, choix, correct }
@@ -24,7 +25,7 @@ export default function Quiz() {
     setChargement(true);
     setErreur("");
     try {
-      const q = await api.getQuiz(nbQuestions, categorie || undefined);
+      const q = await api.getQuiz(nbQuestions, categorie || undefined, mode);
       setQuestions(q);
       setIndex(0);
       setReponses([]);
@@ -48,7 +49,7 @@ export default function Quiz() {
   const suivant = async () => {
     if (index + 1 >= questions.length) {
       // Marquer tous les mots du quiz comme vus
-      await api.marquerVus(questions.map(q => q.mot_id)).catch(() => {});
+      await api.enregistrerResultats(questions.map((q, i) => ({ mot_id: q.mot_id, correct: !!reponses[i]?.correct }))).catch(() => {});
       setEtape("resultat");
     } else {
       setIndex(i => i + 1);
@@ -72,6 +73,13 @@ export default function Quiz() {
     <div className="quiz-config card">
       <h2>Configurer le quiz</h2>
       {erreur && <p className="erreur">{erreur}</p>}
+      <div className="config-ligne">
+        <label>Mode</label>
+        <div className="nb-select">
+          <button className={`nb-btn ${mode === "normal" ? "active" : ""}`} onClick={() => setMode("normal")}>🧠 Révision intelligente</button>
+          <button className={`nb-btn ${mode === "difficiles" ? "active" : ""}`} onClick={() => setMode("difficiles")}>🔥 Mots difficiles</button>
+        </div>
+      </div>
       <div className="config-ligne">
         <label>Nombre de questions</label>
         <div className="nb-select">
