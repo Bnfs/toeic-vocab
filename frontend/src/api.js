@@ -160,6 +160,18 @@ export const api = {
     return i < 0;
   }),
 
+  exporterSauvegarde: () => reponse(() => JSON.stringify({ app: "toeic-vocab", version: 1, state: load() })),
+
+  importerSauvegarde: (texte) => reponse(() => {
+    let data;
+    try { data = JSON.parse(texte); } catch { throw new Error("Fichier illisible."); }
+    if (data?.app !== "toeic-vocab" || typeof data.state !== "object" || data.state === null) {
+      throw new Error("Ce fichier n'est pas une sauvegarde TOEIC Vocab.");
+    }
+    save({ ...vide(), ...data.state });
+    return true;
+  }),
+
   getObjectif: () => reponse(() => {
     const state = load();
     return { objectif: state.objectif, fait: state.parJour[aujourdhui()] || 0 };

@@ -1,9 +1,35 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { api } from "../api";
 
 export default function Stats() {
   const [s, setS] = useState(null);
+  const [message, setMessage] = useState("");
+  const fichier = useRef(null);
   useEffect(() => { api.getStats().then(setS); }, []);
+
+  const exporter = async () => {
+    const texte = await api.exporterSauvegarde();
+    const lien = document.createElement("a");
+    lien.href = URL.createObjectURL(new Blob([texte], { type: "application/json" }));
+    lien.download = `toeic-vocab-sauvegarde-${new Date().toISOString().slice(0, 10)}.json`;
+    lien.click();
+    URL.revokeObjectURL(lien.href);
+    setMessage("✅ Sauvegarde téléchargée. Garde ce fichier précieusement.");
+  };
+
+  const importer = async (e) => {
+    const f = e.target.files[0];
+    e.target.value = "";
+    if (!f) return;
+    if (!window.confirm("Remplacer ta progression actuelle par celle de ce fichier ?")) return;
+    try {
+      await api.importerSauvegarde(await f.text());
+      setS(await api.getStats());
+      setMessage("✅ Sauvegarde restaurée.");
+    } catch (err) {
+      setMessage(`❌ ${err.message}`);
+    }
+  };
   if (!s) return null;
 
   const tuiles = [
@@ -56,6 +82,20 @@ export default function Stats() {
           </div>
         ))}
         <p className="fiche-aide">Clair = vus · Foncé = maîtrisés</p>
+      </div>
+
+      <div className="card">
+        <h3>💾 Sauvegarde</h3>
+        <p className="fiche-aide">
+          Ta progression, tes favoris et tes mots ajoutés sont gardés dans ce navigateur.
+          Exporte-les pour ne rien perdre ou pour les passer d'un appareil à l'autre.
+        </p>
+        <div className="fiche-boutons">
+          <button className="btn-fiche oui" onClick={exporter}>⬇️ Exporter</button>
+          <button className="btn-fiche non" onClick={() => fichier.current.click()}>⬆️ Importer</button>
+        </div>
+        <input ref={fichier} type="file" accept="application/json,.json" onChange={importer} hidden />
+        {message && <p className="fiche-aide" style={{ marginTop: 10 }}>{message}</p>}
       </div>
     </div>
   );
