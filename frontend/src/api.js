@@ -115,6 +115,8 @@ function questionTrou(mot) {
     options: melanger([...mauvaises, c.reponse]),
     correct: c.reponse,
     traduction: `${c.reponse} = ${mot.francais}`,
+    complete: c.phrase.replace("___", c.reponse),
+    fr: c.fr,
     favori: mot.favori,
   };
 }
@@ -128,6 +130,8 @@ function questionPart5(q) {
     options: melanger([...q.options]),
     correct: q.correct,
     traduction: q.explication,
+    complete: q.phrase.replace("___", q.correct),
+    fr: q.fr,
   };
 }
 

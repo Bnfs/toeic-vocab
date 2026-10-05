@@ -9,7 +9,8 @@
 "analytically"
 ],
 "correct": "analytic",
-"explication": "Adjectif devant un nom (view)."
+"explication": "Adjectif devant un nom (view).",
+"fr": "M. June apporte régulièrement un point de vue analytique lors des réunions hebdomadaires de l'équipe."
 },
 {
 "id": "rc1-102",
@@ -21,7 +22,8 @@
 "also"
 ],
 "correct": "and",
-"explication": "Dans une liste, on termine par « and »."
+"explication": "Dans une liste, on termine par « and ».",
+"fr": "Notre logiciel de comptabilité peut suivre les factures, les paiements et la dette dans plusieurs devises."
 },
 {
 "id": "rc1-103",
@@ -33,7 +35,8 @@
 "conveniences"
 ],
 "correct": "conveniently",
-"explication": "Adverbe devant le participe « located »."
+"explication": "Adverbe devant le participe « located ».",
+"fr": "L'hôtel Nikko est idéalement situé à cinq minutes à pied de la station de métro."
 },
 {
 "id": "rc1-104",
@@ -45,7 +48,8 @@
 "doubtless"
 ],
 "correct": "doubts",
-"explication": "Nom pluriel après « no »."
+"explication": "Nom pluriel après « no ».",
+"fr": "Quant à la capacité de Colin à terminer le projet à temps, son responsable n'a aucun doute."
 },
 {
 "id": "rc1-105",
@@ -57,7 +61,8 @@
 "upon"
 ],
 "correct": "by",
-"explication": "« by » = au plus tard à une date."
+"explication": "« by » = au plus tard à une date.",
+"fr": "Les feuilles de temps des employés doivent être remises au plus tard le 3e jour ouvré du mois."
 },
 {
 "id": "rc1-106",
@@ -69,7 +74,8 @@
 "validly"
 ],
 "correct": "valid",
-"explication": "Adjectif devant un nom (ticket)."
+"explication": "Adjectif devant un nom (ticket).",
+"fr": "Les clients, y compris les enfants, doivent avoir un billet valide sur eux à tout moment."
 },
 {
 "id": "rc1-107",
@@ -81,7 +87,8 @@
 "repeated"
 ],
 "correct": "necessary",
-"explication": "« unless it is absolutely necessary » : expression courante."
+"explication": "« unless it is absolutely necessary » : expression courante.",
+"fr": "Merci de ne pas me contacter le week-end, sauf en cas d'absolue nécessité."
 },
 {
 "id": "rc1-108",
@@ -93,7 +100,8 @@
 "found"
 ],
 "correct": "can be found",
-"explication": "Voix passive avec un modal : can be found."
+"explication": "Voix passive avec un modal : can be found.",
+"fr": "Nos derniers produits sont disponibles sur notre site Web ou dans les magasins locaux."
 },
 {
 "id": "rc1-109",
@@ -105,7 +113,8 @@
 "designate"
 ],
 "correct": "check",
-"explication": "« check that » = vérifier que."
+"explication": "« check that » = vérifier que.",
+"fr": "Si vous êtes la dernière personne au bureau le soir, vérifiez que la photocopieuse est éteinte avant de partir."
 },
 {
 "id": "rc1-110",
@@ -117,7 +126,8 @@
 "function"
 ],
 "correct": "case",
-"explication": "« In the case (that) » = au cas où."
+"explication": "« In the case (that) » = au cas où.",
+"fr": "Si les équipes de vente n'atteignent pas leurs objectifs, aucune prime ne sera versée."
 },
 {
 "id": "rc1-111",
@@ -129,7 +139,8 @@
 "a lot"
 ],
 "correct": "any",
-"explication": "« at any time » = à tout moment."
+"explication": "« at any time » = à tout moment.",
+"fr": "Si vous avez des questions sur votre achat, n'hésitez pas à nous contacter à tout moment."
 },
 {
 "id": "rc1-112",
@@ -141,7 +152,8 @@
 "fragrance"
 ],
 "correct": "more fragrant",
-"explication": "Comparatif devant « than »."
+"explication": "Comparatif devant « than ».",
+"fr": "Les rosiers plantés l'été dernier dans le jardin de devant sont plus parfumés que ceux du jardin de derrière."
 },
 {
 "id": "rc1-113",
@@ -153,7 +165,8 @@
 "answers"
 ],
 "correct": "options",
-"explication": "« options » : des choix de menu."
+"explication": "« options » : des choix de menu.",
+"fr": "Notre équipe a conçu plusieurs options de plats et de boissons délicieux pour que votre expérience soit mémorable."
 },
 {
 "id": "rc1-114",
@@ -165,7 +178,8 @@
 "cooperative"
 ],
 "correct": "unprecedented",
-"explication": "« unprecedented » = sans précédent."
+"explication": "« unprecedented » = sans précédent.",
+"fr": "En raison d'une demande sans précédent pour nos services, nous ne pourrons plus accepter de nouvelles commandes."
 },
 {
 "id": "rc1-115",
@@ -177,7 +191,8 @@
 "prompter"
 ],
 "correct": "promptly",
-"explication": "Adverbe qui complète le verbe « fill »."
+"explication": "Adverbe qui complète le verbe « fill ».",
+"fr": "Nous faisons tout notre possible pour traiter les commandes rapidement et les expédier à nos clients dès que possible."
 },
 {
 "id": "rc1-116",
@@ -189,7 +204,8 @@
 "in case"
 ],
 "correct": "whereas",
-"explication": "« whereas » = alors que (opposition)."
+"explication": "« whereas » = alors que (opposition).",
+"fr": "Les salaires sont versés le premier jour de chaque mois, alors que les frais de déplacement sont remboursés chaque semaine."
 },
 {
 "id": "rc1-117",
@@ -201,7 +217,8 @@
 "originating"
 ],
 "correct": "originate",
-"explication": "Verbe au présent après « that »."
+"explication": "Verbe au présent après « that ».",
+"fr": "Les envois en provenance d'Australie sont toujours retenus en douane."
 },
 {
 "id": "rc1-118",
@@ -213,7 +230,8 @@
 "for"
 ],
 "correct": "for",
-"explication": "« closed for a private function » : fermé pour un événement."
+"explication": "« closed for a private function » : fermé pour un événement.",
+"fr": "Veuillez noter que le China Grill sera fermé pour un événement privé le dimanche 29 octobre."
 },
 {
 "id": "rc1-119",
@@ -225,7 +243,8 @@
 "Canceled"
 ],
 "correct": "Cancelation",
-"explication": "Nom en sujet de la phrase."
+"explication": "Nom en sujet de la phrase.",
+"fr": "L'annulation d'une réservation doit se faire au moins 72 heures avant la date d'arrivée prévue."
 },
 {
 "id": "rc1-120",
@@ -237,7 +256,8 @@
 "affordably"
 ],
 "correct": "exceptionally",
-"explication": "« exceptionally skilled » = exceptionnellement habile."
+"explication": "« exceptionally skilled » = exceptionnellement habile.",
+"fr": "Mme Davies est une rédactrice publicitaire exceptionnellement douée et une formidable recrue pour l'équipe."
 },
 {
 "id": "rc1-121",
@@ -249,7 +269,8 @@
 "she"
 ],
 "correct": "herself",
-"explication": "Pronom réfléchi après « for » quand le sujet est le même."
+"explication": "Pronom réfléchi après « for » quand le sujet est le même.",
+"fr": "Mme Roma s'est fait un nom lorsque ses produits ont été présentés dans le magazine Vogue."
 },
 {
 "id": "rc1-122",
@@ -261,7 +282,8 @@
 "visited"
 ],
 "correct": "returned",
-"explication": "« has returned to » = est revenue à."
+"explication": "« has returned to » = est revenue à.",
+"fr": "Mary Aspen est retournée à Busan pour occuper un poste administratif après six ans de travail en Chine."
 },
 {
 "id": "rc1-123",
@@ -273,7 +295,8 @@
 "whether"
 ],
 "correct": "prior to",
-"explication": "« prior to » = avant."
+"explication": "« prior to » = avant.",
+"fr": "Le renouvellement de la carte de membre peut se faire à l'accueil avant sa date d'expiration."
 },
 {
 "id": "rc1-124",
@@ -285,7 +308,8 @@
 "being taken"
 ],
 "correct": "take",
-"explication": "« eligible to + verbe à l'infinitif »."
+"explication": "« eligible to + verbe à l'infinitif ».",
+"fr": "Après une période d'essai de trois mois, les employés de l'hôtel ont droit à des congés payés."
 },
 {
 "id": "rc1-125",
@@ -297,7 +321,8 @@
 "where"
 ],
 "correct": "where",
-"explication": "« a place where » : pronom relatif de lieu."
+"explication": "« a place where » : pronom relatif de lieu.",
+"fr": "Le bureau a été déménagé dans un endroit où les visiteurs bénéficieraient de bonnes liaisons de transport."
 },
 {
 "id": "rc1-126",
@@ -309,7 +334,8 @@
 "enviable"
 ],
 "correct": "enviable",
-"explication": "« enviable » = enviable."
+"explication": "« enviable » = enviable.",
+"fr": "La supériorité du produit d'Orange Ltd. lui a valu une position enviable parmi ses concurrents."
 },
 {
 "id": "rc1-127",
@@ -321,7 +347,8 @@
 "highly"
 ],
 "correct": "highly",
-"explication": "« highly experienced » : très expérimenté."
+"explication": "« highly experienced » : très expérimenté.",
+"fr": "L'équipe est devenue un groupe très expérimenté qui offre un service client exceptionnel."
 },
 {
 "id": "rc1-128",
@@ -333,7 +360,8 @@
 "knowingly"
 ],
 "correct": "knowledgeable",
-"explication": "Adjectif après « how » + « are »."
+"explication": "Adjectif après « how » + « are ».",
+"fr": "Parfois, les clients sont impressionnés par la connaissance qu'a notre personnel des produits que nous vendons."
 },
 {
 "id": "rc1-129",
@@ -345,7 +373,8 @@
 "will"
 ],
 "correct": "had",
-"explication": "Past perfect : had complained, avant une action passée."
+"explication": "Past perfect : had complained, avant une action passée.",
+"fr": "Le client s'était plaint par différents canaux avant de laisser un avis négatif sur le site Web."
 },
 {
 "id": "rc1-130",
@@ -357,7 +386,8 @@
 "estimate"
 ],
 "correct": "reply",
-"explication": "« reply to an inquiry » = réponse à une demande."
+"explication": "« reply to an inquiry » = réponse à une demande.",
+"fr": "Une réponse immédiate à la demande d'un client est essentielle, sauf si elle doit être transmise à un représentant technique."
 },
 {
 "id": "ets3-101",
@@ -369,7 +399,8 @@
 "openly"
 ],
 "correct": "opening",
-"explication": "Nom après « the » (opening)."
+"explication": "Nom après « the » (opening).",
+"fr": "York Development Corporation a marqué l'ouverture du complexe de bureaux de Ford Road par une cérémonie d'inauguration."
 },
 {
 "id": "ets3-102",
@@ -381,7 +412,8 @@
 "early"
 ],
 "correct": "quite",
-"explication": "« quite helpful » : adverbe devant un adjectif."
+"explication": "« quite helpful » : adverbe devant un adjectif.",
+"fr": "Le personnel de l'hôtel Bismarck s'est montré très serviable pendant notre séjour."
 },
 {
 "id": "ets3-103",
@@ -393,7 +425,8 @@
 "proposing"
 ],
 "correct": "proposed",
-"explication": "Participe passé employé comme adjectif : « the proposed merger »."
+"explication": "Participe passé employé comme adjectif : « the proposed merger ».",
+"fr": "Mme Luo expliquera les conséquences possibles de la fusion proposée avec la Wilson-Peek Corporation."
 },
 {
 "id": "ets3-104",
@@ -405,7 +438,8 @@
 "coupons"
 ],
 "correct": "results",
-"explication": "« survey results » : résultats d'un sondage."
+"explication": "« survey results » : résultats d'un sondage.",
+"fr": "Les résultats de l'enquête du supermarché Springdale seront publiés une semaine après leur évaluation."
 },
 {
 "id": "ets3-105",
@@ -417,7 +451,8 @@
 "quickly"
 ],
 "correct": "quickly",
-"explication": "Adverbe au comparatif : more quickly."
+"explication": "Adverbe au comparatif : more quickly.",
+"fr": "La nouvelle imprimante fonctionne plus rapidement que le modèle précédent."
 },
 {
 "id": "ets3-106",
@@ -429,7 +464,8 @@
 "ourselves"
 ],
 "correct": "we",
-"explication": "Pronom sujet : we."
+"explication": "Pronom sujet : we.",
+"fr": "Ici, au Vanguard Buying Club, nous aidons les membres à trouver des marchandises de qualité aux prix les plus bas possibles."
 },
 {
 "id": "ets3-107",
@@ -441,7 +477,8 @@
 "by"
 ],
 "correct": "just",
-"explication": "« just in time » = juste à temps."
+"explication": "« just in time » = juste à temps.",
+"fr": "La direction a annoncé que tous les vendeurs recevraient une prime cette année, juste à temps pour les vacances d'été."
 },
 {
 "id": "ets3-108",
@@ -453,7 +490,8 @@
 "itself"
 ],
 "correct": "themselves",
-"explication": "Pronom réfléchi : le sujet et l'objet sont les mêmes."
+"explication": "Pronom réfléchi : le sujet et l'objet sont les mêmes.",
+"fr": "Selon le magazine, de nombreux graphistes ne se considèrent pas comme des artistes traditionnels."
 },
 {
 "id": "ets3-109",
@@ -465,7 +503,8 @@
 "takes"
 ],
 "correct": "leads",
-"explication": "« lead to » = mener à."
+"explication": "« lead to » = mener à.",
+"fr": "Un pont en bois qui traverse l'étang peu profond mène au parcours de golf de neuf trous de l'hôtel."
 },
 {
 "id": "ets3-110",
@@ -477,7 +516,8 @@
 "to announce"
 ],
 "correct": "was announced",
-"explication": "Voix passive au passé : was announced."
+"explication": "Voix passive au passé : was announced.",
+"fr": "Une vente spéciale sur la papeterie a été annoncée hier sur le site Web de Write Things."
 },
 {
 "id": "ets3-111",
@@ -489,7 +529,8 @@
 "clearly"
 ],
 "correct": "promptly",
-"explication": "« promptly upon pickup » = dès la collecte."
+"explication": "« promptly upon pickup » = dès la collecte.",
+"fr": "Tous les produits frais transportés par Gocargo Trucking sont réfrigérés dès la collecte pour éviter qu'ils ne s'abîment."
 },
 {
 "id": "ets3-112",
@@ -501,7 +542,8 @@
 "innovate"
 ],
 "correct": "innovative",
-"explication": "Adjectif au superlatif devant un nom."
+"explication": "Adjectif au superlatif devant un nom.",
+"fr": "Le musée Ferrera prévoit d'exposer une collection des sculptures les plus innovantes de Lucia Almeida."
 },
 {
 "id": "ets3-113",
@@ -513,7 +555,8 @@
 "yet"
 ],
 "correct": "except",
-"explication": "« except on Sundays » = sauf le dimanche."
+"explication": "« except on Sundays » = sauf le dimanche.",
+"fr": "Les guichets de la banque sont ouverts tous les jours de 8 h à 16 h, sauf le dimanche."
 },
 {
 "id": "ets3-114",
@@ -525,7 +568,8 @@
 "fall"
 ],
 "correct": "fall",
-"explication": "« fall within » = relever de."
+"explication": "« fall within » = relever de.",
+"fr": "Le contrôle des stocks et les stratégies d'entreposage relèvent des responsabilités du responsable de la chaîne logistique."
 },
 {
 "id": "ets3-115",
@@ -537,7 +581,8 @@
 "where"
 ],
 "correct": "which",
-"explication": "« which » = lequel (parmi plusieurs modèles)."
+"explication": "« which » = lequel (parmi plusieurs modèles).",
+"fr": "Parmi tous les modèles de camions disponibles aujourd'hui, il peut être difficile de déterminer lequel conviendrait le mieux aux besoins de votre entreprise."
 },
 {
 "id": "ets3-116",
@@ -549,7 +594,8 @@
 "ability"
 ],
 "correct": "ability",
-"explication": "« ability to + verbe » = capacité à."
+"explication": "« ability to + verbe » = capacité à.",
+"fr": "Le PDG Yoshiro Kasai a exprimé une confiance totale dans la capacité de Fairway Maritime à livrer le produit à temps."
 },
 {
 "id": "ets3-117",
@@ -561,7 +607,8 @@
 "near"
 ],
 "correct": "between",
-"explication": "« alternate between A and B »."
+"explication": "« alternate between A and B ».",
+"fr": "Chez Derwin Securities, les stagiaires alternent entre des séances d'information et un travail en étroite collaboration avec les mentors qui leur sont attribués."
 },
 {
 "id": "ets3-118",
@@ -573,7 +620,8 @@
 "objection"
 ],
 "correct": "objection",
-"explication": "« have no objection to » = ne pas avoir d'objection."
+"explication": "« have no objection to » = ne pas avoir d'objection.",
+"fr": "Astrid Barretto, vice-présidente de l'entreprise, n'avait aucune objection à ce que sa candidature au poste de PDG soit étudiée."
 },
 {
 "id": "ets3-119",
@@ -585,7 +633,8 @@
 "accustomed"
 ],
 "correct": "accustomed",
-"explication": "« be accustomed to » = être habitué à."
+"explication": "« be accustomed to » = être habitué à.",
+"fr": "Les fans de Belinda McKay habitués au style d'écriture soutenu de l'auteure seront surpris par sa dernière biographie."
 },
 {
 "id": "ets3-120",
@@ -597,7 +646,8 @@
 "wide"
 ],
 "correct": "widely",
-"explication": "Adverbe devant un participe : widely known."
+"explication": "Adverbe devant un participe : widely known.",
+"fr": "La Convention d'affaires d'Asie du Sud-Est accueillera des dirigeants largement connus et respectés de toute la région."
 },
 {
 "id": "ets3-121",
@@ -609,7 +659,8 @@
 "Because of"
 ],
 "correct": "Because of",
-"explication": "« because of » + nom = à cause de."
+"explication": "« because of » + nom = à cause de.",
+"fr": "En raison du coût élevé du carburant, les clients achètent des voitures plus petites et plus économiques."
 },
 {
 "id": "ets3-122",
@@ -621,7 +672,8 @@
 "was hired"
 ],
 "correct": "has hired",
-"explication": "« over the past ten years » : present perfect."
+"explication": "« over the past ten years » : present perfect.",
+"fr": "Depuis dix ans, la clinique médicale Bellworth fait appel aux agents d'Atlan Protection pour tous ses besoins de sécurité."
 },
 {
 "id": "ets3-123",
@@ -633,7 +685,8 @@
 "experiences"
 ],
 "correct": "attempts",
-"explication": "« make attempts to » = tenter de."
+"explication": "« make attempts to » = tenter de.",
+"fr": "Le chauffeur fera trois tentatives de livraison avant que le colis ne soit retourné à notre entrepôt."
 },
 {
 "id": "ets3-124",
@@ -645,7 +698,8 @@
 "collector"
 ],
 "correct": "collective",
-"explication": "Adjectif devant un nom (effort)."
+"explication": "Adjectif devant un nom (effort).",
+"fr": "Nous félicitons tous les employés de Riverside, dont l'effort collectif a permis de réduire de 20 % les coûts de traitement des déchets."
 },
 {
 "id": "ets3-125",
@@ -657,7 +711,8 @@
 "not only"
 ],
 "correct": "once",
-"explication": "« once » = dès que (conjonction)."
+"explication": "« once » = dès que (conjonction).",
+"fr": "Le site Web de photographie d'Andrzej Ptak sera disponible en ligne une fois que nous aurons fini d'organiser et de cataloguer son travail."
 },
 {
 "id": "ets3-126",
@@ -669,7 +724,8 @@
 "convenient"
 ],
 "correct": "convenient",
-"explication": "Adjectif après « found it »."
+"explication": "Adjectif après « found it ».",
+"fr": "Les premiers retours des acheteurs du téléphone mobile Sunbell XC2 indiquent qu'ils l'ont trouvé pratique à utiliser."
 },
 {
 "id": "ets3-127",
@@ -681,7 +737,8 @@
 "Even though"
 ],
 "correct": "Even though",
-"explication": "« even though » = bien que (concession)."
+"explication": "« even though » = bien que (concession).",
+"fr": "Même si la salle de bains était limitée en espace, l'entrepreneur a réussi à y faire tenir deux lavabos et une douche."
 },
 {
 "id": "ets3-128",
@@ -693,7 +750,8 @@
 "compose"
 ],
 "correct": "compile",
-"explication": "« compile data » = rassembler des données."
+"explication": "« compile data » = rassembler des données.",
+"fr": "Le personnel doit rassembler le plus de données d'études de marché possible avant de planifier la campagne publicitaire."
 },
 {
 "id": "ets3-129",
@@ -705,7 +763,8 @@
 "Whenever"
 ],
 "correct": "Whenever",
-"explication": "« whenever » = chaque fois que."
+"explication": "« whenever » = chaque fois que.",
+"fr": "Chaque fois qu'un jour férié tombe un jeudi, la société Barstow autorise ses employés à prendre aussi le vendredi."
 },
 {
 "id": "ets3-130",
@@ -717,7 +776,8 @@
 "Cooperative"
 ],
 "correct": "Supplementary",
-"explication": "« supplementary » = complémentaire."
+"explication": "« supplementary » = complémentaire.",
+"fr": "Les supports complémentaires du cours avancé de persan comprennent un CD audio et un DVD."
 },
 {
 "id": "ets4-101",
@@ -729,7 +789,8 @@
 "herself"
 ],
 "correct": "her",
-"explication": "Adjectif possessif devant un nom : her."
+"explication": "Adjectif possessif devant un nom : her.",
+"fr": "Le directeur régional arrive demain ; veuillez donc vous assurer que tous ses documents sont prêts."
 },
 {
 "id": "ets4-102",
@@ -741,7 +802,8 @@
 "still"
 ],
 "correct": "ago",
-"explication": "« 200 years ago » = il y a 200 ans."
+"explication": "« 200 years ago » = il y a 200 ans.",
+"fr": "Le bâtiment historique Waldridge a été construit il y a près de 200 ans."
 },
 {
 "id": "ets4-103",
@@ -753,7 +815,8 @@
 "responded"
 ],
 "correct": "responded",
-"explication": "Verbe conjugué au passé."
+"explication": "Verbe conjugué au passé.",
+"fr": "Les consommateurs ont réagi avec enthousiasme aux nouvelles couleurs développées par Sanwell Paint."
 },
 {
 "id": "ets4-104",
@@ -765,7 +828,8 @@
 "connected"
 ],
 "correct": "attached",
-"explication": "« attached files » = fichiers joints."
+"explication": "« attached files » = fichiers joints.",
+"fr": "Les fichiers joints contiennent votre contrat de travail et des informations sur notre entreprise."
 },
 {
 "id": "ets4-105",
@@ -777,7 +841,8 @@
 "separate"
 ],
 "correct": "separately",
-"explication": "Adverbe après le complément du verbe."
+"explication": "Adverbe après le complément du verbe.",
+"fr": "Veuillez soumettre chaque demande de remboursement séparément, selon sa catégorie."
 },
 {
 "id": "ets4-106",
@@ -789,7 +854,8 @@
 "during"
 ],
 "correct": "while",
-"explication": "« while » + sujet + verbe = pendant que."
+"explication": "« while » + sujet + verbe = pendant que.",
+"fr": "Les clients peuvent attendre dans la salle d'accueil pendant que nos mécaniciens effectuent les réparations de leur voiture."
 },
 {
 "id": "ets4-107",
@@ -801,7 +867,8 @@
 "to admit"
 ],
 "correct": "admission",
-"explication": "Nom après « be granted »."
+"explication": "Nom après « be granted ».",
+"fr": "Personne sans laissez-passer ne sera admis à la conférence."
 },
 {
 "id": "ets4-108",
@@ -813,7 +880,8 @@
 "with"
 ],
 "correct": "with",
-"explication": "« an account with a bank » : un compte auprès d'une banque."
+"explication": "« an account with a bank » : un compte auprès d'une banque.",
+"fr": "Pour recevoir un rappel électronique lorsqu'un paiement est dû, ouvrez un compte en ligne auprès d'Albright Bank."
 },
 {
 "id": "ets4-109",
@@ -825,7 +893,8 @@
 "full"
 ],
 "correct": "fully",
-"explication": "Adverbe devant l'adjectif « refundable »."
+"explication": "Adverbe devant l'adjectif « refundable ».",
+"fr": "Les frais d'inscription sont entièrement remboursables jusqu'à deux semaines avant la date de la conférence."
 },
 {
 "id": "ets4-110",
@@ -837,7 +906,8 @@
 "resolved"
 ],
 "correct": "removed",
-"explication": "« removed from » = retiré de."
+"explication": "« removed from » = retiré de.",
+"fr": "Toutes les informations permettant d'identifier la personne ont été retirées de cette lettre de réclamation afin de pouvoir l'utiliser à des fins de formation."
 },
 {
 "id": "ets4-111",
@@ -849,7 +919,8 @@
 "Begin"
 ],
 "correct": "By",
-"explication": "« By this time next year » + futur antérieur."
+"explication": "« By this time next year » + futur antérieur.",
+"fr": "D'ici un an, Larkview Technology aura acquis deux nouvelles filiales."
 },
 {
 "id": "ets4-112",
@@ -861,7 +932,8 @@
 "parties"
 ],
 "correct": "parties",
-"explication": "« a party of ten » = un groupe de dix personnes."
+"explication": "« a party of ten » = un groupe de dix personnes.",
+"fr": "Les réservations de tables pour des groupes de plus de dix personnes doivent être faites au moins un jour à l'avance."
 },
 {
 "id": "ets4-113",
@@ -873,7 +945,8 @@
 "worst"
 ],
 "correct": "worsening",
-"explication": "Participe présent employé comme adjectif."
+"explication": "Participe présent employé comme adjectif.",
+"fr": "En raison de la dégradation des conditions météorologiques, le concert de ce soir au parc Harbin a été annulé."
 },
 {
 "id": "ets4-114",
@@ -885,7 +958,8 @@
 "upon"
 ],
 "correct": "upon",
-"explication": "« rely upon » = compter sur."
+"explication": "« rely upon » = compter sur.",
+"fr": "Mme Al-Omani s'appuiera sur les chefs d'équipe pour élaborer des programmes d'incitation pour les employés."
 },
 {
 "id": "ets4-115",
@@ -897,7 +971,8 @@
 "technicality"
 ],
 "correct": "technicians",
-"explication": "Nom pluriel sujet : survey technicians."
+"explication": "Nom pluriel sujet : survey technicians.",
+"fr": "Les techniciens topographes analysent la configuration d'un terrain au-dessus et en dessous du niveau du sol."
 },
 {
 "id": "ets4-116",
@@ -909,7 +984,8 @@
 "For example"
 ],
 "correct": "In order to",
-"explication": "« In order to + verbe » = afin de."
+"explication": "« In order to + verbe » = afin de.",
+"fr": "Pour assembler votre produit Gessen, lisez d'abord toutes les instructions et rassemblez tous les outils nécessaires."
 },
 {
 "id": "ets4-117",
@@ -921,7 +997,8 @@
 "giving"
 ],
 "correct": "to give",
-"explication": "« tend to + verbe »."
+"explication": "« tend to + verbe ».",
+"fr": "Les clients en ligne qui attendent longtemps leurs commandes ont tendance à donner de mauvaises notes à l'entreprise."
 },
 {
 "id": "ets4-118",
@@ -933,7 +1010,8 @@
 "Comprehension"
 ],
 "correct": "Construction",
-"explication": "« construction of a station » = construction d'une gare."
+"explication": "« construction of a station » = construction d'une gare.",
+"fr": "La construction de la nouvelle gare de Delran commencera fin septembre."
 },
 {
 "id": "ets4-119",
@@ -945,7 +1023,8 @@
 "comparable"
 ],
 "correct": "comparable",
-"explication": "« comparable to » = comparable à."
+"explication": "« comparable to » = comparable à.",
+"fr": "La puissance de calcul du nouvel ordinateur portable est comparable à celle de n'importe quel ordinateur de bureau de la même gamme de prix."
 },
 {
 "id": "ets4-120",
@@ -957,7 +1036,8 @@
 "so that"
 ],
 "correct": "thus",
-"explication": "« thus » + participe présent = ainsi."
+"explication": "« thus » + participe présent = ainsi.",
+"fr": "Dr Hashimoto a récemment fait entrer un autre médecin dans son cabinet, ce qui permet de recevoir davantage de patients."
 },
 {
 "id": "ets4-121",
@@ -969,7 +1049,8 @@
 "earned"
 ],
 "correct": "earned",
-"explication": "« earn a reputation » = se forger une réputation."
+"explication": "« earn a reputation » = se forger une réputation.",
+"fr": "L'hôtel Graden s'est forgé une excellente réputation grâce à la direction de son président."
 },
 {
 "id": "ets4-122",
@@ -981,7 +1062,8 @@
 "very"
 ],
 "correct": "yet",
-"explication": "« his most exciting yet » = son plus passionnant à ce jour."
+"explication": "« his most exciting yet » = son plus passionnant à ce jour.",
+"fr": "Le dernier roman d'Aki Katsuro est son plus passionnant à ce jour et figurera sûrement sur la liste des meilleures ventes."
 },
 {
 "id": "ets4-123",
@@ -993,7 +1075,8 @@
 "largest"
 ],
 "correct": "largely",
-"explication": "« thanks largely to » = en grande partie grâce à."
+"explication": "« thanks largely to » = en grande partie grâce à.",
+"fr": "Grâce en grande partie à la chef pâtissière Ana Villagra, le restaurant est devenu un favori des habitués du quartier."
 },
 {
 "id": "ets4-124",
@@ -1005,7 +1088,8 @@
 "obligation"
 ],
 "correct": "obligation",
-"explication": "« obligation to + verbe » = obligation de."
+"explication": "« obligation to + verbe » = obligation de.",
+"fr": "Chez Crintack Manufacturing, nous reconnaissons notre obligation d'offrir un lieu de travail sûr à nos employés."
 },
 {
 "id": "ets4-125",
@@ -1017,7 +1101,8 @@
 "In spite of"
 ],
 "correct": "Although",
-"explication": "« Although » + sujet + verbe = bien que."
+"explication": "« Although » + sujet + verbe = bien que.",
+"fr": "Bien que M. Donovan se soit attendu à ce que l'événement caritatif soit un succès, la réaction de la communauté l'a tout de même dépassé."
 },
 {
 "id": "ets4-126",
@@ -1029,7 +1114,8 @@
 "eventual"
 ],
 "correct": "continual",
-"explication": "« continual » = continu, répété."
+"explication": "« continual » = continu, répété.",
+"fr": "Cette application mobile gratuite fournit des mises à jour continues de votre calendrier, afin que les commerciaux ne manquent jamais un rendez-vous."
 },
 {
 "id": "ets4-127",
@@ -1041,7 +1127,8 @@
 "other"
 ],
 "correct": "one",
-"explication": "« one » = l'un d'entre eux."
+"explication": "« one » = l'un d'entre eux.",
+"fr": "La plupart des cadres supérieurs ont approuvé la proposition, mais l'un d'eux a exprimé des inquiétudes sur son coût."
 },
 {
 "id": "ets4-128",
@@ -1053,7 +1140,8 @@
 "as for"
 ],
 "correct": "but also",
-"explication": "Structure « not only ... but also »."
+"explication": "Structure « not only ... but also ».",
+"fr": "La bibliothèque de Greenville a embauché un assistant administratif non seulement pour les tâches générales, mais aussi pour soutenir un projet spécial en cours."
 },
 {
 "id": "ets4-129",
@@ -1065,7 +1153,8 @@
 "has been continuing"
 ],
 "correct": "will be continued",
-"explication": "Futur passif après « if » au présent."
+"explication": "Futur passif après « if » au présent.",
+"fr": "Le bail avec The Pawlicki Group sera prolongé si des modifications sont apportées aux bureaux existants."
 },
 {
 "id": "ets4-130",
@@ -1077,7 +1166,8 @@
 "issues"
 ],
 "correct": "issues",
-"explication": "« issue a summary » = publier un résumé."
+"explication": "« issue a summary » = publier un résumé.",
+"fr": "Wrazen Associates publie un résumé accompagné d'une liste de recommandations dans le cadre habituel de tout audit."
 },
 {
 "id": "ets5-101",
@@ -1089,7 +1179,8 @@
 "across"
 ],
 "correct": "for",
-"explication": "« award for » = récompense pour."
+"explication": "« award for » = récompense pour.",
+"fr": "Mme Tillinghast a reçu plusieurs prix pour ses idées innovantes."
 },
 {
 "id": "ets5-102",
@@ -1101,7 +1192,8 @@
 "attract"
 ],
 "correct": "lift",
-"explication": "« lift items » = soulever des objets (risque de dos)."
+"explication": "« lift items » = soulever des objets (risque de dos).",
+"fr": "Utiliser les bonnes techniques pour soulever des objets réduit considérablement le risque de blessure au dos."
 },
 {
 "id": "ets5-103",
@@ -1113,7 +1205,8 @@
 "localize"
 ],
 "correct": "local",
-"explication": "Adjectif devant un nom : local."
+"explication": "Adjectif devant un nom : local.",
+"fr": "Les restaurants de Rondale doivent respecter toutes les règles d'hygiène locales."
 },
 {
 "id": "ets5-104",
@@ -1125,7 +1218,8 @@
 "delicious"
 ],
 "correct": "ready",
-"explication": "« be ready to + verbe » = être prêt à."
+"explication": "« be ready to + verbe » = être prêt à.",
+"fr": "Sinee's Catering est toujours prêt à vous fournir une nourriture exceptionnelle pour vos événements spéciaux."
 },
 {
 "id": "ets5-105",
@@ -1137,7 +1231,8 @@
 "practically"
 ],
 "correct": "practical",
-"explication": "Adjectif devant un nom : practical."
+"explication": "Adjectif devant un nom : practical.",
+"fr": "Un moyen concret de soutenir la croissance économique de Ludlow City est d'acheter dans les commerces de la région."
 },
 {
 "id": "ets5-106",
@@ -1149,7 +1244,8 @@
 "shipped"
 ],
 "correct": "shipments",
-"explication": "Nom pluriel composé : appliance shipments."
+"explication": "Nom pluriel composé : appliance shipments.",
+"fr": "Un nombre record d'expéditions d'appareils électroménagers sont arrivées au port de Reece le mois dernier."
 },
 {
 "id": "ets5-107",
@@ -1161,7 +1257,8 @@
 "series"
 ],
 "correct": "series",
-"explication": "« a series of » = une série de."
+"explication": "« a series of » = une série de.",
+"fr": "Chez Sloat Publishing, les stagiaires se voient confier une série de postes à responsabilités croissantes."
 },
 {
 "id": "ets5-108",
@@ -1173,7 +1270,8 @@
 "including"
 ],
 "correct": "includes",
-"explication": "Verbe au présent, sujet singulier."
+"explication": "Verbe au présent, sujet singulier.",
+"fr": "Les frais de la conférence comprennent l'accès à plus de vingt ateliers et séminaires."
 },
 {
 "id": "ets5-109",
@@ -1185,7 +1283,8 @@
 "before"
 ],
 "correct": "from",
-"explication": "« imported from » = importé de."
+"explication": "« imported from » = importé de.",
+"fr": "L'ébéniste Finley Orcheta utilise les meilleures machines à bois importées du Danemark."
 },
 {
 "id": "ets5-110",
@@ -1197,7 +1296,8 @@
 "greatest"
 ],
 "correct": "greatly",
-"explication": "Adverbe qui complète le verbe « differ »."
+"explication": "Adverbe qui complète le verbe « differ ».",
+"fr": "Les salaires des directeurs d'hôtel seniors varient fortement selon l'entreprise, le lieu et l'expérience."
 },
 {
 "id": "ets5-111",
@@ -1209,7 +1309,8 @@
 "newly"
 ],
 "correct": "closely",
-"explication": "« work closely with » = travailler en étroite collaboration."
+"explication": "« work closely with » = travailler en étroite collaboration.",
+"fr": "Pantep, Inc. travaille en étroite collaboration avec ses clients pour établir des partenariats à long terme."
 },
 {
 "id": "ets5-112",
@@ -1221,7 +1322,8 @@
 "much"
 ],
 "correct": "highly",
-"explication": "« highly effective » = très efficace."
+"explication": "« highly effective » = très efficace.",
+"fr": "La méthode unique d'irrigation des légumes d'Adalet Farm s'est révélée très efficace."
 },
 {
 "id": "ets5-113",
@@ -1233,7 +1335,8 @@
 "almost"
 ],
 "correct": "after",
-"explication": "« after March 10 » = après le 10 mars."
+"explication": "« after March 10 » = après le 10 mars.",
+"fr": "Les clients qui effectuent leur paiement après le 10 mars se verront facturer des frais de retard."
 },
 {
 "id": "ets5-114",
@@ -1245,7 +1348,8 @@
 "influenced"
 ],
 "correct": "influenced",
-"explication": "« be influenced by » = être influencé par."
+"explication": "« be influenced by » = être influencé par.",
+"fr": "Le sondage montre à quelle fréquence les dirigeants prennent des décisions financières influencées par l'opinion des employés."
 },
 {
 "id": "ets5-115",
@@ -1257,7 +1361,8 @@
 "significantly"
 ],
 "correct": "significantly",
-"explication": "Adverbe devant un comparatif : significantly lower."
+"explication": "Adverbe devant un comparatif : significantly lower.",
+"fr": "Les prix de Taylor City Books sont nettement inférieurs à ceux des autres librairies en ligne."
 },
 {
 "id": "ets5-116",
@@ -1269,7 +1374,8 @@
 "solution"
 ],
 "correct": "aim",
-"explication": "« the aim of » = le but de."
+"explication": "« the aim of » = le but de.",
+"fr": "L'objectif de cet atelier est de donner aux chefs d'entreprise les outils pour prendre des décisions financières prudentes."
 },
 {
 "id": "ets5-117",
@@ -1281,7 +1387,8 @@
 "each"
 ],
 "correct": "each",
-"explication": "« each of the three » = chacun des trois."
+"explication": "« each of the three » = chacun des trois.",
+"fr": "Une campagne marketing a été conçue pour cibler chacun des trois groupes démographiques que nous avons identifiés."
 },
 {
 "id": "ets5-118",
@@ -1293,7 +1400,8 @@
 "Among"
 ],
 "correct": "Although",
-"explication": "« Although » = bien que (opposition)."
+"explication": "« Although » = bien que (opposition).",
+"fr": "Bien que les critiques gastronomiques recommandent ZJ's Bistro comme le meilleur restaurant de la région, la plupart des habitants préfèrent le Café de Dree."
 },
 {
 "id": "ets5-119",
@@ -1305,7 +1413,8 @@
 "their"
 ],
 "correct": "themselves",
-"explication": "Pronom réfléchi en fin de phrase."
+"explication": "Pronom réfléchi en fin de phrase.",
+"fr": "Les clients de Green Grocer doivent demander l'aide du personnel plutôt que de retirer eux-mêmes les produits des étagères du haut."
 },
 {
 "id": "ets5-120",
@@ -1317,7 +1426,8 @@
 "diverse"
 ],
 "correct": "marked",
-"explication": "« a marked improvement » = une nette amélioration."
+"explication": "« a marked improvement » = une nette amélioration.",
+"fr": "Le chiffre d'affaires de Skovent Products a nettement progressé à la fin du dernier trimestre."
 },
 {
 "id": "ets5-121",
@@ -1329,7 +1439,8 @@
 "relevancies"
 ],
 "correct": "relevant",
-"explication": "Adjectif devant un nom : relevant."
+"explication": "Adjectif devant un nom : relevant.",
+"fr": "Avant que les travaux puissent commencer sur le chantier, les demandes de permis concernées doivent être traitées."
 },
 {
 "id": "ets5-122",
@@ -1341,7 +1452,8 @@
 "reductions"
 ],
 "correct": "reductions",
-"explication": "« price reductions » = baisses de prix."
+"explication": "« price reductions » = baisses de prix.",
+"fr": "Pendant les négociations, M. DuPont a insisté pour que les baisses de prix soient appliquées sans délai."
 },
 {
 "id": "ets5-123",
@@ -1353,7 +1465,8 @@
 "has decided"
 ],
 "correct": "will decide",
-"explication": "Futur après « next week »."
+"explication": "Futur après « next week ».",
+"fr": "Après la réunion d'équipe de la semaine prochaine, Mme Li décidera s'il faut modifier la date limite du projet."
 },
 {
 "id": "ets5-124",
@@ -1365,7 +1478,8 @@
 "Unless"
 ],
 "correct": "Because",
-"explication": "« Because » = parce que (cause)."
+"explication": "« Because » = parce que (cause).",
+"fr": "Comme la proposition pour le jardin de la bibliothèque Southside était incomplète et présentait un calendrier peu clair, elle a été rejetée."
 },
 {
 "id": "ets5-125",
@@ -1377,7 +1491,8 @@
 "expiring"
 ],
 "correct": "to expire",
-"explication": "« be set to + verbe » = devoir se produire."
+"explication": "« be set to + verbe » = devoir se produire.",
+"fr": "Le contrat de location avec le groupe Smith devant bientôt expirer, les bureaux disponibles peuvent être mis en annonce."
 },
 {
 "id": "ets5-126",
@@ -1389,7 +1504,8 @@
 "above"
 ],
 "correct": "within",
-"explication": "« within five business days » = sous cinq jours ouvrés."
+"explication": "« within five business days » = sous cinq jours ouvrés.",
+"fr": "Tout meuble acheté chez Marty's Superstore pendant le mois de février sera livré sous cinq jours ouvrés."
 },
 {
 "id": "ets5-127",
@@ -1401,7 +1517,8 @@
 "emphasized"
 ],
 "correct": "emphasis",
-"explication": "Nom après la préposition « with »."
+"explication": "Nom après la préposition « with ».",
+"fr": "Le responsable a présenté des données sur la performance des employés en insistant sur les réalisations mesurables."
 },
 {
 "id": "ets5-128",
@@ -1413,7 +1530,8 @@
 "inadvertently"
 ],
 "correct": "initially",
-"explication": "« initially » = au début."
+"explication": "« initially » = au début.",
+"fr": "Même les employés qui, au départ, ne connaissaient pas le nouveau logiciel l'ont trouvé facile à utiliser."
 },
 {
 "id": "ets5-129",
@@ -1425,7 +1543,8 @@
 "general"
 ],
 "correct": "generally",
-"explication": "Adverbe devant un verbe : generally approve."
+"explication": "Adverbe devant un verbe : generally approve.",
+"fr": "Les superviseurs n'approuvent généralement pas de congés pour les employés pendant les mois de forte activité."
 },
 {
 "id": "ets5-130",
@@ -1437,7 +1556,8 @@
 "considered"
 ],
 "correct": "considered",
-"explication": "« be considered as » = être envisagé comme."
+"explication": "« be considered as » = être envisagé comme.",
+"fr": "Toronto est l'une des trois villes envisagées pour accueillir le prochain congrès de la Société mondiale des comptables."
 },
 {
 "id": "ets6-101",
@@ -1449,7 +1569,8 @@
 "contract"
 ],
 "correct": "contracts",
-"explication": "Nom pluriel après « has » : contracts."
+"explication": "Nom pluriel après « has » : contracts.",
+"fr": "Jesper Associates a actuellement des contrats avec 26 fournisseurs alimentaires différents."
 },
 {
 "id": "ets6-102",
@@ -1461,7 +1582,8 @@
 "by then"
 ],
 "correct": "at least",
-"explication": "« at least » = au moins."
+"explication": "« at least » = au moins.",
+"fr": "Les passagers doivent être à la porte d'embarquement au moins 25 minutes avant l'embarquement de leur vol."
 },
 {
 "id": "ets6-103",
@@ -1473,7 +1595,8 @@
 "yourself"
 ],
 "correct": "you",
-"explication": "Pronom objet après « help »."
+"explication": "Pronom objet après « help ».",
+"fr": "Le logiciel d'analyse Deltran peut vous aider à repérer les problèmes, prévoir les tendances et améliorer votre activité."
 },
 {
 "id": "ets6-104",
@@ -1485,7 +1608,8 @@
 "plans"
 ],
 "correct": "plans",
-"explication": "« plan to + verbe » = prévoir de."
+"explication": "« plan to + verbe » = prévoir de.",
+"fr": "Le service informatique prévoit d'acheter trois nouveaux serveurs l'an prochain."
 },
 {
 "id": "ets6-105",
@@ -1497,7 +1621,8 @@
 "eventual"
 ],
 "correct": "exceptional",
-"explication": "« an exceptional expert » = un expert exceptionnel."
+"explication": "« an exceptional expert » = un expert exceptionnel.",
+"fr": "Jennson Motors a embauché le mois dernier un nouvel expert en efficacité exceptionnel."
 },
 {
 "id": "ets6-106",
@@ -1509,7 +1634,8 @@
 "accountable"
 ],
 "correct": "accounting",
-"explication": "« accounting responsibilities » : nom composé."
+"explication": "« accounting responsibilities » : nom composé.",
+"fr": "Les responsabilités comptables de M. Winkel incluent l'audit et la révision financière des grands clients."
 },
 {
 "id": "ets6-107",
@@ -1521,7 +1647,8 @@
 "where"
 ],
 "correct": "at",
-"explication": "« at a luncheon » : lieu / événement."
+"explication": "« at a luncheon » : lieu / événement.",
+"fr": "Le Premier ministre a accueilli aujourd'hui des diplomates étrangers lors d'un déjeuner à Londres."
 },
 {
 "id": "ets6-108",
@@ -1533,7 +1660,8 @@
 "are stimulating"
 ],
 "correct": "to stimulate",
-"explication": "« incentives to + verbe » (but)."
+"explication": "« incentives to + verbe » (but).",
+"fr": "L'équipe de direction d'Ofto Corporation propose des primes pour stimuler la productivité des employés."
 },
 {
 "id": "ets6-109",
@@ -1545,7 +1673,8 @@
 "account"
 ],
 "correct": "demand",
-"explication": "« in response to demand » = pour répondre à la demande."
+"explication": "« in response to demand » = pour répondre à la demande.",
+"fr": "Pour répondre à la demande des clients, Lopez Naturals lancera une gamme de savons biologiques."
 },
 {
 "id": "ets6-110",
@@ -1557,7 +1686,8 @@
 "managed"
 ],
 "correct": "inspected",
-"explication": "« inspected thoroughly » = contrôlé minutieusement."
+"explication": "« inspected thoroughly » = contrôlé minutieusement.",
+"fr": "Avant de quitter l'usine, les ordinateurs sont minutieusement contrôlés pour s'assurer qu'ils n'ont aucun défaut."
 },
 {
 "id": "ets6-111",
@@ -1569,7 +1699,8 @@
 "introduced"
 ],
 "correct": "dedicated",
-"explication": "« dedicated to » = consacré à."
+"explication": "« dedicated to » = consacré à.",
+"fr": "WRUZ Radio diffusera une nouvelle émission consacrée à l'actualité économique et à l'analyse financière."
 },
 {
 "id": "ets6-112",
@@ -1581,7 +1712,8 @@
 "frequented"
 ],
 "correct": "frequently",
-"explication": "Adverbe qui complète le verbe « met »."
+"explication": "Adverbe qui complète le verbe « met ».",
+"fr": "M. Okada a rencontré fréquemment le gérant de l'immeuble pour discuter du projet de démolition."
 },
 {
 "id": "ets6-113",
@@ -1593,7 +1725,8 @@
 "converted"
 ],
 "correct": "declined",
-"explication": "« decline an offer » = refuser une offre."
+"explication": "« decline an offer » = refuser une offre.",
+"fr": "M. Montri a poliment refusé l'offre d'emploi de Barranca Shipping Company."
 },
 {
 "id": "ets6-114",
@@ -1605,7 +1738,8 @@
 "obtaining"
 ],
 "correct": "be obtained",
-"explication": "Voix passive avec modal : must be obtained."
+"explication": "Voix passive avec modal : must be obtained.",
+"fr": "Une autorisation écrite doit être obtenue avant d'utiliser le logo de Thavor Corporation."
 },
 {
 "id": "ets6-115",
@@ -1617,7 +1751,8 @@
 "Throughout"
 ],
 "correct": "Although",
-"explication": "« Although » = bien que."
+"explication": "« Although » = bien que.",
+"fr": "Bien que relativement petite, la salle de sport des résidences Ginder est très appréciée des résidents."
 },
 {
 "id": "ets6-116",
@@ -1629,7 +1764,8 @@
 "utterly"
 ],
 "correct": "externally",
-"explication": "« shared externally » = diffusé à l'extérieur."
+"explication": "« shared externally » = diffusé à l'extérieur.",
+"fr": "Toutes les communications doivent être approuvées par le directeur des relations publiques avant de pouvoir être diffusées à l'extérieur."
 },
 {
 "id": "ets6-117",
@@ -1641,7 +1777,8 @@
 "wide"
 ],
 "correct": "wide",
-"explication": "Adjectif devant un nom : a wide array."
+"explication": "Adjectif devant un nom : a wide array.",
+"fr": "Fournissant de la soudure de précision à un large éventail d'industries, Mistone Metalworks a fêté un siècle d'activité."
 },
 {
 "id": "ets6-118",
@@ -1653,7 +1790,8 @@
 "trait"
 ],
 "correct": "trait",
-"explication": "« trait » = qualité, trait de caractère."
+"explication": "« trait » = qualité, trait de caractère.",
+"fr": "M. Kim considère la ponctualité comme une qualité essentielle pour tous ses assistants."
 },
 {
 "id": "ets6-119",
@@ -1665,7 +1803,8 @@
 "emphasized"
 ],
 "correct": "emphasized",
-"explication": "« emphasize the importance of » = souligner l'importance de."
+"explication": "« emphasize the importance of » = souligner l'importance de.",
+"fr": "Le directeur financier a souligné l'importance d'attirer de nouveaux clients au prochain trimestre."
 },
 {
 "id": "ets6-120",
@@ -1677,7 +1816,8 @@
 "increased"
 ],
 "correct": "increasingly",
-"explication": "Adverbe devant le participe : increasingly ordering."
+"explication": "Adverbe devant le participe : increasingly ordering.",
+"fr": "Sewerd Furnishings ferme certains de ses showrooms parce que les clients commandent de plus en plus leurs meubles en ligne."
 },
 {
 "id": "ets6-121",
@@ -1689,7 +1829,8 @@
 "Due to"
 ],
 "correct": "Due to",
-"explication": "« Due to » + nom = à cause de."
+"explication": "« Due to » + nom = à cause de.",
+"fr": "En raison des travaux en cours dans l'ancien hôtel de ville, les groupes de touristes ne seront pas autorisés à entrer sur le site."
 },
 {
 "id": "ets6-122",
@@ -1701,7 +1842,8 @@
 "specification"
 ],
 "correct": "investigation",
-"explication": "« the results of their investigation » = résultats de leur étude."
+"explication": "« the results of their investigation » = résultats de leur étude.",
+"fr": "Plusieurs experts en technologie de forage présenteront les résultats de leur étude le 23 juin."
 },
 {
 "id": "ets6-123",
@@ -1713,7 +1855,8 @@
 "massive"
 ],
 "correct": "massive",
-"explication": "« a massive display » = une présentation énorme."
+"explication": "« a massive display » = une présentation énorme.",
+"fr": "Le magasin avait installé une énorme présentation pour promouvoir le dernier livre de l'auteur de romans policiers à succès."
 },
 {
 "id": "ets6-124",
@@ -1725,7 +1868,8 @@
 "some"
 ],
 "correct": "who",
-"explication": "Pronom relatif sujet : who."
+"explication": "Pronom relatif sujet : who.",
+"fr": "La plupart des personnes qui ont assisté à l'atelier d'hier ont déjà envoyé leurs commentaires."
 },
 {
 "id": "ets6-125",
@@ -1737,7 +1881,8 @@
 "well"
 ],
 "correct": "enough",
-"explication": "« large enough to » = assez grand pour."
+"explication": "« large enough to » = assez grand pour.",
+"fr": "À la fois savoureuse et saine, la salade de tomates est aussi assez copieuse pour être servie en plat principal."
 },
 {
 "id": "ets6-126",
@@ -1749,7 +1894,8 @@
 "interesting"
 ],
 "correct": "interest",
-"explication": "Nom indénombrable après « much »."
+"explication": "Nom indénombrable après « much ».",
+"fr": "Le stand du Klassin Group au salon d'architecture Liberty a suscité beaucoup d'intérêt."
 },
 {
 "id": "ets6-127",
@@ -1761,7 +1907,8 @@
 "seeing that"
 ],
 "correct": "whenever",
-"explication": "« whenever » = chaque fois que."
+"explication": "« whenever » = chaque fois que.",
+"fr": "Économisez 25 % sur n'importe quelle imprimante chaque fois que vous achetez un ordinateur portable chez Diego's Electronics."
 },
 {
 "id": "ets6-128",
@@ -1773,7 +1920,8 @@
 "manageable"
 ],
 "correct": "manageable",
-"explication": "Adjectif devant un nom : manageable."
+"explication": "Adjectif devant un nom : manageable.",
+"fr": "La politique adoptée récemment restructure la dette de l'entreprise selon un plan réalisable en cinq étapes."
 },
 {
 "id": "ets6-129",
@@ -1785,7 +1933,8 @@
 "therefore"
 ],
 "correct": "since",
-"explication": "« since » = puisque / depuis que."
+"explication": "« since » = puisque / depuis que.",
+"fr": "Le service d'assurance qualité doit embaucher du personnel supplémentaire puisque la production a augmenté de 50 %."
 },
 {
 "id": "ets6-130",
@@ -1797,7 +1946,8 @@
 "has processed"
 ],
 "correct": "be processed",
-"explication": "Voix passive avec modal : cannot be processed."
+"explication": "Voix passive avec modal : cannot be processed.",
+"fr": "Votre commande ne peut pas être traitée tant que nous n'avons pas reçu le paiement intégral."
 },
 {
 "id": "ets7-101",
@@ -1809,7 +1959,8 @@
 "yourself"
 ],
 "correct": "you",
-"explication": "Pronom sujet : you."
+"explication": "Pronom sujet : you.",
+"fr": "Si vous n'êtes pas satisfait d'un article, retournez-le pour un remboursement intégral dans les 30 jours suivant l'achat."
 },
 {
 "id": "ets7-102",
@@ -1821,7 +1972,8 @@
 "decided"
 ],
 "correct": "decided",
-"explication": "« yet to be decided » = reste à décider."
+"explication": "« yet to be decided » = reste à décider.",
+"fr": "Le lieu du forum de jeux en ligne du mois prochain reste à décider."
 },
 {
 "id": "ets7-103",
@@ -1833,7 +1985,8 @@
 "impressively"
 ],
 "correct": "impressed",
-"explication": "« be impressed with » = être impressionné par."
+"explication": "« be impressed with » = être impressionné par.",
+"fr": "Les invités ont été impressionnés par les décorations de table du banquet de l'entreprise."
 },
 {
 "id": "ets7-104",
@@ -1845,7 +1998,8 @@
 "very"
 ],
 "correct": "very",
-"explication": "« very effective » : adverbe devant un adjectif."
+"explication": "« very effective » : adverbe devant un adjectif.",
+"fr": "La société Shubert est très efficace pour aider les centrales électriques à réduire leurs émissions de dioxyde de carbone."
 },
 {
 "id": "ets7-105",
@@ -1857,7 +2011,8 @@
 "to request"
 ],
 "correct": "requests",
-"explication": "Verbe conjugué au présent : requests."
+"explication": "Verbe conjugué au présent : requests.",
+"fr": "M. Hodges demande que les bénévoles s'inscrivent d'ici vendredi pour aider au nettoyage de la rivière Hannock."
 },
 {
 "id": "ets7-106",
@@ -1869,7 +2024,8 @@
 "asked"
 ],
 "correct": "increased",
-"explication": "« increased the number of » = a augmenté le nombre de."
+"explication": "« increased the number of » = a augmenté le nombre de.",
+"fr": "L'an dernier, le Daejeon English News a augmenté son nombre de lecteurs en ajoutant une option d'abonnement numérique."
 },
 {
 "id": "ets7-107",
@@ -1881,7 +2037,8 @@
 "production"
 ],
 "correct": "production",
-"explication": "« go into production » = être mis en production."
+"explication": "« go into production » = être mis en production.",
+"fr": "Avant que la nouvelle conception puisse passer en production, elle doit être approuvée par la direction."
 },
 {
 "id": "ets7-108",
@@ -1893,7 +2050,8 @@
 "of"
 ],
 "correct": "at",
-"explication": "« held at » + lieu."
+"explication": "« held at » + lieu.",
+"fr": "Le sommet sur le développement économique se tiendra à la tour du commerce de Xi'an le 22 septembre."
 },
 {
 "id": "ets7-109",
@@ -1905,7 +2063,8 @@
 "larger"
 ],
 "correct": "largely",
-"explication": "« largely responsible » = en grande partie responsable."
+"explication": "« largely responsible » = en grande partie responsable.",
+"fr": "Le mauvais temps est en grande partie responsable de la faible affluence au festival de musique d'Exton de samedi."
 },
 {
 "id": "ets7-110",
@@ -1917,7 +2076,8 @@
 "finally"
 ],
 "correct": "so",
-"explication": "« so » = donc (conséquence)."
+"explication": "« so » = donc (conséquence).",
+"fr": "Notre dernière enquête a été envoyée aux clients la semaine dernière, il est donc trop tôt pour en envoyer une autre."
 },
 {
 "id": "ets7-111",
@@ -1929,7 +2089,8 @@
 "Each"
 ],
 "correct": "Each",
-"explication": "« Each » + nom singulier."
+"explication": "« Each » + nom singulier.",
+"fr": "Chaque collier expédié par Gillis Designers fait l'objet d'un contrôle qualité minutieux."
 },
 {
 "id": "ets7-112",
@@ -1941,7 +2102,8 @@
 "enough"
 ],
 "correct": "enough",
-"explication": "« good enough to » = assez bon pour."
+"explication": "« good enough to » = assez bon pour.",
+"fr": "Les chiffres de vente de Mme Valdez sont suffisamment bons pour qu'elle soit envisagée pour le prix de l'employée du mois."
 },
 {
 "id": "ets7-113",
@@ -1953,7 +2115,8 @@
 "ourselves"
 ],
 "correct": "themselves",
-"explication": "Pronom réfléchi pluriel : themselves."
+"explication": "Pronom réfléchi pluriel : themselves.",
+"fr": "Le nouveau livre d'Aaron Park présente des photographies de maisons conçues et construites par leurs propriétaires eux-mêmes."
 },
 {
 "id": "ets7-114",
@@ -1965,7 +2128,8 @@
 "customary"
 ],
 "correct": "customary",
-"explication": "« it is customary to » = il est d'usage de."
+"explication": "« it is customary to » = il est d'usage de.",
+"fr": "Il est d'usage que le public retienne ses applaudissements jusqu'à ce que l'orateur ait terminé."
 },
 {
 "id": "ets7-115",
@@ -1977,7 +2141,8 @@
 "predictions"
 ],
 "correct": "predictions",
-"explication": "Nom après « despite » : predictions."
+"explication": "Nom après « despite » : predictions.",
+"fr": "Malgré les prévisions selon lesquelles Legend Air aurait de mauvais résultats avec l'arrivée d'une concurrence moins chère, elle a affiché de solides bénéfices au deuxième trimestre."
 },
 {
 "id": "ets7-116",
@@ -1989,7 +2154,8 @@
 "close to"
 ],
 "correct": "close to",
-"explication": "« close to retirement » = proche de la retraite."
+"explication": "« close to retirement » = proche de la retraite.",
+"fr": "M. Nigam était proche de la retraite lorsque son patron lui a demandé de devenir responsable de la sécurité dans le nouveau site."
 },
 {
 "id": "ets7-117",
@@ -2001,7 +2167,8 @@
 "thoughtfully"
 ],
 "correct": "thoughtfully",
-"explication": "Adverbe devant un participe : thoughtfully prepared."
+"explication": "Adverbe devant un participe : thoughtfully prepared.",
+"fr": "Le restaurant Main Street propose une carte de déjeuners et de dîners préparés avec soin."
 },
 {
 "id": "ets7-118",
@@ -2013,7 +2180,8 @@
 "Formerly"
 ],
 "correct": "Formerly",
-"explication": "« Formerly » = auparavant."
+"explication": "« Formerly » = auparavant.",
+"fr": "Ancienne responsable des relations publiques, Mme Ghazarian vient d'être nommée vice-présidente chargée des relations avec les médias."
 },
 {
 "id": "ets7-119",
@@ -2025,7 +2193,8 @@
 "within"
 ],
 "correct": "among",
-"explication": "« popular among » = populaire auprès de."
+"explication": "« popular among » = populaire auprès de.",
+"fr": "Les vidéos de musique pop coréenne sont devenues très populaires auprès des adolescents du monde entier."
 },
 {
 "id": "ets7-120",
@@ -2037,7 +2206,8 @@
 "quicken"
 ],
 "correct": "quickly",
-"explication": "Adverbe devant le verbe : quickly altered."
+"explication": "Adverbe devant le verbe : quickly altered.",
+"fr": "Milante Shoes a rapidement modifié sa stratégie marketing après un récent changement économique."
 },
 {
 "id": "ets7-121",
@@ -2049,7 +2219,8 @@
 "once"
 ],
 "correct": "but",
-"explication": "« but » = mais (opposition)."
+"explication": "« but » = mais (opposition).",
+"fr": "Le rapport annuel a été publié en ligne, mais le bureau du directeur n'a pas encore reçu d'exemplaire imprimé."
 },
 {
 "id": "ets7-122",
@@ -2061,7 +2232,8 @@
 "favorably"
 ],
 "correct": "favorable",
-"explication": "Adjectif devant un nom : favorable."
+"explication": "Adjectif devant un nom : favorable.",
+"fr": "Hasin Fariz a transformé une étude sur les effets bénéfiques du sommeil en un livre à succès."
 },
 {
 "id": "ets7-123",
@@ -2073,7 +2245,8 @@
 "producing"
 ],
 "correct": "implementing",
-"explication": "« implement a shutdown » = mettre en place un arrêt."
+"explication": "« implement a shutdown » = mettre en place un arrêt.",
+"fr": "Wynston Containers met en place un arrêt annuel de son usine afin qu'elle soit évaluée en matière de sécurité et d'efficacité."
 },
 {
 "id": "ets7-124",
@@ -2085,7 +2258,8 @@
 "specifics"
 ],
 "correct": "specimens",
-"explication": "« plant specimens » = échantillons de plantes."
+"explication": "« plant specimens » = échantillons de plantes.",
+"fr": "Les archives botaniques de Girard comptent près de 300 000 échantillons de plantes, soigneusement pressés sur du papier d'archive."
 },
 {
 "id": "ets7-125",
@@ -2097,7 +2271,8 @@
 "successful"
 ],
 "correct": "eligible",
-"explication": "« be eligible to » = avoir le droit de."
+"explication": "« be eligible to » = avoir le droit de.",
+"fr": "Les hôtels et les universités peuvent faire recycler leurs vieux matelas grâce au programme de recyclage de la ville."
 },
 {
 "id": "ets7-126",
@@ -2109,7 +2284,8 @@
 "hear"
 ],
 "correct": "hearing",
-"explication": "« a hearing » = une audience."
+"explication": "« a hearing » = une audience.",
+"fr": "L'audience pour examiner les plans de remplacement du pont de Tronton sera bientôt programmée."
 },
 {
 "id": "ets7-127",
@@ -2121,7 +2297,8 @@
 "unless"
 ],
 "correct": "while",
-"explication": "« while + participe présent » = tout en."
+"explication": "« while + participe présent » = tout en.",
+"fr": "Kovox Ltd. vise à optimiser la qualité tout en réduisant l'impact sur l'environnement."
 },
 {
 "id": "ets7-128",
@@ -2133,7 +2310,8 @@
 "had been buying"
 ],
 "correct": "had been buying",
-"explication": "Past perfect continu avant une action passée."
+"explication": "Past perfect continu avant une action passée.",
+"fr": "L'épicerie achetait des légumes hors de la ville jusqu'à ce que les prix locaux baissent le mois dernier."
 },
 {
 "id": "ets7-129",
@@ -2145,7 +2323,8 @@
 "always"
 ],
 "correct": "in order to",
-"explication": "« in order to + verbe » = pour."
+"explication": "« in order to + verbe » = pour.",
+"fr": "Tous les employés de Hershel Industries doivent avoir une carte d'identité valide pour entrer dans le bâtiment."
 },
 {
 "id": "ets7-130",
@@ -2157,7 +2336,8 @@
 "Estimation"
 ],
 "correct": "Reliability",
-"explication": "« reliability and cost » = fiabilité et coût."
+"explication": "« reliability and cost » = fiabilité et coût.",
+"fr": "La fiabilité et le coût ont pesé autant l'un que l'autre dans le choix de Cantavox comme fournisseur principal."
 },
 {
 "id": "ets8-101",
@@ -2169,7 +2349,8 @@
 "finance"
 ],
 "correct": "finance",
-"explication": "Nom : corporate finance."
+"explication": "Nom : corporate finance.",
+"fr": "Mme Villanueva a une vaste expérience en finance d'entreprise et en budgétisation."
 },
 {
 "id": "ets8-102",
@@ -2181,7 +2362,8 @@
 "sharp"
 ],
 "correct": "hard",
-"explication": "« work hard » = travailler dur."
+"explication": "« work hard » = travailler dur.",
+"fr": "Comme M. Lewis travaille très dur, il a obtenu une augmentation."
 },
 {
 "id": "ets8-103",
@@ -2193,7 +2375,8 @@
 "less"
 ],
 "correct": "also",
-"explication": "« also offers » = propose aussi."
+"explication": "« also offers » = propose aussi.",
+"fr": "Plein de charme à l'ancienne, l'auberge Bronstad offre aussi des équipements modernes."
 },
 {
 "id": "ets8-104",
@@ -2205,7 +2388,8 @@
 "over"
 ],
 "correct": "to",
-"explication": "« move to » + lieu."
+"explication": "« move to » + lieu.",
+"fr": "La librairie Franklin déménagera le mois prochain dans un local plus grand sur Queen Street."
 },
 {
 "id": "ets8-105",
@@ -2217,7 +2401,8 @@
 "briefed"
 ],
 "correct": "briefly",
-"explication": "Adverbe : briefly considered."
+"explication": "Adverbe : briefly considered.",
+"fr": "Marina Hou a brièvement envisagé de devenir actrice avant de décider d'écrire des pièces de théâtre."
 },
 {
 "id": "ets8-106",
@@ -2229,7 +2414,8 @@
 "common"
 ],
 "correct": "common",
-"explication": "« common repairs » = réparations courantes."
+"explication": "« common repairs » = réparations courantes.",
+"fr": "Sur le site Web de Fixit Time, les propriétaires trouveront des solutions économiques pour les réparations courantes."
 },
 {
 "id": "ets8-107",
@@ -2241,7 +2427,8 @@
 "originally"
 ],
 "correct": "originally",
-"explication": "Adverbe : originally hired."
+"explication": "Adverbe : originally hired.",
+"fr": "Walter Keegan avait été embauché à l'origine comme vendeur, mais il est vite devenu chef du service marketing."
 },
 {
 "id": "ets8-108",
@@ -2253,7 +2440,8 @@
 "how"
 ],
 "correct": "because of",
-"explication": "« because of » + nom."
+"explication": "« because of » + nom.",
+"fr": "L'île de Durr est devenue populaire auprès des touristes grâce à sa riche culture artistique et musicale."
 },
 {
 "id": "ets8-109",
@@ -2265,7 +2453,8 @@
 "consider"
 ],
 "correct": "will consider",
-"explication": "Futur après « while » concessif."
+"explication": "Futur après « while » concessif.",
+"fr": "Bien qu'il ne soit pas enthousiaste à propos des suggestions, M. Shang les examinera."
 },
 {
 "id": "ets8-110",
@@ -2277,7 +2466,8 @@
 "construction"
 ],
 "correct": "division",
-"explication": "« design division » = service conception."
+"explication": "« design division » = service conception.",
+"fr": "Le service de conception de Tavalyo Toys a été déplacé au siège de l'entreprise."
 },
 {
 "id": "ets8-111",
@@ -2289,7 +2479,8 @@
 "histories"
 ],
 "correct": "historic",
-"explication": "Adjectif devant un nom : historic sites."
+"explication": "Adjectif devant un nom : historic sites.",
+"fr": "L'agence de voyages Merrick organise des visites de monuments nationaux et d'autres sites historiques."
 },
 {
 "id": "ets8-112",
@@ -2301,7 +2492,8 @@
 "besides"
 ],
 "correct": "but",
-"explication": "« not only ... but »."
+"explication": "« not only ... but ».",
+"fr": "L'enceinte sans fil MHS fonctionne non seulement avec les smartphones, mais elle est aussi étanche."
 },
 {
 "id": "ets8-113",
@@ -2313,7 +2505,8 @@
 "they"
 ],
 "correct": "their",
-"explication": "Adjectif possessif devant un nom."
+"explication": "Adjectif possessif devant un nom.",
+"fr": "Les responsables adjoints sont en grande partie responsables des opérations quotidiennes de leurs services."
 },
 {
 "id": "ets8-114",
@@ -2325,7 +2518,8 @@
 "thoroughly"
 ],
 "correct": "thoroughly",
-"explication": "« review thoroughly » = relire attentivement."
+"explication": "« review thoroughly » = relire attentivement.",
+"fr": "Les clients doivent lire attentivement les conditions du contrat d'adhésion de la salle de sport avant de le signer."
 },
 {
 "id": "ets8-115",
@@ -2337,7 +2531,8 @@
 "conservatively"
 ],
 "correct": "conservative",
-"explication": "« a conservative estimate » = estimation prudente."
+"explication": "« a conservative estimate » = estimation prudente.",
+"fr": "Nous avons fait une estimation prudente du nombre de touristes attendus le mois prochain."
 },
 {
 "id": "ets8-116",
@@ -2349,7 +2544,8 @@
 "find"
 ],
 "correct": "earn",
-"explication": "« earn vacation time » = acquérir des congés."
+"explication": "« earn vacation time » = acquérir des congés.",
+"fr": "Une fois qu'ils ont accompli trois ans d'ancienneté, les employés de Loruja acquièrent des congés supplémentaires."
 },
 {
 "id": "ets8-117",
@@ -2361,7 +2557,8 @@
 "Whose"
 ],
 "correct": "Whoever",
-"explication": "« Whoever » = quiconque (sujet)."
+"explication": "« Whoever » = quiconque (sujet).",
+"fr": "Quiconque a du temps en fin de journée doit s'assurer que tous les classeurs sont fermés à clé."
 },
 {
 "id": "ets8-118",
@@ -2373,7 +2570,8 @@
 "along"
 ],
 "correct": "throughout",
-"explication": "« throughout » = dans toute."
+"explication": "« throughout » = dans toute.",
+"fr": "North River Linens promet une livraison le lendemain dans toute l'Asie."
 },
 {
 "id": "ets8-119",
@@ -2385,7 +2583,8 @@
 "Discovering"
 ],
 "correct": "Discovered",
-"explication": "Participe passé en début de phrase."
+"explication": "Participe passé en début de phrase.",
+"fr": "Découvert l'an dernier, le roman inédit de Martin Sim a suscité un vif intérêt de la part de plusieurs maisons d'édition."
 },
 {
 "id": "ets8-120",
@@ -2397,7 +2596,8 @@
 "any"
 ],
 "correct": "any",
-"explication": "« any » + nom singulier."
+"explication": "« any » + nom singulier.",
+"fr": "Les clients de Hoonton Realty peuvent rechercher des annonces immobilières dans n'importe quel quartier grâce à une base de données en ligne spéciale."
 },
 {
 "id": "ets8-121",
@@ -2409,7 +2609,8 @@
 "competition"
 ],
 "correct": "competition",
-"explication": "Nom après « our » : competition."
+"explication": "Nom après « our » : competition.",
+"fr": "Un service exceptionnel est ce qui distingue nos hôtels de ceux de la concurrence."
 },
 {
 "id": "ets8-122",
@@ -2421,7 +2622,8 @@
 "just as"
 ],
 "correct": "until",
-"explication": "« until » = jusqu'à ce que."
+"explication": "« until » = jusqu'à ce que.",
+"fr": "La connexion Internet sera étroitement surveillée jusqu'à ce que l'origine du ralentissement puisse être confirmée."
 },
 {
 "id": "ets8-123",
@@ -2433,7 +2635,8 @@
 "values"
 ],
 "correct": "valued",
-"explication": "« most valued customers » = clients les plus précieux."
+"explication": "« most valued customers » = clients les plus précieux.",
+"fr": "Merci d'avoir été l'un des clients les plus précieux de Danton Transportation ces dix dernières années."
 },
 {
 "id": "ets8-124",
@@ -2445,7 +2648,8 @@
 "assist"
 ],
 "correct": "distinguish",
-"explication": "« distinguish A from B » = distinguer de."
+"explication": "« distinguish A from B » = distinguer de.",
+"fr": "M. Tang est un recruteur efficace parce qu'il sait rapidement distinguer les commerciaux talentueux des autres."
 },
 {
 "id": "ets8-125",
@@ -2457,7 +2661,8 @@
 "never"
 ],
 "correct": "although",
-"explication": "« although » = bien que."
+"explication": "« although » = bien que.",
+"fr": "Mme Penner nous a assuré que, même si le travail s'était arrêté pendant la panne de courant, les objectifs de production seraient atteints."
 },
 {
 "id": "ets8-126",
@@ -2469,7 +2674,8 @@
 "supposedly"
 ],
 "correct": "accordingly",
-"explication": "« adjusted accordingly » = ajusté en conséquence."
+"explication": "« adjusted accordingly » = ajusté en conséquence.",
+"fr": "Veuillez fournir les dimensions exactes de la clôture sur mesure, et votre devis sera ajusté en conséquence."
 },
 {
 "id": "ets8-127",
@@ -2481,7 +2687,8 @@
 "empowers"
 ],
 "correct": "empowering",
-"explication": "Gérondif sujet : empowering employees."
+"explication": "Gérondif sujet : empowering employees.",
+"fr": "Le vice-président pense que donner plus de pouvoir aux employés est essentiel à la réussite de l'entreprise."
 },
 {
 "id": "ets8-128",
@@ -2493,7 +2700,8 @@
 "record"
 ],
 "correct": "agenda",
-"explication": "« agenda » = ordre du jour."
+"explication": "« agenda » = ordre du jour.",
+"fr": "L'ordre du jour de la réunion du conseil municipal de lundi est publié sur le site Web de la ville avant 15 h le vendredi précédent."
 },
 {
 "id": "ets8-129",
@@ -2505,7 +2713,8 @@
 "structurally"
 ],
 "correct": "structurally",
-"explication": "Adverbe devant un adjectif : structurally sound."
+"explication": "Adverbe devant un adjectif : structurally sound.",
+"fr": "L'inspecteur du bâtiment a déclaré le nouveau site structurellement solide et prêt à ouvrir."
 },
 {
 "id": "ets8-130",
@@ -2517,7 +2726,8 @@
 "deserving"
 ],
 "correct": "prestigious",
-"explication": "« prestigious award » = prix prestigieux."
+"explication": "« prestigious award » = prix prestigieux.",
+"fr": "Dr Huertas a reçu le prestigieux prix Brighton pour ses travaux novateurs en biologie végétale."
 },
 {
 "id": "ets9-101",
@@ -2529,7 +2739,8 @@
 "themselves"
 ],
 "correct": "their",
-"explication": "Adjectif possessif devant un nom : their."
+"explication": "Adjectif possessif devant un nom : their.",
+"fr": "Chaque fournée de sauce du Generita's Bistro est préparée minutieusement par leurs chefs experts."
 },
 {
 "id": "ets9-102",
@@ -2541,7 +2752,8 @@
 "greatest"
 ],
 "correct": "greatly",
-"explication": "Adverbe devant le verbe : greatly increases."
+"explication": "Adverbe devant le verbe : greatly increases.",
+"fr": "L'informatisation des dossiers médicaux augmente considérablement la capacité d'un médecin à diagnostiquer et à soigner les patients."
 },
 {
 "id": "ets9-103",
@@ -2553,7 +2765,8 @@
 "factors"
 ],
 "correct": "ingredients",
-"explication": "« ingredients » : ce qui entre dans une recette."
+"explication": "« ingredients » : ce qui entre dans une recette.",
+"fr": "Chez Rojelle's Fine Dining, nous utilisons les ingrédients les plus frais disponibles pour préparer nos salades."
 },
 {
 "id": "ets9-104",
@@ -2565,7 +2778,8 @@
 "on"
 ],
 "correct": "at",
-"explication": "« present a paper at a conference »."
+"explication": "« present a paper at a conference ».",
+"fr": "Le professeur Benguigui présentera son article demain au congrès d'histoire naturelle."
 },
 {
 "id": "ets9-105",
@@ -2577,7 +2791,8 @@
 "shipping"
 ],
 "correct": "shipping",
-"explication": "Nom composé : shipping date."
+"explication": "Nom composé : shipping date.",
+"fr": "Les chefs attendent toujours une date d'expédition pour le nouveau four à convection commandé il y a deux semaines."
 },
 {
 "id": "ets9-106",
@@ -2589,7 +2804,8 @@
 "narrowly"
 ],
 "correct": "closely",
-"explication": "« work closely with » = travailler étroitement avec."
+"explication": "« work closely with » = travailler étroitement avec.",
+"fr": "M. Kang travaille en étroite collaboration avec les membres de notre équipe interne ainsi qu'avec divers commerciaux régionaux."
 },
 {
 "id": "ets9-107",
@@ -2601,7 +2817,8 @@
 "for"
 ],
 "correct": "when",
-"explication": "« know when to + verbe » = savoir quand."
+"explication": "« know when to + verbe » = savoir quand.",
+"fr": "La styliste Hye-Ja Pak sait quand renouveler sa collection pour suivre l'évolution des goûts."
 },
 {
 "id": "ets9-108",
@@ -2613,7 +2830,8 @@
 "protected"
 ],
 "correct": "attended",
-"explication": "« well attended » = très fréquenté."
+"explication": "« well attended » = très fréquenté.",
+"fr": "Le cours de samba était si fréquenté que l'école de danse Yulara a décidé d'en faire une offre permanente."
 },
 {
 "id": "ets9-109",
@@ -2625,7 +2843,8 @@
 "out"
 ],
 "correct": "from",
-"explication": "« away from » = loin de."
+"explication": "« away from » = loin de.",
+"fr": "L'usine sera implantée loin de la zone résidentielle de la ville pour réduire les plaintes concernant le bruit et les émissions."
 },
 {
 "id": "ets9-110",
@@ -2637,7 +2856,8 @@
 "economized"
 ],
 "correct": "economical",
-"explication": "Adjectif au superlatif devant un nom."
+"explication": "Adjectif au superlatif devant un nom.",
+"fr": "Mme Kuramoto a choisi l'option d'envoi postal la plus économique disponible."
 },
 {
 "id": "ets9-111",
@@ -2649,7 +2869,8 @@
 "relying"
 ],
 "correct": "rely",
-"explication": "« can rely on » = peuvent compter sur."
+"explication": "« can rely on » = peuvent compter sur.",
+"fr": "Les entreprises sans spécialistes informatiques peuvent compter sur Vyber Software Advisers pour les aider avec leurs services en ligne."
 },
 {
 "id": "ets9-112",
@@ -2661,7 +2882,8 @@
 "because"
 ],
 "correct": "which",
-"explication": "Pronom relatif : which."
+"explication": "Pronom relatif : which.",
+"fr": "L'an prochain, notre équipe aura une nouvelle tâche, qui consiste à examiner des portfolios de conception."
 },
 {
 "id": "ets9-113",
@@ -2673,7 +2895,8 @@
 "that"
 ],
 "correct": "its",
-"explication": "Adjectif possessif devant un nom : its readiness."
+"explication": "Adjectif possessif devant un nom : its readiness.",
+"fr": "Faites cuire la viande 30 minutes pour vous assurer qu'elle est prête à être mangée."
 },
 {
 "id": "ets9-114",
@@ -2685,7 +2908,8 @@
 "natural"
 ],
 "correct": "several",
-"explication": "« several interns » = plusieurs stagiaires."
+"explication": "« several interns » = plusieurs stagiaires.",
+"fr": "L'équipe de recherche d'Amoxitron embauchera plusieurs stagiaires pour aider aux travaux de laboratoire."
 },
 {
 "id": "ets9-115",
@@ -2697,7 +2921,8 @@
 "Unless"
 ],
 "correct": "Since",
-"explication": "« Since » = puisque (cause)."
+"explication": "« Since » = puisque (cause).",
+"fr": "Puisque le nouveau mélange de jus d'açaï a rencontré un tel succès, nous devrions rapidement augmenter notre volume de production."
 },
 {
 "id": "ets9-116",
@@ -2709,7 +2934,8 @@
 "construct"
 ],
 "correct": "construction",
-"explication": "Nom après « of engine » : engine construction."
+"explication": "Nom après « of engine » : engine construction.",
+"fr": "Les nouvelles normes d'émissions ont obligé Rider Auto à modifier son processus de construction des moteurs."
 },
 {
 "id": "ets9-117",
@@ -2721,7 +2947,8 @@
 "involving"
 ],
 "correct": "executing",
-"explication": "« execute tasks » = exécuter des tâches."
+"explication": "« execute tasks » = exécuter des tâches.",
+"fr": "Le livre de Maki Kayano propose des techniques pour exécuter des tâches professionnelles avec rapidité et précision."
 },
 {
 "id": "ets9-118",
@@ -2733,7 +2960,8 @@
 "most gradual"
 ],
 "correct": "gradually",
-"explication": "Adverbe en fin de phrase : gradually."
+"explication": "Adverbe en fin de phrase : gradually.",
+"fr": "Pour maîtriser les coûts, des lecteurs de cartes bancaires mis à jour seront installés progressivement dans les magasins."
 },
 {
 "id": "ets9-119",
@@ -2745,7 +2973,8 @@
 "between"
 ],
 "correct": "between",
-"explication": "« between A and B » = entre A et B."
+"explication": "« between A and B » = entre A et B.",
+"fr": "Ce trimestre, la Montel Beverage Company s'attend à des ventes comprises entre 160 000 et 180 000 livres."
 },
 {
 "id": "ets9-120",
@@ -2757,7 +2986,8 @@
 "few"
 ],
 "correct": "few",
-"explication": "« few have reached » = très peu."
+"explication": "« few have reached » = très peu.",
+"fr": "Comme le mont Akoyola est très difficile pour les alpinistes, très peu ont atteint son sommet."
 },
 {
 "id": "ets9-121",
@@ -2769,7 +2999,8 @@
 "rather than"
 ],
 "correct": "because of",
-"explication": "« because of » + nom."
+"explication": "« because of » + nom.",
+"fr": "Le pont de King Street sera fermé en septembre pour cause de travaux de réparation."
 },
 {
 "id": "ets9-122",
@@ -2781,7 +3012,8 @@
 "effectively"
 ],
 "correct": "effectively",
-"explication": "Adverbe après le verbe : negotiating effectively."
+"explication": "Adverbe après le verbe : negotiating effectively.",
+"fr": "Le supérieur de Mme Taniguchi l'a félicitée d'avoir négocié efficacement avec Furuyama Corporation."
 },
 {
 "id": "ets9-123",
@@ -2793,7 +3025,8 @@
 "anytime"
 ],
 "correct": "anytime",
-"explication": "« anytime » = chaque fois que."
+"explication": "« anytime » = chaque fois que.",
+"fr": "Les membres du personnel peuvent réserver la salle de conférence chaque fois qu'ils en ont besoin."
 },
 {
 "id": "ets9-124",
@@ -2805,7 +3038,8 @@
 "strength"
 ],
 "correct": "proficiency",
-"explication": "« proficiency in » = maîtrise de (une langue)."
+"explication": "« proficiency in » = maîtrise de (une langue).",
+"fr": "Le directeur des relations publiques doit avoir un très bon niveau d'anglais et d'espagnol."
 },
 {
 "id": "ets9-125",
@@ -2817,7 +3051,8 @@
 "generically"
 ],
 "correct": "continually",
-"explication": "« continually seeks » = cherche en permanence."
+"explication": "« continually seeks » = cherche en permanence.",
+"fr": "Patterson Products cherche en permanence des moyens innovants de répondre à l'évolution de la demande des consommateurs."
 },
 {
 "id": "ets9-126",
@@ -2829,7 +3064,8 @@
 "has been finishing"
 ],
 "correct": "can finish",
-"explication": "« can finish » : possibilité à venir."
+"explication": "« can finish » : possibilité à venir.",
+"fr": "M. Volante travaille chez lui demain afin de pouvoir terminer le rapport technique sans être dérangé."
 },
 {
 "id": "ets9-127",
@@ -2841,7 +3077,8 @@
 "except that"
 ],
 "correct": "except that",
-"explication": "« except that » = sauf que."
+"explication": "« except that » = sauf que.",
+"fr": "Toutes les procédures de facturation restent les mêmes, sauf que de nouveaux codes de paiement doivent être insérés dans les factures."
 },
 {
 "id": "ets9-128",
@@ -2853,7 +3090,8 @@
 "multiple"
 ],
 "correct": "questionable",
-"explication": "« questionable » = discutable."
+"explication": "« questionable » = discutable.",
+"fr": "La conception légère de la nouvelle berline est discutable, car elle peut faire déraper le véhicule sur les routes verglacées."
 },
 {
 "id": "ets9-129",
@@ -2865,7 +3103,8 @@
 "assumable"
 ],
 "correct": "assumption",
-"explication": "« the common assumption » = l'hypothèse courante."
+"explication": "« the common assumption » = l'hypothèse courante.",
+"fr": "Lorsque le président de la banque a pris sa retraite, on supposait généralement que le vice-président prendrait sa suite."
 },
 {
 "id": "ets9-130",
@@ -2877,7 +3116,8 @@
 "waives"
 ],
 "correct": "waives",
-"explication": "« waive fees » = renoncer à des frais."
+"explication": "« waive fees » = renoncer à des frais.",
+"fr": "West Bengali Airlines renonce aux frais pour les articles hors format qui respectent encore les limites de poids."
 },
 {
 "id": "ets10-101",
@@ -2889,7 +3129,8 @@
 "yours"
 ],
 "correct": "you",
-"explication": "Pronom sujet : you."
+"explication": "Pronom sujet : you.",
+"fr": "Veuillez contacter le distributeur du produit, et non le magasin, si vous avez besoin de pièces de rechange."
 },
 {
 "id": "ets10-102",
@@ -2901,7 +3142,8 @@
 "for"
 ],
 "correct": "for",
-"explication": "« for the last three years » = depuis trois ans."
+"explication": "« for the last three years » = depuis trois ans.",
+"fr": "Les tarifs d'assurance du groupe AGU sont restés stables ces trois dernières années."
 },
 {
 "id": "ets10-103",
@@ -2913,7 +3155,8 @@
 "widely"
 ],
 "correct": "wider",
-"explication": "Comparatif devant « than »."
+"explication": "Comparatif devant « than ».",
+"fr": "La carte du Sage Bistro propose une plus grande variété de fruits de mer que celle de l'Almaner Pavilion."
 },
 {
 "id": "ets10-104",
@@ -2925,7 +3168,8 @@
 "rigidly"
 ],
 "correct": "swiftly",
-"explication": "« resolve swiftly » = résoudre rapidement."
+"explication": "« resolve swiftly » = résoudre rapidement.",
+"fr": "Une formation fréquente permet à nos techniciens de résoudre rapidement la plupart des problèmes informatiques."
 },
 {
 "id": "ets10-105",
@@ -2937,7 +3181,8 @@
 "agrees"
 ],
 "correct": "agreement",
-"explication": "Nom composé : trade agreement."
+"explication": "Nom composé : trade agreement.",
+"fr": "La plupart du secteur industriel a annoncé de meilleurs bénéfices grâce à l'accord commercial."
 },
 {
 "id": "ets10-106",
@@ -2949,7 +3194,8 @@
 "until"
 ],
 "correct": "until",
-"explication": "« until » = jusqu'à ce que."
+"explication": "« until » = jusqu'à ce que.",
+"fr": "Les instructions de cuisson demandent de baisser le feu et de laisser mijoter la sauce jusqu'à ce qu'elle épaississe."
 },
 {
 "id": "ets10-107",
@@ -2961,7 +3207,8 @@
 "surprised"
 ],
 "correct": "surprisingly",
-"explication": "Adverbe devant un adjectif : surprisingly short."
+"explication": "Adverbe devant un adjectif : surprisingly short.",
+"fr": "Le pont de Cullingford a été réparé en un temps étonnamment court."
 },
 {
 "id": "ets10-108",
@@ -2973,7 +3220,8 @@
 "far"
 ],
 "correct": "always",
-"explication": "« always held » = toujours organisé."
+"explication": "« always held » = toujours organisé.",
+"fr": "Le pique-nique d'été de l'entreprise a toujours lieu hors de la ville, dans le parc au bord du lac du comté de Warren."
 },
 {
 "id": "ets10-109",
@@ -2985,7 +3233,8 @@
 "experience"
 ],
 "correct": "position",
-"explication": "« fill a position » = pourvoir un poste."
+"explication": "« fill a position » = pourvoir un poste.",
+"fr": "Mme Navarro souhaite pourvoir le poste d'assistante administrative dès que possible."
 },
 {
 "id": "ets10-110",
@@ -2997,7 +3246,8 @@
 "delivered"
 ],
 "correct": "unavailable",
-"explication": "« unavailable » = indisponible."
+"explication": "« unavailable » = indisponible.",
+"fr": "L'article que Mme Bak a commandé dans notre catalogue est indisponible jusqu'au 16 octobre."
 },
 {
 "id": "ets10-111",
@@ -3009,7 +3259,8 @@
 "themselves"
 ],
 "correct": "themselves",
-"explication": "« by themselves » = tels quels."
+"explication": "« by themselves » = tels quels.",
+"fr": "Les biscuits Kespi, délicieux tels quels, sont encore meilleurs accompagnés d'un verre de lait."
 },
 {
 "id": "ets10-112",
@@ -3021,7 +3272,8 @@
 "allows"
 ],
 "correct": "offers",
-"explication": "« offer courses » = proposer des cours."
+"explication": "« offer courses » = proposer des cours.",
+"fr": "L'Association des électriciens d'Inde du Nord propose divers cours en ligne sur l'habilitation, la sécurité et la technologie."
 },
 {
 "id": "ets10-113",
@@ -3033,7 +3285,8 @@
 "convenient"
 ],
 "correct": "convenient",
-"explication": "Adjectif au comparatif : more convenient."
+"explication": "Adjectif au comparatif : more convenient.",
+"fr": "La dernière enquête montre que notre magasin du centre-ville est plus pratique pour les clients locaux que notre magasin de banlieue."
 },
 {
 "id": "ets10-114",
@@ -3045,7 +3298,8 @@
 "along"
 ],
 "correct": "among",
-"explication": "« popular among » = populaire auprès de."
+"explication": "« popular among » = populaire auprès de.",
+"fr": "Weaving Fire est l'émission de télévision la plus populaire auprès des femmes de 18 à 34 ans."
 },
 {
 "id": "ets10-115",
@@ -3057,7 +3311,8 @@
 "After"
 ],
 "correct": "After",
-"explication": "« After » + sujet + verbe = après que."
+"explication": "« After » + sujet + verbe = après que.",
+"fr": "Une fois qu'un concepteur a terminé un prototype, le reste de l'équipe sera invité à le critiquer."
 },
 {
 "id": "ets10-116",
@@ -3069,7 +3324,8 @@
 "instead"
 ],
 "correct": "instead",
-"explication": "« instead » = à la place."
+"explication": "« instead » = à la place.",
+"fr": "Plutôt que d'archiver les e-mails de routine, veuillez les supprimer."
 },
 {
 "id": "ets10-117",
@@ -3081,7 +3337,8 @@
 "will be apologizing"
 ],
 "correct": "apologized",
-"explication": "Prétérit : hier."
+"explication": "Prétérit : hier.",
+"fr": "M. Khana a passé un appel téléphonique hier au cours duquel il s'est excusé du retard de l'expédition de la commande de vêtements."
 },
 {
 "id": "ets10-118",
@@ -3093,7 +3350,8 @@
 "request"
 ],
 "correct": "style",
-"explication": "« decide on a style » = choisir un style."
+"explication": "« decide on a style » = choisir un style.",
+"fr": "Après plusieurs mois de recherches, l'équipe marketing a enfin choisi un style pour le nouveau flacon de parfum."
 },
 {
 "id": "ets10-119",
@@ -3105,7 +3363,8 @@
 "registration"
 ],
 "correct": "to register",
-"explication": "« to register » : infinitif parallèle à « about »."
+"explication": "« to register » : infinitif parallèle à « about ».",
+"fr": "Pour plus d'informations sur les garanties des produits ou pour enregistrer votre nouvel appareil, veuillez contacter le service client."
 },
 {
 "id": "ets10-120",
@@ -3117,7 +3376,8 @@
 "because"
 ],
 "correct": "so",
-"explication": "« so » = donc."
+"explication": "« so » = donc.",
+"fr": "Il y aura une mise à niveau logicielle demain ; veuillez donc sauvegarder tous les fichiers importants que vous avez stockés sur le serveur."
 },
 {
 "id": "ets10-121",
@@ -3129,7 +3389,8 @@
 "whatever"
 ],
 "correct": "whatever",
-"explication": "« whatever it was » = quel qu'il soit."
+"explication": "« whatever it was » = quel qu'il soit.",
+"fr": "L'ambassadeur Chaturvedi a écrit que ses parents lui avaient appris à bien faire chaque travail, quel qu'il soit."
 },
 {
 "id": "ets10-122",
@@ -3141,7 +3402,8 @@
 "steadier"
 ],
 "correct": "steadily",
-"explication": "Adverbe devant le verbe : steadily rise."
+"explication": "Adverbe devant le verbe : steadily rise.",
+"fr": "Les rendements de votre jardin augmenteront régulièrement à mesure que vous ajouterez du compost Natrium à la terre."
 },
 {
 "id": "ets10-123",
@@ -3153,7 +3415,8 @@
 "distributed"
 ],
 "correct": "distribution",
-"explication": "Nom : product distribution."
+"explication": "Nom : product distribution.",
+"fr": "La division de Tokyo gère la distribution des produits et le service client de l'entreprise."
 },
 {
 "id": "ets10-124",
@@ -3165,7 +3428,8 @@
 "consideration"
 ],
 "correct": "coordination",
-"explication": "« coordination between » = coordination entre."
+"explication": "« coordination between » = coordination entre.",
+"fr": "Notre nouvelle assistante de direction sera chargée de la coordination entre les services marketing et comptabilité."
 },
 {
 "id": "ets10-125",
@@ -3177,7 +3441,8 @@
 "which"
 ],
 "correct": "whose",
-"explication": "Pronom relatif possessif : whose."
+"explication": "Pronom relatif possessif : whose.",
+"fr": "Hemlin Corporation recherche un commercial dont le rôle principal sera de développer l'activité dans la région du nord-ouest."
 },
 {
 "id": "ets10-126",
@@ -3189,7 +3454,8 @@
 "revised"
 ],
 "correct": "excess",
-"explication": "« excess inventory » = surplus de stock."
+"explication": "« excess inventory » = surplus de stock.",
+"fr": "Pour écouler l'excédent de stock de vêtements d'hiver, Ashley Fashions a baissé les prix de tous les manteaux, chapeaux et écharpes."
 },
 {
 "id": "ets10-127",
@@ -3201,7 +3467,8 @@
 "explainable"
 ],
 "correct": "explanation",
-"explication": "Nom après « detailed » : explanation."
+"explication": "Nom après « detailed » : explanation.",
+"fr": "Consultez le site Web de Labesse Financial pour obtenir l'explication la plus récente et la plus détaillée des options d'investissement."
 },
 {
 "id": "ets10-128",
@@ -3213,7 +3480,8 @@
 "appeared"
 ],
 "correct": "appeared",
-"explication": "« appear to have been » = sembler avoir été."
+"explication": "« appear to have been » = sembler avoir été.",
+"fr": "Le dernier paragraphe semblait avoir été ajouté au contrat après coup."
 },
 {
 "id": "ets10-129",
@@ -3225,7 +3493,8 @@
 "commenced"
 ],
 "correct": "will commence",
-"explication": "Futur après « unless » au présent."
+"explication": "Futur après « unless » au présent.",
+"fr": "À moins que la livraison des carreaux n'arrive en avance, les travaux du sol du hall commenceront après les vacances."
 },
 {
 "id": "ets10-130",
@@ -3237,7 +3506,8 @@
 "vulnerable"
 ],
 "correct": "vulnerable",
-"explication": "« vulnerable to » = sensible à (ici : peu résistant)."
+"explication": "« vulnerable to » = sensible à (ici : peu résistant).",
+"fr": "Les vêtements Neeson Pro sont faits d'un mélange synthétique sensible aux taches."
 },
 {
 "id": "mt1-101",
@@ -3249,7 +3519,8 @@
 "be"
 ],
 "correct": "is",
-"explication": "Sujet singulier (the customer) : is."
+"explication": "Sujet singulier (the customer) : is.",
+"fr": "Si le client n'est pas satisfait, demandez-lui d'appeler le responsable."
 },
 {
 "id": "mt1-102",
@@ -3261,7 +3532,8 @@
 "advised"
 ],
 "correct": "advised",
-"explication": "« advise someone to + verbe » = conseiller à quelqu'un de."
+"explication": "« advise someone to + verbe » = conseiller à quelqu'un de.",
+"fr": "Nous lui avons conseillé de bien réfléchir avant d'accepter le nouveau poste."
 },
 {
 "id": "mt1-103",
@@ -3273,7 +3545,8 @@
 "guest"
 ],
 "correct": "host",
-"explication": "« host a party » = organiser une fête chez soi."
+"explication": "« host a party » = organiser une fête chez soi.",
+"fr": "Notre patronne prévoit d'organiser chez elle une fête pour plusieurs membres du personnel qui partiront à la retraite cette année."
 },
 {
 "id": "mt1-104",
@@ -3285,7 +3558,8 @@
 "print"
 ],
 "correct": "printed",
-"explication": "Voix passive : were not printed."
+"explication": "Voix passive : were not printed.",
+"fr": "Le séminaire a été annulé parce que les invitations n'ont pas été imprimées à temps."
 },
 {
 "id": "mt1-105",
@@ -3297,7 +3571,8 @@
 "is"
 ],
 "correct": "will",
-"explication": "Futur dans la principale : will assist."
+"explication": "Futur dans la principale : will assist.",
+"fr": "Si le serveur ne peut pas traiter votre demande, le maître d'hôtel vous aidera."
 },
 {
 "id": "mt1-106",
@@ -3309,7 +3584,8 @@
 "leader"
 ],
 "correct": "leadership",
-"explication": "Nom parallèle à « knowledge » : leadership."
+"explication": "Nom parallèle à « knowledge » : leadership.",
+"fr": "M. Wong a été reconnu par le milieu des affaires local pour son savoir et son sens du leadership."
 },
 {
 "id": "mt1-107",
@@ -3321,7 +3597,8 @@
 "raise"
 ],
 "correct": "increase",
-"explication": "« increase » verbe intransitif (sans complément)."
+"explication": "« increase » verbe intransitif (sans complément).",
+"fr": "Selon les chiffres les plus récents, nos coûts devraient augmenter d'environ cinq pour cent cette année."
 },
 {
 "id": "mt1-108",
@@ -3333,7 +3610,8 @@
 "organization"
 ],
 "correct": "organization",
-"explication": "Nom sujet : organization."
+"explication": "Nom sujet : organization.",
+"fr": "Tout bon responsable d'entreprise vous dira que l'organisation est la clé de l'efficacité."
 },
 {
 "id": "mt1-109",
@@ -3345,7 +3623,8 @@
 "with"
 ],
 "correct": "because",
-"explication": "« because » = parce que (cause)."
+"explication": "« because » = parce que (cause).",
+"fr": "Ils ont dû reporter la réunion avec le client parce que l'avion de M. Tan était en retard."
 },
 {
 "id": "mt1-110",
@@ -3357,7 +3636,8 @@
 "conferred"
 ],
 "correct": "confidential",
-"explication": "« kept confidential » = gardé confidentiel."
+"explication": "« kept confidential » = gardé confidentiel.",
+"fr": "Toute information qu'un client nous fournit sera gardée strictement confidentielle et ne sera partagée avec personne en dehors du bureau."
 },
 {
 "id": "mt1-111",
@@ -3369,7 +3649,8 @@
 "will arrive"
 ],
 "correct": "arrives",
-"explication": "« by the time » + présent pour le futur."
+"explication": "« by the time » + présent pour le futur.",
+"fr": "Le temps que M. Sato arrive à San Diego, le congrès aura déjà commencé."
 },
 {
 "id": "mt1-112",
@@ -3381,7 +3662,8 @@
 "compost"
 ],
 "correct": "commute",
-"explication": "« a long commute » = un long trajet domicile-travail."
+"explication": "« a long commute » = un long trajet domicile-travail.",
+"fr": "Comme Mme Kimura a un long trajet quotidien, elle quittera toujours le travail à 17 h 30."
 },
 {
 "id": "mt1-113",
@@ -3393,7 +3675,8 @@
 "through"
 ],
 "correct": "between",
-"explication": "« between A and B » = entre A et B."
+"explication": "« between A and B » = entre A et B.",
+"fr": "Vous trouverez le restaurant au prochain pâté de maisons, entre la banque et la librairie."
 },
 {
 "id": "mt1-114",
@@ -3405,7 +3688,8 @@
 "positioning"
 ],
 "correct": "job",
-"explication": "« job applicants » = candidats à un poste."
+"explication": "« job applicants » = candidats à un poste.",
+"fr": "Nous espérons commencer à recevoir les candidats d'ici la fin de la semaine prochaine."
 },
 {
 "id": "mt1-115",
@@ -3417,7 +3701,8 @@
 "file"
 ],
 "correct": "file",
-"explication": "Impératif : file a request = déposer une demande."
+"explication": "Impératif : file a request = déposer une demande.",
+"fr": "Quand vous avez besoin de fournitures, faites une demande auprès du responsable du bureau."
 },
 {
 "id": "mt1-116",
@@ -3429,7 +3714,8 @@
 "late"
 ],
 "correct": "after",
-"explication": "« after + gérondif » = après avoir."
+"explication": "« after + gérondif » = après avoir.",
+"fr": "Tous les agents de cabine doivent verrouiller la porte de la cabine après avoir quitté la pièce."
 },
 {
 "id": "mt1-117",
@@ -3441,7 +3727,8 @@
 "That"
 ],
 "correct": "Because",
-"explication": "« Because » = parce que."
+"explication": "« Because » = parce que.",
+"fr": "Comme c'était l'anniversaire de M. Guiton, son équipe l'a emmené déjeuner."
 },
 {
 "id": "mt1-118",
@@ -3453,7 +3740,8 @@
 "repulsed"
 ],
 "correct": "required",
-"explication": "« be required to » = être tenu de."
+"explication": "« be required to » = être tenu de.",
+"fr": "Afin de respecter l'intimité de nos clients, les employés de l'hôtel Palms sont tenus de frapper avant d'entrer dans une chambre, quelle qu'en soit la raison."
 },
 {
 "id": "mt1-119",
@@ -3465,7 +3753,8 @@
 "though"
 ],
 "correct": "or",
-"explication": "« not ... A or B » = ni A ni B."
+"explication": "« not ... A or B » = ni A ni B.",
+"fr": "L'employé de facturation n'a pu trouver ni la facture ni la commande."
 },
 {
 "id": "mt1-120",
@@ -3477,7 +3766,8 @@
 "balance"
 ],
 "correct": "balance",
-"explication": "« account balance » = solde du compte."
+"explication": "« account balance » = solde du compte.",
+"fr": "Avant d'écrire le chèque, Jim a consulté le site Web de sa banque pour connaître le solde de son compte."
 },
 {
 "id": "mt1-121",
@@ -3489,7 +3779,8 @@
 "availing"
 ],
 "correct": "available",
-"explication": "« become available » = devenir disponible."
+"explication": "« become available » = devenir disponible.",
+"fr": "Veuillez transmettre une copie du rapport à M. Maxwell dès qu'il sera disponible."
 },
 {
 "id": "mt1-122",
@@ -3501,7 +3792,8 @@
 "do"
 ],
 "correct": "be",
-"explication": "Subjonctif après « suggest that » : be hired."
+"explication": "Subjonctif après « suggest that » : be hired.",
+"fr": "Le chef des bagagistes a proposé que davantage de porteurs soient embauchés."
 },
 {
 "id": "mt1-123",
@@ -3513,7 +3805,8 @@
 "significant"
 ],
 "correct": "assigned",
-"explication": "« assigned parking spaces » = places attribuées."
+"explication": "« assigned parking spaces » = places attribuées.",
+"fr": "Les places de stationnement attribuées aux employés de l'entreprise se trouvent au premier niveau du parking."
 },
 {
 "id": "mt1-124",
@@ -3525,7 +3818,8 @@
 "alphabetical"
 ],
 "correct": "alphabetical",
-"explication": "« in alphabetical order » = par ordre alphabétique."
+"explication": "« in alphabetical order » = par ordre alphabétique.",
+"fr": "Vous trouverez tous les membres de l'association classés par ordre alphabétique dans l'annuaire."
 },
 {
 "id": "mt1-125",
@@ -3537,7 +3831,8 @@
 "soon"
 ],
 "correct": "already",
-"explication": "« already » = déjà."
+"explication": "« already » = déjà.",
+"fr": "Raymond travaille sur ce compte depuis quelques jours seulement, mais il connaît déjà parfaitement le contexte du client."
 },
 {
 "id": "mt1-126",
@@ -3549,7 +3844,8 @@
 "show"
 ],
 "correct": "show",
-"explication": "Après « must » : verbe à l'infinitif."
+"explication": "Après « must » : verbe à l'infinitif.",
+"fr": "Toute personne souhaitant entrer dans les locaux doit présenter une pièce d'identité au gardien."
 },
 {
 "id": "mt1-127",
@@ -3561,7 +3857,8 @@
 "repetitively"
 ],
 "correct": "repetitive",
-"explication": "« repetitive tasks » = tâches répétitives."
+"explication": "« repetitive tasks » = tâches répétitives.",
+"fr": "Selon plusieurs études, les tâches répétitives entraînent souvent de la fatigue musculaire et des blessures."
 },
 {
 "id": "mt1-128",
@@ -3573,7 +3870,8 @@
 "is wearing"
 ],
 "correct": "to wear",
-"explication": "« be reminded to + verbe »."
+"explication": "« be reminded to + verbe ».",
+"fr": "Il est rappelé aux visiteurs de porter leur badge nominatif en permanence."
 },
 {
 "id": "mt1-129",
@@ -3585,7 +3883,8 @@
 "extensive"
 ],
 "correct": "extensive",
-"explication": "« extensive experience » = vaste expérience."
+"explication": "« extensive experience » = vaste expérience.",
+"fr": "Le poste au service publicité exige la connaissance de langues étrangères et une vaste expérience avec des clients internationaux."
 },
 {
 "id": "mt1-130",
@@ -3597,7 +3896,8 @@
 "no time"
 ],
 "correct": "never",
-"explication": "« never allowed » = jamais autorisés."
+"explication": "« never allowed » = jamais autorisés.",
+"fr": "La politique de l'usine est de ne jamais autoriser les visiteurs à entrer dans la zone de fabrication sans casque, pour des raisons de sécurité."
 },
 {
 "id": "mt1-131",
@@ -3609,7 +3909,8 @@
 "permission"
 ],
 "correct": "permitted",
-"explication": "« be permitted to » = être autorisé à."
+"explication": "« be permitted to » = être autorisé à.",
+"fr": "Conformément aux règles de sécurité internationales, les passagers ne sont pas autorisés à emporter les objets suivants dans un avion."
 },
 {
 "id": "mt1-132",
@@ -3621,7 +3922,8 @@
 "instance"
 ],
 "correct": "such as",
-"explication": "« such as » = tel que."
+"explication": "« such as » = tel que.",
+"fr": "Le matériel de sport tel que les clubs de golf, les battes de baseball et les skis peut aussi être enregistré."
 },
 {
 "id": "mt1-133",
@@ -3633,7 +3935,8 @@
 "reservations"
 ],
 "correct": "security",
-"explication": "« security line » = file de contrôle de sécurité."
+"explication": "« security line » = file de contrôle de sécurité.",
+"fr": "Lorsque vous passez par la file de contrôle de sécurité, tous les bagages passent dans nos appareils à rayons X."
 },
 {
 "id": "mt1-135",
@@ -3645,7 +3948,8 @@
 "trainers"
 ],
 "correct": "manufacturers",
-"explication": "Ce sont les fabricants qui font la publicité."
+"explication": "Ce sont les fabricants qui font la publicité.",
+"fr": "Une grande campagne publicitaire a commencé cette semaine, avec plusieurs fabricants d'ordinateurs qui placent des annonces à la télévision, à la radio, dans les journaux et sur Internet."
 },
 {
 "id": "mt1-136",
@@ -3657,7 +3961,8 @@
 "convenience"
 ],
 "correct": "convenience",
-"explication": "« convenience » = praticité."
+"explication": "« convenience » = praticité.",
+"fr": "Les tablettes gagnent en popularité grâce à leur côté pratique."
 },
 {
 "id": "mt1-138",
@@ -3669,11 +3974,12 @@
 "enthusiastically"
 ],
 "correct": "enthusiasm",
-"explication": "Nom après « the » : enthusiasm."
+"explication": "Nom après « the » : enthusiasm.",
+"fr": "L'approche traditionnelle des fêtes laisse place à l'enthousiasme pour les nouvelles technologies."
 },
 {
 "id": "mt1-139",
-"phrase": "I am writing in regard to an ___ payment.",
+"phrase": "I am writing in regard to ___ payment.",
 "options": [
 "a remitted",
 "an overdue",
@@ -3681,7 +3987,8 @@
 "an enclosed"
 ],
 "correct": "an overdue",
-"explication": "« an overdue payment » = un paiement en retard."
+"explication": "« an overdue payment » = un paiement en retard.",
+"fr": "Je vous écris au sujet d'un paiement en retard."
 },
 {
 "id": "mt1-141",
@@ -3693,7 +4000,8 @@
 "going to have"
 ],
 "correct": "will have",
-"explication": "Futur dans la principale d'une condition au présent."
+"explication": "Futur dans la principale d'une condition au présent.",
+"fr": "Si nous n'avons pas de vos nouvelles rapidement concernant ce paiement, nous devrons prendre des mesures."
 },
 {
 "id": "mt1-142",
@@ -3705,7 +4013,8 @@
 "rebate"
 ],
 "correct": "order",
-"explication": "« your order » = votre commande."
+"explication": "« your order » = votre commande.",
+"fr": "Le détail de votre commande, avec les articles et les prix, est joint."
 },
 {
 "id": "mt1-143",
@@ -3717,7 +4026,8 @@
 "respite"
 ],
 "correct": "response",
-"explication": "« in response to » = en réponse à."
+"explication": "« in response to » = en réponse à.",
+"fr": "Je vous contacte en réponse à l'offre publiée sur le site Web de votre entreprise."
 },
 {
 "id": "mt1-145",
@@ -3729,7 +4039,8 @@
 "has qualified"
 ],
 "correct": "qualify",
-"explication": "Sujet pluriel (years) : qualify."
+"explication": "Sujet pluriel (years) : qualify.",
+"fr": "Je pense bien comprendre le fonctionnement d'un bureau, et mes années d'expérience me qualifient pour travailler comme responsable de bureau."
 },
 {
 "id": "mt1-146",
@@ -3741,7 +4052,8 @@
 "on"
 ],
 "correct": "to",
-"explication": "« look forward to + gérondif »."
+"explication": "« look forward to + gérondif ».",
+"fr": "J'attends de vos nouvelles avec impatience."
 },
 {
 "id": "mt6-101",
@@ -3753,7 +4065,8 @@
 "valuable"
 ],
 "correct": "valuable",
-"explication": "Adjectif devant un nom : valuable job skills."
+"explication": "Adjectif devant un nom : valuable job skills.",
+"fr": "Gagnez un bon salaire tout en acquérant des compétences professionnelles précieuses en vous inscrivant au programme de menuiserie de City Tech."
 },
 {
 "id": "mt6-102",
@@ -3765,7 +4078,8 @@
 "in"
 ],
 "correct": "up",
-"explication": "« up to » = jusqu'à."
+"explication": "« up to » = jusqu'à.",
+"fr": "La camionnette Whip peut transporter jusqu'à 5 350 livres et est équipée d'une caméra de recul et d'une alarme."
 },
 {
 "id": "mt6-103",
@@ -3777,7 +4091,8 @@
 "slightly"
 ],
 "correct": "primarily",
-"explication": "« primarily » = principalement."
+"explication": "« primarily » = principalement.",
+"fr": "Le cours s'adresse principalement aux professionnels en activité, c'est pourquoi la classe a lieu deux soirs par semaine."
 },
 {
 "id": "mt6-104",
@@ -3789,7 +4104,8 @@
 "with"
 ],
 "correct": "with",
-"explication": "« coincide with » = coïncider avec."
+"explication": "« coincide with » = coïncider avec.",
+"fr": "Greg Trist ouvre son atelier d'artiste au public le premier lundi du mois, ce qui coïncide avec l'événement mensuel Art Walk de la ville."
 },
 {
 "id": "mt6-105",
@@ -3801,7 +4117,8 @@
 "line"
 ],
 "correct": "scheme",
-"explication": "« color scheme » = palette de couleurs."
+"explication": "« color scheme » = palette de couleurs.",
+"fr": "L'équipe de direction a décidé d'utiliser la palette rose et orange pour le logo de la nouvelle lessive."
 },
 {
 "id": "mt6-106",
@@ -3813,7 +4130,8 @@
 "will sign"
 ],
 "correct": "signing",
-"explication": "« recommend + gérondif »."
+"explication": "« recommend + gérondif ».",
+"fr": "Je recommande vivement de signer un contrat avec LL Logistics pour gérer nos livraisons nationales."
 },
 {
 "id": "mt6-107",
@@ -3825,7 +4143,8 @@
 "has been trimming"
 ],
 "correct": "will trim",
-"explication": "Futur : will trim (next week)."
+"explication": "Futur : will trim (next week).",
+"fr": "Le paysagiste a dit qu'il taillerait les haies autour du bureau lorsqu'il viendra la semaine prochaine."
 },
 {
 "id": "mt6-108",
@@ -3837,7 +4156,8 @@
 "in"
 ],
 "correct": "to",
-"explication": "« attend to » = s'occuper de."
+"explication": "« attend to » = s'occuper de.",
+"fr": "Si vous pouvez patienter quelques minutes, Mme Sato s'occupera de votre problème dès qu'elle sera libre."
 },
 {
 "id": "mt6-109",
@@ -3849,7 +4169,8 @@
 "except"
 ],
 "correct": "except",
-"explication": "« except » = sauf."
+"explication": "« except » = sauf.",
+"fr": "Le coupon hebdomadaire de Zasels donne droit à 40 % de réduction sur tous les articles du magasin, sauf l'encadrement sur mesure, les meubles et l'électronique."
 },
 {
 "id": "mt6-110",
@@ -3861,7 +4182,8 @@
 "appearances"
 ],
 "correct": "belongings",
-"explication": "« personal belongings » = effets personnels."
+"explication": "« personal belongings » = effets personnels.",
+"fr": "Les visiteurs de l'usine doivent laisser leurs effets personnels à l'accueil de sécurité et enfiler une blouse de protection et des lunettes de protection."
 },
 {
 "id": "mt6-111",
@@ -3873,7 +4195,8 @@
 "her"
 ],
 "correct": "his",
-"explication": "Adjectif possessif devant un nom : his job."
+"explication": "Adjectif possessif devant un nom : his job.",
+"fr": "Bien qu'il soit un bon coéquipier et toujours à l'heure, Daniel n'a pas les compétences pour faire son travail."
 },
 {
 "id": "mt6-112",
@@ -3885,7 +4208,8 @@
 "authorize"
 ],
 "correct": "authorize",
-"explication": "Verbe conjugué au présent : authorize."
+"explication": "Verbe conjugué au présent : authorize.",
+"fr": "En signant ce formulaire, vous autorisez KM Recovery Group à agir en tant que votre représentant."
 },
 {
 "id": "mt6-113",
@@ -3897,7 +4221,8 @@
 "won't"
 ],
 "correct": "can",
-"explication": "« can attend » = peuvent assister."
+"explication": "« can attend » = peuvent assister.",
+"fr": "Les employés à temps plein peuvent assister à la conférence annuelle RSTLC aux frais de leur service, avec l'accord de leur supérieur."
 },
 {
 "id": "mt6-114",
@@ -3909,7 +4234,8 @@
 "common"
 ],
 "correct": "extensive",
-"explication": "« extensive repairs » = de grosses réparations."
+"explication": "« extensive repairs » = de grosses réparations.",
+"fr": "Malheureusement, la cuisine nécessite de grosses réparations qui doivent être effectuées par un plombier qualifié."
 },
 {
 "id": "mt6-115",
@@ -3921,7 +4247,8 @@
 "In that"
 ],
 "correct": "Due to",
-"explication": "« Due to » + nom = en raison de."
+"explication": "« Due to » + nom = en raison de.",
+"fr": "En raison de réductions budgétaires, l'entreprise ne pourvoira pas le poste de responsable marketing actuellement disponible."
 },
 {
 "id": "mt6-116",
@@ -3933,7 +4260,8 @@
 "is"
 ],
 "correct": "is",
-"explication": "Voix passive au présent : is programmed."
+"explication": "Voix passive au présent : is programmed.",
+"fr": "La télécommande est programmée pour fonctionner avec la télévision du hall, mais pas avec celle de la salle de pause."
 },
 {
 "id": "mt6-117",
@@ -3945,7 +4273,8 @@
 "whom"
 ],
 "correct": "whose",
-"explication": "Pronom relatif possessif : whose."
+"explication": "Pronom relatif possessif : whose.",
+"fr": "La personne dont la signature figure sur le document est celle qui est en fin de compte responsable de l'affaire."
 },
 {
 "id": "mt6-118",
@@ -3957,7 +4286,8 @@
 "Wait for"
 ],
 "correct": "Waiting",
-"explication": "Gérondif en position de sujet."
+"explication": "Gérondif en position de sujet.",
+"fr": "Attendre la dernière minute pour rendre son travail n'est vraiment pas encouragé dans ce service."
 },
 {
 "id": "mt6-119",
@@ -3969,7 +4299,8 @@
 "as"
 ],
 "correct": "or",
-"explication": "« A or B » = ou bien."
+"explication": "« A or B » = ou bien.",
+"fr": "Vous pouvez vous inscrire à la formation en ligne quand cela vous convient, ou assister en personne à la session sur site de la semaine prochaine."
 },
 {
 "id": "mt6-120",
@@ -3981,7 +4312,8 @@
 "calculating"
 ],
 "correct": "inaccurate",
-"explication": "« inaccurate » = inexact."
+"explication": "« inaccurate » = inexact.",
+"fr": "Le rapport budgétaire a dû être réécrit parce que certains chiffres qu'il contenait étaient inexacts."
 },
 {
 "id": "mt6-121",
@@ -3993,7 +4325,8 @@
 "acquire"
 ],
 "correct": "acquire",
-"explication": "« acquire properties » = acquérir des biens."
+"explication": "« acquire properties » = acquérir des biens.",
+"fr": "L'entreprise prévoit d'acquérir plusieurs terrains voisins, qui serviront à agrandir l'usine."
 },
 {
 "id": "mt6-122",
@@ -4005,7 +4338,8 @@
 "Then"
 ],
 "correct": "After",
-"explication": "« After » = une fois que."
+"explication": "« After » = une fois que.",
+"fr": "Une fois que le client aura accepté le plan, l'équipe disposera d'un mois pour terminer la conception finale."
 },
 {
 "id": "mt6-123",
@@ -4017,7 +4351,8 @@
 "incur"
 ],
 "correct": "earn",
-"explication": "« earn approval » = gagner l'approbation."
+"explication": "« earn approval » = gagner l'approbation.",
+"fr": "La meilleure façon de gagner l'approbation de votre supérieur est de terminer systématiquement vos projets à temps."
 },
 {
 "id": "mt6-124",
@@ -4029,7 +4364,8 @@
 "will be"
 ],
 "correct": "are",
-"explication": "Présent après « when » (futur) + sujet pluriel."
+"explication": "Présent après « when » (futur) + sujet pluriel.",
+"fr": "Quand les travaux de rénovation seront terminés, nous aurons un bureau beaucoup plus attrayant et spacieux."
 },
 {
 "id": "mt6-125",
@@ -4041,7 +4377,8 @@
 "sizing"
 ],
 "correct": "resize",
-"explication": "« resize » = redimensionner."
+"explication": "« resize » = redimensionner.",
+"fr": "L'équipe de production peut redimensionner les photos si le client les trouve trop grandes."
 },
 {
 "id": "mt6-126",
@@ -4053,7 +4390,8 @@
 "Although"
 ],
 "correct": "Although",
-"explication": "« Although » = bien que (concession)."
+"explication": "« Although » = bien que (concession).",
+"fr": "Bien que l'expédition soit partie plus tard que promis, le client a décidé de passer une autre commande."
 },
 {
 "id": "mt6-127",
@@ -4065,7 +4403,8 @@
 "inclusively"
 ],
 "correct": "include",
-"explication": "Verbe conjugué au présent : include."
+"explication": "Verbe conjugué au présent : include.",
+"fr": "Les prix indiqués sur le site Web comprennent le matériel et la main-d'œuvre, mais pas les frais d'expédition et de manutention."
 },
 {
 "id": "mt6-128",
@@ -4077,7 +4416,8 @@
 "precede"
 ],
 "correct": "previous",
-"explication": "« previous employers » = anciens employeurs."
+"explication": "« previous employers » = anciens employeurs.",
+"fr": "Le service des ressources humaines exige que tous les candidats fournissent des références de leurs anciens employeurs."
 },
 {
 "id": "mt6-129",
@@ -4089,7 +4429,8 @@
 "in addition"
 ],
 "correct": "instead",
-"explication": "« instead » = à la place."
+"explication": "« instead » = à la place.",
+"fr": "Vous pouvez choisir de recevoir votre paie par courrier ou opter plutôt pour un virement direct sur votre compte bancaire."
 },
 {
 "id": "mt6-130",
@@ -4101,7 +4442,8 @@
 "would have invested"
 ],
 "correct": "had invested",
-"explication": "3e conditionnel : if + past perfect."
+"explication": "3e conditionnel : if + past perfect.",
+"fr": "Les ventes du dernier trimestre auraient été meilleures si l'entreprise avait investi davantage dans la publicité."
 },
 {
 "id": "mt2-101",
@@ -4113,7 +4455,8 @@
 "by"
 ],
 "correct": "for",
-"explication": "« apply/submit for a position » = postuler à un poste."
+"explication": "« apply/submit for a position » = postuler à un poste.",
+"fr": "D'ici vendredi, vingt-cinq candidatures avaient été déposées pour le poste d'employé de réception."
 },
 {
 "id": "mt2-102",
@@ -4125,7 +4468,8 @@
 "expect"
 ],
 "correct": "attract",
-"explication": "« attract customers » = attirer des clients."
+"explication": "« attract customers » = attirer des clients.",
+"fr": "Les prix fortement réduits sur cette gamme de produits attireront sûrement de nombreux nouveaux clients."
 },
 {
 "id": "mt2-103",
@@ -4137,7 +4481,8 @@
 "assist"
 ],
 "correct": "assist",
-"explication": "« assist someone with » = aider quelqu'un pour."
+"explication": "« assist someone with » = aider quelqu'un pour.",
+"fr": "M. Cruz a besoin de quelqu'un pour l'aider avec le stand de la conférence."
 },
 {
 "id": "mt2-104",
@@ -4149,7 +4494,8 @@
 "intent"
 ],
 "correct": "present",
-"explication": "« be present » = être présent."
+"explication": "« be present » = être présent.",
+"fr": "L'atelier sera répété la semaine prochaine pour tous ceux qui n'ont pas pu y assister hier."
 },
 {
 "id": "mt2-105",
@@ -4161,7 +4507,8 @@
 "extension"
 ],
 "correct": "commute",
-"explication": "« a long commute » = un long trajet quotidien."
+"explication": "« a long commute » = un long trajet quotidien.",
+"fr": "Un inconvénient de la vie à la campagne est le long trajet pour aller travailler."
 },
 {
 "id": "mt2-106",
@@ -4173,7 +4520,8 @@
 "will expect"
 ],
 "correct": "had expected",
-"explication": "Past perfect : had expected (avant le passé)."
+"explication": "Past perfect : had expected (avant le passé).",
+"fr": "Le prix d'achat final était plus élevé que ce que les investisseurs avaient prévu."
 },
 {
 "id": "mt2-107",
@@ -4185,7 +4533,8 @@
 "they"
 ],
 "correct": "she",
-"explication": "Pronom sujet féminin : she."
+"explication": "Pronom sujet féminin : she.",
+"fr": "La nouvelle serveuse a fait très peu d'erreurs lors de son premier jour, donc j'imagine qu'elle sera embauchée à temps plein."
 },
 {
 "id": "mt2-108",
@@ -4197,7 +4546,8 @@
 "popularity"
 ],
 "correct": "popular",
-"explication": "« popular with » = apprécié par."
+"explication": "« popular with » = apprécié par.",
+"fr": "Le nouveau contrat d'assurance est particulièrement apprécié des employés qui ont une famille."
 },
 {
 "id": "mt2-109",
@@ -4209,7 +4559,8 @@
 "large"
 ],
 "correct": "large",
-"explication": "Adjectif devant un nom : large quantities."
+"explication": "Adjectif devant un nom : large quantities.",
+"fr": "L'officier d'approvisionnement achète des provisions en grandes quantités car le bateau de pêche reste en mer des semaines d'affilée."
 },
 {
 "id": "mt2-110",
@@ -4221,7 +4572,8 @@
 "little"
 ],
 "correct": "soon",
-"explication": "« as soon as » = dès que."
+"explication": "« as soon as » = dès que.",
+"fr": "La compagnie aérienne vous remboursera dès que votre agent de voyages annulera votre réservation."
 },
 {
 "id": "mt2-111",
@@ -4233,7 +4585,8 @@
 "sent"
 ],
 "correct": "borrow",
-"explication": "« borrow » = emprunter (à quelqu'un)."
+"explication": "« borrow » = emprunter (à quelqu'un).",
+"fr": "M. Fisk a-t-il emprunté le guide de référence à la bibliothèque de l'entreprise ?"
 },
 {
 "id": "mt2-112",
@@ -4245,7 +4598,8 @@
 "Despite"
 ],
 "correct": "Although",
-"explication": "« Although » + sujet + verbe."
+"explication": "« Although » + sujet + verbe.",
+"fr": "Bien qu'ils aient été commandés, les brochures et les cartes de visite n'ont jamais été imprimées."
 },
 {
 "id": "mt2-113",
@@ -4257,7 +4611,8 @@
 "but"
 ],
 "correct": "or",
-"explication": "« not ... A or B » = ni A ni B."
+"explication": "« not ... A or B » = ni A ni B.",
+"fr": "L'opérateur ne se souvient pas d'avoir reçu un fax du bureau de Madrid ou de celui de Paris."
 },
 {
 "id": "mt2-114",
@@ -4269,7 +4624,8 @@
 "previous"
 ],
 "correct": "before",
-"explication": "« before » = auparavant (adverbe)."
+"explication": "« before » = auparavant (adverbe).",
+"fr": "La plupart de notre personnel n'a jamais utilisé ce type de photocopieur auparavant."
 },
 {
 "id": "mt2-115",
@@ -4281,7 +4637,8 @@
 "they will"
 ],
 "correct": "won't they",
-"explication": "Question tag : will → won't they ?"
+"explication": "Question tag : will → won't they ?",
+"fr": "Il faudra payer en heures supplémentaires les femmes de chambre pour leur travail pendant les fêtes, n'est-ce pas ?"
 },
 {
 "id": "mt2-116",
@@ -4293,7 +4650,8 @@
 "tray"
 ],
 "correct": "ink",
-"explication": "« ink cartridge » = cartouche d'encre."
+"explication": "« ink cartridge » = cartouche d'encre.",
+"fr": "L'imprimante du bureau de M. Daaka utilise une cartouche d'encre spéciale qui existe en quatre couleurs différentes."
 },
 {
 "id": "mt2-117",
@@ -4305,7 +4663,8 @@
 "holds"
 ],
 "correct": "holds",
-"explication": "Verbe au présent, sujet singulier : holds."
+"explication": "Verbe au présent, sujet singulier : holds.",
+"fr": "La réceptionniste reçoit les colis et les garde jusqu'à ce que le service concerné soit prévenu."
 },
 {
 "id": "mt2-118",
@@ -4317,7 +4676,8 @@
 "are understanding"
 ],
 "correct": "understand",
-"explication": "« help someone + verbe à l'infinitif »."
+"explication": "« help someone + verbe à l'infinitif ».",
+"fr": "L'objectif de notre conférence est d'aider les employés à comprendre nos règles."
 },
 {
 "id": "mt2-119",
@@ -4329,7 +4689,8 @@
 "However"
 ],
 "correct": "Because",
-"explication": "« Because » = parce que (cause)."
+"explication": "« Because » = parce que (cause).",
+"fr": "Comme aucun de nous ne connaissait la ville, M. Gutman nous a conduits à la réunion."
 },
 {
 "id": "mt2-120",
@@ -4341,7 +4702,8 @@
 "renting"
 ],
 "correct": "rent",
-"explication": "Après « suggest » (subjonctif) : base verbale."
+"explication": "Après « suggest » (subjonctif) : base verbale.",
+"fr": "Le pompiste suggère de louer un bateau à un habitant pour économiser de l'argent."
 },
 {
 "id": "mt2-121",
@@ -4353,7 +4715,8 @@
 "has reached"
 ],
 "correct": "will reach",
-"explication": "Futur dans la principale : will reach."
+"explication": "Futur dans la principale : will reach.",
+"fr": "Si ce rapport est envoyé en livraison express, il arrivera à Milan demain avant midi."
 },
 {
 "id": "mt2-122",
@@ -4365,7 +4728,8 @@
 "everywhere"
 ],
 "correct": "nowhere",
-"explication": "« nowhere near » = pas du tout près."
+"explication": "« nowhere near » = pas du tout près.",
+"fr": "Le restaurant Yamamoto Sushi est de l'autre côté de la ville et pas du tout près de notre hôtel ; nous devrions donc prendre un taxi."
 },
 {
 "id": "mt2-123",
@@ -4377,7 +4741,8 @@
 "will be"
 ],
 "correct": "will be",
-"explication": "« will be attending » = participeront."
+"explication": "« will be attending » = participeront.",
+"fr": "Les employés qui assisteront à la conférence peuvent obtenir une réduction sur leurs frais de voyage."
 },
 {
 "id": "mt2-124",
@@ -4389,7 +4754,8 @@
 "authorization"
 ],
 "correct": "expertise",
-"explication": "« expertise » = expertise, savoir-faire."
+"explication": "« expertise » = expertise, savoir-faire.",
+"fr": "M. Vasco a développé son expertise en électronique au fil de nombreuses années d'expérience et de travail acharné."
 },
 {
 "id": "mt2-125",
@@ -4401,7 +4767,8 @@
 "to renovate"
 ],
 "correct": "to renovate",
-"explication": "« funding to + verbe » = financement pour."
+"explication": "« funding to + verbe » = financement pour.",
+"fr": "La ville demande des fonds pour rénover cinq parcs et trois centres de loisirs."
 },
 {
 "id": "mt2-126",
@@ -4413,7 +4780,8 @@
 "has"
 ],
 "correct": "has",
-"explication": "Sujet singulier (she) : has."
+"explication": "Sujet singulier (she) : has.",
+"fr": "La gouvernante générale va demander à Mme Chang combien de temps elle a de disponible."
 },
 {
 "id": "mt2-127",
@@ -4425,7 +4793,8 @@
 "knows"
 ],
 "correct": "knowledgeable",
-"explication": "« knowledgeable about » = bien informé sur."
+"explication": "« knowledgeable about » = bien informé sur.",
+"fr": "Le directeur marketing de l'hôtel s'y connaît très bien en publicité en Europe."
 },
 {
 "id": "mt2-128",
@@ -4437,7 +4806,8 @@
 "should"
 ],
 "correct": "need",
-"explication": "« need to + verbe » (avec « to »)."
+"explication": "« need to + verbe » (avec « to »).",
+"fr": "Nous devons connaître la taille de la banderole avant de pouvoir commencer à la concevoir."
 },
 {
 "id": "mt2-129",
@@ -4449,7 +4819,8 @@
 "would call"
 ],
 "correct": "would call",
-"explication": "Conditionnel : would call (if she knew)."
+"explication": "Conditionnel : would call (if she knew).",
+"fr": "L'opératrice appellerait M. Smith si elle savait où le joindre."
 },
 {
 "id": "mt2-130",
@@ -4461,7 +4832,8 @@
 "moved"
 ],
 "correct": "move",
-"explication": "« have someone + base verbale » = faire faire."
+"explication": "« have someone + base verbale » = faire faire.",
+"fr": "Les formateurs du séminaire ont fait transporter leur matériel au centre de conférences par l'équipe."
 },
 {
 "id": "mt2-131",
@@ -4473,7 +4845,8 @@
 "options"
 ],
 "correct": "options",
-"explication": "« other options » = d'autres solutions."
+"explication": "« other options » = d'autres solutions.",
+"fr": "Les membres de notre personnel ont exprimé leur mécontentement envers notre contrat d'assurance actuel ; nous étudions donc d'autres solutions."
 },
 {
 "id": "mt2-132",
@@ -4485,7 +4858,8 @@
 "Nevertheless"
 ],
 "correct": "Therefore",
-"explication": "« Therefore » = par conséquent."
+"explication": "« Therefore » = par conséquent.",
+"fr": "Nous ne sommes pas contents de payer de plus en plus cher pour un mauvais service. Par conséquent, nous souhaitons en savoir plus sur Unity Health Care."
 },
 {
 "id": "mt2-134",
@@ -4497,7 +4871,8 @@
 "interesting"
 ],
 "correct": "convenient",
-"explication": "« not always convenient » = pas toujours pratique."
+"explication": "« not always convenient » = pas toujours pratique.",
+"fr": "Nos employés ont des emplois du temps chargés, et il n'est pas toujours pratique pour eux d'aller à des rendez-vous pendant les heures de bureau."
 },
 {
 "id": "mt2-135",
@@ -4509,7 +4884,8 @@
 "by"
 ],
 "correct": "as",
-"explication": "« as » = car, puisque."
+"explication": "« as » = car, puisque.",
+"fr": "Je dois quitter la ville pour un voyage d'affaires car il y a une urgence dans notre bureau de Singapour."
 },
 {
 "id": "mt2-136",
@@ -4521,7 +4897,8 @@
 "accompany"
 ],
 "correct": "replace",
-"explication": "« replace » = remplacer."
+"explication": "« replace » = remplacer.",
+"fr": "Mon collègue, Hugh Harrison, me remplacera à la réunion."
 },
 {
 "id": "mt2-138",
@@ -4533,7 +4910,8 @@
 "concerned"
 ],
 "correct": "positive",
-"explication": "« I'm positive that » = j'en suis certain."
+"explication": "« I'm positive that » = j'en suis certain.",
+"fr": "Vous avez une excellente réputation ; je suis donc certain que vous saurez gérer le budget et construire un centre fantastique."
 },
 {
 "id": "mt3-101",
@@ -4545,7 +4923,8 @@
 "though"
 ],
 "correct": "and",
-"explication": "« and » relie deux éléments ajoutés."
+"explication": "« and » relie deux éléments ajoutés.",
+"fr": "Le bureau aurait beaucoup plus fière allure avec une nouvelle couche de peinture et quelques tableaux accrochés aux murs."
 },
 {
 "id": "mt3-102",
@@ -4557,7 +4936,8 @@
 "awe"
 ],
 "correct": "aware",
-"explication": "« be aware that » = être conscient que."
+"explication": "« be aware that » = être conscient que.",
+"fr": "La plupart des gens du service sont conscients que des réductions d'effectifs devront être faites."
 },
 {
 "id": "mt3-103",
@@ -4569,7 +4949,8 @@
 "have contained"
 ],
 "correct": "contains",
-"explication": "Sujet singulier : contains."
+"explication": "Sujet singulier : contains.",
+"fr": "L'itinéraire contient l'heure et le lieu de chaque réunion du Dr Richards pendant sa visite du service."
 },
 {
 "id": "mt3-104",
@@ -4581,7 +4962,8 @@
 "from"
 ],
 "correct": "between",
-"explication": "« between ... and ... » = entre ... et ..."
+"explication": "« between ... and ... » = entre ... et ...",
+"fr": "Les passagers peuvent s'enregistrer pour le vol charter entre 8 h et 12 h demain."
 },
 {
 "id": "mt3-105",
@@ -4593,7 +4975,8 @@
 "recommendable"
 ],
 "correct": "recommendations",
-"explication": "Nom pluriel après « several »."
+"explication": "Nom pluriel après « several ».",
+"fr": "Le paysagiste a fait plusieurs recommandations, dont l'installation d'un système d'arrosage automatique."
 },
 {
 "id": "mt3-106",
@@ -4605,7 +4988,8 @@
 "faster"
 ],
 "correct": "faster",
-"explication": "Comparatif devant « than »."
+"explication": "Comparatif devant « than ».",
+"fr": "Il est plus rapide de transférer un document par e-mail que par fax."
 },
 {
 "id": "mt3-107",
@@ -4617,7 +5001,8 @@
 "since"
 ],
 "correct": "or",
-"explication": "« or » propose une alternative."
+"explication": "« or » propose une alternative.",
+"fr": "Vous pouvez payer votre facture en ligne, ou envoyer un chèque par courrier ordinaire."
 },
 {
 "id": "mt3-108",
@@ -4629,7 +5014,8 @@
 "widened"
 ],
 "correct": "shortened",
-"explication": "30 → 25 minutes : shortened."
+"explication": "30 → 25 minutes : shortened.",
+"fr": "Tous les intervenants de la conférence doivent être informés que leur temps de parole a été réduit de 30 à 25 minutes."
 },
 {
 "id": "mt3-109",
@@ -4641,7 +5027,8 @@
 "sends"
 ],
 "correct": "to send",
-"explication": "« ask someone to + verbe »."
+"explication": "« ask someone to + verbe ».",
+"fr": "Je demanderai à mon assistant de vous envoyer les formulaires nécessaires à votre bureau."
 },
 {
 "id": "mt3-110",
@@ -4653,7 +5040,8 @@
 "her"
 ],
 "correct": "her",
-"explication": "Adjectif possessif devant un nom : her."
+"explication": "Adjectif possessif devant un nom : her.",
+"fr": "Mme Chang est très économe et achète la plupart de ses tailleurs dans de grands magasins discount."
 },
 {
 "id": "mt3-111",
@@ -4665,7 +5053,8 @@
 "seeing"
 ],
 "correct": "to see",
-"explication": "« difficult to + verbe »."
+"explication": "« difficult to + verbe ».",
+"fr": "Avec autant de pollution lumineuse en ville, il est difficile de voir beaucoup d'étoiles la nuit."
 },
 {
 "id": "mt3-112",
@@ -4677,7 +5066,8 @@
 "appreciated"
 ],
 "correct": "required",
-"explication": "« be required to » = être tenu de."
+"explication": "« be required to » = être tenu de.",
+"fr": "Une fois tous les trois mois, tous les employés de la réserve doivent travailler la nuit pour faire l'inventaire."
 },
 {
 "id": "mt3-113",
@@ -4689,7 +5079,8 @@
 "be"
 ],
 "correct": "is",
-"explication": "Sujet « variety » singulier : is."
+"explication": "Sujet « variety » singulier : is.",
+"fr": "La variété des avantages d'assurance est très large avec ce contrat."
 },
 {
 "id": "mt3-114",
@@ -4701,7 +5092,8 @@
 "discern"
 ],
 "correct": "acknowledge",
-"explication": "« acknowledge achievements » = reconnaître des réussites."
+"explication": "« acknowledge achievements » = reconnaître des réussites.",
+"fr": "Le but du banquet de remise des prix est de reconnaître les nombreuses réussites de notre personnel talentueux."
 },
 {
 "id": "mt3-115",
@@ -4713,7 +5105,8 @@
 "beside"
 ],
 "correct": "beside",
-"explication": "« beside the bus » = à côté du bus."
+"explication": "« beside the bus » = à côté du bus.",
+"fr": "Veuillez laisser vos bagages à côté du bus pour que le chauffeur les charge."
 },
 {
 "id": "mt3-116",
@@ -4725,7 +5118,8 @@
 "premium"
 ],
 "correct": "minimum",
-"explication": "« a minimum of » = un minimum de."
+"explication": "« a minimum of » = un minimum de.",
+"fr": "L'hôtel propose une réduction aux clients qui séjournent au minimum trois nuits."
 },
 {
 "id": "mt3-117",
@@ -4737,7 +5131,8 @@
 "would not sell"
 ],
 "correct": "would not sell",
-"explication": "2e conditionnel : would not sell."
+"explication": "2e conditionnel : would not sell.",
+"fr": "Si nous n'étions pas certains de la sécurité du produit, nous ne le vendrions pas."
 },
 {
 "id": "mt3-118",
@@ -4749,7 +5144,8 @@
 "explaining"
 ],
 "correct": "explains",
-"explication": "Verbe au présent, sujet singulier."
+"explication": "Verbe au présent, sujet singulier.",
+"fr": "Le manuel de l'entreprise explique les règles du service en matière de relations avec les clients."
 },
 {
 "id": "mt3-119",
@@ -4761,7 +5157,8 @@
 "customer"
 ],
 "correct": "manufacturer",
-"explication": "« on backorder with the manufacturer »."
+"explication": "« on backorder with the manufacturer ».",
+"fr": "Le modèle 34 est en rupture chez le fabricant et n'arrivera probablement pas avant le printemps."
 },
 {
 "id": "mt3-120",
@@ -4773,7 +5170,8 @@
 "except"
 ],
 "correct": "only",
-"explication": "« only consider » = ne considérera que."
+"explication": "« only consider » = ne considérera que.",
+"fr": "M. Larsen dit qu'il ne considérera que d'anciens militaires pour le poste de contremaître."
 },
 {
 "id": "mt3-121",
@@ -4785,7 +5183,8 @@
 "Even though"
 ],
 "correct": "Even though",
-"explication": "« Even though » = bien que."
+"explication": "« Even though » = bien que.",
+"fr": "Même si nous avons vérifié le budget deux fois, les responsables ont trouvé une erreur dans nos calculs."
 },
 {
 "id": "mt3-122",
@@ -4797,7 +5196,8 @@
 "single"
 ],
 "correct": "himself",
-"explication": "« by himself » = tout seul."
+"explication": "« by himself » = tout seul.",
+"fr": "Tout le monde étant parti tôt du bureau, Harry a dû terminer le rapport tout seul."
 },
 {
 "id": "mt3-123",
@@ -4809,7 +5209,8 @@
 "received"
 ],
 "correct": "were received",
-"explication": "Voix passive : were received."
+"explication": "Voix passive : were received.",
+"fr": "Les prévisions économiques d'Ethel pour l'année à venir ont été accueillies avec un certain scepticisme par ses collègues."
 },
 {
 "id": "mt3-124",
@@ -4821,7 +5222,8 @@
 "which"
 ],
 "correct": "who",
-"explication": "Pronom relatif sujet pour les personnes : who."
+"explication": "Pronom relatif sujet pour les personnes : who.",
+"fr": "Les médecins qui viennent d'obtenir leur diplôme utilisent le site Web de l'association médicale pour trouver du travail."
 },
 {
 "id": "mt3-125",
@@ -4833,7 +5235,8 @@
 "among"
 ],
 "correct": "between",
-"explication": "« between » : deux éléments."
+"explication": "« between » : deux éléments.",
+"fr": "La seule différence entre les deux vols suggérés par votre assistant est l'heure de départ."
 },
 {
 "id": "mt3-126",
@@ -4845,7 +5248,8 @@
 "Although"
 ],
 "correct": "In spite of",
-"explication": "« In spite of » + nom = malgré."
+"explication": "« In spite of » + nom = malgré.",
+"fr": "Malgré une planification soigneuse, les traiteurs n'ont pas apporté assez de nappes pour les tables."
 },
 {
 "id": "mt3-127",
@@ -4857,7 +5261,8 @@
 "organize"
 ],
 "correct": "organizing",
-"explication": "« responsible for + gérondif »."
+"explication": "« responsible for + gérondif ».",
+"fr": "Le chef de projet est responsable de l'organisation de chaque étape du projet."
 },
 {
 "id": "mt3-128",
@@ -4869,7 +5274,8 @@
 "decide"
 ],
 "correct": "has decided",
-"explication": "Sujet singulier : has decided."
+"explication": "Sujet singulier : has decided.",
+"fr": "Le responsable des comptes a décidé d'assister à la réunion client de demain."
 },
 {
 "id": "mt3-129",
@@ -4881,7 +5287,8 @@
 "to"
 ],
 "correct": "than",
-"explication": "Comparatif : better than."
+"explication": "Comparatif : better than.",
+"fr": "Le message promotionnel doit souligner que notre produit est meilleur que tous les produits similaires du marché."
 },
 {
 "id": "mt3-130",
@@ -4893,7 +5300,8 @@
 "to present"
 ],
 "correct": "to present",
-"explication": "« prepare to + verbe »."
+"explication": "« prepare to + verbe ».",
+"fr": "M. Kim a passé la majeure partie de la semaine à préparer la présentation de sa nouvelle idée au directeur."
 },
 {
 "id": "mt3-131",
@@ -4905,7 +5313,8 @@
 "We"
 ],
 "correct": "It",
-"explication": "« It » = la brochure."
+"explication": "« It » = la brochure.",
+"fr": "Merci d'envisager de faire appel à Green Office Renovators. La brochure jointe explique nos matériaux. Elle présente aussi les services que nous proposons."
 },
 {
 "id": "mt3-132",
@@ -4917,7 +5326,8 @@
 "are requiring"
 ],
 "correct": "requires",
-"explication": "Sujet singulier : requires."
+"explication": "Sujet singulier : requires.",
+"fr": "Veuillez noter que Green Office Renovators exige un acompte minimum avant de pouvoir commencer un projet."
 },
 {
 "id": "mt3-133",
@@ -4929,7 +5339,8 @@
 "However, they save money in the long run"
 ],
 "correct": "However, they save money in the long run",
-"explication": "« However » oppose le coût élevé aux économies futures."
+"explication": "« However » oppose le coût élevé aux économies futures.",
+"fr": "Les coûts initiaux d'installation de systèmes économes en énergie peuvent être élevés. Cependant, ils permettent d'économiser de l'argent à long terme."
 },
 {
 "id": "mt3-134",
@@ -4941,7 +5352,8 @@
 "knowledge of"
 ],
 "correct": "concern for",
-"explication": "« concern for the environment » = souci de l'environnement."
+"explication": "« concern for the environment » = souci de l'environnement.",
+"fr": "Les statistiques montrent que les entreprises qui témoignent de leur souci de l'environnement sont plus populaires auprès des clients."
 },
 {
 "id": "mt4-101",
@@ -4953,7 +5365,8 @@
 "are canceling"
 ],
 "correct": "will cancel",
-"explication": "1er conditionnel : if + présent, will + base."
+"explication": "1er conditionnel : if + présent, will + base.",
+"fr": "Si le temps est encore pire demain, nous annulerons le déjeuner avec le client."
 },
 {
 "id": "mt4-102",
@@ -4965,7 +5378,8 @@
 "when"
 ],
 "correct": "until",
-"explication": "« until » = jusqu'à ce que."
+"explication": "« until » = jusqu'à ce que.",
+"fr": "Nous ne pouvons pas traiter la commande avant d'avoir reçu un exemplaire du bon de commande."
 },
 {
 "id": "mt4-103",
@@ -4977,7 +5391,8 @@
 "remark"
 ],
 "correct": "recall",
-"explication": "« recall » = se rappeler."
+"explication": "« recall » = se rappeler.",
+"fr": "Bien qu'il ait rencontré beaucoup de nouvelles personnes à la fête, William a pu se rappeler tous leurs noms."
 },
 {
 "id": "mt4-104",
@@ -4989,7 +5404,8 @@
 "enclosed"
 ],
 "correct": "enclosed",
-"explication": "Participe passé adjectif : the enclosed envelope."
+"explication": "Participe passé adjectif : the enclosed envelope.",
+"fr": "Après avoir rempli le questionnaire, utilisez l'enveloppe jointe pour nous le retourner."
 },
 {
 "id": "mt4-105",
@@ -5001,7 +5417,8 @@
 "lawyer"
 ],
 "correct": "advice",
-"explication": "« source for advice » = source de conseils."
+"explication": "« source for advice » = source de conseils.",
+"fr": "Lorsque vous achetez une maison, un agent immobilier agréé est votre meilleure source de conseils."
 },
 {
 "id": "mt4-106",
@@ -5013,7 +5430,8 @@
 "point"
 ],
 "correct": "find",
-"explication": "« find out » = découvrir."
+"explication": "« find out » = découvrir.",
+"fr": "Consultez le site Web du service de livraison pour savoir quand le colis sera livré."
 },
 {
 "id": "mt4-107",
@@ -5025,7 +5443,8 @@
 "even out"
 ],
 "correct": "decrease",
-"explication": "Baisse des prix du pétrole → decrease."
+"explication": "Baisse des prix du pétrole → decrease.",
+"fr": "En raison de la baisse des prix du pétrole, le coût de nos matières premières devrait diminuer."
 },
 {
 "id": "mt4-108",
@@ -5037,7 +5456,8 @@
 "effectively"
 ],
 "correct": "effective",
-"explication": "Adjectif devant « way » : effective."
+"explication": "Adjectif devant « way » : effective.",
+"fr": "Utiliser une liste de contrôle est un moyen efficace de planifier."
 },
 {
 "id": "mt4-109",
@@ -5049,7 +5469,8 @@
 "but"
 ],
 "correct": "but",
-"explication": "« but » exprime l'opposition."
+"explication": "« but » exprime l'opposition.",
+"fr": "Le déjeuner a été commandé, mais le livreur n'est pas encore arrivé."
 },
 {
 "id": "mt4-110",
@@ -5061,7 +5482,8 @@
 "from"
 ],
 "correct": "with",
-"explication": "« busy with » = occupé avec."
+"explication": "« busy with » = occupé avec.",
+"fr": "Il est presque impossible de prendre rendez-vous avec Mme Grimm à cette période de l'année, car elle est occupée avec le rapport annuel."
 },
 {
 "id": "mt4-111",
@@ -5073,7 +5495,8 @@
 "is going"
 ],
 "correct": "is going",
-"explication": "Sujet singulier : is going."
+"explication": "Sujet singulier : is going.",
+"fr": "Le directeur des opérations se rend au congrès et sera absent de l'usine toute la semaine."
 },
 {
 "id": "mt4-112",
@@ -5085,7 +5508,8 @@
 "represents"
 ],
 "correct": "representative",
-"explication": "« a sales representative » = un commercial."
+"explication": "« a sales representative » = un commercial.",
+"fr": "Les clients peuvent parler à un commercial en appelant notre numéro vert."
 },
 {
 "id": "mt4-113",
@@ -5097,7 +5521,8 @@
 "on"
 ],
 "correct": "in",
-"explication": "« in their rooms » = dans leurs chambres."
+"explication": "« in their rooms » = dans leurs chambres.",
+"fr": "Les clients trouveront dans leur chambre un annuaire téléphonique et un classeur d'informations sur les attractions locales."
 },
 {
 "id": "mt4-114",
@@ -5109,7 +5534,8 @@
 "Or"
 ],
 "correct": "Neither",
-"explication": "« Neither ... nor » = ni ... ni."
+"explication": "« Neither ... nor » = ni ... ni.",
+"fr": "Ni fumer ni prendre de photos avec flash n'est autorisé à l'intérieur du musée."
 },
 {
 "id": "mt4-115",
@@ -5121,7 +5547,8 @@
 "write"
 ],
 "correct": "write",
-"explication": "« have someone + base verbale »."
+"explication": "« have someone + base verbale ».",
+"fr": "Dans le cadre de son évaluation annuelle, le superviseur a demandé à Mme Balla de noter ses responsabilités."
 },
 {
 "id": "mt4-116",
@@ -5133,7 +5560,8 @@
 "requests"
 ],
 "correct": "mandates",
-"explication": "« mandate » = imposer par la loi."
+"explication": "« mandate » = imposer par la loi.",
+"fr": "La loi de l'État impose aux résidents de changer l'adresse de leur permis de conduire dans les 30 jours suivant leur déménagement."
 },
 {
 "id": "mt4-117",
@@ -5145,7 +5573,8 @@
 "attempts"
 ],
 "correct": "tends",
-"explication": "« tend to » = avoir tendance à."
+"explication": "« tend to » = avoir tendance à.",
+"fr": "Glenda a tendance à arriver en retard au travail, mais elle rattrape le temps en restant tard ou en travaillant le week-end."
 },
 {
 "id": "mt4-118",
@@ -5157,7 +5586,8 @@
 "campaign"
 ],
 "correct": "campaign",
-"explication": "« marketing campaign » = campagne marketing."
+"explication": "« marketing campaign » = campagne marketing.",
+"fr": "Nous espérons que la nouvelle campagne marketing du programme de recyclage du comté encouragera les habitants à y participer."
 },
 {
 "id": "mt4-119",
@@ -5169,7 +5599,8 @@
 "they're"
 ],
 "correct": "their",
-"explication": "Adjectif possessif : their travel agent."
+"explication": "Adjectif possessif : their travel agent.",
+"fr": "M. et Mme Xiao ont décidé de séjourner à l'hôtel que leur agent de voyages avait suggéré."
 },
 {
 "id": "mt4-120",
@@ -5181,7 +5612,8 @@
 "repairs"
 ],
 "correct": "repairs",
-"explication": "« brought in for repairs » = apporté en réparation."
+"explication": "« brought in for repairs » = apporté en réparation.",
+"fr": "Le YRTL-32 est notre modèle le plus fiable, surtout parce qu'il est très rarement apporté en réparation."
 },
 {
 "id": "mt4-121",
@@ -5193,7 +5625,8 @@
 "dial"
 ],
 "correct": "code",
-"explication": "« the code » = le code d'accès."
+"explication": "« the code » = le code d'accès.",
+"fr": "Le code pour entrer dans le bâtiment est 4-5-2-6."
 },
 {
 "id": "mt4-122",
@@ -5205,7 +5638,8 @@
 "to form"
 ],
 "correct": "forming",
-"explication": "« suggest + gérondif »."
+"explication": "« suggest + gérondif ».",
+"fr": "M. Phelps a suggéré de former un comité chargé d'étudier quel type de camions nous devrions ajouter à notre flotte."
 },
 {
 "id": "mt4-123",
@@ -5217,7 +5651,8 @@
 "gave"
 ],
 "correct": "to give",
-"explication": "« ask someone to + verbe »."
+"explication": "« ask someone to + verbe ».",
+"fr": "Les ressources humaines demandent aux employés de donner un mois de préavis lorsqu'ils quittent leur emploi."
 },
 {
 "id": "mt4-124",
@@ -5229,7 +5664,8 @@
 "current as"
 ],
 "correct": "current than",
-"explication": "Comparatif : more current than."
+"explication": "Comparatif : more current than.",
+"fr": "Cette liste de contributeurs est plus à jour que celle du serveur informatique."
 },
 {
 "id": "mt4-125",
@@ -5241,7 +5677,8 @@
 "once"
 ],
 "correct": "because",
-"explication": "« because » = parce que."
+"explication": "« because » = parce que.",
+"fr": "Stuart ne peut pas utiliser sa carte de crédit professionnelle parce qu'elle a été volée avec son portefeuille pendant qu'il était à Londres."
 },
 {
 "id": "mt4-126",
@@ -5253,7 +5690,8 @@
 "to review"
 ],
 "correct": "review",
-"explication": "Subjonctif après « request that » : base verbale."
+"explication": "Subjonctif après « request that » : base verbale.",
+"fr": "Le capitaine du navire demande que tous les passagers revoient les procédures d'urgence."
 },
 {
 "id": "mt4-127",
@@ -5265,7 +5703,8 @@
 "who"
 ],
 "correct": "who",
-"explication": "Pronom relatif sujet pour une personne : who."
+"explication": "Pronom relatif sujet pour une personne : who.",
+"fr": "La personne qui a perdu une mallette peut la récupérer dans le hall."
 },
 {
 "id": "mt4-128",
@@ -5277,7 +5716,8 @@
 "as confused as"
 ],
 "correct": "as confusing as",
-"explication": "Égalité : as + adjectif + as."
+"explication": "Égalité : as + adjectif + as.",
+"fr": "Cette note sur le nouveau planning est aussi confuse que celle que vous avez préparée hier."
 },
 {
 "id": "mt4-129",
@@ -5289,7 +5729,8 @@
 "has known"
 ],
 "correct": "knew",
-"explication": "Prétérit : knew (avant l'annonce)."
+"explication": "Prétérit : knew (avant l'annonce).",
+"fr": "Mme Friel était au courant de sa promotion avant qu'elle soit annoncée."
 },
 {
 "id": "mt4-130",
@@ -5301,7 +5742,8 @@
 "will call"
 ],
 "correct": "call",
-"explication": "Impératif : call."
+"explication": "Impératif : call.",
+"fr": "Appelez-moi à tout moment si vous avez la moindre question sur le logiciel."
 },
 {
 "id": "mt4-131",
@@ -5313,7 +5755,8 @@
 "We received your mail-in rebate card this week"
 ],
 "correct": "We received your mail-in rebate card this week",
-"explication": "La suite parle du rabais reçu : la carte de remise."
+"explication": "La suite parle du rabais reçu : la carte de remise.",
+"fr": "Merci d'avoir acheté les enceintes numériques USB XY40. Nous avons reçu cette semaine votre carte de remise par courrier."
 },
 {
 "id": "mt4-132",
@@ -5325,7 +5768,8 @@
 "transferred"
 ],
 "correct": "expired",
-"explication": "« expire » = arriver à expiration."
+"explication": "« expire » = arriver à expiration.",
+"fr": "Malheureusement, nous ne pourrons pas l'honorer car l'offre de remise avait déjà expiré au moment où vous l'avez postée."
 },
 {
 "id": "mt4-133",
@@ -5337,7 +5781,8 @@
 "will offer"
 ],
 "correct": "to offer",
-"explication": "« would like to + verbe »."
+"explication": "« would like to + verbe ».",
+"fr": "Nous tenons à votre fidélité et, à la place de la remise, nous aimerions vous offrir un carnet de coupons."
 },
 {
 "id": "mt4-134",
@@ -5349,7 +5794,8 @@
 "instructions"
 ],
 "correct": "discounts",
-"explication": "« discounts » : lien avec les coupons."
+"explication": "« discounts » : lien avec les coupons.",
+"fr": "Vous trouverez de belles réductions sur beaucoup de nos produits, y compris notre nouveau téléphone avec haut-parleur."
 },
 {
 "id": "mt5-101",
@@ -5361,7 +5807,8 @@
 "have begun"
 ],
 "correct": "begins",
-"explication": "Sujet singulier (registration) : begins."
+"explication": "Sujet singulier (registration) : begins.",
+"fr": "Les inscriptions aux ateliers de formation informatique commencent la première semaine d'avril."
 },
 {
 "id": "mt5-102",
@@ -5373,7 +5820,8 @@
 "retreated"
 ],
 "correct": "resigned",
-"explication": "« resign from a position » = démissionner."
+"explication": "« resign from a position » = démissionner.",
+"fr": "ColPro, Inc. a annoncé hier que Priscilla Perkins a démissionné de son poste de directrice financière après quinze ans dans l'entreprise."
 },
 {
 "id": "mt5-103",
@@ -5385,7 +5833,8 @@
 "but"
 ],
 "correct": "if",
-"explication": "« let someone know if » = prévenir si."
+"explication": "« let someone know if » = prévenir si.",
+"fr": "Il est de votre responsabilité de prévenir votre supérieur si vous ne pouvez pas assister à la réunion du personnel de la semaine prochaine."
 },
 {
 "id": "mt5-104",
@@ -5397,7 +5846,8 @@
 "employ"
 ],
 "correct": "renew",
-"explication": "« renew a contract » = renouveler un contrat."
+"explication": "« renew a contract » = renouveler un contrat.",
+"fr": "Je ne compte pas renouveler mon contrat avec l'entreprise l'an prochain, à moins qu'elle ne soit disposée à discuter d'une augmentation."
 },
 {
 "id": "mt5-105",
@@ -5409,7 +5859,8 @@
 "be signed"
 ],
 "correct": "be signed",
-"explication": "Voix passive avec modal : must be signed."
+"explication": "Voix passive avec modal : must be signed.",
+"fr": "L'accord doit être signé par les deux parties avant que les travaux du projet puissent commencer."
 },
 {
 "id": "mt5-106",
@@ -5421,7 +5872,8 @@
 "this"
 ],
 "correct": "another",
-"explication": "« another » = un autre."
+"explication": "« another » = un autre.",
+"fr": "Le responsable de bureau a décidé d'acheter une nouvelle imprimante pour le service marketing et une autre pour l'accueil."
 },
 {
 "id": "mt5-107",
@@ -5433,7 +5885,8 @@
 "Due"
 ],
 "correct": "Because",
-"explication": "« Because of » = à cause de."
+"explication": "« Because of » = à cause de.",
+"fr": "En raison de l'augmentation des loyers dans ce quartier, Apex Market envisage de déménager dans une autre partie de la ville."
 },
 {
 "id": "mt5-108",
@@ -5445,7 +5898,8 @@
 "combine"
 ],
 "correct": "gather",
-"explication": "« gather » = se rassembler."
+"explication": "« gather » = se rassembler.",
+"fr": "Les membres du personnel prévoient de se retrouver dans le hall à 17 h pour une petite fête en l'honneur du départ à la retraite de Martha."
 },
 {
 "id": "mt5-109",
@@ -5457,7 +5911,8 @@
 "reviewed"
 ],
 "correct": "review",
-"explication": "Après « should » : base verbale."
+"explication": "Après « should » : base verbale.",
+"fr": "Vous devriez toujours relire attentivement votre travail avant de le remettre à votre supérieur."
 },
 {
 "id": "mt5-110",
@@ -5469,7 +5924,8 @@
 "over"
 ],
 "correct": "from",
-"explication": "« an answer from the client » = une réponse du client."
+"explication": "« an answer from the client » = une réponse du client.",
+"fr": "Les directeurs s'attendent à recevoir une réponse du client avant la fin de la semaine."
 },
 {
 "id": "mt5-111",
@@ -5481,7 +5937,8 @@
 "investment"
 ],
 "correct": "investment",
-"explication": "Nom après « a sound » : investment."
+"explication": "Nom après « a sound » : investment.",
+"fr": "Un bon investissement dans l'amélioration des installations de production aujourd'hui se traduira par une hausse des bénéfices dans les prochaines années."
 },
 {
 "id": "mt5-112",
@@ -5493,7 +5950,8 @@
 "generated"
 ],
 "correct": "motivated",
-"explication": "« motivate someone to » = inciter à."
+"explication": "« motivate someone to » = inciter à.",
+"fr": "La hausse du coût du carburant a incité de nombreuses entreprises à rechercher des sources d'énergie alternatives pour leurs installations."
 },
 {
 "id": "mt5-113",
@@ -5505,7 +5963,8 @@
 "about"
 ],
 "correct": "in",
-"explication": "« result in » = aboutir à."
+"explication": "« result in » = aboutir à.",
+"fr": "Une annonce publiée sur le site Web de l'entreprise a suscité des centaines de candidatures pour le poste vacant."
 },
 {
 "id": "mt5-114",
@@ -5517,7 +5976,8 @@
 "usually"
 ],
 "correct": "largely",
-"explication": "« largely due to » = en grande partie dû à."
+"explication": "« largely due to » = en grande partie dû à.",
+"fr": "La faible participation à la conférence d'affaires du mois dernier était en grande partie due au mauvais temps."
 },
 {
 "id": "mt5-115",
@@ -5529,7 +5989,8 @@
 "dislike"
 ],
 "correct": "likely",
-"explication": "« be likely to » = être susceptible de."
+"explication": "« be likely to » = être susceptible de.",
+"fr": "Selon les prévisionnistes économiques, une hausse importante des coûts de transport est susceptible de se produire au prochain trimestre."
 },
 {
 "id": "mt5-116",
@@ -5541,7 +6002,8 @@
 "had made"
 ],
 "correct": "making",
-"explication": "« before + gérondif »."
+"explication": "« before + gérondif ».",
+"fr": "Vous devriez prendre le temps d'en discuter avec vos collègues avant de prendre une décision finale."
 },
 {
 "id": "mt5-117",
@@ -5553,7 +6015,8 @@
 "availability"
 ],
 "correct": "availability",
-"explication": "Nom après « requires » : availability."
+"explication": "Nom après « requires » : availability.",
+"fr": "Il s'agit d'un poste à temps partiel, mais il exige de la disponibilité en soirée ainsi que certains week-ends."
 },
 {
 "id": "mt5-118",
@@ -5565,7 +6028,8 @@
 "huge"
 ],
 "correct": "slight",
-"explication": "« a slight chance » = une faible chance."
+"explication": "« a slight chance » = une faible chance.",
+"fr": "Il y a une faible chance que l'entreprise augmente les salaires cette année, mais ce n'est pas probable."
 },
 {
 "id": "mt5-119",
@@ -5577,7 +6041,8 @@
 "Therefore"
 ],
 "correct": "Although",
-"explication": "« Although » = bien que."
+"explication": "« Although » = bien que.",
+"fr": "Bien que nous ayons embauché plusieurs nouveaux ouvriers à l'usine, nous ne parvenons toujours pas à atteindre nos quotas hebdomadaires."
 },
 {
 "id": "mt5-120",
@@ -5589,7 +6054,8 @@
 "took over"
 ],
 "correct": "showed up",
-"explication": "« show up » = se présenter."
+"explication": "« show up » = se présenter.",
+"fr": "La réunion du conseil d'administration a dû être annulée à la dernière minute parce que très peu de gens s'y sont présentés."
 },
 {
 "id": "mt5-121",
@@ -5601,7 +6067,8 @@
 "economics"
 ],
 "correct": "economize",
-"explication": "Verbe après « to » : economize."
+"explication": "Verbe après « to » : economize.",
+"fr": "Nous devrons faire des économies dans plusieurs domaines si nous voulons respecter le budget."
 },
 {
 "id": "mt5-122",
@@ -5613,7 +6080,8 @@
 "which"
 ],
 "correct": "who",
-"explication": "Pronom relatif sujet : who."
+"explication": "Pronom relatif sujet : who.",
+"fr": "On nous a assuré que la personne qui anime l'atelier est une experte en finance internationale."
 },
 {
 "id": "mt5-123",
@@ -5625,7 +6093,8 @@
 "dignify"
 ],
 "correct": "notify",
-"explication": "« notify » = informer."
+"explication": "« notify » = informer.",
+"fr": "Si vous acceptez une offre d'emploi d'une autre entreprise, veuillez en informer le directeur du personnel dès que possible."
 },
 {
 "id": "mt5-124",
@@ -5637,7 +6106,8 @@
 "wait"
 ],
 "correct": "is waiting",
-"explication": "« everybody » + verbe singulier."
+"explication": "« everybody » + verbe singulier.",
+"fr": "Tout le monde attend de savoir si un accord sur le nouveau contrat a été conclu."
 },
 {
 "id": "mt5-125",
@@ -5649,7 +6119,8 @@
 "negotiable"
 ],
 "correct": "negotiable",
-"explication": "Adjectif après « is » : negotiable."
+"explication": "Adjectif après « is » : negotiable.",
+"fr": "Vous n'êtes pas obligé d'accepter une première offre de salaire, car elle est presque toujours négociable."
 },
 {
 "id": "mt5-126",
@@ -5661,7 +6132,8 @@
 "would have seen"
 ],
 "correct": "had seen",
-"explication": "3e conditionnel : if + past perfect."
+"explication": "3e conditionnel : if + past perfect.",
+"fr": "Je me serais inscrit à cet atelier si je l'avais vu au programme."
 },
 {
 "id": "mt5-127",
@@ -5673,7 +6145,8 @@
 "accent"
 ],
 "correct": "except",
-"explication": "« except » = sauf."
+"explication": "« except » = sauf.",
+"fr": "Tout le monde dans le service, sauf M. Hammersmith, était présent au banquet de remise des prix hier soir."
 },
 {
 "id": "mt5-128",
@@ -5685,7 +6158,8 @@
 "faster than"
 ],
 "correct": "faster than",
-"explication": "Comparatif devant « the one » : faster than."
+"explication": "Comparatif devant « the one » : faster than.",
+"fr": "Nous avons choisi ce photocopieur parce qu'il est bien plus rapide que celui qu'il remplace."
 },
 {
 "id": "mt5-129",
@@ -5697,7 +6171,8 @@
 "herself"
 ],
 "correct": "her",
-"explication": "Pronom objet : call her."
+"explication": "Pronom objet : call her.",
+"fr": "Mme Soto aimerait que vous la rappeliez avant 17 h cet après-midi."
 },
 {
 "id": "mt5-130",
@@ -5709,7 +6184,8 @@
 "selection"
 ],
 "correct": "select",
-"explication": "Après « could » : base verbale."
+"explication": "Après « could » : base verbale.",
+"fr": "Nous avons demandé au concepteur de proposer plusieurs options afin de pouvoir choisir la meilleure."
 },
 {
 "id": "mt5-131",
@@ -5721,7 +6197,8 @@
 "its self"
 ],
 "correct": "itself",
-"explication": "« the list itself » = la liste elle-même."
+"explication": "« the list itself » = la liste elle-même.",
+"fr": "Nous avons un problème avec notre liste de diffusion. Le problème ne vient pas de la liste elle-même, mais de la façon dont les gens peuvent s'inscrire."
 },
 {
 "id": "mt5-132",
@@ -5733,7 +6210,8 @@
 "will make"
 ],
 "correct": "to make",
-"explication": "« need to + verbe »."
+"explication": "« need to + verbe ».",
+"fr": "Le formulaire d'inscription est enfoui si loin sur notre site qu'il est impossible à trouver. Nous devons faciliter l'abonnement."
 },
 {
 "id": "mt5-133",
@@ -5745,7 +6223,8 @@
 "Our newsletter is enjoying widespread popularity"
 ],
 "correct": "One option might be to move the registration form to the home page",
-"explication": "La suite propose une solution au problème de visibilité du formulaire."
+"explication": "La suite propose une solution au problème de visibilité du formulaire.",
+"fr": "Je veux modifier légèrement le formulaire. Une option pourrait être de placer le formulaire d'inscription sur la page d'accueil."
 },
 {
 "id": "mt5-135",
@@ -5757,7 +6236,8 @@
 "our"
 ],
 "correct": "their",
-"explication": "Possessif pour « movers » : their."
+"explication": "Possessif pour « movers » : their.",
+"fr": "Même si ramasser et soulever des meubles est souvent leur option la plus rapide, je demande aux déménageurs d'envisager aussi de pousser les meubles lorsque c'est possible."
 },
 {
 "id": "mt5-137",
@@ -5769,7 +6249,8 @@
 "solidity"
 ],
 "correct": "solid",
-"explication": "Adjectif devant un nom : solid base."
+"explication": "Adjectif devant un nom : solid base.",
+"fr": "Veuillez utiliser des diables pour déplacer des piles de cartons et des meubles ayant une base solide."
 },
 {
 "id": "mt5-138",
@@ -5781,7 +6262,8 @@
 "Whomever"
 ],
 "correct": "Whichever",
-"explication": "« Whichever » = quelle que soit."
+"explication": "« Whichever » = quelle que soit.",
+"fr": "Quelle que soit l'option que vous choisissez, n'oubliez pas de ne pas salir l'intérieur de la maison du client."
 },
 {
 "id": "mt5-139",
@@ -5793,7 +6275,8 @@
 "petition"
 ],
 "correct": "application",
-"explication": "« job application » = candidature."
+"explication": "« job application » = candidature.",
+"fr": "Nous avons bien reçu votre candidature et votre CV. Merci de l'intérêt que vous portez à notre entreprise."
 },
 {
 "id": "mt5-140",
@@ -5805,7 +6288,8 @@
 "vacated"
 ],
 "correct": "vacant",
-"explication": "« vacant positions » = postes vacants."
+"explication": "« vacant positions » = postes vacants.",
+"fr": "Malheureusement, nous n'avons actuellement aucun poste vacant pour lequel vous seriez qualifié."
 },
 {
 "id": "mt5-141",
@@ -5817,6 +6301,7 @@
 "Even though"
 ],
 "correct": "While",
-"explication": "« While » = bien que (début de phrase)."
+"explication": "« While » = bien que (début de phrase).",
+"fr": "Même si nous n'avons actuellement pas de poste pour vous, nous conserverons vos coordonnées dans nos dossiers."
 }
 ]

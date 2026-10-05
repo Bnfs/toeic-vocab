@@ -268,3 +268,8 @@ body {
 .chrono.urgent { color: #dc2626; animation: clignote 1s infinite; }
 @keyframes clignote { 50% { opacity: 0.5; } }
 .option-btn.choisie { border-color: #1e3a8a; background: #dbeafe; }
+
+/* ── Phrase complète + traduction ── */
+.phrase-complete { margin-top: 12px; padding: 10px 12px; background: #f0f9ff; border-radius: 8px; font-size: 0.9rem; line-height: 1.5; text-align: left; }
+.phrase-complete p { margin: 2px 0; }
+.recap-item .phrase-complete { flex-basis: 100%; }

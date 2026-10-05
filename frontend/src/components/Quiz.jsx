@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { api } from "../api";
+import PhraseComplete from "./PhraseComplete";
 
 export default function Quiz() {
   const [etape, setEtape] = useState("config"); // config | quiz | resultat
@@ -192,7 +193,7 @@ export default function Quiz() {
           })}
         </div>
         {choix !== null && (question.type === "trou" || question.type === "part5") && (
-          <p className="fiche-aide" style={{ marginTop: 12 }}>💡 {question.traduction}</p>
+          <PhraseComplete q={question} />
         )}
         <div className="quiz-nav">
           <button className="btn-precedent" onClick={precedent} disabled={index === 0}>

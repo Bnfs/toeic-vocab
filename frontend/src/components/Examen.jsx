@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { api } from "../api";
+import PhraseComplete from "./PhraseComplete";
 
 const SEC_PAR_QUESTION = 30;
 
@@ -94,6 +95,7 @@ export default function Examen() {
                 <span className="recap-icon">{ok ? "✅" : "❌"}</span>
                 <span className="recap-mot">{q.type === "trou" || q.type === "part5" ? q.correct : q.anglais}</span>
                 <span className="recap-trad">→ {q.traduction}{!ok && reponses[i] ? ` (tu as répondu : ${reponses[i]})` : ""}</span>
+                {q.fr && <PhraseComplete q={q} />}
               </div>
             );
           })}
