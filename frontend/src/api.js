@@ -60,7 +60,8 @@ function melanger(arr) {
 }
 
 const CATEGORIE_DE = new Map(VOCAB.map(m => [m.id, m.categorie]));
-const TROUS = new Map(CLOZE.map(c => [c.id, c]));
+const TROUS = new Map();
+CLOZE.forEach(c => TROUS.set(c.id, [...(TROUS.get(c.id) || []), c]));
 
 function questionTraduction(mot, tous) {
   const mauvaises = melanger(tous.filter(m => m.id !== mot.id)).slice(0, 3);
@@ -91,7 +92,7 @@ function questionInverse(mot, tous) {
 
 // Distracteurs : autres mots à trous de même nature grammaticale, de préférence du même thème
 function questionTrou(mot) {
-  const c = TROUS.get(mot.id);
+  const c = TROUS.get(mot.id)[Math.floor(Math.random() * TROUS.get(mot.id).length)];
   const pool = melanger(CLOZE.filter(x => x.tag === c.tag && x.id !== c.id && x.reponse !== c.reponse))
     .sort((a, b) => (CATEGORIE_DE.get(a.id) !== mot.categorie) - (CATEGORIE_DE.get(b.id) !== mot.categorie));
   const mauvaises = [...new Set(pool.map(x => x.reponse))].slice(0, 3);
