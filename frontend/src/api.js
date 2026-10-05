@@ -75,6 +75,20 @@ function questionTraduction(mot, tous) {
   };
 }
 
+// Sens inverse : on affiche le français, on cherche l'anglais
+function questionInverse(mot, tous) {
+  const mauvaises = melanger(tous.filter(m => m.id !== mot.id && m.anglais !== mot.anglais)).slice(0, 3);
+  return {
+    mot_id: mot.id,
+    type: "inverse",
+    anglais: mot.francais,
+    options: melanger([...mauvaises.map(m => m.anglais), mot.anglais]),
+    correct: mot.anglais,
+    traduction: mot.anglais,
+    favori: mot.favori,
+  };
+}
+
 // Distracteurs : autres mots à trous de même nature grammaticale, de préférence du même thème
 function questionTrou(mot) {
   const c = TROUS.get(mot.id);
@@ -134,7 +148,7 @@ export const api = {
         : "Pas encore assez de mots difficiles : fais d'abord quelques quiz normaux.");
     }
     return melanger(candidats.slice(0, Math.min(n, candidats.length)))
-      .map(mot => questionTraduction(mot, tous));
+      .map(mot => (type === "inverse" ? questionInverse : questionTraduction)(mot, tous));
   }),
 
   // Examen blanc : mélange de phrases à trous et de traductions, tirés au hasard

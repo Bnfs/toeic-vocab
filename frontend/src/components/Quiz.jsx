@@ -6,7 +6,7 @@ export default function Quiz() {
   const [nbQuestions, setNbQuestions] = useState(10);
   const [categorie, setCategorie] = useState("");
   const [mode, setMode] = useState("normal"); // normal | difficiles | favoris
-  const [type, setType] = useState("traduction"); // traduction | trou
+  const [type, setType] = useState("traduction"); // traduction | inverse | trou
   const [favoris, setFavoris] = useState({}); // mot_id -> bool
   const [questions, setQuestions] = useState([]);
   const [index, setIndex] = useState(0);
@@ -84,7 +84,8 @@ export default function Quiz() {
       <div className="config-ligne">
         <label>Type de question</label>
         <div className="nb-select">
-          <button className={`nb-btn ${type === "traduction" ? "active" : ""}`} onClick={() => setType("traduction")}>🔤 Traduction</button>
+          <button className={`nb-btn ${type === "traduction" ? "active" : ""}`} onClick={() => setType("traduction")}>🔤 Anglais → Français</button>
+          <button className={`nb-btn ${type === "inverse" ? "active" : ""}`} onClick={() => setType("inverse")}>🔁 Français → Anglais</button>
           <button className={`nb-btn ${type === "trou" ? "active" : ""}`} onClick={() => setType("trou")}>✏️ Phrase à trous</button>
         </div>
       </div>
@@ -171,7 +172,8 @@ export default function Quiz() {
           {favoris[question.mot_id] ? "⭐" : "☆"}
         </button>
         <p className="question-label">
-          {question.type === "trou" ? "Complète la phrase" : "Quelle est la traduction ?"}
+          {question.type === "trou" ? "Complète la phrase"
+            : question.type === "inverse" ? "Comment dit-on en anglais ?" : "Quelle est la traduction ?"}
         </p>
         <h2 className={question.type === "trou" ? "question-phrase" : "question-mot"}>{question.anglais}</h2>
         <div className="options">

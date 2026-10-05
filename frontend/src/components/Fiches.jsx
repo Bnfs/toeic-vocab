@@ -11,6 +11,7 @@ export default function Fiches() {
   const [resultats, setResultats] = useState([]);
   const [erreur, setErreur] = useState("");
   const [favoris, setFavoris] = useState({});
+  const [inverse, setInverse] = useState(false); // false : anglais → français
 
   useEffect(() => { api.getCategories().then(setCategories); }, []);
 
@@ -58,6 +59,13 @@ export default function Fiches() {
         </div>
       </div>
       <div className="config-ligne">
+        <label>Sens</label>
+        <div className="nb-select">
+          <button className={`nb-btn ${!inverse ? "active" : ""}`} onClick={() => setInverse(false)}>Anglais → Français</button>
+          <button className={`nb-btn ${inverse ? "active" : ""}`} onClick={() => setInverse(true)}>🔁 Français → Anglais</button>
+        </div>
+      </div>
+      <div className="config-ligne">
         <label>Thème (optionnel)</label>
         <select value={categorie} onChange={e => setCategorie(e.target.value)}>
           <option value="">Tous les thèmes</option>
@@ -95,9 +103,9 @@ export default function Fiches() {
           {favoris[carte.id] ? "⭐" : "☆"}
         </button>
         <span className="badge-categorie">{carte.categorie}</span>
-        <h2 className="question-mot">{carte.anglais}</h2>
+        <h2 className="question-mot">{inverse ? carte.francais : carte.anglais}</h2>
         {retournee
-          ? <p className="fiche-reponse">{carte.francais}</p>
+          ? <p className="fiche-reponse">{inverse ? carte.anglais : carte.francais}</p>
           : <p className="fiche-aide">Touche la fiche pour voir la traduction</p>}
       </div>
       {retournee && (
