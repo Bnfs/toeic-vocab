@@ -3238,5 +3238,869 @@
 ],
 "correct": "vulnerable",
 "explication": "« vulnerable to » = sensible à (ici : peu résistant)."
+},
+{
+"id": "mt1-101",
+"phrase": "If the customer ___ not satisfied, please have him call the manager.",
+"options": [
+"am",
+"is",
+"are",
+"be"
+],
+"correct": "is",
+"explication": "Sujet singulier (the customer) : is."
+},
+{
+"id": "mt1-102",
+"phrase": "We ___ him to think things over carefully before agreeing to accept the new position.",
+"options": [
+"recommended",
+"suggested",
+"proposed",
+"advised"
+],
+"correct": "advised",
+"explication": "« advise someone to + verbe » = conseiller à quelqu'un de."
+},
+{
+"id": "mt1-103",
+"phrase": "Our boss plans to ___ a party in her home for several staff members who will retire this year.",
+"options": [
+"entertain",
+"invite",
+"host",
+"guest"
+],
+"correct": "host",
+"explication": "« host a party » = organiser une fête chez soi."
+},
+{
+"id": "mt1-104",
+"phrase": "The seminar was canceled because the invitations were not ___ in time.",
+"options": [
+"printer",
+"printed",
+"printing",
+"print"
+],
+"correct": "printed",
+"explication": "Voix passive : were not printed."
+},
+{
+"id": "mt1-105",
+"phrase": "If the waiter cannot handle your request, the captain ___ assist you.",
+"options": [
+"will",
+"has",
+"did",
+"is"
+],
+"correct": "will",
+"explication": "Futur dans la principale : will assist."
+},
+{
+"id": "mt1-106",
+"phrase": "Mr. Wong has been recognized by the local business community for his knowledge and ___.",
+"options": [
+"leading",
+"lead",
+"leadership",
+"leader"
+],
+"correct": "leadership",
+"explication": "Nom parallèle à « knowledge » : leadership."
+},
+{
+"id": "mt1-107",
+"phrase": "According to the most recent figures, our costs are expected to ___ by about five percent this year.",
+"options": [
+"ascend",
+"increase",
+"escalate",
+"raise"
+],
+"correct": "increase",
+"explication": "« increase » verbe intransitif (sans complément)."
+},
+{
+"id": "mt1-108",
+"phrase": "Any good business manager will tell you that ___ is the key to efficiency.",
+"options": [
+"organized",
+"organize",
+"organizer",
+"organization"
+],
+"correct": "organization",
+"explication": "Nom sujet : organization."
+},
+{
+"id": "mt1-109",
+"phrase": "They had to postpone the meeting with the client ___ Mr. Tan's plane was late.",
+"options": [
+"although",
+"while",
+"because",
+"with"
+],
+"correct": "because",
+"explication": "« because » = parce que (cause)."
+},
+{
+"id": "mt1-110",
+"phrase": "Any information that a client provides us with will be kept completely ___ and not shared with anyone outside the office.",
+"options": [
+"considerable",
+"confidential",
+"constructed",
+"conferred"
+],
+"correct": "confidential",
+"explication": "« kept confidential » = gardé confidentiel."
+},
+{
+"id": "mt1-111",
+"phrase": "By the time Mr. Sato ___ in San Diego, the convention will have already begun.",
+"options": [
+"arrives",
+"arrived",
+"has arrived",
+"will arrive"
+],
+"correct": "arrives",
+"explication": "« by the time » + présent pour le futur."
+},
+{
+"id": "mt1-112",
+"phrase": "Because Ms. Kimura has a long ___, she will always leave work at 5:30.",
+"options": [
+"commute",
+"commune",
+"community",
+"compost"
+],
+"correct": "commute",
+"explication": "« a long commute » = un long trajet domicile-travail."
+},
+{
+"id": "mt1-113",
+"phrase": "You'll find the restaurant on the next block, ___ the bank and the bookstore.",
+"options": [
+"among",
+"outside",
+"between",
+"through"
+],
+"correct": "between",
+"explication": "« between A and B » = entre A et B."
+},
+{
+"id": "mt1-114",
+"phrase": "We hope to begin interviewing ___ applicants by the end of next week.",
+"options": [
+"job",
+"occupation",
+"chore",
+"positioning"
+],
+"correct": "job",
+"explication": "« job applicants » = candidats à un poste."
+},
+{
+"id": "mt1-115",
+"phrase": "When you need supplies, ___ a request with the office manager.",
+"options": [
+"filling",
+"fell",
+"fallen",
+"file"
+],
+"correct": "file",
+"explication": "Impératif : file a request = déposer une demande."
+},
+{
+"id": "mt1-116",
+"phrase": "All cabin attendants must lock the cabin door ___ leaving the room.",
+"options": [
+"afterwards",
+"after",
+"later than",
+"late"
+],
+"correct": "after",
+"explication": "« after + gérondif » = après avoir."
+},
+{
+"id": "mt1-117",
+"phrase": "___ it was Mr. Guiton's birthday, his staff took him to lunch.",
+"options": [
+"Although",
+"During",
+"Because",
+"That"
+],
+"correct": "Because",
+"explication": "« Because » = parce que."
+},
+{
+"id": "mt1-118",
+"phrase": "In order to respect our guests' privacy, employees at the Palms Hotel are ___ to knock before entering rooms for any reason.",
+"options": [
+"requited",
+"required",
+"requisite",
+"repulsed"
+],
+"correct": "required",
+"explication": "« be required to » = être tenu de."
+},
+{
+"id": "mt1-119",
+"phrase": "The billing clerk was not able to find the invoice ___ the order.",
+"options": [
+"or",
+"and",
+"but",
+"though"
+],
+"correct": "or",
+"explication": "« not ... A or B » = ni A ni B."
+},
+{
+"id": "mt1-120",
+"phrase": "Before he wrote the check, Jim visited his bank's website to find out his account ___.",
+"options": [
+"size",
+"money",
+"supply",
+"balance"
+],
+"correct": "balance",
+"explication": "« account balance » = solde du compte."
+},
+{
+"id": "mt1-121",
+"phrase": "Please forward a copy of the report to Mr. Maxwell as soon as it becomes ___.",
+"options": [
+"avail",
+"available",
+"availability",
+"availing"
+],
+"correct": "available",
+"explication": "« become available » = devenir disponible."
+},
+{
+"id": "mt1-122",
+"phrase": "The bell captain suggested that more porters ___ hired.",
+"options": [
+"are",
+"have",
+"be",
+"do"
+],
+"correct": "be",
+"explication": "Subjonctif après « suggest that » : be hired."
+},
+{
+"id": "mt1-123",
+"phrase": "The ___ parking spaces for company employees are located on the first level of the parking garage.",
+"options": [
+"signed",
+"assignment",
+"assigned",
+"significant"
+],
+"correct": "assigned",
+"explication": "« assigned parking spaces » = places attribuées."
+},
+{
+"id": "mt1-124",
+"phrase": "You'll find all the association members listed in the directory in ___ order.",
+"options": [
+"alphabet",
+"alphabetize",
+"alphabetically",
+"alphabetical"
+],
+"correct": "alphabetical",
+"explication": "« in alphabetical order » = par ordre alphabétique."
+},
+{
+"id": "mt1-125",
+"phrase": "Raymond has been working on that account for just a few days, but he is ___ completely familiar with the client's background.",
+"options": [
+"yet",
+"since",
+"already",
+"soon"
+],
+"correct": "already",
+"explication": "« already » = déjà."
+},
+{
+"id": "mt1-126",
+"phrase": "Everyone seeking entry to the premises must ___ an identification card to the security guard.",
+"options": [
+"showed",
+"showing",
+"shows",
+"show"
+],
+"correct": "show",
+"explication": "Après « must » : verbe à l'infinitif."
+},
+{
+"id": "mt1-127",
+"phrase": "According to several studies, ___ tasks often lead to muscular fatigue and injury.",
+"options": [
+"repeat",
+"repetitive",
+"repetition",
+"repetitively"
+],
+"correct": "repetitive",
+"explication": "« repetitive tasks » = tâches répétitives."
+},
+{
+"id": "mt1-128",
+"phrase": "Visitors are reminded ___ name tags at all times.",
+"options": [
+"to wear",
+"wear",
+"be worn",
+"is wearing"
+],
+"correct": "to wear",
+"explication": "« be reminded to + verbe »."
+},
+{
+"id": "mt1-129",
+"phrase": "The position in the publicity department requires knowledge of foreign languages and ___ experience with international clients.",
+"options": [
+"exciting",
+"expectant",
+"exquisite",
+"extensive"
+],
+"correct": "extensive",
+"explication": "« extensive experience » = vaste expérience."
+},
+{
+"id": "mt1-130",
+"phrase": "The factory's policy is that visitors are ___ allowed to enter the manufacturing area without hard hats, for safety reasons.",
+"options": [
+"rare",
+"ever",
+"never",
+"no time"
+],
+"correct": "never",
+"explication": "« never allowed » = jamais autorisés."
+},
+{
+"id": "mt1-131",
+"phrase": "In accordance with international security regulations, passengers are not ___ to take the following items onto a plane.",
+"options": [
+"permitted",
+"permitting",
+"permits",
+"permission"
+],
+"correct": "permitted",
+"explication": "« be permitted to » = être autorisé à."
+},
+{
+"id": "mt1-132",
+"phrase": "Sports equipment ___ golf clubs, baseball bats, and skis may also be checked.",
+"options": [
+"so",
+"such as",
+"example",
+"instance"
+],
+"correct": "such as",
+"explication": "« such as » = tel que."
+},
+{
+"id": "mt1-133",
+"phrase": "When you pass through the ___ line, all bags will go through our X-ray machines.",
+"options": [
+"ticket",
+"arrival",
+"security",
+"reservations"
+],
+"correct": "security",
+"explication": "« security line » = file de contrôle de sécurité."
+},
+{
+"id": "mt1-135",
+"phrase": "A heavy advertising campaign began this week, with several computer ___ placing ads on TV, radio, newspapers, and the Internet.",
+"options": [
+"manufacturers",
+"purchasers",
+"consumers",
+"trainers"
+],
+"correct": "manufacturers",
+"explication": "Ce sont les fabricants qui font la publicité."
+},
+{
+"id": "mt1-136",
+"phrase": "Tablet computers are gaining popularity because of their ___.",
+"options": [
+"fame",
+"quantity",
+"appearance",
+"convenience"
+],
+"correct": "convenience",
+"explication": "« convenience » = praticité."
+},
+{
+"id": "mt1-138",
+"phrase": "The old-fashioned approach to holiday celebrations is giving way to the ___ for new technology.",
+"options": [
+"enthusiast",
+"enthusiasm",
+"enthusiastic",
+"enthusiastically"
+],
+"correct": "enthusiasm",
+"explication": "Nom après « the » : enthusiasm."
+},
+{
+"id": "mt1-139",
+"phrase": "I am writing in regard to an ___ payment.",
+"options": [
+"a remitted",
+"an overdue",
+"a transferrable",
+"an enclosed"
+],
+"correct": "an overdue",
+"explication": "« an overdue payment » = un paiement en retard."
+},
+{
+"id": "mt1-141",
+"phrase": "If we don't hear from you soon regarding this payment, we ___ to take action.",
+"options": [
+"will have",
+"have had",
+"would have",
+"going to have"
+],
+"correct": "will have",
+"explication": "Futur dans la principale d'une condition au présent."
+},
+{
+"id": "mt1-142",
+"phrase": "The details of your ___, including items and prices, are attached.",
+"options": [
+"form",
+"credit",
+"order",
+"rebate"
+],
+"correct": "order",
+"explication": "« your order » = votre commande."
+},
+{
+"id": "mt1-143",
+"phrase": "I am contacting you in ___ to the job posted on your company's website.",
+"options": [
+"response",
+"repose",
+"resort",
+"respite"
+],
+"correct": "response",
+"explication": "« in response to » = en réponse à."
+},
+{
+"id": "mt1-145",
+"phrase": "I feel that I thoroughly understand the operations of an office, and that my years of experience ___ me to work as an office manager.",
+"options": [
+"qualify",
+"qualifies",
+"is qualifying",
+"has qualified"
+],
+"correct": "qualify",
+"explication": "Sujet pluriel (years) : qualify."
+},
+{
+"id": "mt1-146",
+"phrase": "I look forward ___ hearing from you.",
+"options": [
+"at",
+"of",
+"to",
+"on"
+],
+"correct": "to",
+"explication": "« look forward to + gérondif »."
+},
+{
+"id": "mt6-101",
+"phrase": "Earn a good salary while building ___ job skills when you enroll in the City Tech carpentry program.",
+"options": [
+"value",
+"valued",
+"valuably",
+"valuable"
+],
+"correct": "valuable",
+"explication": "Adjectif devant un nom : valuable job skills."
+},
+{
+"id": "mt6-102",
+"phrase": "The Whip cargo van can haul ___ to 5,350 pounds and comes with a rear back-up camera and security alarm.",
+"options": [
+"over",
+"up",
+"before",
+"in"
+],
+"correct": "up",
+"explication": "« up to » = jusqu'à."
+},
+{
+"id": "mt6-103",
+"phrase": "The course is ___ for working professionals, so the class meets two evenings a week.",
+"options": [
+"barely",
+"rapidly",
+"primarily",
+"slightly"
+],
+"correct": "primarily",
+"explication": "« primarily » = principalement."
+},
+{
+"id": "mt6-104",
+"phrase": "Greg Trist opens his art studio to the public on the first Monday of the month, which coincides ___ the city's monthly Art Walk event.",
+"options": [
+"between",
+"by",
+"through",
+"with"
+],
+"correct": "with",
+"explication": "« coincide with » = coïncider avec."
+},
+{
+"id": "mt6-105",
+"phrase": "The executive team decided to use the pink and orange color ___ for the new laundry detergent logo.",
+"options": [
+"appearance",
+"photo",
+"scheme",
+"line"
+],
+"correct": "scheme",
+"explication": "« color scheme » = palette de couleurs."
+},
+{
+"id": "mt6-106",
+"phrase": "I strongly recommend ___ a contract with LL Logistics to handle our domestic deliveries.",
+"options": [
+"sign",
+"signed",
+"signing",
+"will sign"
+],
+"correct": "signing",
+"explication": "« recommend + gérondif »."
+},
+{
+"id": "mt6-107",
+"phrase": "The landscaper said he ___ the hedges around the office when he comes next week.",
+"options": [
+"trims",
+"will trim",
+"has trimmed",
+"has been trimming"
+],
+"correct": "will trim",
+"explication": "Futur : will trim (next week)."
+},
+{
+"id": "mt6-108",
+"phrase": "If you can wait a few minutes, Ms. Sato will attend ___ your problem as soon as she is free.",
+"options": [
+"to",
+"for",
+"beside",
+"in"
+],
+"correct": "to",
+"explication": "« attend to » = s'occuper de."
+},
+{
+"id": "mt6-109",
+"phrase": "Zasels' weekly coupon is good for 40% off items storewide ___ custom framing, furniture, and electronics.",
+"options": [
+"exempt",
+"having",
+"without",
+"except"
+],
+"correct": "except",
+"explication": "« except » = sauf."
+},
+{
+"id": "mt6-110",
+"phrase": "Visitors to the factory must leave their personal ___ at the security desk and put on a protective coat and a pair of goggles.",
+"options": [
+"belongings",
+"costumes",
+"experiences",
+"appearances"
+],
+"correct": "belongings",
+"explication": "« personal belongings » = effets personnels."
+},
+{
+"id": "mt6-111",
+"phrase": "While he is a team player and always on time, Daniel doesn't have the skills to do ___ job.",
+"options": [
+"he",
+"him",
+"his",
+"her"
+],
+"correct": "his",
+"explication": "Adjectif possessif devant un nom : his job."
+},
+{
+"id": "mt6-112",
+"phrase": "By signing this form, you ___ KM Recovery Group to act as your agent.",
+"options": [
+"authorizing",
+"authorization",
+"authority",
+"authorize"
+],
+"correct": "authorize",
+"explication": "Verbe conjugué au présent : authorize."
+},
+{
+"id": "mt6-113",
+"phrase": "Full-time employees ___ attend the RSTLC annual conference at their department's expense with approval from their supervisor.",
+"options": [
+"be",
+"don't",
+"can",
+"won't"
+],
+"correct": "can",
+"explication": "« can attend » = peuvent assister."
+},
+{
+"id": "mt6-114",
+"phrase": "Unfortunately, the kitchen needs ___ repairs that have to be made by a trained plumber.",
+"options": [
+"marginal",
+"extensive",
+"minimal",
+"common"
+],
+"correct": "extensive",
+"explication": "« extensive repairs » = de grosses réparations."
+},
+{
+"id": "mt6-115",
+"phrase": "___ budget reductions, the company will not be filling the currently available Marketing Supervisor position.",
+"options": [
+"Due to",
+"However",
+"Because",
+"In that"
+],
+"correct": "Due to",
+"explication": "« Due to » + nom = en raison de."
+},
+{
+"id": "mt6-116",
+"phrase": "The remote control ___ programmed to work with the television in the lobby but not the break room.",
+"options": [
+"has",
+"be",
+"been",
+"is"
+],
+"correct": "is",
+"explication": "Voix passive au présent : is programmed."
+},
+{
+"id": "mt6-117",
+"phrase": "The person ___ signature appears on the document is the one ultimately responsible for the deal.",
+"options": [
+"who",
+"who's",
+"whose",
+"whom"
+],
+"correct": "whose",
+"explication": "Pronom relatif possessif : whose."
+},
+{
+"id": "mt6-118",
+"phrase": "___ until the last minute to turn in work is definitely not encouraged in this department.",
+"options": [
+"Wait",
+"Waiting",
+"To wait",
+"Wait for"
+],
+"correct": "Waiting",
+"explication": "Gérondif en position de sujet."
+},
+{
+"id": "mt6-119",
+"phrase": "You can sign up for the online training at your convenience ___ attend the next week's onsite training session in person.",
+"options": [
+"or",
+"so",
+"if",
+"as"
+],
+"correct": "or",
+"explication": "« A or B » = ou bien."
+},
+{
+"id": "mt6-120",
+"phrase": "The budget report had to be rewritten because some of the figures it contained were ___.",
+"options": [
+"acceptable",
+"inaccurate",
+"comprehensive",
+"calculating"
+],
+"correct": "inaccurate",
+"explication": "« inaccurate » = inexact."
+},
+{
+"id": "mt6-121",
+"phrase": "The company has plans to ___ several neighboring properties, which will be used for expanding the manufacturing plant.",
+"options": [
+"inquire",
+"require",
+"expire",
+"acquire"
+],
+"correct": "acquire",
+"explication": "« acquire properties » = acquérir des biens."
+},
+{
+"id": "mt6-122",
+"phrase": "___ the client accepts the plan, the team has one month to complete the final design.",
+"options": [
+"Before",
+"After",
+"While",
+"Then"
+],
+"correct": "After",
+"explication": "« After » = une fois que."
+},
+{
+"id": "mt6-123",
+"phrase": "The best way to ___ approval from your supervisor is to consistently complete your projects on time.",
+"options": [
+"earn",
+"collect",
+"grant",
+"incur"
+],
+"correct": "earn",
+"explication": "« earn approval » = gagner l'approbation."
+},
+{
+"id": "mt6-124",
+"phrase": "When the renovations ___ complete, we will have a much more attractive and spacious office.",
+"options": [
+"are",
+"is",
+"be",
+"will be"
+],
+"correct": "are",
+"explication": "Présent après « when » (futur) + sujet pluriel."
+},
+{
+"id": "mt6-125",
+"phrase": "The production team can ___ the photos if the client thinks they are too large.",
+"options": [
+"size",
+"resize",
+"sizeable",
+"sizing"
+],
+"correct": "resize",
+"explication": "« resize » = redimensionner."
+},
+{
+"id": "mt6-126",
+"phrase": "___ the shipment went out later than promised, the client decided to make another order.",
+"options": [
+"Because",
+"Therefore",
+"Despite",
+"Although"
+],
+"correct": "Although",
+"explication": "« Although » = bien que (concession)."
+},
+{
+"id": "mt6-127",
+"phrase": "The prices quoted on the website ___ materials as well as labor, but not shipping and handling costs.",
+"options": [
+"include",
+"including",
+"inclusive",
+"inclusively"
+],
+"correct": "include",
+"explication": "Verbe conjugué au présent : include."
+},
+{
+"id": "mt6-128",
+"phrase": "The Human Resources Department requires all applicants to provide references from their ___ employers.",
+"options": [
+"before",
+"advanced",
+"previous",
+"precede"
+],
+"correct": "previous",
+"explication": "« previous employers » = anciens employeurs."
+},
+{
+"id": "mt6-129",
+"phrase": "You can choose to receive your paycheck by mail or opt for direct deposit into your bank account ___.",
+"options": [
+"either",
+"instead",
+"alternative",
+"in addition"
+],
+"correct": "instead",
+"explication": "« instead » = à la place."
+},
+{
+"id": "mt6-130",
+"phrase": "Last quarter's sales would have been better if the company ___ more in advertising.",
+"options": [
+"had invested",
+"has invested",
+"has been investing",
+"would have invested"
+],
+"correct": "had invested",
+"explication": "3e conditionnel : if + past perfect."
 }
 ]

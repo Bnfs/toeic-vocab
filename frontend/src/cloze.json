@@ -21070,5 +21070,413 @@
 "tag": "p",
 "phrase": "The paper is 100% from ___.",
 "reponse": "recycled products"
+},
+{
+"id": 4346,
+"tag": "n",
+"phrase": "A woman is standing at a ___ speaking into a microphone.",
+"reponse": "podium"
+},
+{
+"id": 4347,
+"tag": "v",
+"phrase": "What does the man want to do? ___ his apartment.",
+"reponse": "Remodel"
+},
+{
+"id": 4348,
+"tag": "n",
+"phrase": "There is a $20 ___ for express shipping.",
+"reponse": "surcharge"
+},
+{
+"id": 4349,
+"tag": "n",
+"phrase": "How did Sam get to work this morning? In a ___.",
+"reponse": "carpool"
+},
+{
+"id": 4350,
+"tag": "a",
+"phrase": "We're a bit ___ today, so please be patient.",
+"reponse": "understaffed"
+},
+{
+"id": 4351,
+"tag": "n",
+"phrase": "The company is closing its ___ and selling only online.",
+"reponse": "brick-and-mortar store"
+},
+{
+"id": 4352,
+"tag": "n",
+"phrase": "The store sells sandals, slippers and other ___.",
+"reponse": "footwear"
+},
+{
+"id": 4353,
+"tag": "n",
+"phrase": "Renters can purchase a ___ as a substitute for extra coverage.",
+"reponse": "damage fee waiver"
+},
+{
+"id": 4354,
+"tag": "n",
+"phrase": "The waiver must be added to the ___ at the time of signing.",
+"reponse": "rental agreement"
+},
+{
+"id": 4355,
+"tag": "n",
+"phrase": "The waiver offers extra ___ against unexpected costs.",
+"reponse": "peace of mind"
+},
+{
+"id": 4356,
+"tag": "a",
+"phrase": "Pension payments are made ___.",
+"reponse": "bimonthly"
+},
+{
+"id": 4357,
+"tag": "n",
+"phrase": "The reason for the ___ to the contract is the contractor's illness.",
+"reponse": "addendum"
+},
+{
+"id": 4358,
+"tag": "n",
+"phrase": "The contractor will perform a ___ of the winery's wine sales.",
+"reponse": "statistics analysis"
+},
+{
+"id": 4359,
+"tag": "n",
+"phrase": "We are having an ___ in our community next month.",
+"reponse": "alternative energy fair"
+},
+{
+"id": 4360,
+"tag": "p",
+"phrase": "Replacing ___ with alternative forms of energy is crucial to our future.",
+"reponse": "fossil fuels"
+},
+{
+"id": 4361,
+"tag": "n",
+"phrase": "The Wisteria is a historical ___ with views of pastures and hills.",
+"reponse": "converted farmhouse"
+},
+{
+"id": 4362,
+"tag": "n",
+"phrase": "Our spacious ___ is the perfect setting for your wedding.",
+"reponse": "refurbished barn"
+},
+{
+"id": 4363,
+"tag": "p",
+"phrase": "All rooms include breakfast of ___ and seasonal dishes.",
+"reponse": "homemade pastries"
+},
+{
+"id": 4364,
+"tag": "n",
+"phrase": "The barn is the perfect setting for a wedding or ___.",
+"reponse": "family reunion"
+},
+{
+"id": 4365,
+"tag": "n",
+"phrase": "It is an ___, so it consists of just one large room.",
+"reponse": "efficiency apartment"
+},
+{
+"id": 4366,
+"tag": "n",
+"phrase": "Whether you live in a ___ or an efficiency apartment, we will clean it.",
+"reponse": "palatial mansion"
+},
+{
+"id": 4367,
+"tag": "n",
+"phrase": "The E-Z ___ expands your space in just seconds.",
+"reponse": "Folding Table"
+},
+{
+"id": 4368,
+"tag": "a",
+"phrase": "The table unfolds easily and is very ___ and attractive.",
+"reponse": "sturdy"
+},
+{
+"id": 4369,
+"tag": "n",
+"phrase": "Enjoy a ___ followed by our own choreographed show.",
+"reponse": "three-course meal"
+},
+{
+"id": 4370,
+"tag": "a",
+"phrase": "Enjoy a meal followed by our own ___ version of Shakespeare's tale.",
+"reponse": "choreographed"
+},
+{
+"id": 4371,
+"tag": "a",
+"phrase": "I've heard the food there is only ___, but the play got fantastic reviews.",
+"reponse": "mediocre"
+},
+{
+"id": 4372,
+"tag": "n",
+"phrase": "The police department issued a ___ for exceeding the time limit.",
+"reponse": "Parking Violation Notice"
+},
+{
+"id": 4373,
+"tag": "n",
+"phrase": "Complete Form 25, the ___, and mail it with a copy of your ticket.",
+"reponse": "Notice of Appeal"
+},
+{
+"id": 4374,
+"tag": "v",
+"phrase": "You have the right to ___ the fine within 30 days.",
+"reponse": "appeal"
+},
+{
+"id": 4375,
+"tag": "n",
+"phrase": "I received your ___ from your office.",
+"reponse": "travel itinerary"
+},
+{
+"id": 4376,
+"tag": "n",
+"phrase": "The ___ is very convenient and will take you to the train station.",
+"reponse": "airport shuttle"
+},
+{
+"id": 4377,
+"tag": "r",
+"phrase": "Seating is on a ___ basis.",
+"reponse": "first come, first served"
+},
+{
+"id": 4378,
+"tag": "p",
+"phrase": "___ will be served after the talk.",
+"reponse": "Refreshments"
+},
+{
+"id": 4379,
+"tag": "n",
+"phrase": "I even tried out the ___ and it seems to be in working order.",
+"reponse": "sound system"
+},
+{
+"id": 4380,
+"tag": "r",
+"phrase": "The projector is ___, so we can start.",
+"reponse": "in working order"
+},
+{
+"id": 4381,
+"tag": "n",
+"phrase": "Please order a ___ for forty to fifty guests.",
+"reponse": "cookie tray"
+},
+{
+"id": 4382,
+"tag": "n",
+"phrase": "The Whip ___ can haul up to 5,350 pounds.",
+"reponse": "cargo van"
+},
+{
+"id": 4383,
+"tag": "n",
+"phrase": "The van comes with a rear ___ and a security alarm.",
+"reponse": "back-up camera"
+},
+{
+"id": 4384,
+"tag": "n",
+"phrase": "Earn a good salary while building job skills in the City Tech ___.",
+"reponse": "carpentry program"
+},
+{
+"id": 4385,
+"tag": "n",
+"phrase": "The team decided to use a pink and orange ___ for the logo.",
+"reponse": "color scheme"
+},
+{
+"id": 4386,
+"tag": "n",
+"phrase": "The new ___ logo is pink and orange.",
+"reponse": "laundry detergent"
+},
+{
+"id": 4387,
+"tag": "n",
+"phrase": "The ___ said he will trim the hedges next week.",
+"reponse": "landscaper"
+},
+{
+"id": 4388,
+"tag": "v",
+"phrase": "The landscaper will ___ around the office next week.",
+"reponse": "trim the hedges"
+},
+{
+"id": 4389,
+"tag": "n",
+"phrase": "The coupon is good for 40% off everything except ___.",
+"reponse": "custom framing"
+},
+{
+"id": 4390,
+"tag": "a",
+"phrase": "The weekly coupon is good for 40% off items ___.",
+"reponse": "storewide"
+},
+{
+"id": 4391,
+"tag": "p",
+"phrase": "Visitors must put on a protective coat and a pair of ___.",
+"reponse": "goggles"
+},
+{
+"id": 4392,
+"tag": "n",
+"phrase": "Visitors must put on a ___ and goggles.",
+"reponse": "protective coat"
+},
+{
+"id": 4393,
+"tag": "n",
+"phrase": "The ___ was programmed to work with the lobby television.",
+"reponse": "remote control"
+},
+{
+"id": 4394,
+"tag": "v",
+"phrase": "Waiting until the last minute to ___ is not encouraged.",
+"reponse": "turn in work"
+},
+{
+"id": 4395,
+"tag": "n",
+"phrase": "You can sign up online or attend the next week's ___ in person.",
+"reponse": "onsite training session"
+},
+{
+"id": 4396,
+"tag": "d",
+"phrase": "The budget report had to be ___ because of inaccurate figures.",
+"reponse": "rewritten"
+},
+{
+"id": 4397,
+"tag": "p",
+"phrase": "The company has plans to acquire several ___.",
+"reponse": "neighboring properties"
+},
+{
+"id": 4398,
+"tag": "v",
+"phrase": "You can ___ direct deposit into your bank account.",
+"reponse": "opt for"
+},
+{
+"id": 4399,
+"tag": "d",
+"phrase": "The prices ___ on the website include materials and labor.",
+"reponse": "quoted"
+},
+{
+"id": 4400,
+"tag": "n",
+"phrase": "The prices do not include ___ costs.",
+"reponse": "shipping and handling"
+},
+{
+"id": 4401,
+"tag": "n",
+"phrase": "The ___ checked every passenger's ticket.",
+"reponse": "conductor"
+},
+{
+"id": 4402,
+"tag": "n",
+"phrase": "Passengers can get off when they see an ___.",
+"reponse": "exit sign"
+},
+{
+"id": 4403,
+"tag": "n",
+"phrase": "The museum is offering a ___ on local history.",
+"reponse": "lecture series"
+},
+{
+"id": 4404,
+"tag": "n",
+"phrase": "A ___ includes free admission for the whole family.",
+"reponse": "museum membership"
+},
+{
+"id": 4405,
+"tag": "p",
+"phrase": "The workshop will cover stocks and ___ and how to make your money grow.",
+"reponse": "bonds"
+},
+{
+"id": 4406,
+"tag": "n",
+"phrase": "The park offers a discount on the ___.",
+"reponse": "annual pass"
+},
+{
+"id": 4407,
+"tag": "n",
+"phrase": "The speaker says the ___ will not heat again.",
+"reponse": "heater"
+},
+{
+"id": 4408,
+"tag": "n",
+"phrase": "The ___ will be suspended until further notice.",
+"reponse": "beverage service"
+},
+{
+"id": 4409,
+"tag": "n",
+"phrase": "Please keep your bags in the overhead ___.",
+"reponse": "storage compartment"
+},
+{
+"id": 4410,
+"tag": "n",
+"phrase": "This ___ can make 24 cups at a time.",
+"reponse": "coffeemaker"
+},
+{
+"id": 4411,
+"tag": "p",
+"phrase": "It's hard to believe, but ___ came in well under budget.",
+"reponse": "final costs"
+},
+{
+"id": 4412,
+"tag": "p",
+"phrase": "He will share ___ from his book at the restaurant.",
+"reponse": "excerpts"
+},
+{
+"id": 4413,
+"tag": "n",
+"phrase": "I'd like to know your ___ before I make the reservation.",
+"reponse": "hotel preference"
 }
 ]
