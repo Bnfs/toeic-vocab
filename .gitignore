@@ -17,3 +17,6 @@ frontend/.vite/
 # OS
 .DS_Store
 Thumbs.db
+
+# Livres/PDF/audio personnels (volumineux, sous droits)
+ANGLAIS TOIEC/
