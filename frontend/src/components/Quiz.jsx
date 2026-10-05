@@ -2,11 +2,11 @@ import { useState, useEffect } from "react";
 import { api } from "../api";
 import PhraseComplete from "./PhraseComplete";
 
-export default function Quiz() {
+export default function Quiz({ modeInitial = "normal" }) {
   const [etape, setEtape] = useState("config"); // config | quiz | resultat
   const [nbQuestions, setNbQuestions] = useState(10);
   const [categorie, setCategorie] = useState("");
-  const [mode, setMode] = useState("normal"); // normal | difficiles | favoris
+  const [mode, setMode] = useState(modeInitial); // normal | difficiles | favoris | erreurs
   const [type, setType] = useState("traduction"); // traduction | inverse | trou | part5
   const [favoris, setFavoris] = useState({}); // mot_id -> bool
   const [questions, setQuestions] = useState([]);
@@ -50,7 +50,7 @@ export default function Quiz() {
   const suivant = async () => {
     if (index + 1 >= questions.length) {
       // Marquer tous les mots du quiz comme vus
-      await api.enregistrerResultats(questions.map((q, i) => ({ mot_id: q.mot_id, correct: !!reponses[i]?.correct }))).catch(() => {});
+      await api.enregistrerResultats(questions.map((q, i) => ({ mot_id: q.mot_id, correct: !!reponses[i]?.correct, question: q }))).catch(() => {});
       setEtape("resultat");
     } else {
       setIndex(i => i + 1);
@@ -94,6 +94,7 @@ export default function Quiz() {
           <button className={`nb-btn ${mode === "normal" ? "active" : ""}`} onClick={() => setMode("normal")}>🧠 Révision intelligente</button>
           <button className={`nb-btn ${mode === "difficiles" ? "active" : ""}`} onClick={() => setMode("difficiles")}>🔥 Mots difficiles</button>
           <button className={`nb-btn ${mode === "favoris" ? "active" : ""}`} onClick={() => setMode("favoris")}>⭐ Favoris</button>
+          <button className={`nb-btn ${mode === "erreurs" ? "active" : ""}`} onClick={() => setMode("erreurs")}>❌ Mes erreurs</button>
         </div>
       </div>
       <div className="config-ligne">

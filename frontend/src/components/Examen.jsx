@@ -33,7 +33,7 @@ export default function Examen() {
     termine.current = true;
     setDuree(Math.round((Date.now() - debut.current) / 1000));
     await api.enregistrerResultats(
-      qs.map((q, i) => ({ mot_id: q.mot_id, correct: rep[i] === q.correct })), "examen"
+      qs.map((q, i) => ({ mot_id: q.mot_id, correct: rep[i] === q.correct, question: q })), "examen"
     ).catch(() => {});
     setEtape("resultat");
   };

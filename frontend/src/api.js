@@ -6,7 +6,7 @@ import PART5 from "./part5.json";
 
 const KEY = "toeic-vocab-state";
 
-const vide = () => ({ vus: {}, ajoutes: [], supprimes: [], progres: {}, historique: [], jours: [], favoris: [], parJour: {}, objectif: 20 });
+const vide = () => ({ vus: {}, ajoutes: [], supprimes: [], progres: {}, historique: [], jours: [], favoris: [], parJour: {}, objectif: 20, erreurs: {} });
 
 const JOUR = 86400000;
 const INTERVALLES = [0, 1, 2, 4, 8, 16]; // jours avant la prochaine révision, par "boîte"
@@ -98,8 +98,9 @@ function questionInverse(mot, tous) {
 }
 
 // Distracteurs : autres mots à trous de même nature grammaticale, de préférence du même thème
-function questionTrou(mot) {
-  const c = TROUS.get(mot.id)[Math.floor(Math.random() * TROUS.get(mot.id).length)];
+function questionTrou(mot, phrase) {
+  const phrases = TROUS.get(mot.id);
+  const c = phrases.find(x => x.phrase === phrase) || phrases[Math.floor(Math.random() * phrases.length)];
   const pool = melanger(CLOZE.filter(x => x.tag === c.tag && x.id !== c.id && x.reponse !== c.reponse))
     .sort((a, b) => (CATEGORIE_DE.get(a.id) !== mot.categorie) - (CATEGORIE_DE.get(b.id) !== mot.categorie));
   const mauvaises = [...new Set(pool.map(x => x.reponse))].slice(0, 3);
@@ -162,6 +163,21 @@ export const api = {
     [...new Set(motsActuels(load()).map(m => m.categorie))].sort()),
 
   getQuiz: (n, categorie, mode = "normal", type = "traduction") => reponse(() => {
+    if (mode === "erreurs") {
+      const tous = motsActuels(load());
+      const liste = melanger(Object.values(load().erreurs)).slice(0, n);
+      if (liste.length === 0) throw new Error("Aucune erreur à refaire pour l'instant. Bravo !");
+      return liste.map(q => {
+        const mot = tous.find(m => m.id === q.mot_id);
+        if (q.type === "part5") {
+          const src = PART5.find(p => `p5:${p.id}` === q.mot_id);
+          return src ? questionPart5(src) : null;
+        }
+        if (!mot) return null;
+        if (q.type === "trou") return questionTrou(mot, q.anglais);
+        return (q.type === "inverse" ? questionInverse : questionTraduction)(mot, tous);
+      }).filter(Boolean);
+    }
     if (type === "part5") {
       const state = load();
       const items = PART5.map(q => ({ id: `p5:${q.id}`, favori: false, ...etat(state, `p5:${q.id}`), q }));
@@ -195,6 +211,16 @@ export const api = {
     const utilises = new Set(trous.map(m => m.id));
     const trad = melanger(tous.filter(m => !utilises.has(m.id))).slice(0, n - trous.length - part5.length);
     return melanger([...part5.map(questionPart5), ...trous.map(questionTrou), ...trad.map(m => questionTraduction(m, tous))]);
+  }),
+
+  getErreurs: () => reponse(() =>
+    Object.values(load().erreurs).sort((a, b) => b.vue - a.vue)),
+
+  effacerErreurs: () => reponse(() => {
+    const state = load();
+    state.erreurs = {};
+    save(state);
+    return true;
   }),
 
   getFiches: (n, categorie, mode = "normal") => reponse(() => {
@@ -238,7 +264,13 @@ export const api = {
   enregistrerResultats: (resultats, type = "quiz") => reponse(() => {
     const state = load();
     const maintenant = Date.now();
-    resultats.forEach(({ mot_id, correct }) => {
+    resultats.forEach(({ mot_id, correct, question }) => {
+      if (question) {
+        // Garde les questions ratées pour les refaire ; une bonne réponse la retire
+        const cle = `${question.type}|${question.anglais}`;
+        if (correct) delete state.erreurs[cle];
+        else state.erreurs[cle] = { ...question, options: undefined, vue: Date.now() };
+      }
       const p = etat(state, mot_id);
       const boite = correct ? Math.min(p.boite + 1, INTERVALLES.length - 1) : 0;
       state.progres[mot_id] = {
