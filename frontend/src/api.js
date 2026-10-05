@@ -2,6 +2,7 @@
 // mots ajoutés/supprimés sont gardés dans le localStorage de l'appareil.
 import VOCAB from "./vocab.json";
 import CLOZE from "./cloze.json";
+import PART5 from "./part5.json";
 
 const KEY = "toeic-vocab-state";
 
@@ -118,6 +119,18 @@ function questionTrou(mot) {
   };
 }
 
+// Vraies questions de la partie 5 du TOEIC (grammaire et vocabulaire), 4 choix
+function questionPart5(q) {
+  return {
+    mot_id: `p5:${q.id}`,
+    type: "part5",
+    anglais: q.phrase,
+    options: melanger([...q.options]),
+    correct: q.correct,
+    traduction: q.explication,
+  };
+}
+
 const reponse = async (fn) => fn();
 
 export const api = {
@@ -145,6 +158,11 @@ export const api = {
     [...new Set(motsActuels(load()).map(m => m.categorie))].sort()),
 
   getQuiz: (n, categorie, mode = "normal", type = "traduction") => reponse(() => {
+    if (type === "part5") {
+      const state = load();
+      const items = PART5.map(q => ({ id: `p5:${q.id}`, favori: false, ...etat(state, `p5:${q.id}`), q }));
+      return melanger(prioriser(items, "normal").slice(0, n)).map(x => questionPart5(x.q));
+    }
     const tous = motsActuels(load(), categorie);
     if (tous.length < 4) throw new Error("Il faut au moins 4 mots pour générer un quiz");
     if (type === "trou") {
@@ -167,10 +185,12 @@ export const api = {
   getExamen: (n) => reponse(() => {
     const tous = motsActuels(load());
     const avecTrou = melanger(tous.filter(m => TROUS.has(m.id)));
-    const trous = avecTrou.slice(0, Math.min(Math.floor(n / 2), avecTrou.length));
+    const nbP5 = Math.min(Math.floor(n / 3), PART5.length);
+    const part5 = melanger([...PART5]).slice(0, nbP5);
+    const trous = avecTrou.slice(0, Math.min(Math.floor(n / 3), avecTrou.length));
     const utilises = new Set(trous.map(m => m.id));
-    const trad = melanger(tous.filter(m => !utilises.has(m.id))).slice(0, n - trous.length);
-    return melanger([...trous.map(questionTrou), ...trad.map(m => questionTraduction(m, tous))]);
+    const trad = melanger(tous.filter(m => !utilises.has(m.id))).slice(0, n - trous.length - part5.length);
+    return melanger([...part5.map(questionPart5), ...trous.map(questionTrou), ...trad.map(m => questionTraduction(m, tous))]);
   }),
 
   getFiches: (n, categorie, mode = "normal") => reponse(() => {

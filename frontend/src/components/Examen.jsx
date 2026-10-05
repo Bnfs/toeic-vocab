@@ -53,7 +53,7 @@ export default function Examen() {
     <div className="quiz-config card">
       <h2>⏱️ Examen blanc</h2>
       <p className="fiche-aide">
-        Conditions réelles : questions mélangées (phrases à trous + traductions), pas de correction
+        Conditions réelles : questions mélangées (vraies phrases TOEIC partie 5, phrases à trous, traductions), pas de correction
         pendant l'épreuve, {SEC_PAR_QUESTION} secondes par question. La correction s'affiche à la fin.
       </p>
       <div className="config-ligne">
@@ -92,7 +92,7 @@ export default function Examen() {
             return (
               <div key={i} className={`recap-item ${ok ? "correct" : "faux"}`}>
                 <span className="recap-icon">{ok ? "✅" : "❌"}</span>
-                <span className="recap-mot">{q.type === "trou" ? q.correct : q.anglais}</span>
+                <span className="recap-mot">{q.type === "trou" || q.type === "part5" ? q.correct : q.anglais}</span>
                 <span className="recap-trad">→ {q.traduction}{!ok && reponses[i] ? ` (tu as répondu : ${reponses[i]})` : ""}</span>
               </div>
             );
@@ -123,8 +123,8 @@ export default function Examen() {
         <div className="quiz-progress-fill" style={{ width: `${((index + 1) / questions.length) * 100}%` }} />
       </div>
       <div className="card question-card">
-        <p className="question-label">{q.type === "trou" ? "Complète la phrase" : "Quelle est la traduction ?"}</p>
-        <h2 className={q.type === "trou" ? "question-phrase" : "question-mot"}>{q.anglais}</h2>
+        <p className="question-label">{q.type === "trou" || q.type === "part5" ? "Complète la phrase" : "Quelle est la traduction ?"}</p>
+        <h2 className={q.type === "trou" || q.type === "part5" ? "question-phrase" : "question-mot"}>{q.anglais}</h2>
         <div className="options">
           {q.options.map(opt => (
             <button key={opt} className={`option-btn ${choisie === opt ? "choisie" : ""}`} onClick={() => choisir(opt)}>

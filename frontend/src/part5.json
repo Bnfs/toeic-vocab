@@ -1,0 +1,722 @@
+[
+{
+"id": "rc1-101",
+"phrase": "Mr. June consistently offers an ___ view during the team's weekly meetings.",
+"options": [
+"analysis",
+"analyze",
+"analytic",
+"analytically"
+],
+"correct": "analytic",
+"explication": "Adjectif devant un nom (view)."
+},
+{
+"id": "rc1-102",
+"phrase": "Our accounting software can track invoices, payments, ___ debt in multiple currencies.",
+"options": [
+"and",
+"but",
+"nor",
+"also"
+],
+"correct": "and",
+"explication": "Dans une liste, on termine par « and »."
+},
+{
+"id": "rc1-103",
+"phrase": "The Nikko Hotel is ___ located within five minutes' walk of the subway station.",
+"options": [
+"convenient",
+"convenience",
+"conveniently",
+"conveniences"
+],
+"correct": "conveniently",
+"explication": "Adverbe devant le participe « located »."
+},
+{
+"id": "rc1-104",
+"phrase": "When it comes to Colin's ability to finish the project on time, his manager has no ___.",
+"options": [
+"doubts",
+"doubtful",
+"doubtfully",
+"doubtless"
+],
+"correct": "doubts",
+"explication": "Nom pluriel après « no »."
+},
+{
+"id": "rc1-105",
+"phrase": "All employee timesheets must be submitted ___ the 3rd working day of the month at the latest.",
+"options": [
+"by",
+"toward",
+"within",
+"upon"
+],
+"correct": "by",
+"explication": "« by » = au plus tard à une date."
+},
+{
+"id": "rc1-106",
+"phrase": "Guests, including children, must have a ___ ticket with them at all times.",
+"options": [
+"validate",
+"valid",
+"validation",
+"validly"
+],
+"correct": "valid",
+"explication": "Adjectif devant un nom (ticket)."
+},
+{
+"id": "rc1-107",
+"phrase": "Please do not contact me over the weekend unless it is absolutely ___.",
+"options": [
+"necessary",
+"general",
+"legal",
+"repeated"
+],
+"correct": "necessary",
+"explication": "« unless it is absolutely necessary » : expression courante."
+},
+{
+"id": "rc1-108",
+"phrase": "Our latest product offerings ___ either on our Web site or at local retail stores.",
+"options": [
+"can find",
+"can be found",
+"is found",
+"found"
+],
+"correct": "can be found",
+"explication": "Voix passive avec un modal : can be found."
+},
+{
+"id": "rc1-109",
+"phrase": "If you are the last person in the office at night, please ___ that the copier is turned off before you leave.",
+"options": [
+"address",
+"begin",
+"check",
+"designate"
+],
+"correct": "check",
+"explication": "« check that » = vérifier que."
+},
+{
+"id": "rc1-110",
+"phrase": "In the ___ the sales teams do not achieve their objectives, no bonuses will be awarded.",
+"options": [
+"case",
+"pause",
+"event",
+"function"
+],
+"correct": "case",
+"explication": "« In the case (that) » = au cas où."
+},
+{
+"id": "rc1-111",
+"phrase": "If you have questions regarding your purchase, please feel free to contact us at ___ time.",
+"options": [
+"any",
+"another",
+"even",
+"a lot"
+],
+"correct": "any",
+"explication": "« at any time » = à tout moment."
+},
+{
+"id": "rc1-112",
+"phrase": "The roses planted in the front garden last summer are ___ than those in the back garden.",
+"options": [
+"fragrant",
+"more fragrant",
+"most fragrant",
+"fragrance"
+],
+"correct": "more fragrant",
+"explication": "Comparatif devant « than »."
+},
+{
+"id": "rc1-113",
+"phrase": "Our team has designed several delicious food and beverage ___ to make your experience a memorable one.",
+"options": [
+"tasks",
+"options",
+"fees",
+"answers"
+],
+"correct": "options",
+"explication": "« options » : des choix de menu."
+},
+{
+"id": "rc1-114",
+"phrase": "Due to the ___ demand for our services, we will no longer be able to accept new orders.",
+"options": [
+"authentic",
+"famous",
+"unprecedented",
+"cooperative"
+],
+"correct": "unprecedented",
+"explication": "« unprecedented » = sans précédent."
+},
+{
+"id": "rc1-115",
+"phrase": "We make every effort to fill orders ___ and get them shipped to our customers as soon as possible.",
+"options": [
+"prompt",
+"promptly",
+"promptness",
+"prompter"
+],
+"correct": "promptly",
+"explication": "Adverbe qui complète le verbe « fill »."
+},
+{
+"id": "rc1-116",
+"phrase": "Monthly wages are paid on the first day of each month ___ travel expenses are reimbursed on a weekly basis.",
+"options": [
+"whereas",
+"likewise",
+"whether",
+"in case"
+],
+"correct": "whereas",
+"explication": "« whereas » = alors que (opposition)."
+},
+{
+"id": "rc1-117",
+"phrase": "Shipments that ___ in Australia are always held up in customs.",
+"options": [
+"original",
+"originate",
+"originally",
+"originating"
+],
+"correct": "originate",
+"explication": "Verbe au présent après « that »."
+},
+{
+"id": "rc1-118",
+"phrase": "Please be aware that China Grill will be closed ___ a private function on Sunday, October 29.",
+"options": [
+"among",
+"by",
+"to",
+"for"
+],
+"correct": "for",
+"explication": "« closed for a private function » : fermé pour un événement."
+},
+{
+"id": "rc1-119",
+"phrase": "___ of a reservation must be made at least 72 hours before your scheduled arrival date.",
+"options": [
+"Cancel",
+"Cancelation",
+"To cancel",
+"Canceled"
+],
+"correct": "Cancelation",
+"explication": "Nom en sujet de la phrase."
+},
+{
+"id": "rc1-120",
+"phrase": "Mrs. Davies is an ___ skilled copywriter and fantastic addition to the team.",
+"options": [
+"inclusively",
+"obviously",
+"exceptionally",
+"affordably"
+],
+"correct": "exceptionally",
+"explication": "« exceptionally skilled » = exceptionnellement habile."
+},
+{
+"id": "rc1-121",
+"phrase": "Ms. Roma established a reputation for ___ when her products were featured in Vogue magazine.",
+"options": [
+"herself",
+"her",
+"hers",
+"she"
+],
+"correct": "herself",
+"explication": "Pronom réfléchi après « for » quand le sujet est le même."
+},
+{
+"id": "rc1-122",
+"phrase": "Mary Aspen has ___ to Busan to take an administrative position after working in China for six years.",
+"options": [
+"considered",
+"returned",
+"removed",
+"visited"
+],
+"correct": "returned",
+"explication": "« has returned to » = est revenue à."
+},
+{
+"id": "rc1-123",
+"phrase": "Renewal of the membership card can be done at the reception desk ___ its expiration date.",
+"options": [
+"still",
+"unless",
+"prior to",
+"whether"
+],
+"correct": "prior to",
+"explication": "« prior to » = avant."
+},
+{
+"id": "rc1-124",
+"phrase": "After a three-month probationary period, hotel employees are eligible to ___ paid vacations.",
+"options": [
+"take",
+"taking",
+"be taken",
+"being taken"
+],
+"correct": "take",
+"explication": "« eligible to + verbe à l'infinitif »."
+},
+{
+"id": "rc1-125",
+"phrase": "The office was relocated to a place ___ visitors would benefit from good transportation connections.",
+"options": [
+"its",
+"why",
+"that",
+"where"
+],
+"correct": "where",
+"explication": "« a place where » : pronom relatif de lieu."
+},
+{
+"id": "rc1-126",
+"phrase": "The superiority of Orange Ltd.'s product has earned it an ___ position among its competitors.",
+"options": [
+"insurable",
+"unwarranted",
+"unintentional",
+"enviable"
+],
+"correct": "enviable",
+"explication": "« enviable » = enviable."
+},
+{
+"id": "rc1-127",
+"phrase": "The team has developed into a ___ experienced group of individuals who deliver exceptional customer service.",
+"options": [
+"loyally",
+"densely",
+"closely",
+"highly"
+],
+"correct": "highly",
+"explication": "« highly experienced » : très expérimenté."
+},
+{
+"id": "rc1-128",
+"phrase": "Sometimes customers are impressed with how ___ our staff members are regarding the products we sell.",
+"options": [
+"knowledge",
+"known",
+"knowledgeable",
+"knowingly"
+],
+"correct": "knowledgeable",
+"explication": "Adjectif après « how » + « are »."
+},
+{
+"id": "rc1-129",
+"phrase": "The customer ___ complained through a variety of channels before leaving a negative review on the Web site.",
+"options": [
+"had",
+"did",
+"was",
+"will"
+],
+"correct": "had",
+"explication": "Past perfect : had complained, avant une action passée."
+},
+{
+"id": "rc1-130",
+"phrase": "An immediate ___ to a customer inquiry is essential unless it needs to be forwarded to a technical representative.",
+"options": [
+"management",
+"reply",
+"phase",
+"estimate"
+],
+"correct": "reply",
+"explication": "« reply to an inquiry » = réponse à une demande."
+},
+{
+"id": "ets3-101",
+"phrase": "York Development Corporation marked the ___ of the Ford Road office complex with a ribbon-cutting ceremony.",
+"options": [
+"opens",
+"opening",
+"opened",
+"openly"
+],
+"correct": "opening",
+"explication": "Nom après « the » (opening)."
+},
+{
+"id": "ets3-102",
+"phrase": "Staff at the Bismarck Hotel were ___ helpful to us during our stay.",
+"options": [
+"quite",
+"enough",
+"far",
+"early"
+],
+"correct": "quite",
+"explication": "« quite helpful » : adverbe devant un adjectif."
+},
+{
+"id": "ets3-103",
+"phrase": "Ms. Luo will explain some possible consequences of the ___ merger with the Wilson-Peek Corporation.",
+"options": [
+"proposed",
+"proposal",
+"proposition",
+"proposing"
+],
+"correct": "proposed",
+"explication": "Participe passé employé comme adjectif : « the proposed merger »."
+},
+{
+"id": "ets3-104",
+"phrase": "The Springdale supermarket survey ___ will be released a week after they are evaluated.",
+"options": [
+"events",
+"stores",
+"results",
+"coupons"
+],
+"correct": "results",
+"explication": "« survey results » : résultats d'un sondage."
+},
+{
+"id": "ets3-105",
+"phrase": "The new printer operates more ___ than the previous model did.",
+"options": [
+"quickest",
+"quickness",
+"quick",
+"quickly"
+],
+"correct": "quickly",
+"explication": "Adverbe au comparatif : more quickly."
+},
+{
+"id": "ets3-106",
+"phrase": "Here at Vanguard Buying Club, ___ help members find quality merchandise at the lowest possible prices.",
+"options": [
+"us",
+"our",
+"we",
+"ourselves"
+],
+"correct": "we",
+"explication": "Pronom sujet : we."
+},
+{
+"id": "ets3-107",
+"phrase": "Management announced that all salespeople would be receiving a bonus this year, ___ in time for summer vacations.",
+"options": [
+"just",
+"as",
+"only",
+"by"
+],
+"correct": "just",
+"explication": "« just in time » = juste à temps."
+},
+{
+"id": "ets3-108",
+"phrase": "According to the magazine, many graphic designers do not consider ___ to be traditional artists.",
+"options": [
+"it",
+"their",
+"themselves",
+"itself"
+],
+"correct": "themselves",
+"explication": "Pronom réfléchi : le sujet et l'objet sont les mêmes."
+},
+{
+"id": "ets3-109",
+"phrase": "A wooden bridge crossing the wading pond ___ to the hotel's nine-hole golf course.",
+"options": [
+"prepares",
+"leads",
+"presents",
+"takes"
+],
+"correct": "leads",
+"explication": "« lead to » = mener à."
+},
+{
+"id": "ets3-110",
+"phrase": "A special sale on stationery ___ on the Write Things Web site yesterday.",
+"options": [
+"was announced",
+"announced",
+"was announcing",
+"to announce"
+],
+"correct": "was announced",
+"explication": "Voix passive au passé : was announced."
+},
+{
+"id": "ets3-111",
+"phrase": "All produce transported by Gocargo Trucking is refrigerated ___ upon pickup to prevent spoilage.",
+"options": [
+"lately",
+"promptly",
+"potentially",
+"clearly"
+],
+"correct": "promptly",
+"explication": "« promptly upon pickup » = dès la collecte."
+},
+{
+"id": "ets3-112",
+"phrase": "The Ferrera Museum plans to exhibit a collection of Lucia Almeida's most ___ sculptures.",
+"options": [
+"innovative",
+"innovation",
+"innovatively",
+"innovate"
+],
+"correct": "innovative",
+"explication": "Adjectif au superlatif devant un nom."
+},
+{
+"id": "ets3-113",
+"phrase": "The bank's cashier windows are open daily from 8:00 A.M. to 4:00 P.M. ___ on Sundays.",
+"options": [
+"except",
+"until",
+"nor",
+"yet"
+],
+"correct": "except",
+"explication": "« except on Sundays » = sauf le dimanche."
+},
+{
+"id": "ets3-114",
+"phrase": "Inventory control and warehousing strategies ___ within the responsibilities of the supply chain manager.",
+"options": [
+"have",
+"cover",
+"mark",
+"fall"
+],
+"correct": "fall",
+"explication": "« fall within » = relever de."
+},
+{
+"id": "ets3-115",
+"phrase": "Of all the truck models available today, it can be difficult to figure out ___ would best suit your company's needs.",
+"options": [
+"when",
+"why",
+"which",
+"where"
+],
+"correct": "which",
+"explication": "« which » = lequel (parmi plusieurs modèles)."
+},
+{
+"id": "ets3-116",
+"phrase": "CEO Yoshiro Kasai has expressed complete faith in Fairway Maritime's ___ to deliver the product on time.",
+"options": [
+"belief",
+"measure",
+"problem",
+"ability"
+],
+"correct": "ability",
+"explication": "« ability to + verbe » = capacité à."
+},
+{
+"id": "ets3-117",
+"phrase": "At Derwin Securities, trainees alternate ___ attending information sessions and working closely with assigned mentors.",
+"options": [
+"along",
+"against",
+"between",
+"near"
+],
+"correct": "between",
+"explication": "« alternate between A and B »."
+},
+{
+"id": "ets3-118",
+"phrase": "Company Vice President Astrid Barretto had no ___ to being considered for the position of CEO.",
+"options": [
+"objected",
+"objecting",
+"objects",
+"objection"
+],
+"correct": "objection",
+"explication": "« have no objection to » = ne pas avoir d'objection."
+},
+{
+"id": "ets3-119",
+"phrase": "Belinda McKay fans who are ___ to the author's formal writing style will be surprised by her latest biography.",
+"options": [
+"fortunate",
+"readable",
+"comparable",
+"accustomed"
+],
+"correct": "accustomed",
+"explication": "« be accustomed to » = être habitué à."
+},
+{
+"id": "ets3-120",
+"phrase": "The Southeast Asia Business Convention will feature ___ known and respected leaders from countries across the region.",
+"options": [
+"widen",
+"wider",
+"widely",
+"wide"
+],
+"correct": "widely",
+"explication": "Adverbe devant un participe : widely known."
+},
+{
+"id": "ets3-121",
+"phrase": "___ the high cost of fuel, customers are buying smaller, more efficient cars.",
+"options": [
+"Together with",
+"Instead of",
+"As well as",
+"Because of"
+],
+"correct": "Because of",
+"explication": "« because of » + nom = à cause de."
+},
+{
+"id": "ets3-122",
+"phrase": "Over the past ten years, Bellworth Medical Clinic ___ Atlan Protection officers for all security needs.",
+"options": [
+"is hiring",
+"were hiring",
+"has hired",
+"was hired"
+],
+"correct": "has hired",
+"explication": "« over the past ten years » : present perfect."
+},
+{
+"id": "ets3-123",
+"phrase": "The driver will make three ___ to deliver the package before it is returned to our warehouse.",
+"options": [
+"attempts",
+"pursuits",
+"aims",
+"experiences"
+],
+"correct": "attempts",
+"explication": "« make attempts to » = tenter de."
+},
+{
+"id": "ets3-124",
+"phrase": "We congratulate all Riverside employees, whose ___ effort has resulted in a 20 percent reduction in waste disposal costs.",
+"options": [
+"collect",
+"collective",
+"collects",
+"collector"
+],
+"correct": "collective",
+"explication": "Adjectif devant un nom (effort)."
+},
+{
+"id": "ets3-125",
+"phrase": "Andrzej Ptak's photography Web site will be available online ___ we have finished organizing and cataloging his work.",
+"options": [
+"how",
+"once",
+"so too",
+"not only"
+],
+"correct": "once",
+"explication": "« once » = dès que (conjonction)."
+},
+{
+"id": "ets3-126",
+"phrase": "The initial feedback from early buyers of the Sunbell XC2 mobile phone indicates that they found it ___ to use.",
+"options": [
+"conveniences",
+"conveniently",
+"convenience",
+"convenient"
+],
+"correct": "convenient",
+"explication": "Adjectif après « found it »."
+},
+{
+"id": "ets3-127",
+"phrase": "___ space in the bathroom was limited, the contractor managed to fit in two sinks and a shower.",
+"options": [
+"Both",
+"So that",
+"Whether",
+"Even though"
+],
+"correct": "Even though",
+"explication": "« even though » = bien que (concession)."
+},
+{
+"id": "ets3-128",
+"phrase": "The staff must ___ as much market-research data as possible before planning the advertising campaign.",
+"options": [
+"equip",
+"compile",
+"endorse",
+"compose"
+],
+"correct": "compile",
+"explication": "« compile data » = rassembler des données."
+},
+{
+"id": "ets3-129",
+"phrase": "___ a national holiday falls on a Thursday, the Barstow Company allows employees to take off Friday as well.",
+"options": [
+"Even",
+"For",
+"Nearly",
+"Whenever"
+],
+"correct": "Whenever",
+"explication": "« whenever » = chaque fois que."
+},
+{
+"id": "ets3-130",
+"phrase": "___ materials for the advanced Farsi course include an audio CD and a DVD.",
+"options": [
+"Supplementary",
+"Consequential",
+"Persistent",
+"Cooperative"
+],
+"correct": "Supplementary",
+"explication": "« supplementary » = complémentaire."
+}
+]

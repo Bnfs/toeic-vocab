@@ -6,7 +6,7 @@ export default function Quiz() {
   const [nbQuestions, setNbQuestions] = useState(10);
   const [categorie, setCategorie] = useState("");
   const [mode, setMode] = useState("normal"); // normal | difficiles | favoris
-  const [type, setType] = useState("traduction"); // traduction | inverse | trou
+  const [type, setType] = useState("traduction"); // traduction | inverse | trou | part5
   const [favoris, setFavoris] = useState({}); // mot_id -> bool
   const [questions, setQuestions] = useState([]);
   const [index, setIndex] = useState(0);
@@ -83,6 +83,7 @@ export default function Quiz() {
         <div className="nb-select">
           <button className={`nb-btn ${type === "traduction" ? "active" : ""}`} onClick={() => setType("traduction")}>🔤 Anglais → Français</button>
           <button className={`nb-btn ${type === "inverse" ? "active" : ""}`} onClick={() => setType("inverse")}>🔁 Français → Anglais</button>
+          <button className={`nb-btn ${type === "part5" ? "active" : ""}`} onClick={() => setType("part5")}>📝 Vrai TOEIC (partie 5)</button>
           <button className={`nb-btn ${type === "trou" ? "active" : ""}`} onClick={() => setType("trou")}>✏️ Phrase à trous</button>
         </div>
       </div>
@@ -140,7 +141,7 @@ export default function Quiz() {
             return (
               <div key={q.mot_id} className={`recap-item ${rep?.correct ? "correct" : "faux"}`}>
                 <span className="recap-icon">{rep?.correct ? "✅" : "❌"}</span>
-                <span className="recap-mot">{q.type === "trou" ? q.correct : q.anglais}</span>
+                <span className="recap-mot">{q.type === "trou" || q.type === "part5" ? q.correct : q.anglais}</span>
                 <span className="recap-trad">→ {q.traduction}</span>
               </div>
             );
@@ -165,14 +166,16 @@ export default function Quiz() {
       </div>
 
       <div className="card question-card">
-        <button className="btn-etoile" onClick={() => basculerFavori(question.mot_id)} title="Favori">
-          {favoris[question.mot_id] ? "⭐" : "☆"}
-        </button>
+        {question.type !== "part5" && (
+          <button className="btn-etoile" onClick={() => basculerFavori(question.mot_id)} title="Favori">
+            {favoris[question.mot_id] ? "⭐" : "☆"}
+          </button>
+        )}
         <p className="question-label">
-          {question.type === "trou" ? "Complète la phrase"
+          {question.type === "trou" || question.type === "part5" ? "Complète la phrase"
             : question.type === "inverse" ? "Comment dit-on en anglais ?" : "Quelle est la traduction ?"}
         </p>
-        <h2 className={question.type === "trou" ? "question-phrase" : "question-mot"}>{question.anglais}</h2>
+        <h2 className={question.type === "trou" || question.type === "part5" ? "question-phrase" : "question-mot"}>{question.anglais}</h2>
         <div className="options">
           {question.options.map(opt => {
             let cls = "option-btn";
@@ -188,7 +191,7 @@ export default function Quiz() {
             );
           })}
         </div>
-        {choix !== null && question.type === "trou" && (
+        {choix !== null && (question.type === "trou" || question.type === "part5") && (
           <p className="fiche-aide" style={{ marginTop: 12 }}>💡 {question.traduction}</p>
         )}
         <div className="quiz-nav">

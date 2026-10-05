@@ -18238,5 +18238,671 @@
 "tag": "v",
 "phrase": "In the next quarter we're going to ___ with some of our games.",
 "reponse": "try it out"
+},
+{
+"id": 3874,
+"tag": "a",
+"phrase": "Mr. June consistently offers an ___ view during the team's weekly meetings.",
+"reponse": "analytic"
+},
+{
+"id": 3875,
+"tag": "r",
+"phrase": "The hotel is ___ located within five minutes of the subway station.",
+"reponse": "conveniently"
+},
+{
+"id": 3876,
+"tag": "p",
+"phrase": "His manager has no ___ about his ability to finish on time.",
+"reponse": "doubts"
+},
+{
+"id": 3877,
+"tag": "a",
+"phrase": "Please do not contact me over the weekend unless it is absolutely ___.",
+"reponse": "necessary"
+},
+{
+"id": 3878,
+"tag": "c",
+"phrase": "___ the sales teams do not achieve their objectives, no bonuses will be awarded.",
+"reponse": "In the event"
+},
+{
+"id": 3879,
+"tag": "a",
+"phrase": "Due to the ___ demand for our services, we will no longer accept new orders.",
+"reponse": "unprecedented"
+},
+{
+"id": 3880,
+"tag": "r",
+"phrase": "We make every effort to fill orders ___ and ship them to our customers.",
+"reponse": "promptly"
+},
+{
+"id": 3881,
+"tag": "v",
+"phrase": "Shipments that ___ in Australia are always held up in customs.",
+"reponse": "originate"
+},
+{
+"id": 3882,
+"tag": "n",
+"phrase": "The restaurant will be closed for a ___ on Sunday.",
+"reponse": "private function"
+},
+{
+"id": 3883,
+"tag": "n",
+"phrase": "___ of a reservation must be made at least 72 hours before arrival.",
+"reponse": "Cancelation"
+},
+{
+"id": 3884,
+"tag": "r",
+"phrase": "Mrs. Davies is an ___ skilled copywriter.",
+"reponse": "exceptionally"
+},
+{
+"id": 3885,
+"tag": "c",
+"phrase": "Renewal can be done at the reception desk ___ its expiration date.",
+"reponse": "prior to"
+},
+{
+"id": 3886,
+"tag": "a",
+"phrase": "The superiority of the product has earned it an ___ position among its competitors.",
+"reponse": "enviable"
+},
+{
+"id": 3887,
+"tag": "r",
+"phrase": "The team has developed into a ___ experienced group.",
+"reponse": "highly"
+},
+{
+"id": 3888,
+"tag": "a",
+"phrase": "Customers are impressed with how ___ our staff members are.",
+"reponse": "knowledgeable"
+},
+{
+"id": 3889,
+"tag": "v",
+"phrase": "Every item must ___ extensive quality checks before it is shipped.",
+"reponse": "undergo"
+},
+{
+"id": 3890,
+"tag": "n",
+"phrase": "During the final ___ of the process, a team of experts verifies the quality.",
+"reponse": "phase"
+},
+{
+"id": 3891,
+"tag": "v",
+"phrase": "We ___ confident that all customers will be fully satisfied.",
+"reponse": "remain"
+},
+{
+"id": 3892,
+"tag": "v",
+"phrase": "We had difficulty ___.",
+"reponse": "matching"
+},
+{
+"id": 3893,
+"tag": "n",
+"phrase": "The new highway ___ officially opened today.",
+"reponse": "interchange"
+},
+{
+"id": 3894,
+"tag": "a",
+"phrase": "The city is ___ for the patience of the residents.",
+"reponse": "grateful"
+},
+{
+"id": 3895,
+"tag": "p",
+"phrase": "Every item undergoes extensive ___ before it is shipped.",
+"reponse": "quality checks"
+},
+{
+"id": 3896,
+"tag": "v",
+"phrase": "Inspectors are required to strictly ___ the quality-checking procedures.",
+"reponse": "adhere to"
+},
+{
+"id": 3897,
+"tag": "p",
+"phrase": "Once the glass has been tested, it goes through ___.",
+"reponse": "defect inspections"
+},
+{
+"id": 3898,
+"tag": "a",
+"phrase": "The Web site is ___ because it is being updated.",
+"reponse": "temporarily unavailable"
+},
+{
+"id": 3899,
+"tag": "p",
+"phrase": "Please let me know if you have any ___ for business travelers.",
+"reponse": "special packages"
+},
+{
+"id": 3900,
+"tag": "n",
+"phrase": "I forgot to put the ___ of my e-ticket in my bag.",
+"reponse": "printout"
+},
+{
+"id": 3901,
+"tag": "n",
+"phrase": "Could you please send me the ___?",
+"reponse": "flight confirmation number"
+},
+{
+"id": 3902,
+"tag": "n",
+"phrase": "The food was excellent and the ___ was bright and pleasant.",
+"reponse": "ambience"
+},
+{
+"id": 3903,
+"tag": "n",
+"phrase": "The entrées consist of pasta with meat, ___, seafood or vegetables.",
+"reponse": "poultry"
+},
+{
+"id": 3904,
+"tag": "a",
+"phrase": "All the dishes are freshly cooked and ___.",
+"reponse": "moderately priced"
+},
+{
+"id": 3905,
+"tag": "n",
+"phrase": "The ___ wrote a review for the daily newspaper.",
+"reponse": "food critic"
+},
+{
+"id": 3906,
+"tag": "r",
+"phrase": "I am writing ___ of directors to invite you to speak.",
+"reponse": "on behalf of the board"
+},
+{
+"id": 3907,
+"tag": "n",
+"phrase": "You are invited to be the ___ at the conference.",
+"reponse": "closing speaker"
+},
+{
+"id": 3908,
+"tag": "a",
+"phrase": "The ___ title of her presentation is 'The Disabled Environment'.",
+"reponse": "provisional"
+},
+{
+"id": 3909,
+"tag": "v",
+"phrase": "We would be honored if you would ___ be our closing speaker.",
+"reponse": "consent to"
+},
+{
+"id": 3910,
+"tag": "n",
+"phrase": "The letter was signed by the ___ of Bio Care Company.",
+"reponse": "purchasing director"
+},
+{
+"id": 3911,
+"tag": "v",
+"phrase": "I ___ receive the office chairs.",
+"reponse": "have yet to"
+},
+{
+"id": 3912,
+"tag": "v",
+"phrase": "What may have happened to ___?",
+"reponse": "delay the shipment"
+},
+{
+"id": 3913,
+"tag": "n",
+"phrase": "Dow Chemical would like to thank all of you on the occasion of our 25th ___.",
+"reponse": "anniversary"
+},
+{
+"id": 3914,
+"tag": "n",
+"phrase": "Everything we have achieved since our ___ would not have been possible without you.",
+"reponse": "inception"
+},
+{
+"id": 3915,
+"tag": "n",
+"phrase": "This would not have been possible without your ___ and hard work.",
+"reponse": "dedication"
+},
+{
+"id": 3916,
+"tag": "r",
+"phrase": "___ your valuable contributions, we invite you to the following events.",
+"reponse": "In recognition of"
+},
+{
+"id": 3917,
+"tag": "n",
+"phrase": "This is a ___ that we should celebrate together.",
+"reponse": "milestone"
+},
+{
+"id": 3918,
+"tag": "n",
+"phrase": "Please come in semi-formal or smart ___.",
+"reponse": "casual attire"
+},
+{
+"id": 3919,
+"tag": "a",
+"phrase": "We have decided to make ___ changes to the teaching schedules.",
+"reponse": "tentative"
+},
+{
+"id": 3920,
+"tag": "n",
+"phrase": "All academic staff members must complete a 40-hour ___.",
+"reponse": "workweek"
+},
+{
+"id": 3921,
+"tag": "n",
+"phrase": "There is a ___ on the production line that I need to deal with.",
+"reponse": "technical glitch"
+},
+{
+"id": 3922,
+"tag": "v",
+"phrase": "If I can ___ the meeting to 3:00, would that be okay?",
+"reponse": "push back"
+},
+{
+"id": 3923,
+"tag": "a",
+"phrase": "That sounds like a ___ plan.",
+"reponse": "workable"
+},
+{
+"id": 3924,
+"tag": "v",
+"phrase": "He will most likely ___ the manager tomorrow morning.",
+"reponse": "confer with"
+},
+{
+"id": 3925,
+"tag": "n",
+"phrase": "I bought a commercial ___ from an approved dealer.",
+"reponse": "refrigerator"
+},
+{
+"id": 3926,
+"tag": "n",
+"phrase": "I especially like the built-in ___.",
+"reponse": "water dispenser"
+},
+{
+"id": 3927,
+"tag": "n",
+"phrase": "One of the ___ in the fridge has cracked.",
+"reponse": "adjustable shelves"
+},
+{
+"id": 3928,
+"tag": "v",
+"phrase": "I was told that I needed to ___ you directly for a replacement.",
+"reponse": "approach"
+},
+{
+"id": 3929,
+"tag": "n",
+"phrase": "Please send me a ___ to the address below.",
+"reponse": "replacement shelf"
+},
+{
+"id": 3930,
+"tag": "n",
+"phrase": "The shelves will be shipped by ___ service at no cost to you.",
+"reponse": "next-day delivery"
+},
+{
+"id": 3931,
+"tag": "n",
+"phrase": "As a ___, I have enclosed a coupon.",
+"reponse": "token of our appreciation"
+},
+{
+"id": 3932,
+"tag": "n",
+"phrase": "Thank you for being a ___.",
+"reponse": "valued customer"
+},
+{
+"id": 3933,
+"tag": "n",
+"phrase": "The library will be hosting its annual ___.",
+"reponse": "book fair"
+},
+{
+"id": 3934,
+"tag": "v",
+"phrase": "The fair is held to ___ for regional reading programs.",
+"reponse": "raise funds"
+},
+{
+"id": 3935,
+"tag": "n",
+"phrase": "Simply ask for a ___ at our front desk.",
+"reponse": "volunteer form"
+},
+{
+"id": 3936,
+"tag": "n",
+"phrase": "Please speak with our ___ Sandy Cox.",
+"reponse": "associate librarian"
+},
+{
+"id": 3937,
+"tag": "n",
+"phrase": "I have worked as a ___ before.",
+"reponse": "sales clerk"
+},
+{
+"id": 3938,
+"tag": "v",
+"phrase": "The resort will shortly ___ the development of a new area.",
+"reponse": "commence"
+},
+{
+"id": 3939,
+"tag": "p",
+"phrase": "The following ___ will not be available during these dates.",
+"reponse": "guestrooms"
+},
+{
+"id": 3940,
+"tag": "r",
+"phrase": "We had to close many rooms due to their ___ the construction.",
+"reponse": "proximity to"
+},
+{
+"id": 3941,
+"tag": "v",
+"phrase": "The resort has ___.",
+"reponse": "been filled to capacity"
+},
+{
+"id": 3942,
+"tag": "n",
+"phrase": "According to the ___, the resort has been full.",
+"reponse": "general manager"
+},
+{
+"id": 3943,
+"tag": "n",
+"phrase": "The large ___ occupies the full width of the page.",
+"reponse": "leaderboard ad"
+},
+{
+"id": 3944,
+"tag": "n",
+"phrase": "Regarding your request for ___ space on our Web page.",
+"reponse": "corporate advertising"
+},
+{
+"id": 3945,
+"tag": "v",
+"phrase": "We recently ___ the six-week option.",
+"reponse": "discontinued"
+},
+{
+"id": 3946,
+"tag": "n",
+"phrase": "I can issue the ___ today.",
+"reponse": "advertising contract"
+},
+{
+"id": 3947,
+"tag": "a",
+"phrase": "We provide Springfield with ___ Italian pizzas.",
+"reponse": "authentic"
+},
+{
+"id": 3948,
+"tag": "a",
+"phrase": "Experience the true flavor with our ___ pizzas.",
+"reponse": "oven-baked"
+},
+{
+"id": 3949,
+"tag": "a",
+"phrase": "The device is only ___ with Lumin Telecom hardware.",
+"reponse": "compatible"
+},
+{
+"id": 3950,
+"tag": "n",
+"phrase": "The warranty does not include normal ___.",
+"reponse": "wear and tear"
+},
+{
+"id": 3951,
+"tag": "p",
+"phrase": "The hardware includes chargers, ___ and batteries.",
+"reponse": "power cords"
+},
+{
+"id": 3952,
+"tag": "v",
+"phrase": "The company should ___ the true meaning of ordinary wear and tear.",
+"reponse": "reevaluate"
+},
+{
+"id": 3953,
+"tag": "a",
+"phrase": "Its screen is more ___ than your current model.",
+"reponse": "scratch resistant"
+},
+{
+"id": 3954,
+"tag": "v",
+"phrase": "We also suggest ___ our Platinum Care Program.",
+"reponse": "enrolling in"
+},
+{
+"id": 3955,
+"tag": "v",
+"phrase": "This program would ___ for an additional year.",
+"reponse": "extend your warranty"
+},
+{
+"id": 3956,
+"tag": "n",
+"phrase": "The company marked the opening of the complex with a ___.",
+"reponse": "ribbon-cutting ceremony"
+},
+{
+"id": 3957,
+"tag": "n",
+"phrase": "The company marked the opening of the Ford Road ___.",
+"reponse": "office complex"
+},
+{
+"id": 3958,
+"tag": "p",
+"phrase": "Ms. Luo will explain some possible ___ of the merger.",
+"reponse": "consequences"
+},
+{
+"id": 3959,
+"tag": "p",
+"phrase": "The supermarket ___ will be released a week after they are evaluated.",
+"reponse": "survey results"
+},
+{
+"id": 3960,
+"tag": "v",
+"phrase": "It can be difficult to ___ which model best suits your needs.",
+"reponse": "figure out"
+},
+{
+"id": 3961,
+"tag": "v",
+"phrase": "All produce transported by the company ___ upon pickup.",
+"reponse": "is refrigerated"
+},
+{
+"id": 3962,
+"tag": "n",
+"phrase": "Produce is refrigerated upon pickup to prevent ___.",
+"reponse": "spoilage"
+},
+{
+"id": 3963,
+"tag": "n",
+"phrase": "___ and warehousing strategies fall within the supply chain manager's responsibilities.",
+"reponse": "Inventory control"
+},
+{
+"id": 3964,
+"tag": "n",
+"phrase": "Inventory control and ___ strategies are the responsibility of the manager.",
+"reponse": "warehousing"
+},
+{
+"id": 3965,
+"tag": "n",
+"phrase": "The strategies fall within the responsibilities of the ___.",
+"reponse": "supply chain manager"
+},
+{
+"id": 3966,
+"tag": "v",
+"phrase": "The strategies ___ the responsibilities of the manager.",
+"reponse": "fall within"
+},
+{
+"id": 3967,
+"tag": "p",
+"phrase": "At the securities firm, ___ alternate between sessions and working with mentors.",
+"reponse": "trainees"
+},
+{
+"id": 3968,
+"tag": "v",
+"phrase": "Trainees ___ between attending sessions and working with mentors.",
+"reponse": "alternate"
+},
+{
+"id": 3969,
+"tag": "n",
+"phrase": "The vice president had no ___ to being considered for the position of CEO.",
+"reponse": "objection"
+},
+{
+"id": 3970,
+"tag": "a",
+"phrase": "The employees' ___ effort has resulted in a 20 percent reduction in costs.",
+"reponse": "collective"
+},
+{
+"id": 3971,
+"tag": "n",
+"phrase": "A 20 percent reduction in ___ costs.",
+"reponse": "waste disposal"
+},
+{
+"id": 3972,
+"tag": "n",
+"phrase": "The staff must compile as much ___ as possible before planning the campaign.",
+"reponse": "market-research data"
+},
+{
+"id": 3973,
+"tag": "a",
+"phrase": "___ materials for the advanced course include an audio CD and a DVD.",
+"reponse": "Supplementary"
+},
+{
+"id": 3974,
+"tag": "v",
+"phrase": "When a national holiday ___ a Thursday, employees may take Friday off.",
+"reponse": "falls on"
+},
+{
+"id": 3975,
+"tag": "v",
+"phrase": "The contractor managed to ___ two sinks and a shower.",
+"reponse": "fit in"
+},
+{
+"id": 3976,
+"tag": "v",
+"phrase": "It took a while for the cuisine to ___ with customers.",
+"reponse": "catch on"
+},
+{
+"id": 3977,
+"tag": "n",
+"phrase": "Your automatic payments will begin with the next ___.",
+"reponse": "billing cycle"
+},
+{
+"id": 3978,
+"tag": "v",
+"phrase": "Your payment will be ___ from your designated bank account.",
+"reponse": "deducted"
+},
+{
+"id": 3979,
+"tag": "n",
+"phrase": "The payment will be deducted from your ___.",
+"reponse": "designated bank account"
+},
+{
+"id": 3980,
+"tag": "n",
+"phrase": "Congratulations on your recent ___ in the Autopay system.",
+"reponse": "enrollment"
+},
+{
+"id": 3981,
+"tag": "n",
+"phrase": "The ___ is proud to announce a summer event.",
+"reponse": "Neighbourhood Association"
+},
+{
+"id": 3982,
+"tag": "p",
+"phrase": "The ___ will go towards a park enhancement project.",
+"reponse": "proceeds"
+},
+{
+"id": 3983,
+"tag": "n",
+"phrase": "To receive a new ___, please fill out the following form.",
+"reponse": "employee badge"
+},
+{
+"id": 3984,
+"tag": "a",
+"phrase": "My previous badge ___.",
+"reponse": "expired"
 }
 ]
