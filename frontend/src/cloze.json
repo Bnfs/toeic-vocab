@@ -21478,5 +21478,575 @@
 "tag": "n",
 "phrase": "I'd like to know your ___ before I make the reservation.",
 "reponse": "hotel preference"
+},
+{
+"id": 4414,
+"tag": "n",
+"phrase": "Twenty-five applications were submitted for the position of ___.",
+"reponse": "desk clerk"
+},
+{
+"id": 4415,
+"tag": "a",
+"phrase": "The ___ prices will attract many new customers.",
+"reponse": "deeply discounted"
+},
+{
+"id": 4416,
+"tag": "n",
+"phrase": "Mr. Cruz needs someone to help him with the ___.",
+"reponse": "conference display"
+},
+{
+"id": 4417,
+"tag": "n",
+"phrase": "One ___ of living in the countryside is the long commute.",
+"reponse": "downside"
+},
+{
+"id": 4418,
+"tag": "n",
+"phrase": "The final ___ was higher than the investors expected.",
+"reponse": "purchase price"
+},
+{
+"id": 4419,
+"tag": "n",
+"phrase": "The ___ buys supplies in large quantities.",
+"reponse": "provisions officer"
+},
+{
+"id": 4420,
+"tag": "n",
+"phrase": "The ___ is at sea for weeks at a time.",
+"reponse": "fishing boat"
+},
+{
+"id": 4421,
+"tag": "p",
+"phrase": "The ___ will be paid overtime over the holidays.",
+"reponse": "housekeepers"
+},
+{
+"id": 4422,
+"tag": "n",
+"phrase": "Did Mr. Fisk borrow the ___ from the company library?",
+"reponse": "reference guide"
+},
+{
+"id": 4423,
+"tag": "n",
+"phrase": "The ___ suggests renting a boat from a local.",
+"reponse": "gas station attendant"
+},
+{
+"id": 4424,
+"tag": "n",
+"phrase": "If this report is sent by ___, it will reach Milan tomorrow.",
+"reponse": "overnight delivery"
+},
+{
+"id": 4425,
+"tag": "p",
+"phrase": "The city is asking for funding for parks and ___.",
+"reponse": "recreational centers"
+},
+{
+"id": 4426,
+"tag": "a",
+"phrase": "The marketing director is quite ___ about advertising in Europe.",
+"reponse": "knowledgeable"
+},
+{
+"id": 4427,
+"tag": "n",
+"phrase": "We must know the size of the ___ before designing it.",
+"reponse": "banner"
+},
+{
+"id": 4428,
+"tag": "n",
+"phrase": "We are a ___ and are looking at other insurance plans.",
+"reponse": "mid-sized firm"
+},
+{
+"id": 4429,
+"tag": "n",
+"phrase": "Staff are dissatisfied with the current ___.",
+"reponse": "insurance plan"
+},
+{
+"id": 4430,
+"tag": "n",
+"phrase": "Could you mail us a packet about your ___?",
+"reponse": "health care provider"
+},
+{
+"id": 4431,
+"tag": "n",
+"phrase": "I am eager to see your progress on the company's new ___.",
+"reponse": "financial center"
+},
+{
+"id": 4432,
+"tag": "n",
+"phrase": "You have an excellent reputation as a ___.",
+"reponse": "Construction Project Manager"
+},
+{
+"id": 4433,
+"tag": "n",
+"phrase": "The ___ will be held on Saturday at 11:00 A.M.",
+"reponse": "estate auction"
+},
+{
+"id": 4434,
+"tag": "v",
+"phrase": "Jewelry and a stamp collection will ___.",
+"reponse": "be auctioned"
+},
+{
+"id": 4435,
+"tag": "n",
+"phrase": "Among the items to be auctioned is a ___.",
+"reponse": "stamp collection"
+},
+{
+"id": 4436,
+"tag": "p",
+"phrase": "The auction includes antiques and ___.",
+"reponse": "Oriental rugs"
+},
+{
+"id": 4437,
+"tag": "n",
+"phrase": "The ___ reviewed its finances for April.",
+"reponse": "art gallery"
+},
+{
+"id": 4438,
+"tag": "p",
+"phrase": "The greatest expense for the gallery is ___.",
+"reponse": "art acquisitions"
+},
+{
+"id": 4439,
+"tag": "n",
+"phrase": "The seminars cover regional customs, diet and ___.",
+"reponse": "cross-cultural communication"
+},
+{
+"id": 4440,
+"tag": "n",
+"phrase": "The e-mail was sent to the ___ of the new plant.",
+"reponse": "transferring staff"
+},
+{
+"id": 4441,
+"tag": "v",
+"phrase": "The seminars help employees ___ life overseas.",
+"reponse": "adjust to"
+},
+{
+"id": 4442,
+"tag": "p",
+"phrase": "The company focuses on ___ and cookware.",
+"reponse": "specialty food products"
+},
+{
+"id": 4443,
+"tag": "n",
+"phrase": "Gourmet Galore sells specialty foods, ___ and kitchen accessories.",
+"reponse": "cookware"
+},
+{
+"id": 4444,
+"tag": "p",
+"phrase": "___ from all over Europe will act as consultants.",
+"reponse": "Guest chefs"
+},
+{
+"id": 4445,
+"tag": "n",
+"phrase": "The association offers a ___ for aspiring young professionals.",
+"reponse": "scholarship program"
+},
+{
+"id": 4446,
+"tag": "p",
+"phrase": "The fund supports ___ in our community.",
+"reponse": "aspiring young professionals"
+},
+{
+"id": 4447,
+"tag": "n",
+"phrase": "We ask that you make a ___ to support our work.",
+"reponse": "cash donation"
+},
+{
+"id": 4448,
+"tag": "n",
+"phrase": "As a long-time member, you have been a ___ of the fund.",
+"reponse": "generous supporter"
+},
+{
+"id": 4449,
+"tag": "n",
+"phrase": "If you are a ___ of the Festival, you will enjoy it.",
+"reponse": "long-time fan"
+},
+{
+"id": 4450,
+"tag": "n",
+"phrase": "The café is proud to announce its ___.",
+"reponse": "grand reopening"
+},
+{
+"id": 4451,
+"tag": "n",
+"phrase": "The café is known for its ___.",
+"reponse": "homemade ice cream"
+},
+{
+"id": 4452,
+"tag": "p",
+"phrase": "Wickford Realty has two ___ for sale.",
+"reponse": "retail spaces"
+},
+{
+"id": 4453,
+"tag": "p",
+"phrase": "The space has large ___ at the front.",
+"reponse": "display windows"
+},
+{
+"id": 4454,
+"tag": "n",
+"phrase": "I am hoping to get a ___ at 5% interest.",
+"reponse": "thirty-year loan"
+},
+{
+"id": 4455,
+"tag": "n",
+"phrase": "I have a good ___ and only two debts.",
+"reponse": "credit record"
+},
+{
+"id": 4456,
+"tag": "v",
+"phrase": "I'm not sure if I ___ that large.",
+"reponse": "qualify for a loan"
+},
+{
+"id": 4457,
+"tag": "n",
+"phrase": "I owe $5,000 on my ___.",
+"reponse": "car loan"
+},
+{
+"id": 4458,
+"tag": "n",
+"phrase": "The office would look better with a new ___.",
+"reponse": "coat of paint"
+},
+{
+"id": 4459,
+"tag": "p",
+"phrase": "Most people are aware that ___ will have to be made.",
+"reponse": "staffing cuts"
+},
+{
+"id": 4460,
+"tag": "n",
+"phrase": "Passengers can check in for the ___ between 8:00 and 12:00.",
+"reponse": "charter flight"
+},
+{
+"id": 4461,
+"tag": "n",
+"phrase": "The landscaper recommended an ___.",
+"reponse": "automatic watering system"
+},
+{
+"id": 4462,
+"tag": "a",
+"phrase": "Ms. Chang is very ___ and buys suits at discount stores.",
+"reponse": "frugal"
+},
+{
+"id": 4463,
+"tag": "p",
+"phrase": "She buys most of her suits at large ___.",
+"reponse": "discount stores"
+},
+{
+"id": 4464,
+"tag": "n",
+"phrase": "With so much ___ in the city, it's hard to see stars.",
+"reponse": "light pollution"
+},
+{
+"id": 4465,
+"tag": "n",
+"phrase": "All ___ employees must work overnight to do inventory.",
+"reponse": "stockroom"
+},
+{
+"id": 4466,
+"tag": "v",
+"phrase": "Employees are required to work overnight to ___.",
+"reponse": "do inventory"
+},
+{
+"id": 4467,
+"tag": "n",
+"phrase": "Model 34 is on ___ and won't arrive until spring.",
+"reponse": "backorder"
+},
+{
+"id": 4468,
+"tag": "p",
+"phrase": "Mr. Larsen will only consider ___ for the position.",
+"reponse": "military veterans"
+},
+{
+"id": 4469,
+"tag": "n",
+"phrase": "The ___ supervises the construction crew.",
+"reponse": "foreman"
+},
+{
+"id": 4470,
+"tag": "n",
+"phrase": "Her predictions were received with some ___.",
+"reponse": "skepticism"
+},
+{
+"id": 4471,
+"tag": "p",
+"phrase": "Ethel's ___ were received with some skepticism.",
+"reponse": "economic predictions"
+},
+{
+"id": 4472,
+"tag": "d",
+"phrase": "Doctors who have recently ___ use the association's website.",
+"reponse": "been licensed"
+},
+{
+"id": 4473,
+"tag": "n",
+"phrase": "Doctors use the ___ website to find jobs.",
+"reponse": "medical association"
+},
+{
+"id": 4474,
+"tag": "n",
+"phrase": "The ___ needs to emphasize that our product is better.",
+"reponse": "promotional message"
+},
+{
+"id": 4475,
+"tag": "p",
+"phrase": "Green Office ___ use eco-friendly materials.",
+"reponse": "Renovators"
+},
+{
+"id": 4476,
+"tag": "p",
+"phrase": "The initial costs of installing ___ can be high.",
+"reponse": "energy-efficient systems"
+},
+{
+"id": 4477,
+"tag": "n",
+"phrase": "The company requires a ___ before work begins.",
+"reponse": "minimum deposit"
+},
+{
+"id": 4478,
+"tag": "n",
+"phrase": "The materials meet the highest standards for ___.",
+"reponse": "environmental protection"
+},
+{
+"id": 4479,
+"tag": "n",
+"phrase": "The brochure outlines our services and our ___.",
+"reponse": "pricing system"
+},
+{
+"id": 4480,
+"tag": "n",
+"phrase": "Is your company a ___ for hackers?",
+"reponse": "sitting duck"
+},
+{
+"id": 4481,
+"tag": "p",
+"phrase": "The article describes a new breed of ___.",
+"reponse": "hackers"
+},
+{
+"id": 4482,
+"tag": "p",
+"phrase": "Smaller companies have less sophisticated ___.",
+"reponse": "security systems"
+},
+{
+"id": 4483,
+"tag": "d",
+"phrase": "A ___ system may attract little attention from investigators.",
+"reponse": "breached"
+},
+{
+"id": 4484,
+"tag": "p",
+"phrase": "Several former hackers are working to pay off ___.",
+"reponse": "hefty fines"
+},
+{
+"id": 4485,
+"tag": "p",
+"phrase": "The study measured how ___ spend their time.",
+"reponse": "sales managers"
+},
+{
+"id": 4486,
+"tag": "n",
+"phrase": "You will study with your peers in a week-long ___.",
+"reponse": "intensive session"
+},
+{
+"id": 4487,
+"tag": "n",
+"phrase": "All applications require a ___ from your supervisor.",
+"reponse": "letter of recommendation"
+},
+{
+"id": 4488,
+"tag": "v",
+"phrase": "The course helps managers ___.",
+"reponse": "sharpen their skills"
+},
+{
+"id": 4489,
+"tag": "n",
+"phrase": "Ginger's is a ___ that makes bouquets and wreaths.",
+"reponse": "florist"
+},
+{
+"id": 4490,
+"tag": "p",
+"phrase": "Our ___, baskets and garlands will transform your occasion.",
+"reponse": "bouquets"
+},
+{
+"id": 4491,
+"tag": "n",
+"phrase": "There is a ___ for other areas.",
+"reponse": "mileage charge"
+},
+{
+"id": 4492,
+"tag": "p",
+"phrase": "All our products are available at ___ to registered retailers.",
+"reponse": "wholesale prices"
+},
+{
+"id": 4493,
+"tag": "p",
+"phrase": "Products are sold at wholesale prices to ___.",
+"reponse": "registered retailers"
+},
+{
+"id": 4494,
+"tag": "v",
+"phrase": "We do not ___ any of our production.",
+"reponse": "subcontract"
+},
+{
+"id": 4495,
+"tag": "n",
+"phrase": "The memo announces a new policy on paid ___.",
+"reponse": "charitable leave"
+},
+{
+"id": 4496,
+"tag": "n",
+"phrase": "Employees may take paid leave for unpaid ___.",
+"reponse": "community service"
+},
+{
+"id": 4497,
+"tag": "p",
+"phrase": "Employees may volunteer for ___.",
+"reponse": "charity organizations"
+},
+{
+"id": 4498,
+"tag": "v",
+"phrase": "It looks like they didn't ___ the carpet correctly.",
+"reponse": "nail it down"
+},
+{
+"id": 4499,
+"tag": "n",
+"phrase": "There is a big ___ between the edge of the carpet and the wall.",
+"reponse": "gap"
+},
+{
+"id": 4500,
+"tag": "n",
+"phrase": "Attend a ___ to learn about your benefits.",
+"reponse": "Retirement Workshop"
+},
+{
+"id": 4501,
+"tag": "p",
+"phrase": "The workshop will explain available ___.",
+"reponse": "retirement benefits"
+},
+{
+"id": 4502,
+"tag": "p",
+"phrase": "We have an open house for ___ on June 1.",
+"reponse": "prospective tenants"
+},
+{
+"id": 4503,
+"tag": "a",
+"phrase": "The front of the property looks sadly ___.",
+"reponse": "neglected"
+},
+{
+"id": 4504,
+"tag": "n",
+"phrase": "The ___ on either side of the door needs to be replaced.",
+"reponse": "shrubbery"
+},
+{
+"id": 4505,
+"tag": "p",
+"phrase": "I'm writing to the theater's ___ about our party.",
+"reponse": "reservations"
+},
+{
+"id": 4506,
+"tag": "n",
+"phrase": "The e-mail was written by the ___ of Federal Bank.",
+"reponse": "events coordinator"
+},
+{
+"id": 4507,
+"tag": "p",
+"phrase": "Staff must earn twenty hours of ___ per year.",
+"reponse": "professional development credits"
+},
+{
+"id": 4508,
+"tag": "n",
+"phrase": "You can use ___ at the institute toward your credit hours.",
+"reponse": "coursework"
 }
 ]
