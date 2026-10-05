@@ -102,6 +102,11 @@ function questionTrou(mot) {
   const pool = melanger(CLOZE.filter(x => x.tag === c.tag && x.id !== c.id && x.reponse !== c.reponse))
     .sort((a, b) => (CATEGORIE_DE.get(a.id) !== mot.categorie) - (CATEGORIE_DE.get(b.id) !== mot.categorie));
   const mauvaises = [...new Set(pool.map(x => x.reponse))].slice(0, 3);
+  // Filet de sécurité : si peu de mots de même nature, on complète avec d'autres
+  for (const x of melanger([...CLOZE])) {
+    if (mauvaises.length >= 3) break;
+    if (x.reponse !== c.reponse && !mauvaises.includes(x.reponse)) mauvaises.push(x.reponse);
+  }
   return {
     mot_id: mot.id,
     type: "trou",

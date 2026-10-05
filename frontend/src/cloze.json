@@ -12994,5 +12994,4067 @@
 "tag": "n",
 "phrase": "The waiter carried the glasses on a ___.",
 "reponse": "tray"
+},
+{
+"id": 3000,
+"tag": "p",
+"phrase": "Clothing is hanging on ___.",
+"reponse": "racks"
+},
+{
+"id": 3001,
+"tag": "n",
+"phrase": "He's looking in a file ___.",
+"reponse": "drawer"
+},
+{
+"id": 3002,
+"tag": "p",
+"phrase": "Some ___ are occupied.",
+"reponse": "armchairs"
+},
+{
+"id": 3003,
+"tag": "n",
+"phrase": "A woman is opening a ___.",
+"reponse": "garment bag"
+},
+{
+"id": 3004,
+"tag": "n",
+"phrase": "A woman is opening her ___.",
+"reponse": "handbag"
+},
+{
+"id": 3005,
+"tag": "n",
+"phrase": "A ship is approaching a ___.",
+"reponse": "pier"
+},
+{
+"id": 3006,
+"tag": "n",
+"phrase": "A flag is being raised on a ___.",
+"reponse": "pole"
+},
+{
+"id": 3007,
+"tag": "n",
+"phrase": "A ___ is being raised on a pole.",
+"reponse": "flag"
+},
+{
+"id": 3008,
+"tag": "n",
+"phrase": "A man is putting up a metal ___.",
+"reponse": "barrier"
+},
+{
+"id": 3009,
+"tag": "g",
+"phrase": "Some people are ___ each other.",
+"reponse": "facing"
+},
+{
+"id": 3010,
+"tag": "n",
+"phrase": "Do I need to use a ___ to give my speech?",
+"reponse": "microphone"
+},
+{
+"id": 3011,
+"tag": "n",
+"phrase": "The ___ is locked, isn't it?",
+"reponse": "storage closet"
+},
+{
+"id": 3012,
+"tag": "v",
+"phrase": "Would you like me to ___ the contract now?",
+"reponse": "write up"
+},
+{
+"id": 3013,
+"tag": "n",
+"phrase": "What floor is the ___ on?",
+"reponse": "seminar"
+},
+{
+"id": 3014,
+"tag": "n",
+"phrase": "Have the maintenance workers fixed the ___ in apartment 7B?",
+"reponse": "water leak"
+},
+{
+"id": 3015,
+"tag": "n",
+"phrase": "Ms. Balani has the copies of the ___, doesn't she?",
+"reponse": "annual report"
+},
+{
+"id": 3016,
+"tag": "n",
+"phrase": "What do you think of the updated ___?",
+"reponse": "vacation policy"
+},
+{
+"id": 3017,
+"tag": "a",
+"phrase": "I like how ___ it is.",
+"reponse": "flexible"
+},
+{
+"id": 3018,
+"tag": "a",
+"phrase": "This e-mail from Mr. Robertson is rather ___.",
+"reponse": "unclear"
+},
+{
+"id": 3019,
+"tag": "p",
+"phrase": "Sasha will make the ___.",
+"reponse": "arrangements"
+},
+{
+"id": 3020,
+"tag": "a",
+"phrase": "Would you like ___ or outdoor seating?",
+"reponse": "indoor"
+},
+{
+"id": 3021,
+"tag": "a",
+"phrase": "Would you like indoor or ___ seating?",
+"reponse": "outdoor"
+},
+{
+"id": 3022,
+"tag": "n",
+"phrase": "She had a dentist ___.",
+"reponse": "appointment"
+},
+{
+"id": 3023,
+"tag": "n",
+"phrase": "Isn't Takeshi coming to the ___ with us?",
+"reponse": "concert"
+},
+{
+"id": 3024,
+"tag": "n",
+"phrase": "I'm in charge of your new employee ___.",
+"reponse": "orientation"
+},
+{
+"id": 3025,
+"tag": "n",
+"phrase": "I'm excited to work in the ___.",
+"reponse": "entertainment industry"
+},
+{
+"id": 3026,
+"tag": "v",
+"phrase": "I'd like to ___ your large meeting room for this afternoon.",
+"reponse": "reserve"
+},
+{
+"id": 3027,
+"tag": "n",
+"phrase": "I'll just need to see some ___, please.",
+"reponse": "identification"
+},
+{
+"id": 3028,
+"tag": "n",
+"phrase": "We caught the ___ after the trucks had departed.",
+"reponse": "oversight"
+},
+{
+"id": 3029,
+"tag": "n",
+"phrase": "My bakery is going to be visited by a ___.",
+"reponse": "safety inspector"
+},
+{
+"id": 3030,
+"tag": "n",
+"phrase": "The new oven must be installed in time so that the bakery can pass ___.",
+"reponse": "inspection"
+},
+{
+"id": 3031,
+"tag": "p",
+"phrase": "That would require significant ___ to our scheduling process.",
+"reponse": "revisions"
+},
+{
+"id": 3032,
+"tag": "n",
+"phrase": "You can find more details on ___ procedures.",
+"reponse": "reimbursement"
+},
+{
+"id": 3033,
+"tag": "v",
+"phrase": "The company will ___ you for your travel expenses.",
+"reponse": "reimburse"
+},
+{
+"id": 3034,
+"tag": "n",
+"phrase": "Do you know if there's more ___ on that?",
+"reponse": "documentation"
+},
+{
+"id": 3035,
+"tag": "a",
+"phrase": "There's a link to our ___ Web site.",
+"reponse": "internal"
+},
+{
+"id": 3036,
+"tag": "n",
+"phrase": "I'd like to welcome ___ Emelia Vigo.",
+"reponse": "nutritionist"
+},
+{
+"id": 3037,
+"tag": "p",
+"phrase": "Make meals by substituting healthier ___ for less healthy ones.",
+"reponse": "ingredients"
+},
+{
+"id": 3038,
+"tag": "n",
+"phrase": "Sweet potatoes are a more nutritious ___ for white potatoes.",
+"reponse": "substitute"
+},
+{
+"id": 3039,
+"tag": "a",
+"phrase": "Sweet potatoes are a more ___ substitute for white potatoes.",
+"reponse": "nutritious"
+},
+{
+"id": 3040,
+"tag": "n",
+"phrase": "That ___, and more, are in my new book.",
+"reponse": "recipe"
+},
+{
+"id": 3041,
+"tag": "a",
+"phrase": "You ___ receive outstanding performance reviews.",
+"reponse": "consistently"
+},
+{
+"id": 3042,
+"tag": "a",
+"phrase": "You consistently receive ___ performance reviews.",
+"reponse": "outstanding"
+},
+{
+"id": 3043,
+"tag": "v",
+"phrase": "We'd like you to ___ more responsibility.",
+"reponse": "take on"
+},
+{
+"id": 3044,
+"tag": "v",
+"phrase": "I hired them to ___ a meal for a management meeting.",
+"reponse": "cater"
+},
+{
+"id": 3045,
+"tag": "a",
+"phrase": "Our budget's pretty ___.",
+"reponse": "tight"
+},
+{
+"id": 3046,
+"tag": "n",
+"phrase": "Here, this ___ will help.",
+"reponse": "pamphlet"
+},
+{
+"id": 3047,
+"tag": "n",
+"phrase": "I heard there's a workshop on ___ painting this summer.",
+"reponse": "watercolor"
+},
+{
+"id": 3048,
+"tag": "p",
+"phrase": "We have been successful recruiting at university ___.",
+"reponse": "career fairs"
+},
+{
+"id": 3049,
+"tag": "p",
+"phrase": "Employee ___ are 17 percent of our recruits.",
+"reponse": "referrals"
+},
+{
+"id": 3050,
+"tag": "p",
+"phrase": "We could put more of our ___ into our second most effective recruiting method.",
+"reponse": "resources"
+},
+{
+"id": 3051,
+"tag": "n",
+"phrase": "Would you set up a meeting with Yukiko in ___?",
+"reponse": "public relations"
+},
+{
+"id": 3052,
+"tag": "v",
+"phrase": "Let's explore possibilities to ___ last year's campaign.",
+"reponse": "expand"
+},
+{
+"id": 3053,
+"tag": "v",
+"phrase": "Let's ___ other possibilities for the campaign.",
+"reponse": "explore"
+},
+{
+"id": 3054,
+"tag": "n",
+"phrase": "You'll have the option of leaving the ___ to go on a site visit.",
+"reponse": "convention center"
+},
+{
+"id": 3055,
+"tag": "p",
+"phrase": "Choose one of the ___ we've arranged.",
+"reponse": "site visits"
+},
+{
+"id": 3056,
+"tag": "n",
+"phrase": "We chose Castillo as a new ___.",
+"reponse": "vendor"
+},
+{
+"id": 3057,
+"tag": "a",
+"phrase": "Hae-Rim will go over the ___ costs and profit estimates.",
+"reponse": "anticipated"
+},
+{
+"id": 3058,
+"tag": "a",
+"phrase": "I want to tell you about some ___ menu changes.",
+"reponse": "seasonal"
+},
+{
+"id": 3059,
+"tag": "v",
+"phrase": "We can ___ some ideas for the display.",
+"reponse": "brainstorm"
+},
+{
+"id": 3060,
+"tag": "p",
+"phrase": "Could you contact the fair ___ about getting a booth?",
+"reponse": "organizers"
+},
+{
+"id": 3061,
+"tag": "n",
+"phrase": "You must provide proof of ___.",
+"reponse": "ownership"
+},
+{
+"id": 3062,
+"tag": "a",
+"phrase": "If you are planning to ship a vehicle to a location ___, call us.",
+"reponse": "overseas"
+},
+{
+"id": 3063,
+"tag": "n",
+"phrase": "The dress ___ is only five weeks away.",
+"reponse": "rehearsal"
+},
+{
+"id": 3064,
+"tag": "p",
+"phrase": "Thank you for volunteering to help make ___.",
+"reponse": "costumes"
+},
+{
+"id": 3065,
+"tag": "p",
+"phrase": "We were going to discuss the ___ to the lobby.",
+"reponse": "renovations"
+},
+{
+"id": 3066,
+"tag": "a",
+"phrase": "I was at the station when train service was ___.",
+"reponse": "suspended"
+},
+{
+"id": 3067,
+"tag": "p",
+"phrase": "By choosing to install our ___, you can power your facilities.",
+"reponse": "solar panels"
+},
+{
+"id": 3068,
+"tag": "q",
+"phrase": "My company is ___ providing renewable energy to businesses.",
+"reponse": "committed to"
+},
+{
+"id": 3069,
+"tag": "p",
+"phrase": "You've given very high ___ overall for our gym.",
+"reponse": "ratings"
+},
+{
+"id": 3070,
+"tag": "n",
+"phrase": "The ___ tells customers what the company is all about.",
+"reponse": "tagline"
+},
+{
+"id": 3071,
+"tag": "p",
+"phrase": "Welcome to today's class on small business ___.",
+"reponse": "start-ups"
+},
+{
+"id": 3072,
+"tag": "v",
+"phrase": "The logo is how customers will ___ you.",
+"reponse": "identify"
+},
+{
+"id": 3073,
+"tag": "v",
+"phrase": "Consider the message you want to ___.",
+"reponse": "communicate"
+},
+{
+"id": 3074,
+"tag": "v",
+"phrase": "That's something we can ___ throughout the campaign.",
+"reponse": "emphasize"
+},
+{
+"id": 3075,
+"tag": "v",
+"phrase": "People say they ___ our top-notch customer service.",
+"reponse": "appreciate"
+},
+{
+"id": 3076,
+"tag": "a",
+"phrase": "People appreciate our ___ customer service.",
+"reponse": "top-notch"
+},
+{
+"id": 3077,
+"tag": "p",
+"phrase": "We make an effort to meet customers' ___.",
+"reponse": "expectations"
+},
+{
+"id": 3078,
+"tag": "a",
+"phrase": "We're ___ because another moving company just opened nearby.",
+"reponse": "concerned"
+},
+{
+"id": 3079,
+"tag": "n",
+"phrase": "The oven was accidentally left off of this morning's ___.",
+"reponse": "delivery schedule"
+},
+{
+"id": 3080,
+"tag": "a",
+"phrase": "I like this area. It's not ___ at all.",
+"reponse": "noisy"
+},
+{
+"id": 3081,
+"tag": "v",
+"phrase": "I'll show you around and then ___ you to your manager.",
+"reponse": "introduce"
+},
+{
+"id": 3082,
+"tag": "n",
+"phrase": "They're looking into a ___.",
+"reponse": "copy machine"
+},
+{
+"id": 3083,
+"tag": "n",
+"phrase": "Bags of ___ are on display.",
+"reponse": "merchandise"
+},
+{
+"id": 3084,
+"tag": "n",
+"phrase": "Some ___ is being framed.",
+"reponse": "artwork"
+},
+{
+"id": 3085,
+"tag": "n",
+"phrase": "A ___ has been set on top of a counter.",
+"reponse": "lamp"
+},
+{
+"id": 3086,
+"tag": "n",
+"phrase": "Some people are setting up a ___.",
+"reponse": "tent"
+},
+{
+"id": 3087,
+"tag": "n",
+"phrase": "A ___ is playing outdoors.",
+"reponse": "musician"
+},
+{
+"id": 3088,
+"tag": "n",
+"phrase": "Yes, there's one in the ___.",
+"reponse": "historic district"
+},
+{
+"id": 3089,
+"tag": "p",
+"phrase": "Did Lisa pick up the ___ from the printers?",
+"reponse": "invitations"
+},
+{
+"id": 3090,
+"tag": "n",
+"phrase": "The annual fund-raising ___ is next week.",
+"reponse": "banquet"
+},
+{
+"id": 3091,
+"tag": "v",
+"phrase": "Who will ___ these forms?",
+"reponse": "authorize"
+},
+{
+"id": 3092,
+"tag": "n",
+"phrase": "Another ___ will arrive next Tuesday.",
+"reponse": "batch"
+},
+{
+"id": 3093,
+"tag": "n",
+"phrase": "I'd like you to present your ___ at the next council meeting.",
+"reponse": "proposal"
+},
+{
+"id": 3094,
+"tag": "n",
+"phrase": "___ was fairly low at the training.",
+"reponse": "attendance"
+},
+{
+"id": 3095,
+"tag": "n",
+"phrase": "Which of this week's ___ should I sign up for?",
+"reponse": "training sessions"
+},
+{
+"id": 3096,
+"tag": "n",
+"phrase": "I'll pick you up at the ___ at eight-thirty.",
+"reponse": "bus terminal"
+},
+{
+"id": 3097,
+"tag": "v",
+"phrase": "Ellen won't organize the conference; she's going to ___.",
+"reponse": "take a year off"
+},
+{
+"id": 3098,
+"tag": "n",
+"phrase": "There's a public ___ close by.",
+"reponse": "garage"
+},
+{
+"id": 3099,
+"tag": "r",
+"phrase": "Many trees and flowers are ___ now.",
+"reponse": "in bloom"
+},
+{
+"id": 3100,
+"tag": "n",
+"phrase": "The printer is next to the ___.",
+"reponse": "break room"
+},
+{
+"id": 3101,
+"tag": "p",
+"phrase": "We need to buy the ___ for the move.",
+"reponse": "packing supplies"
+},
+{
+"id": 3102,
+"tag": "n",
+"phrase": "I've put my bags on the ___.",
+"reponse": "overhead rack"
+},
+{
+"id": 3103,
+"tag": "n",
+"phrase": "Some guests would like to see the ___ perform.",
+"reponse": "symphony orchestra"
+},
+{
+"id": 3104,
+"tag": "n",
+"phrase": "I've called the ___ a couple of times to book tickets.",
+"reponse": "box office"
+},
+{
+"id": 3105,
+"tag": "n",
+"phrase": "I called, but I just get a ___.",
+"reponse": "recording"
+},
+{
+"id": 3106,
+"tag": "p",
+"phrase": "It'll help to know what your ___ are.",
+"reponse": "specific needs"
+},
+{
+"id": 3107,
+"tag": "v",
+"phrase": "This camera is very easy to ___.",
+"reponse": "operate"
+},
+{
+"id": 3108,
+"tag": "v",
+"phrase": "I'd like to ___ my experiences on vacation.",
+"reponse": "record"
+},
+{
+"id": 3109,
+"tag": "p",
+"phrase": "We interviewed a lot of chemistry ___ for the internship.",
+"reponse": "majors"
+},
+{
+"id": 3110,
+"tag": "p",
+"phrase": "I can show you how to fill out the ___.",
+"reponse": "time sheets"
+},
+{
+"id": 3111,
+"tag": "n",
+"phrase": "I'm going to the lab for an ___ of the experiments.",
+"reponse": "overview"
+},
+{
+"id": 3112,
+"tag": "p",
+"phrase": "An overview of the ___ I'll be working on this summer.",
+"reponse": "experiments"
+},
+{
+"id": 3113,
+"tag": "p",
+"phrase": "Only a few of the white ___ have been painted.",
+"reponse": "stripes"
+},
+{
+"id": 3114,
+"tag": "p",
+"phrase": "The stripes mark the individual ___.",
+"reponse": "parking spots"
+},
+{
+"id": 3115,
+"tag": "v",
+"phrase": "Your subscription is about to ___.",
+"reponse": "expire"
+},
+{
+"id": 3116,
+"tag": "v",
+"phrase": "If you can give the same discount, I'll ___ right away.",
+"reponse": "renew"
+},
+{
+"id": 3117,
+"tag": "n",
+"phrase": "We're running a ___ for 20 percent off.",
+"reponse": "promotional sale"
+},
+{
+"id": 3118,
+"tag": "p",
+"phrase": "Could you check with Security about the ___ for new employees?",
+"reponse": "badges"
+},
+{
+"id": 3119,
+"tag": "n",
+"phrase": "The campaign should reach a larger and more diverse ___.",
+"reponse": "customer base"
+},
+{
+"id": 3120,
+"tag": "a",
+"phrase": "We want to reach a more ___ customer base.",
+"reponse": "diverse"
+},
+{
+"id": 3121,
+"tag": "n",
+"phrase": "We are planning to use ___ to reach younger people.",
+"reponse": "social media"
+},
+{
+"id": 3122,
+"tag": "v",
+"phrase": "I'd emphasize how you ___ reach a larger customer base.",
+"reponse": "intend to"
+},
+{
+"id": 3123,
+"tag": "n",
+"phrase": "The rental company will charge us an ___ for fuel.",
+"reponse": "extra fee"
+},
+{
+"id": 3124,
+"tag": "n",
+"phrase": "The ___ will charge us if we don't refuel.",
+"reponse": "rental company"
+},
+{
+"id": 3125,
+"tag": "v",
+"phrase": "I'm worried we won't ___ as many customers.",
+"reponse": "attract"
+},
+{
+"id": 3126,
+"tag": "v",
+"phrase": "We're going to ___ the rooms soon.",
+"reponse": "renovate"
+},
+{
+"id": 3127,
+"tag": "n",
+"phrase": "The machine was working at less than 50 percent ___.",
+"reponse": "capacity"
+},
+{
+"id": 3128,
+"tag": "n",
+"phrase": "I'll have a technician look at the motor and ___ immediately.",
+"reponse": "blade"
+},
+{
+"id": 3129,
+"tag": "n",
+"phrase": "I'll have a technician look at the ___ and blade.",
+"reponse": "motor"
+},
+{
+"id": 3130,
+"tag": "v",
+"phrase": "Let's ___ that machine right away.",
+"reponse": "shut down"
+},
+{
+"id": 3131,
+"tag": "v",
+"phrase": "We're proud to ___ a contract from Skycloud Aviation.",
+"reponse": "be awarded"
+},
+{
+"id": 3132,
+"tag": "v",
+"phrase": "The seats can ___ so travelers can face one another.",
+"reponse": "rotate"
+},
+{
+"id": 3133,
+"tag": "v",
+"phrase": "We'd like you to ___ these specifications.",
+"reponse": "incorporate"
+},
+{
+"id": 3134,
+"tag": "v",
+"phrase": "I'll ___ the full list now.",
+"reponse": "pass around"
+},
+{
+"id": 3135,
+"tag": "n",
+"phrase": "The Kendris Company is a local ___ of automotive parts.",
+"reponse": "manufacturer"
+},
+{
+"id": 3136,
+"tag": "p",
+"phrase": "The company invented a new type of ___ for cars.",
+"reponse": "brakes"
+},
+{
+"id": 3137,
+"tag": "a",
+"phrase": "The brakes are made from a special ___ material.",
+"reponse": "lightweight"
+},
+{
+"id": 3138,
+"tag": "v",
+"phrase": "Kendris will ___ their new brakes at the trade show.",
+"reponse": "demonstrate"
+},
+{
+"id": 3139,
+"tag": "n",
+"phrase": "I'll be your ___ for tonight's pottery class.",
+"reponse": "instructor"
+},
+{
+"id": 3140,
+"tag": "n",
+"phrase": "Tonight's beginning ___ class is easy.",
+"reponse": "pottery"
+},
+{
+"id": 3141,
+"tag": "a",
+"phrase": "This ___ class runs for four weeks.",
+"reponse": "introductory"
+},
+{
+"id": 3142,
+"tag": "a",
+"phrase": "Then you can move on to an ___ class.",
+"reponse": "intermediate"
+},
+{
+"id": 3143,
+"tag": "n",
+"phrase": "She's the ___ of Colthrup Accounting.",
+"reponse": "founder"
+},
+{
+"id": 3144,
+"tag": "v",
+"phrase": "Her company ___ international tax preparation.",
+"reponse": "specialize in"
+},
+{
+"id": 3145,
+"tag": "p",
+"phrase": "Today she'll share some of the ___ she used to start her firm.",
+"reponse": "strategies"
+},
+{
+"id": 3146,
+"tag": "p",
+"phrase": "Seminar ___ will collect these questions.",
+"reponse": "volunteers"
+},
+{
+"id": 3147,
+"tag": "r",
+"phrase": "___, please help me welcome Janet Colthrup!",
+"reponse": "without further delay"
+},
+{
+"id": 3148,
+"tag": "p",
+"phrase": "City ___ have reported that the concert was a huge success.",
+"reponse": "officials"
+},
+{
+"id": 3149,
+"tag": "n",
+"phrase": "Last weekend's ___ concert was a huge success.",
+"reponse": "fund-raising"
+},
+{
+"id": 3150,
+"tag": "v",
+"phrase": "The city still needs to ___ before construction can begin.",
+"reponse": "raise money"
+},
+{
+"id": 3151,
+"tag": "n",
+"phrase": "For more information or to make a ___, visit the Parks Department Web site.",
+"reponse": "donation"
+},
+{
+"id": 3152,
+"tag": "p",
+"phrase": "___ used to stop in Fremont to buy and sell their goods.",
+"reponse": "merchants"
+},
+{
+"id": 3153,
+"tag": "n",
+"phrase": "Does your ___ take too much effort to use?",
+"reponse": "fitness tracker"
+},
+{
+"id": 3154,
+"tag": "p",
+"phrase": "With most ___, you have to push a button.",
+"reponse": "wearable devices"
+},
+{
+"id": 3155,
+"tag": "v",
+"phrase": "You can see this information without having to ___ your workout.",
+"reponse": "interrupt"
+},
+{
+"id": 3156,
+"tag": "n",
+"phrase": "This information appears without interrupting your ___.",
+"reponse": "workout"
+},
+{
+"id": 3157,
+"tag": "n",
+"phrase": "The price is reduced in honor of its ___ on the market.",
+"reponse": "debut"
+},
+{
+"id": 3158,
+"tag": "n",
+"phrase": "I hope you've enjoyed the sessions at this year's ___.",
+"reponse": "convention"
+},
+{
+"id": 3159,
+"tag": "p",
+"phrase": "The convention is for amateur game ___.",
+"reponse": "developers"
+},
+{
+"id": 3160,
+"tag": "a",
+"phrase": "The association is proud to include many ___ presenters.",
+"reponse": "notable"
+},
+{
+"id": 3161,
+"tag": "a",
+"phrase": "The convention is for ___ game developers.",
+"reponse": "amateur"
+},
+{
+"id": 3162,
+"tag": "v",
+"phrase": "Mr. Lee will ___ Ms. Ito this afternoon.",
+"reponse": "substitute for"
+},
+{
+"id": 3163,
+"tag": "n",
+"phrase": "He'll give a ___ on designing platform software.",
+"reponse": "tutorial"
+},
+{
+"id": 3164,
+"tag": "n",
+"phrase": "Everyone who submits a form will be entered in a ___.",
+"reponse": "contest"
+},
+{
+"id": 3165,
+"tag": "n",
+"phrase": "The prize is a ___.",
+"reponse": "tablet computer"
+},
+{
+"id": 3166,
+"tag": "n",
+"phrase": "I called this meeting to discuss the ___ of our warehouse.",
+"reponse": "reorganization"
+},
+{
+"id": 3167,
+"tag": "p",
+"phrase": "I've added some new ___ between the order station and the lounge.",
+"reponse": "shelving units"
+},
+{
+"id": 3168,
+"tag": "a",
+"phrase": "That's where we'll place our ___ products.",
+"reponse": "high-demand"
+},
+{
+"id": 3169,
+"tag": "v",
+"phrase": "I need some people to help ___ the inventory.",
+"reponse": "rearrange"
+},
+{
+"id": 3170,
+"tag": "n",
+"phrase": "Please add your name to the ___ in my office.",
+"reponse": "sign-up sheet"
+},
+{
+"id": 3171,
+"tag": "n",
+"phrase": "The new shelves are between the order station and the ___.",
+"reponse": "employee lounge"
+},
+{
+"id": 3172,
+"tag": "n",
+"phrase": "Some people are holding on to a ___.",
+"reponse": "railing"
+},
+{
+"id": 3173,
+"tag": "n",
+"phrase": "A ___ is being repositioned on a desk.",
+"reponse": "projector"
+},
+{
+"id": 3174,
+"tag": "v",
+"phrase": "Some printed materials are being ___ to a class.",
+"reponse": "distribute"
+},
+{
+"id": 3175,
+"tag": "a",
+"phrase": "An office is ___.",
+"reponse": "unoccupied"
+},
+{
+"id": 3176,
+"tag": "n",
+"phrase": "I can't read the patient's ___ on these forms.",
+"reponse": "handwriting"
+},
+{
+"id": 3177,
+"tag": "r",
+"phrase": "The real estate contract is ___.",
+"reponse": "under review"
+},
+{
+"id": 3178,
+"tag": "p",
+"phrase": "The land is a few ___ in size.",
+"reponse": "acres"
+},
+{
+"id": 3179,
+"tag": "n",
+"phrase": "Ramon, the ___, is responsible for hiring decisions.",
+"reponse": "managing director"
+},
+{
+"id": 3180,
+"tag": "n",
+"phrase": "Isn't there a sporting event at the ___ tonight?",
+"reponse": "arena"
+},
+{
+"id": 3181,
+"tag": "v",
+"phrase": "I just had to ___ for a transfer.",
+"reponse": "put in a request"
+},
+{
+"id": 3182,
+"tag": "n",
+"phrase": "The parts come from the ___.",
+"reponse": "hardware store"
+},
+{
+"id": 3183,
+"tag": "n",
+"phrase": "I have to change the ___ of a package I ordered.",
+"reponse": "delivery address"
+},
+{
+"id": 3184,
+"tag": "n",
+"phrase": "My ___ got delayed, so I won't be there.",
+"reponse": "move-in date"
+},
+{
+"id": 3185,
+"tag": "d",
+"phrase": "Once the package has been shipped, it cannot be ___.",
+"reponse": "rerouted"
+},
+{
+"id": 3186,
+"tag": "n",
+"phrase": "Let me call the ___ in Chicago.",
+"reponse": "shipping agent"
+},
+{
+"id": 3187,
+"tag": "p",
+"phrase": "I have to move all my ___ to my new office.",
+"reponse": "personal belongings"
+},
+{
+"id": 3188,
+"tag": "v",
+"phrase": "I can't believe how many things I've managed to ___ over the years.",
+"reponse": "accumulate"
+},
+{
+"id": 3189,
+"tag": "v",
+"phrase": "I just had to ___ of the office supplies.",
+"reponse": "take inventory"
+},
+{
+"id": 3190,
+"tag": "p",
+"phrase": "I just took inventory of the ___.",
+"reponse": "office supplies"
+},
+{
+"id": 3191,
+"tag": "n",
+"phrase": "TV ads aren't really my ___.",
+"reponse": "specialty"
+},
+{
+"id": 3192,
+"tag": "n",
+"phrase": "I saw the catering order for Mr. Kato's ___.",
+"reponse": "retirement party"
+},
+{
+"id": 3193,
+"tag": "n",
+"phrase": "I really have to finish this ___ first.",
+"reponse": "seating chart"
+},
+{
+"id": 3194,
+"tag": "d",
+"phrase": "Apparently the presentation you gave really ___ them.",
+"reponse": "impressed"
+},
+{
+"id": 3195,
+"tag": "v",
+"phrase": "They decided to use us to ___ all their paper products.",
+"reponse": "supply"
+},
+{
+"id": 3196,
+"tag": "p",
+"phrase": "I put the ___ on your desk this morning.",
+"reponse": "floor plans"
+},
+{
+"id": 3197,
+"tag": "a",
+"phrase": "That was the ___ idea.",
+"reponse": "original"
+},
+{
+"id": 3198,
+"tag": "v",
+"phrase": "I'm not sure how to ___ the ticket.",
+"reponse": "retrieve"
+},
+{
+"id": 3199,
+"tag": "p",
+"phrase": "When you get to the station, look for the ___.",
+"reponse": "self-serve kiosks"
+},
+{
+"id": 3200,
+"tag": "n",
+"phrase": "Make sure you have the ___ with you.",
+"reponse": "reservation number"
+},
+{
+"id": 3201,
+"tag": "v",
+"phrase": "It'll be a good chance for you to ___ with your new colleagues.",
+"reponse": "socialize"
+},
+{
+"id": 3202,
+"tag": "a",
+"phrase": "I'll make sure the description in our ad is not ___.",
+"reponse": "misleading"
+},
+{
+"id": 3203,
+"tag": "n",
+"phrase": "What did you think about the policy announced at the ___?",
+"reponse": "staff meeting"
+},
+{
+"id": 3204,
+"tag": "n",
+"phrase": "What did you think about the new ___?",
+"reponse": "e-mail policy"
+},
+{
+"id": 3205,
+"tag": "r",
+"phrase": "Everyone has to send personal e-mails ___.",
+"reponse": "occasionally"
+},
+{
+"id": 3206,
+"tag": "v",
+"phrase": "The camera doesn't have enough battery to ___ the photos.",
+"reponse": "preview"
+},
+{
+"id": 3207,
+"tag": "p",
+"phrase": "You must order at least twenty ___ of tables and chairs.",
+"reponse": "sets"
+},
+{
+"id": 3208,
+"tag": "v",
+"phrase": "The restaurant is ___ open next month.",
+"reponse": "be set to"
+},
+{
+"id": 3209,
+"tag": "n",
+"phrase": "The company is closing the parking area in front of our ___.",
+"reponse": "research lab"
+},
+{
+"id": 3210,
+"tag": "n",
+"phrase": "We have a few other desks within your ___.",
+"reponse": "price range"
+},
+{
+"id": 3211,
+"tag": "p",
+"phrase": "Update on the transition to the new electronic ___.",
+"reponse": "patient records"
+},
+{
+"id": 3212,
+"tag": "n",
+"phrase": "I wanted to give everyone an update on the ___ to the new system.",
+"reponse": "transition"
+},
+{
+"id": 3213,
+"tag": "n",
+"phrase": "I want to go over what you'll be doing during ___ for the conference.",
+"reponse": "registration"
+},
+{
+"id": 3214,
+"tag": "n",
+"phrase": "Each packet contains a schedule, a map and a ___.",
+"reponse": "name tag"
+},
+{
+"id": 3215,
+"tag": "n",
+"phrase": "Remember to ask for ___ before you give these out.",
+"reponse": "photo identification"
+},
+{
+"id": 3216,
+"tag": "p",
+"phrase": "The selection will include ___ and stationary bikes.",
+"reponse": "treadmills"
+},
+{
+"id": 3217,
+"tag": "p",
+"phrase": "It's important that you, as ___, become familiar with the products.",
+"reponse": "sales associates"
+},
+{
+"id": 3218,
+"tag": "n",
+"phrase": "A ___ from the manufacturer will train us.",
+"reponse": "representative"
+},
+{
+"id": 3219,
+"tag": "n",
+"phrase": "I'd like to talk about moving your ___ to the new office.",
+"reponse": "work station"
+},
+{
+"id": 3220,
+"tag": "n",
+"phrase": "Today's focus will be how to build ___.",
+"reponse": "customer loyalty"
+},
+{
+"id": 3221,
+"tag": "p",
+"phrase": "Please switch off your phones to minimize ___.",
+"reponse": "distractions"
+},
+{
+"id": 3222,
+"tag": "n",
+"phrase": "Today, the mayor held a ___ to announce plans.",
+"reponse": "press conference"
+},
+{
+"id": 3223,
+"tag": "v",
+"phrase": "No one will be able to ___ Smith Road for two weeks.",
+"reponse": "access"
+},
+{
+"id": 3224,
+"tag": "a",
+"phrase": "I'm going to make sure that everything is ___ in the room.",
+"reponse": "operational"
+},
+{
+"id": 3225,
+"tag": "n",
+"phrase": "I've asked Li Wei to answer the ___ phone.",
+"reponse": "helpdesk"
+},
+{
+"id": 3226,
+"tag": "p",
+"phrase": "The rest of you can get started on the ___.",
+"reponse": "work orders"
+},
+{
+"id": 3227,
+"tag": "a",
+"phrase": "Attention, passengers: this flight is ___.",
+"reponse": "overbooked"
+},
+{
+"id": 3228,
+"tag": "n",
+"phrase": "The door to the ___ is not working.",
+"reponse": "jet bridge"
+},
+{
+"id": 3229,
+"tag": "n",
+"phrase": "You will receive a voucher for a free, round-trip ___.",
+"reponse": "domestic flight"
+},
+{
+"id": 3230,
+"tag": "n",
+"phrase": "Some people are seated next to a ___.",
+"reponse": "fence"
+},
+{
+"id": 3231,
+"tag": "p",
+"phrase": "She's fixing some broken ___ with a tool.",
+"reponse": "tiles"
+},
+{
+"id": 3232,
+"tag": "n",
+"phrase": "She's installing a door in an ___.",
+"reponse": "entryway"
+},
+{
+"id": 3233,
+"tag": "n",
+"phrase": "___ is on display in a hallway.",
+"reponse": "Reading material"
+},
+{
+"id": 3234,
+"tag": "n",
+"phrase": "A woman is replacing a ___.",
+"reponse": "lightbulb"
+},
+{
+"id": 3235,
+"tag": "v",
+"phrase": "The man is about to ___ a computer.",
+"reponse": "plug in"
+},
+{
+"id": 3236,
+"tag": "g",
+"phrase": "The man is ___ a chair.",
+"reponse": "adjusting"
+},
+{
+"id": 3237,
+"tag": "n",
+"phrase": "What still needs to be done before the grand opening? I have a ___.",
+"reponse": "checklist"
+},
+{
+"id": 3238,
+"tag": "n",
+"phrase": "What still needs to be done before the ___?",
+"reponse": "grand opening"
+},
+{
+"id": 3239,
+"tag": "n",
+"phrase": "Why did you rearrange the tables in the ___?",
+"reponse": "boardroom"
+},
+{
+"id": 3240,
+"tag": "n",
+"phrase": "Who was the ___ at today's conference?",
+"reponse": "keynote speaker"
+},
+{
+"id": 3241,
+"tag": "v",
+"phrase": "Could you ___ this budget?",
+"reponse": "revise"
+},
+{
+"id": 3242,
+"tag": "n",
+"phrase": "She met him at the ___ in Singapore.",
+"reponse": "job fair"
+},
+{
+"id": 3243,
+"tag": "n",
+"phrase": "How far along are you on the ___?",
+"reponse": "quarterly report"
+},
+{
+"id": 3244,
+"tag": "n",
+"phrase": "Where can I find the ___?",
+"reponse": "first-aid kit"
+},
+{
+"id": 3245,
+"tag": "n",
+"phrase": "It's a good ___.",
+"reponse": "law firm"
+},
+{
+"id": 3246,
+"tag": "a",
+"phrase": "I'm sorry that the gallery hasn't been looking very ___ lately.",
+"reponse": "tidy"
+},
+{
+"id": 3247,
+"tag": "g",
+"phrase": "It's hard to keep up with sweeping and ___ the main display area.",
+"reponse": "dusting"
+},
+{
+"id": 3248,
+"tag": "n",
+"phrase": "Why don't we hire a ___?",
+"reponse": "cleaning service"
+},
+{
+"id": 3249,
+"tag": "n",
+"phrase": "I'm a little concerned about arriving late for the ___.",
+"reponse": "opening ceremony"
+},
+{
+"id": 3250,
+"tag": "n",
+"phrase": "If you're staying a few days, I suggest buying a ___.",
+"reponse": "weekly pass"
+},
+{
+"id": 3251,
+"tag": "a",
+"phrase": "The pass is good for ___ travel around the city.",
+"reponse": "unlimited"
+},
+{
+"id": 3252,
+"tag": "n",
+"phrase": "The ___ is so small.",
+"reponse": "parking garage"
+},
+{
+"id": 3253,
+"tag": "n",
+"phrase": "What's your ___?",
+"reponse": "return policy"
+},
+{
+"id": 3254,
+"tag": "n",
+"phrase": "If you have a receipt, you can receive a ___.",
+"reponse": "full refund"
+},
+{
+"id": 3255,
+"tag": "v",
+"phrase": "You can ___ it for a different color.",
+"reponse": "exchange"
+},
+{
+"id": 3256,
+"tag": "r",
+"phrase": "I think we have that shirt ___ in black and green.",
+"reponse": "in stock"
+},
+{
+"id": 3257,
+"tag": "p",
+"phrase": "The company plans to open a second ___ store.",
+"reponse": "housewares"
+},
+{
+"id": 3258,
+"tag": "a",
+"phrase": "People shop for electronics, not ___ items for the home.",
+"reponse": "decorative"
+},
+{
+"id": 3259,
+"tag": "p",
+"phrase": "I have the ___ needed to generate the quarterly sales reports.",
+"reponse": "raw numbers"
+},
+{
+"id": 3260,
+"tag": "v",
+"phrase": "The numbers are needed to ___ the quarterly reports.",
+"reponse": "generate"
+},
+{
+"id": 3261,
+"tag": "a",
+"phrase": "My password isn't working. I'm completely ___ of the system.",
+"reponse": "locked out"
+},
+{
+"id": 3262,
+"tag": "n",
+"phrase": "I'm going to call my ___.",
+"reponse": "administrative assistant"
+},
+{
+"id": 3263,
+"tag": "n",
+"phrase": "He used to work in ___.",
+"reponse": "technical support"
+},
+{
+"id": 3264,
+"tag": "v",
+"phrase": "I'm sorry, I had to ___ because my bus was delayed.",
+"reponse": "miss an appointment"
+},
+{
+"id": 3265,
+"tag": "n",
+"phrase": "My company wants to have a ___ built behind our office.",
+"reponse": "patio"
+},
+{
+"id": 3266,
+"tag": "n",
+"phrase": "Kondo ___, how can I help you?",
+"reponse": "Landscaping"
+},
+{
+"id": 3267,
+"tag": "n",
+"phrase": "We're going to start making our own line of ___.",
+"reponse": "organic shampoo"
+},
+{
+"id": 3268,
+"tag": "p",
+"phrase": "We'd know more about what ___ really want.",
+"reponse": "potential customers"
+},
+{
+"id": 3269,
+"tag": "n",
+"phrase": "I tried to go to the ___ on Elm Drive.",
+"reponse": "loading dock"
+},
+{
+"id": 3270,
+"tag": "n",
+"phrase": "That door leads to our furniture ___.",
+"reponse": "showroom"
+},
+{
+"id": 3271,
+"tag": "n",
+"phrase": "I really like the ___ that Human Resources is promoting.",
+"reponse": "nutritional program"
+},
+{
+"id": 3272,
+"tag": "n",
+"phrase": "I've been told that I need more ___ A.",
+"reponse": "vitamin"
+},
+{
+"id": 3273,
+"tag": "n",
+"phrase": "Isn't there a ___ at the cafeteria?",
+"reponse": "suggestion box"
+},
+{
+"id": 3274,
+"tag": "n",
+"phrase": "Tonight I'll be talking about a new ___ by GS Incorporated.",
+"reponse": "initiative"
+},
+{
+"id": 3275,
+"tag": "n",
+"phrase": "As part of its commitment to ___, GS announced a new package.",
+"reponse": "sustainability"
+},
+{
+"id": 3276,
+"tag": "a",
+"phrase": "The products now come in a more ___ package.",
+"reponse": "environmentally friendly"
+},
+{
+"id": 3277,
+"tag": "p",
+"phrase": "The boxes are made entirely of ___.",
+"reponse": "recycled materials"
+},
+{
+"id": 3278,
+"tag": "n",
+"phrase": "After a short ___, I'll be interviewing a representative.",
+"reponse": "commercial break"
+},
+{
+"id": 3279,
+"tag": "d",
+"phrase": "I'll ask what ___ these changes.",
+"reponse": "inspired"
+},
+{
+"id": 3280,
+"tag": "p",
+"phrase": "This program will stop your ___ permanently.",
+"reponse": "cravings"
+},
+{
+"id": 3281,
+"tag": "v",
+"phrase": "Can't you ___ that sweet snack at the local café?",
+"reponse": "resist"
+},
+{
+"id": 3282,
+"tag": "p",
+"phrase": "Write down three ___ you'd like to change.",
+"reponse": "eating habits"
+},
+{
+"id": 3283,
+"tag": "g",
+"phrase": "The first step is ___.",
+"reponse": "setting goals"
+},
+{
+"id": 3284,
+"tag": "n",
+"phrase": "Thanks for all of your suggestions for a ___.",
+"reponse": "team-building event"
+},
+{
+"id": 3285,
+"tag": "a",
+"phrase": "The museum will open its new ___ Robotics exhibit.",
+"reponse": "interactive"
+},
+{
+"id": 3286,
+"tag": "v",
+"phrase": "Students will show you how to ___ with robots.",
+"reponse": "interact"
+},
+{
+"id": 3287,
+"tag": "d",
+"phrase": "We only ___ ten new clients in the past three months.",
+"reponse": "contracted"
+},
+{
+"id": 3288,
+"tag": "g",
+"phrase": "Here is a list of organizations that we should consider ___ this next quarter.",
+"reponse": "targeting"
+},
+{
+"id": 3289,
+"tag": "p",
+"phrase": "Find out more about these ___ on the Internet.",
+"reponse": "potential clients"
+},
+{
+"id": 3290,
+"tag": "p",
+"phrase": "We have job ___ coming in for interviews tomorrow.",
+"reponse": "candidates"
+},
+{
+"id": 3291,
+"tag": "v",
+"phrase": "You'll have to ___ from Chicago to Vancouver.",
+"reponse": "relocate"
+},
+{
+"id": 3292,
+"tag": "n",
+"phrase": "Thanks for interviewing for the ___ position.",
+"reponse": "market analyst"
+},
+{
+"id": 3293,
+"tag": "a",
+"phrase": "It's best we start in the neighborhood that's the most ___.",
+"reponse": "residential"
+},
+{
+"id": 3294,
+"tag": "n",
+"phrase": "I think it's best we start in the smallest ___.",
+"reponse": "neighborhood"
+},
+{
+"id": 3295,
+"tag": "n",
+"phrase": "Our ___ restaurant is the most central.",
+"reponse": "uptown"
+},
+{
+"id": 3296,
+"tag": "n",
+"phrase": "I'm calling to ask you a big ___.",
+"reponse": "favor"
+},
+{
+"id": 3297,
+"tag": "v",
+"phrase": "Would you be able to ___ me and interview the candidate?",
+"reponse": "cover for"
+},
+{
+"id": 3298,
+"tag": "p",
+"phrase": "I'll forward you her CV, cover letter and ___.",
+"reponse": "letters of reference"
+},
+{
+"id": 3299,
+"tag": "d",
+"phrase": "We were very ___ your past work experience.",
+"reponse": "impressed with"
+},
+{
+"id": 3300,
+"tag": "n",
+"phrase": "The woman is using a ___.",
+"reponse": "broom"
+},
+{
+"id": 3301,
+"tag": "n",
+"phrase": "Some chairs have been placed along a ___.",
+"reponse": "canal"
+},
+{
+"id": 3302,
+"tag": "n",
+"phrase": "They're installing a ___.",
+"reponse": "photocopier"
+},
+{
+"id": 3303,
+"tag": "n",
+"phrase": "She's drying her hands with a ___.",
+"reponse": "paper towel"
+},
+{
+"id": 3304,
+"tag": "n",
+"phrase": "We have to use ___.",
+"reponse": "official stationery"
+},
+{
+"id": 3305,
+"tag": "n",
+"phrase": "Where can I find the ___'s office?",
+"reponse": "vice president"
+},
+{
+"id": 3306,
+"tag": "n",
+"phrase": "Wasn't Mr. Keller supposed to come to this ___?",
+"reponse": "business dinner"
+},
+{
+"id": 3307,
+"tag": "n",
+"phrase": "When does the ___ start?",
+"reponse": "reception"
+},
+{
+"id": 3308,
+"tag": "p",
+"phrase": "Why are ___ so low this month?",
+"reponse": "production numbers"
+},
+{
+"id": 3309,
+"tag": "r",
+"phrase": "Some machines were ___.",
+"reponse": "down for repairs"
+},
+{
+"id": 3310,
+"tag": "n",
+"phrase": "What does the conference ___ include?",
+"reponse": "registration fee"
+},
+{
+"id": 3311,
+"tag": "n",
+"phrase": "Should we begin production this week, or revise the ___?",
+"reponse": "timeline"
+},
+{
+"id": 3312,
+"tag": "n",
+"phrase": "You really should join that new ___.",
+"reponse": "fitness club"
+},
+{
+"id": 3313,
+"tag": "a",
+"phrase": "Maria was ___ about the deadline.",
+"reponse": "firm"
+},
+{
+"id": 3314,
+"tag": "p",
+"phrase": "The museum is loaning us several ___.",
+"reponse": "sculptures"
+},
+{
+"id": 3315,
+"tag": "p",
+"phrase": "The people at table two asked for an order of ___.",
+"reponse": "French fries"
+},
+{
+"id": 3316,
+"tag": "n",
+"phrase": "Dr. Ramirez works at Brookside ___ on Thursdays.",
+"reponse": "medical clinic"
+},
+{
+"id": 3317,
+"tag": "n",
+"phrase": "I had a discussion with our ___ about the company merger.",
+"reponse": "legal team"
+},
+{
+"id": 3318,
+"tag": "r",
+"phrase": "I heard we're still ___ to complete the merger by the end of the year.",
+"reponse": "on track"
+},
+{
+"id": 3319,
+"tag": "d",
+"phrase": "They ___ the designs that your team proposed.",
+"reponse": "rejected"
+},
+{
+"id": 3320,
+"tag": "d",
+"phrase": "They rejected the designs that you and your team ___.",
+"reponse": "proposed"
+},
+{
+"id": 3321,
+"tag": "n",
+"phrase": "I'm Ron Wells, the ___ here at Douglas Fashions.",
+"reponse": "hiring manager"
+},
+{
+"id": 3322,
+"tag": "a",
+"phrase": "You'd still have to go through a ___ training.",
+"reponse": "monthlong"
+},
+{
+"id": 3323,
+"tag": "n",
+"phrase": "I'm here to pick up some ___.",
+"reponse": "allergy medication"
+},
+{
+"id": 3324,
+"tag": "n",
+"phrase": "What do you think the ___ should be?",
+"reponse": "compensation"
+},
+{
+"id": 3325,
+"tag": "n",
+"phrase": "Employees will be more eager if there's some sort of ___ involved.",
+"reponse": "reward"
+},
+{
+"id": 3326,
+"tag": "n",
+"phrase": "He'd be able to give you more ___.",
+"reponse": "guidance"
+},
+{
+"id": 3327,
+"tag": "a",
+"phrase": "Holly will be sharing some ___ ideas.",
+"reponse": "preliminary"
+},
+{
+"id": 3328,
+"tag": "n",
+"phrase": "You know, the ___, the setting, and so on.",
+"reponse": "concept"
+},
+{
+"id": 3329,
+"tag": "g",
+"phrase": "My laptop's microphone must be ___ again.",
+"reponse": "malfunctioning"
+},
+{
+"id": 3330,
+"tag": "p",
+"phrase": "I'm from Star ___.",
+"reponse": "Locksmiths"
+},
+{
+"id": 3331,
+"tag": "n",
+"phrase": "It's a major ___ that one of our doors doesn't lock.",
+"reponse": "security concern"
+},
+{
+"id": 3332,
+"tag": "a",
+"phrase": "Remember to keep your visitor's badge ___ at all times.",
+"reponse": "visible"
+},
+{
+"id": 3333,
+"tag": "n",
+"phrase": "Remember to keep your ___ visible at all times.",
+"reponse": "visitor's badge"
+},
+{
+"id": 3334,
+"tag": "v",
+"phrase": "Our magazine editor sent us to ___.",
+"reponse": "cover"
+},
+{
+"id": 3335,
+"tag": "v",
+"phrase": "Can you ___ it to look like a book?",
+"reponse": "decorate"
+},
+{
+"id": 3336,
+"tag": "a",
+"phrase": "It's important that the cake is book ___.",
+"reponse": "themed"
+},
+{
+"id": 3337,
+"tag": "n",
+"phrase": "We're a ___ celebrating the release of a new book.",
+"reponse": "publishing house"
+},
+{
+"id": 3338,
+"tag": "n",
+"phrase": "We're celebrating the ___ of a new book.",
+"reponse": "release"
+},
+{
+"id": 3339,
+"tag": "p",
+"phrase": "Mr. Lang is famous for using dramatic ___ and arches.",
+"reponse": "columns"
+},
+{
+"id": 3340,
+"tag": "p",
+"phrase": "All new ___ to the Town Hall were designed by Byron Lang.",
+"reponse": "additions"
+},
+{
+"id": 3341,
+"tag": "a",
+"phrase": "Mr. Lang is famous for his ___ work.",
+"reponse": "architectural"
+},
+{
+"id": 3342,
+"tag": "v",
+"phrase": "Officials are expecting the building to ___ next year.",
+"reponse": "reopen"
+},
+{
+"id": 3343,
+"tag": "n",
+"phrase": "We're going to have a ___ installed.",
+"reponse": "central air-conditioning system"
+},
+{
+"id": 3344,
+"tag": "n",
+"phrase": "The installation will require drilling into the ___.",
+"reponse": "ceiling"
+},
+{
+"id": 3345,
+"tag": "n",
+"phrase": "You can pick yours up in the ___ anytime.",
+"reponse": "mail room"
+},
+{
+"id": 3346,
+"tag": "p",
+"phrase": "The new software will help us manage ___.",
+"reponse": "client contracts"
+},
+{
+"id": 3347,
+"tag": "r",
+"phrase": "Contracts are sent by e-mail to be signed ___.",
+"reponse": "electronically"
+},
+{
+"id": 3348,
+"tag": "v",
+"phrase": "Please ___ them that they'll also receive an official copy.",
+"reponse": "assure"
+},
+{
+"id": 3349,
+"tag": "n",
+"phrase": "They'll also receive an ___ in the mail.",
+"reponse": "official copy"
+},
+{
+"id": 3350,
+"tag": "v",
+"phrase": "This tutorial helps you understand how to ___ the hard drive.",
+"reponse": "discard"
+},
+{
+"id": 3351,
+"tag": "n",
+"phrase": "Affix the label on a ___.",
+"reponse": "padded envelope"
+},
+{
+"id": 3352,
+"tag": "n",
+"phrase": "Print a ___ from our Web site.",
+"reponse": "shipping label"
+},
+{
+"id": 3353,
+"tag": "v",
+"phrase": "We've decided to ___ from our line of organic juices.",
+"reponse": "branch out"
+},
+{
+"id": 3354,
+"tag": "p",
+"phrase": "The drink will have ___.",
+"reponse": "all-natural ingredients"
+},
+{
+"id": 3355,
+"tag": "d",
+"phrase": "We ___ and found that 80 percent of customers prefer them.",
+"reponse": "conducted a survey"
+},
+{
+"id": 3356,
+"tag": "v",
+"phrase": "YS Delivery Service cannot ___ on time.",
+"reponse": "fulfill our orders"
+},
+{
+"id": 3357,
+"tag": "v",
+"phrase": "We should definitely ___ this issue.",
+"reponse": "resolve"
+},
+{
+"id": 3358,
+"tag": "a",
+"phrase": "The computer cables we need are ___.",
+"reponse": "sold-out"
+},
+{
+"id": 3359,
+"tag": "v",
+"phrase": "I forgot to ___ the job candidate we selected.",
+"reponse": "follow up with"
+},
+{
+"id": 3360,
+"tag": "n",
+"phrase": "I forgot to follow up with the ___ we selected.",
+"reponse": "job candidate"
+},
+{
+"id": 3361,
+"tag": "p",
+"phrase": "My marketing firm will make some ___ based on fashion trends.",
+"reponse": "recommendations"
+},
+{
+"id": 3362,
+"tag": "p",
+"phrase": "Most ___ don't start wearing winter outfits until October.",
+"reponse": "celebrities"
+},
+{
+"id": 3363,
+"tag": "p",
+"phrase": "You've been displaying your winter ___ beginning in September.",
+"reponse": "collections"
+},
+{
+"id": 3364,
+"tag": "p",
+"phrase": "I just met with our ___.",
+"reponse": "financial advisers"
+},
+{
+"id": 3365,
+"tag": "v",
+"phrase": "The construction work on the park has ___.",
+"reponse": "run over budget"
+},
+{
+"id": 3366,
+"tag": "a",
+"phrase": "There were some ___ problems with the electrical work.",
+"reponse": "unanticipated"
+},
+{
+"id": 3367,
+"tag": "a",
+"phrase": "I've decided to cancel the ___ Wednesday event.",
+"reponse": "recurring"
+},
+{
+"id": 3368,
+"tag": "p",
+"phrase": "They can update our ___.",
+"reponse": "promotional materials"
+},
+{
+"id": 3369,
+"tag": "n",
+"phrase": "I need to submit it for ___ by the end of the week.",
+"reponse": "approval"
+},
+{
+"id": 3370,
+"tag": "n",
+"phrase": "Wednesday at nine, I have ___.",
+"reponse": "leadership training"
+},
+{
+"id": 3371,
+"tag": "n",
+"phrase": "He's using a ___.",
+"reponse": "microscope"
+},
+{
+"id": 3372,
+"tag": "p",
+"phrase": "Some bags are hanging from ___ on the wall.",
+"reponse": "hooks"
+},
+{
+"id": 3373,
+"tag": "n",
+"phrase": "The people are sweeping a ___.",
+"reponse": "balcony"
+},
+{
+"id": 3374,
+"tag": "n",
+"phrase": "Did you buy a monthly ___?",
+"reponse": "parking pass"
+},
+{
+"id": 3375,
+"tag": "n",
+"phrase": "Where should we put the ___?",
+"reponse": "microwave oven"
+},
+{
+"id": 3376,
+"tag": "n",
+"phrase": "Have you tried our grilled vegetable ___?",
+"reponse": "platter"
+},
+{
+"id": 3377,
+"tag": "n",
+"phrase": "No, is that a new ___?",
+"reponse": "menu item"
+},
+{
+"id": 3378,
+"tag": "n",
+"phrase": "The ___ is on the desk.",
+"reponse": "lease agreement"
+},
+{
+"id": 3379,
+"tag": "n",
+"phrase": "Shouldn't we post the ___ online?",
+"reponse": "job opening"
+},
+{
+"id": 3380,
+"tag": "n",
+"phrase": "He owns a ___ near the station.",
+"reponse": "rental property"
+},
+{
+"id": 3381,
+"tag": "n",
+"phrase": "It's a twelve-___ building.",
+"reponse": "story"
+},
+{
+"id": 3382,
+"tag": "n",
+"phrase": "The ___ is on their way.",
+"reponse": "maintenance crew"
+},
+{
+"id": 3383,
+"tag": "d",
+"phrase": "The truck delivering the windows ___ in the mud.",
+"reponse": "got stuck"
+},
+{
+"id": 3384,
+"tag": "n",
+"phrase": "The truck got stuck in the ___.",
+"reponse": "mud"
+},
+{
+"id": 3385,
+"tag": "n",
+"phrase": "I'm going to look at ___ samples for the kitchen.",
+"reponse": "flooring"
+},
+{
+"id": 3386,
+"tag": "p",
+"phrase": "All of the manuals and ___ are ready to go.",
+"reponse": "training binders"
+},
+{
+"id": 3387,
+"tag": "v",
+"phrase": "Do I ___ a student discount?",
+"reponse": "qualify for"
+},
+{
+"id": 3388,
+"tag": "n",
+"phrase": "Do I qualify for a ___?",
+"reponse": "student discount"
+},
+{
+"id": 3389,
+"tag": "a",
+"phrase": "We're excited to work on the ad campaign for your ___ umbrella.",
+"reponse": "wind-resistant"
+},
+{
+"id": 3390,
+"tag": "a",
+"phrase": "Our umbrella is made of ___ materials.",
+"reponse": "high-quality"
+},
+{
+"id": 3391,
+"tag": "n",
+"phrase": "Let me show you around the ___ available for lease.",
+"reponse": "office space"
+},
+{
+"id": 3392,
+"tag": "n",
+"phrase": "The office is available for ___ here.",
+"reponse": "lease"
+},
+{
+"id": 3393,
+"tag": "p",
+"phrase": "See whether there are any ___.",
+"reponse": "promising candidates"
+},
+{
+"id": 3394,
+"tag": "p",
+"phrase": "It's the ___ that take the most time.",
+"reponse": "finishing touches"
+},
+{
+"id": 3395,
+"tag": "n",
+"phrase": "If you submit your invoice today, you can be paid in the next ___.",
+"reponse": "payment cycle"
+},
+{
+"id": 3396,
+"tag": "n",
+"phrase": "Today at noon we're having an ___ in the cafeteria.",
+"reponse": "informational session"
+},
+{
+"id": 3397,
+"tag": "n",
+"phrase": "I have some questions about our company's ___.",
+"reponse": "retirement program"
+},
+{
+"id": 3398,
+"tag": "n",
+"phrase": "I'm finalizing the schedule for tomorrow's company ___.",
+"reponse": "picnic"
+},
+{
+"id": 3399,
+"tag": "a",
+"phrase": "The ___ softball game is supposed to start at nine.",
+"reponse": "interdepartmental"
+},
+{
+"id": 3400,
+"tag": "n",
+"phrase": "It's in the corner by the ___.",
+"reponse": "food court"
+},
+{
+"id": 3401,
+"tag": "p",
+"phrase": "I'll be sending out the ID badges to ___ this week.",
+"reponse": "exhibitors"
+},
+{
+"id": 3402,
+"tag": "n",
+"phrase": "I'd prefer a different ___.",
+"reponse": "booth assignment"
+},
+{
+"id": 3403,
+"tag": "v",
+"phrase": "We really do need to ___ of children's shoes.",
+"reponse": "expand the variety"
+},
+{
+"id": 3404,
+"tag": "r",
+"phrase": "Children's athletic shoes are ___.",
+"reponse": "in high demand"
+},
+{
+"id": 3405,
+"tag": "p",
+"phrase": "Children's ___ in particular are in high demand.",
+"reponse": "athletic shoes"
+},
+{
+"id": 3406,
+"tag": "d",
+"phrase": "They've already ___ 22 percent of the market share.",
+"reponse": "claimed"
+},
+{
+"id": 3407,
+"tag": "n",
+"phrase": "I even tested the ___ to make sure it's working.",
+"reponse": "webcam"
+},
+{
+"id": 3408,
+"tag": "n",
+"phrase": "Two of those candidates will be interviewed by ___.",
+"reponse": "videoconference"
+},
+{
+"id": 3409,
+"tag": "p",
+"phrase": "I've just seen the latest sales reports for our ___.",
+"reponse": "bottled teas"
+},
+{
+"id": 3410,
+"tag": "n",
+"phrase": "I'd like to sign a ___ with them.",
+"reponse": "long-term contract"
+},
+{
+"id": 3411,
+"tag": "p",
+"phrase": "After that, we'll look at the ___ on Brookside Avenue.",
+"reponse": "murals"
+},
+{
+"id": 3412,
+"tag": "n",
+"phrase": "Why hire a ___ when you can do it yourself?",
+"reponse": "graphic designer"
+},
+{
+"id": 3413,
+"tag": "p",
+"phrase": "We have hundreds of ___ to choose from.",
+"reponse": "templates"
+},
+{
+"id": 3414,
+"tag": "n",
+"phrase": "Sign up for a free two-month ___.",
+"reponse": "trial"
+},
+{
+"id": 3415,
+"tag": "n",
+"phrase": "We'll be developing a new version of our ___ software.",
+"reponse": "voice recognition"
+},
+{
+"id": 3416,
+"tag": "n",
+"phrase": "Please enter the information into our ___.",
+"reponse": "shared calendar"
+},
+{
+"id": 3417,
+"tag": "v",
+"phrase": "So we can ___ tasks as needed.",
+"reponse": "reassign"
+},
+{
+"id": 3418,
+"tag": "v",
+"phrase": "I'm scheduled to ___ the fabrics they produce.",
+"reponse": "evaluate"
+},
+{
+"id": 3419,
+"tag": "n",
+"phrase": "Ms. Lee is the ___ at a popular restaurant.",
+"reponse": "executive chef"
+},
+{
+"id": 3420,
+"tag": "n",
+"phrase": "Ms. Lee has agreed to give us a ___.",
+"reponse": "cooking demonstration"
+},
+{
+"id": 3421,
+"tag": "n",
+"phrase": "Everyone please put on a ___.",
+"reponse": "noise-canceling headset"
+},
+{
+"id": 3422,
+"tag": "n",
+"phrase": "I'm standing outside the gates of the main ___.",
+"reponse": "power plant"
+},
+{
+"id": 3423,
+"tag": "n",
+"phrase": "Visitors will visit the plant's main ___.",
+"reponse": "control room"
+},
+{
+"id": 3424,
+"tag": "v",
+"phrase": "They will learn how they can ___ at home.",
+"reponse": "conserve energy"
+},
+{
+"id": 3425,
+"tag": "g",
+"phrase": "Beckford Energy is also ___ a series of lectures.",
+"reponse": "sponsoring"
+},
+{
+"id": 3426,
+"tag": "p",
+"phrase": "All employees will need to scan a bar code on their ___.",
+"reponse": "ID badges"
+},
+{
+"id": 3427,
+"tag": "v",
+"phrase": "Employees will soon need to ___ a bar code at the door.",
+"reponse": "scan"
+},
+{
+"id": 3428,
+"tag": "n",
+"phrase": "Please stop by the ___ to have a new photo taken.",
+"reponse": "security desk"
+},
+{
+"id": 3429,
+"tag": "g",
+"phrase": "The woman is ___ a plastic bottle.",
+"reponse": "squeezing"
+},
+{
+"id": 3430,
+"tag": "p",
+"phrase": "The man's writing down some ___.",
+"reponse": "measurements"
+},
+{
+"id": 3431,
+"tag": "n",
+"phrase": "When will the ___ take place?",
+"reponse": "factory inspection"
+},
+{
+"id": 3432,
+"tag": "n",
+"phrase": "There are boxes in the ___, aren't there?",
+"reponse": "storage room"
+},
+{
+"id": 3433,
+"tag": "n",
+"phrase": "I fixed my computer by installing a ___.",
+"reponse": "software update"
+},
+{
+"id": 3434,
+"tag": "p",
+"phrase": "Didn't you buy more ___ last week?",
+"reponse": "postage stamps"
+},
+{
+"id": 3435,
+"tag": "n",
+"phrase": "I think last year's ___ was better.",
+"reponse": "technology trade show"
+},
+{
+"id": 3436,
+"tag": "n",
+"phrase": "This ___ needs a signature.",
+"reponse": "purchase order"
+},
+{
+"id": 3437,
+"tag": "n",
+"phrase": "This purchase order needs a ___.",
+"reponse": "signature"
+},
+{
+"id": 3438,
+"tag": "a",
+"phrase": "This is a ___ payment.",
+"reponse": "refundable"
+},
+{
+"id": 3439,
+"tag": "n",
+"phrase": "Which room can we use for Thursday's ___?",
+"reponse": "client reception"
+},
+{
+"id": 3440,
+"tag": "p",
+"phrase": "Would your store start stocking Diamond ___ again?",
+"reponse": "granola bars"
+},
+{
+"id": 3441,
+"tag": "n",
+"phrase": "The manager will be reviewing our ___ at the end of the month.",
+"reponse": "product inventory"
+},
+{
+"id": 3442,
+"tag": "n",
+"phrase": "I'd like to make announcements about the new ___.",
+"reponse": "time-reporting process"
+},
+{
+"id": 3443,
+"tag": "n",
+"phrase": "I have a good ___, Dr. Chan.",
+"reponse": "ophthalmologist"
+},
+{
+"id": 3444,
+"tag": "n",
+"phrase": "I have her ___ at my desk.",
+"reponse": "business card"
+},
+{
+"id": 3445,
+"tag": "n",
+"phrase": "The city ___ can make it easier to pay for parking.",
+"reponse": "planning commission"
+},
+{
+"id": 3446,
+"tag": "n",
+"phrase": "It's hard to pay for parking in the ___.",
+"reponse": "business district"
+},
+{
+"id": 3447,
+"tag": "p",
+"phrase": "The city installed digital ___ that accept credit cards.",
+"reponse": "parking meters"
+},
+{
+"id": 3448,
+"tag": "r",
+"phrase": "I could even add money to the meter ___.",
+"reponse": "remotely"
+},
+{
+"id": 3449,
+"tag": "n",
+"phrase": "We're excited about the ___.",
+"reponse": "remodeling"
+},
+{
+"id": 3450,
+"tag": "n",
+"phrase": "One of our main priorities is to increase our ___.",
+"reponse": "seating capacity"
+},
+{
+"id": 3451,
+"tag": "n",
+"phrase": "I bought this ___ from your store.",
+"reponse": "electric saw"
+},
+{
+"id": 3452,
+"tag": "p",
+"phrase": "She can repair all kinds of ___ for a small fee.",
+"reponse": "power tools"
+},
+{
+"id": 3453,
+"tag": "n",
+"phrase": "Welcome to your first day at the ___.",
+"reponse": "call center"
+},
+{
+"id": 3454,
+"tag": "n",
+"phrase": "We usually don't have any problems meeting that ___.",
+"reponse": "quota"
+},
+{
+"id": 3455,
+"tag": "v",
+"phrase": "Would you like me to ___ your first couple of phone calls?",
+"reponse": "sit in on"
+},
+{
+"id": 3456,
+"tag": "p",
+"phrase": "Here's the final report including the ___.",
+"reponse": "testing results"
+},
+{
+"id": 3457,
+"tag": "p",
+"phrase": "Here is the report including ___ for production.",
+"reponse": "cost estimates"
+},
+{
+"id": 3458,
+"tag": "a",
+"phrase": "My team found ways to cut out ___ steps from the process.",
+"reponse": "unnecessary"
+},
+{
+"id": 3459,
+"tag": "p",
+"phrase": "I saw how you assemble the cars for your ___.",
+"reponse": "high-speed trains"
+},
+{
+"id": 3460,
+"tag": "n",
+"phrase": "Can we send a ___ next week to take some more pictures?",
+"reponse": "photographer"
+},
+{
+"id": 3461,
+"tag": "n",
+"phrase": "We've been working with the ___ to decide where to focus.",
+"reponse": "strategic business unit"
+},
+{
+"id": 3462,
+"tag": "d",
+"phrase": "I analyzed data and ___ some potential regions.",
+"reponse": "determined"
+},
+{
+"id": 3463,
+"tag": "a",
+"phrase": "We should start creating a ___ campaign targeting consumers in Australia.",
+"reponse": "specialized"
+},
+{
+"id": 3464,
+"tag": "n",
+"phrase": "Do you have the ___ for here in the terminal?",
+"reponse": "Wi-Fi password"
+},
+{
+"id": 3465,
+"tag": "n",
+"phrase": "How's everything going here at the ___?",
+"reponse": "reception desk"
+},
+{
+"id": 3466,
+"tag": "p",
+"phrase": "I gave them today's list of ___.",
+"reponse": "maintenance tasks"
+},
+{
+"id": 3467,
+"tag": "p",
+"phrase": "I was looking for some ___ to hand out to guests.",
+"reponse": "city maps"
+},
+{
+"id": 3468,
+"tag": "n",
+"phrase": "The amount for that ___ still hasn't changed.",
+"reponse": "expense category"
+},
+{
+"id": 3469,
+"tag": "p",
+"phrase": "Next week, our company will begin offering ___.",
+"reponse": "exercise classes"
+},
+{
+"id": 3470,
+"tag": "p",
+"phrase": "There have been several ___ that show this.",
+"reponse": "research studies"
+},
+{
+"id": 3471,
+"tag": "n",
+"phrase": "If you're interested, complete this short ___.",
+"reponse": "registration form"
+},
+{
+"id": 3472,
+"tag": "n",
+"phrase": "Fern Hollow is the only restaurant with ___.",
+"reponse": "live music"
+},
+{
+"id": 3473,
+"tag": "n",
+"phrase": "Make sure you join our brand-new ___!",
+"reponse": "loyalty program"
+},
+{
+"id": 3474,
+"tag": "a",
+"phrase": "If you're looking to purchase a bicycle with an ___ design, stop here.",
+"reponse": "innovative"
+},
+{
+"id": 3475,
+"tag": "a",
+"phrase": "Many of our competitors have ___ bikes.",
+"reponse": "foldable"
+},
+{
+"id": 3476,
+"tag": "n",
+"phrase": "The city is considering converting the park into a ___.",
+"reponse": "housing development"
+},
+{
+"id": 3477,
+"tag": "n",
+"phrase": "The city's ___ has increased due to job growth.",
+"reponse": "population"
+},
+{
+"id": 3478,
+"tag": "n",
+"phrase": "The city needs both housing and ___.",
+"reponse": "green space"
+},
+{
+"id": 3479,
+"tag": "n",
+"phrase": "The city needs both housing and green space, and there's the ___.",
+"reponse": "controversy"
+},
+{
+"id": 3480,
+"tag": "n",
+"phrase": "A ___ was held at City Hall last night.",
+"reponse": "debate"
+},
+{
+"id": 3481,
+"tag": "p",
+"phrase": "I just received my bag and saw that one of the ___ is missing.",
+"reponse": "straps"
+},
+{
+"id": 3482,
+"tag": "n",
+"phrase": "Please send the ___ as soon as possible.",
+"reponse": "shoulder strap"
+},
+{
+"id": 3483,
+"tag": "p",
+"phrase": "I'd like to see some more ___.",
+"reponse": "writing samples"
+},
+{
+"id": 3484,
+"tag": "g",
+"phrase": "We might be interested in ___ something in a future issue.",
+"reponse": "publishing"
+},
+{
+"id": 3485,
+"tag": "n",
+"phrase": "They're coming next week to discuss ___ a second hotel.",
+"reponse": "financing"
+},
+{
+"id": 3486,
+"tag": "a",
+"phrase": "Please have your staff prepare an ___ dinner.",
+"reponse": "elegant"
+},
+{
+"id": 3487,
+"tag": "v",
+"phrase": "We need someone to ___ them at the airport.",
+"reponse": "greet"
+},
+{
+"id": 3488,
+"tag": "p",
+"phrase": "Take advantage of the ___ we offer.",
+"reponse": "employment services"
+},
+{
+"id": 3489,
+"tag": "p",
+"phrase": "Make an appointment with one of our ___.",
+"reponse": "career advisors"
+},
+{
+"id": 3490,
+"tag": "n",
+"phrase": "We help clients find positions in the ___.",
+"reponse": "workforce"
+},
+{
+"id": 3491,
+"tag": "n",
+"phrase": "Attend a ___ at our Broad Avenue location.",
+"reponse": "job seminar"
+},
+{
+"id": 3492,
+"tag": "p",
+"phrase": "The road is shut down for ___.",
+"reponse": "emergency repairs"
+},
+{
+"id": 3493,
+"tag": "n",
+"phrase": "We'll ride on a ___ this afternoon.",
+"reponse": "riverboat"
+},
+{
+"id": 3494,
+"tag": "n",
+"phrase": "We'll soon be stopping at a ___ of the city's founder.",
+"reponse": "statue"
+},
+{
+"id": 3495,
+"tag": "n",
+"phrase": "There's a two-hour ___ between the two offices.",
+"reponse": "time difference"
+},
+{
+"id": 3496,
+"tag": "n",
+"phrase": "I've arrived in Vancouver for the opening of the ___.",
+"reponse": "branch office"
+},
+{
+"id": 3497,
+"tag": "r",
+"phrase": "The opening ceremony doesn't start until ___.",
+"reponse": "midmorning"
+},
+{
+"id": 3498,
+"tag": "n",
+"phrase": "She's looking in a ___.",
+"reponse": "display case"
+},
+{
+"id": 3499,
+"tag": "n",
+"phrase": "The women are walking toward a ___.",
+"reponse": "doorway"
+},
+{
+"id": 3500,
+"tag": "n",
+"phrase": "A ___ is giving a man some money.",
+"reponse": "shop assistant"
+},
+{
+"id": 3501,
+"tag": "n",
+"phrase": "Where can I find a ___?",
+"reponse": "building directory"
+},
+{
+"id": 3502,
+"tag": "p",
+"phrase": "Who's going to lead the ___?",
+"reponse": "merger negotiations"
+},
+{
+"id": 3503,
+"tag": "n",
+"phrase": "How do I contact the ___?",
+"reponse": "financial consultant"
+},
+{
+"id": 3504,
+"tag": "n",
+"phrase": "When is the ___ coming?",
+"reponse": "health inspector"
+},
+{
+"id": 3505,
+"tag": "n",
+"phrase": "Wasn't this ___ due last week?",
+"reponse": "assignment"
+},
+{
+"id": 3506,
+"tag": "n",
+"phrase": "Where will the ___ be next year?",
+"reponse": "company retreat"
+},
+{
+"id": 3507,
+"tag": "n",
+"phrase": "Why is there a ___ on my invoice?",
+"reponse": "service charge"
+},
+{
+"id": 3508,
+"tag": "v",
+"phrase": "I'll ___ now, but you'll have to pay in the future.",
+"reponse": "waive the fee"
+},
+{
+"id": 3509,
+"tag": "n",
+"phrase": "I used your ___ to get a ride back to my office.",
+"reponse": "shuttle service"
+},
+{
+"id": 3510,
+"tag": "n",
+"phrase": "Aaron Parker is the ___ for the Jaguars.",
+"reponse": "goalkeeper"
+},
+{
+"id": 3511,
+"tag": "v",
+"phrase": "The storm didn't ___ for nearly an hour.",
+"reponse": "let up"
+},
+{
+"id": 3512,
+"tag": "v",
+"phrase": "We have to ___ for the restaurant in advance.",
+"reponse": "put in the order"
+},
+{
+"id": 3513,
+"tag": "n",
+"phrase": "I'd like to book two tickets for tonight's ___.",
+"reponse": "city bus tour"
+},
+{
+"id": 3514,
+"tag": "n",
+"phrase": "You won't want to miss taking photos of the city's ___.",
+"reponse": "skyline"
+},
+{
+"id": 3515,
+"tag": "n",
+"phrase": "I'd like to hear how your ___ has been going.",
+"reponse": "apprenticeship"
+},
+{
+"id": 3516,
+"tag": "n",
+"phrase": "As your ___, I'd like to hear how your training is going.",
+"reponse": "mentor"
+},
+{
+"id": 3517,
+"tag": "n",
+"phrase": "I've enjoyed learning the different techniques for metal ___.",
+"reponse": "welding"
+},
+{
+"id": 3518,
+"tag": "n",
+"phrase": "This model has our best ___ ever.",
+"reponse": "battery life"
+},
+{
+"id": 3519,
+"tag": "n",
+"phrase": "We can't wait to see the design plans for the new ___.",
+"reponse": "lightweight tablet"
+},
+{
+"id": 3520,
+"tag": "p",
+"phrase": "We can't wait to see the latest ___ for the new tablet.",
+"reponse": "design plans"
+},
+{
+"id": 3521,
+"tag": "n",
+"phrase": "We're planning our annual ___ for June.",
+"reponse": "awards banquet"
+},
+{
+"id": 3522,
+"tag": "n",
+"phrase": "We have a beautiful ___ on this floor.",
+"reponse": "ballroom"
+},
+{
+"id": 3523,
+"tag": "n",
+"phrase": "I'm the ___ at the Westfield Hotel.",
+"reponse": "event coordinator"
+},
+{
+"id": 3524,
+"tag": "n",
+"phrase": "We'll check and send you a quote for a ___.",
+"reponse": "group rate"
+},
+{
+"id": 3525,
+"tag": "n",
+"phrase": "Are there any tables near a ___ so I can charge my phone?",
+"reponse": "wall socket"
+},
+{
+"id": 3526,
+"tag": "p",
+"phrase": "We only have a few ___.",
+"reponse": "outlets"
+},
+{
+"id": 3527,
+"tag": "p",
+"phrase": "The ___ recently changed.",
+"reponse": "billing codes"
+},
+{
+"id": 3528,
+"tag": "n",
+"phrase": "The code for a ___ is 018.",
+"reponse": "blood test"
+},
+{
+"id": 3529,
+"tag": "p",
+"phrase": "The label lists the ___.",
+"reponse": "care instructions"
+},
+{
+"id": 3530,
+"tag": "n",
+"phrase": "Silverby Industries is in a ___.",
+"reponse": "business complex"
+},
+{
+"id": 3531,
+"tag": "n",
+"phrase": "Will I need a ___ to park?",
+"reponse": "permit"
+},
+{
+"id": 3532,
+"tag": "n",
+"phrase": "You won't get a ___.",
+"reponse": "parking violation"
+},
+{
+"id": 3533,
+"tag": "p",
+"phrase": "We have exercise classes and ___ ready to help you.",
+"reponse": "fitness instructors"
+},
+{
+"id": 3534,
+"tag": "p",
+"phrase": "We're getting our new line of ___ ready for market.",
+"reponse": "camera accessories"
+},
+{
+"id": 3535,
+"tag": "n",
+"phrase": "We've reserved a booth at the front of the ___.",
+"reponse": "exhibition hall"
+},
+{
+"id": 3536,
+"tag": "n",
+"phrase": "Tonight we have a special entrée: ___.",
+"reponse": "poached salmon"
+},
+{
+"id": 3537,
+"tag": "n",
+"phrase": "Tonight we have a special ___.",
+"reponse": "entrée"
+},
+{
+"id": 3538,
+"tag": "n",
+"phrase": "Natasha is a talented gardener who grows our ___.",
+"reponse": "fresh produce"
+},
+{
+"id": 3539,
+"tag": "p",
+"phrase": "The announcement of new ___ means major modifications.",
+"reponse": "federal regulations"
+},
+{
+"id": 3540,
+"tag": "p",
+"phrase": "I'll ask a few ___ how they feel about this development.",
+"reponse": "passersby"
+},
+{
+"id": 3541,
+"tag": "n",
+"phrase": "There's news about the Ashworth City ___.",
+"reponse": "light-rail"
+},
+{
+"id": 3542,
+"tag": "n",
+"phrase": "I'll be conducting training on our new ___.",
+"reponse": "scheduling software"
+},
+{
+"id": 3543,
+"tag": "n",
+"phrase": "Danville's Annual ___ is held outside at City Park.",
+"reponse": "Cook-Off"
+},
+{
+"id": 3544,
+"tag": "n",
+"phrase": "A ___ will select the winners.",
+"reponse": "panel of judges"
+},
+{
+"id": 3545,
+"tag": "n",
+"phrase": "The ___ is available on the city's Web site.",
+"reponse": "contest registration form"
+},
+{
+"id": 3546,
+"tag": "g",
+"phrase": "If you're interested in ___, check the Web site.",
+"reponse": "participating"
+},
+{
+"id": 3547,
+"tag": "v",
+"phrase": "I'm going to ___ you all to groups.",
+"reponse": "assign"
+},
+{
+"id": 3548,
+"tag": "p",
+"phrase": "Could you e-mail me a list of your ___?",
+"reponse": "consultant fees"
+},
+{
+"id": 3549,
+"tag": "n",
+"phrase": "We spoke about my small ___.",
+"reponse": "investment firm"
+},
+{
+"id": 3550,
+"tag": "a",
+"phrase": "Let's find ways to make my company's database more ___.",
+"reponse": "secure"
+},
+{
+"id": 3551,
+"tag": "n",
+"phrase": "He's holding a ___.",
+"reponse": "fishing pole"
+},
+{
+"id": 3552,
+"tag": "n",
+"phrase": "He's walking along the ___.",
+"reponse": "shore"
+},
+{
+"id": 3553,
+"tag": "n",
+"phrase": "One of the women is writing on a ___.",
+"reponse": "notepad"
+},
+{
+"id": 3554,
+"tag": "n",
+"phrase": "Some travelers are seated in a ___.",
+"reponse": "waiting area"
+},
+{
+"id": 3555,
+"tag": "n",
+"phrase": "Won't you be at the ___ tomorrow?",
+"reponse": "panel discussion"
+},
+{
+"id": 3556,
+"tag": "n",
+"phrase": "When did Susan ask for a ___?",
+"reponse": "computer upgrade"
+},
+{
+"id": 3557,
+"tag": "n",
+"phrase": "Do you work in marketing or ___?",
+"reponse": "public policy"
+},
+{
+"id": 3558,
+"tag": "n",
+"phrase": "Why don't we submit the ___?",
+"reponse": "supply request"
+},
+{
+"id": 3559,
+"tag": "n",
+"phrase": "I really need the updated ___.",
+"reponse": "expense report"
+},
+{
+"id": 3560,
+"tag": "n",
+"phrase": "Is there a ___ where I can try these on?",
+"reponse": "dressing room"
+},
+{
+"id": 3561,
+"tag": "n",
+"phrase": "Why is the ___ still not finished?",
+"reponse": "financial forecast"
+},
+{
+"id": 3562,
+"tag": "n",
+"phrase": "What did you think about that ___?",
+"reponse": "presenter"
+},
+{
+"id": 3563,
+"tag": "n",
+"phrase": "I could turn the ___ up.",
+"reponse": "heat"
+},
+{
+"id": 3564,
+"tag": "n",
+"phrase": "Add more details to the ___.",
+"reponse": "expenditures list"
+},
+{
+"id": 3565,
+"tag": "d",
+"phrase": "We like to have every office supply ___.",
+"reponse": "itemized"
+},
+{
+"id": 3566,
+"tag": "n",
+"phrase": "The ___ is fine.",
+"reponse": "stage arrangement"
+},
+{
+"id": 3567,
+"tag": "n",
+"phrase": "Can we make sure there'll be enough ___?",
+"reponse": "background lighting"
+},
+{
+"id": 3568,
+"tag": "v",
+"phrase": "We're coming back here to ___ together this afternoon.",
+"reponse": "rehearse"
+},
+{
+"id": 3569,
+"tag": "n",
+"phrase": "If you have a ___, we can do it now.",
+"reponse": "smart phone"
+},
+{
+"id": 3570,
+"tag": "p",
+"phrase": "I was thinking about our ___ for the conference.",
+"reponse": "travel plans"
+},
+{
+"id": 3571,
+"tag": "n",
+"phrase": "We're going to an ___ in Boston.",
+"reponse": "industry conference"
+},
+{
+"id": 3572,
+"tag": "v",
+"phrase": "He wants us to ___ of uniforms we're making.",
+"reponse": "double the number"
+},
+{
+"id": 3573,
+"tag": "p",
+"phrase": "How about we hire some part-time ___?",
+"reponse": "tailors"
+},
+{
+"id": 3574,
+"tag": "n",
+"phrase": "Do you have one of our ___?",
+"reponse": "loyalty cards"
+},
+{
+"id": 3575,
+"tag": "n",
+"phrase": "I took this bottle of ___ from the shelf.",
+"reponse": "soy sauce"
+},
+{
+"id": 3576,
+"tag": "p",
+"phrase": "Your company helps cities set up their ___.",
+"reponse": "bike-share programs"
+},
+{
+"id": 3577,
+"tag": "n",
+"phrase": "A representative from the Burrville ___ wanted to meet.",
+"reponse": "City Council"
+},
+{
+"id": 3578,
+"tag": "n",
+"phrase": "Part of the service we provide is an ___.",
+"reponse": "advertising campaign"
+},
+{
+"id": 3579,
+"tag": "p",
+"phrase": "The board decided to purchase new ___.",
+"reponse": "security cameras"
+},
+{
+"id": 3580,
+"tag": "n",
+"phrase": "Will there be a training session for my ___?",
+"reponse": "security personnel"
+},
+{
+"id": 3581,
+"tag": "n",
+"phrase": "We'll be opening a ___ in Indonesia soon.",
+"reponse": "facility"
+},
+{
+"id": 3582,
+"tag": "p",
+"phrase": "We're looking forward to expanding our ___ overseas.",
+"reponse": "production capabilities"
+},
+{
+"id": 3583,
+"tag": "n",
+"phrase": "I decided the pattern on the ___ will look best.",
+"reponse": "oak"
+},
+{
+"id": 3584,
+"tag": "n",
+"phrase": "I decided the ___ on the oak will look best.",
+"reponse": "pattern"
+},
+{
+"id": 3585,
+"tag": "n",
+"phrase": "The restaurant is going to get some nice ___.",
+"reponse": "publicity"
+},
+{
+"id": 3586,
+"tag": "d",
+"phrase": "If the event gets ___, it will be held at a later date.",
+"reponse": "rained out"
+},
+{
+"id": 3587,
+"tag": "n",
+"phrase": "She has a small ___.",
+"reponse": "jewelry shop"
+},
+{
+"id": 3588,
+"tag": "p",
+"phrase": "I'm trying to find the special ___ exhibit.",
+"reponse": "Fossils"
+},
+{
+"id": 3589,
+"tag": "n",
+"phrase": "Everything is included with regular ___ at our museum.",
+"reponse": "admission"
+},
+{
+"id": 3590,
+"tag": "p",
+"phrase": "All ___ are now on sale.",
+"reponse": "art supplies"
+},
+{
+"id": 3591,
+"tag": "p",
+"phrase": "This is a wonderful opportunity for ___.",
+"reponse": "aspiring artists"
+},
+{
+"id": 3592,
+"tag": "n",
+"phrase": "I received your message about your ___ not working properly.",
+"reponse": "dishwasher"
+},
+{
+"id": 3593,
+"tag": "n",
+"phrase": "I've called a ___ to come and fix it.",
+"reponse": "repair person"
+},
+{
+"id": 3594,
+"tag": "n",
+"phrase": "You'll need to leave a letter giving ___ for the repair person to enter.",
+"reponse": "permission"
+},
+{
+"id": 3595,
+"tag": "n",
+"phrase": "The repair person can enter in your ___.",
+"reponse": "absence"
+},
+{
+"id": 3596,
+"tag": "a",
+"phrase": "Helios has developed a ___ material for the screen.",
+"reponse": "glare-proof"
+},
+{
+"id": 3597,
+"tag": "a",
+"phrase": "What's really unique about this phone is its ___ screen.",
+"reponse": "revolutionary"
+},
+{
+"id": 3598,
+"tag": "n",
+"phrase": "Remember the large order of ___ we shipped to the client?",
+"reponse": "glassware"
+},
+{
+"id": 3599,
+"tag": "n",
+"phrase": "I called the ___ this morning.",
+"reponse": "shipping company"
+},
+{
+"id": 3600,
+"tag": "g",
+"phrase": "They're ___ the boxes immediately to the correct address.",
+"reponse": "reshipping"
+},
+{
+"id": 3601,
+"tag": "v",
+"phrase": "I'd like you to ___ all of our clients' addresses.",
+"reponse": "double-check"
+},
+{
+"id": 3602,
+"tag": "n",
+"phrase": "I'm looking over some ___ for your new employee.",
+"reponse": "paperwork"
+},
+{
+"id": 3603,
+"tag": "n",
+"phrase": "He received some tax forms at yesterday's ___.",
+"reponse": "new-hire orientation"
+},
+{
+"id": 3604,
+"tag": "p",
+"phrase": "He didn't fill out one of the ___.",
+"reponse": "tax forms"
+},
+{
+"id": 3605,
+"tag": "a",
+"phrase": "We strive to create innovative and ___ products.",
+"reponse": "cutting-edge"
+},
+{
+"id": 3606,
+"tag": "v",
+"phrase": "We ___ to create innovative products.",
+"reponse": "strive"
+},
+{
+"id": 3607,
+"tag": "n",
+"phrase": "Please note that ___ is not allowed during the tour.",
+"reponse": "photography"
+},
+{
+"id": 3608,
+"tag": "n",
+"phrase": "Thanks again for attending this ___ of my film.",
+"reponse": "screening"
+},
+{
+"id": 3609,
+"tag": "n",
+"phrase": "Thanks for attending this screening of my ___.",
+"reponse": "film documentary"
+},
+{
+"id": 3610,
+"tag": "n",
+"phrase": "Congratulations on creating such a successful ___.",
+"reponse": "marketing campaign"
+},
+{
+"id": 3611,
+"tag": "n",
+"phrase": "Due to ___, this flight has been canceled.",
+"reponse": "inclement weather"
+},
+{
+"id": 3612,
+"tag": "n",
+"phrase": "We'll be calling passengers according to your ___ numbers.",
+"reponse": "boarding zone"
+},
+{
+"id": 3613,
+"tag": "n",
+"phrase": "Thank you for your ___ and cooperation.",
+"reponse": "patience"
+},
+{
+"id": 3614,
+"tag": "n",
+"phrase": "Last week I went to the ___ for bookstore managers.",
+"reponse": "yearly retreat"
+},
+{
+"id": 3615,
+"tag": "n",
+"phrase": "I took an ___ about what books customers would like.",
+"reponse": "informal survey"
+},
+{
+"id": 3616,
+"tag": "n",
+"phrase": "Some people are installing an ___.",
+"reponse": "awning"
+},
+{
+"id": 3617,
+"tag": "n",
+"phrase": "Some people are gathered around a ___.",
+"reponse": "market stand"
+},
+{
+"id": 3618,
+"tag": "n",
+"phrase": "The man is gesturing towards a ___.",
+"reponse": "whiteboard"
+},
+{
+"id": 3619,
+"tag": "n",
+"phrase": "One of the women is filling a ___.",
+"reponse": "vase"
+},
+{
+"id": 3620,
+"tag": "n",
+"phrase": "She's repairing a ___.",
+"reponse": "rocking chair"
+},
+{
+"id": 3621,
+"tag": "n",
+"phrase": "Where's the computer ___?",
+"reponse": "programming handbook"
+},
+{
+"id": 3622,
+"tag": "n",
+"phrase": "How can I request ___?",
+"reponse": "expedited shipping"
+},
+{
+"id": 3623,
+"tag": "n",
+"phrase": "Complete an ___ online.",
+"reponse": "order form"
+},
+{
+"id": 3624,
+"tag": "p",
+"phrase": "Don't we need to purchase more ___?",
+"reponse": "fabric samples"
+},
+{
+"id": 3625,
+"tag": "n",
+"phrase": "I think it was the ___.",
+"reponse": "property manager"
+},
+{
+"id": 3626,
+"tag": "v",
+"phrase": "Is there a code to ___ the door?",
+"reponse": "unlock"
+},
+{
+"id": 3627,
+"tag": "p",
+"phrase": "When will the ___ be ready?",
+"reponse": "presentation materials"
+},
+{
+"id": 3628,
+"tag": "n",
+"phrase": "Who's working the ___ next Monday night?",
+"reponse": "closing shift"
+},
+{
+"id": 3629,
+"tag": "p",
+"phrase": "We've been having some ___.",
+"reponse": "technical difficulties"
+},
+{
+"id": 3630,
+"tag": "n",
+"phrase": "Here's the order form so you can see what kind of cake ___ requested.",
+"reponse": "the bride and groom"
+},
+{
+"id": 3631,
+"tag": "d",
+"phrase": "Isn't our building being ___ at two o'clock?",
+"reponse": "inspected"
+},
+{
+"id": 3632,
+"tag": "n",
+"phrase": "We need to be there when the ___ arrives.",
+"reponse": "inspector"
+},
+{
+"id": 3633,
+"tag": "n",
+"phrase": "I just received my ___ yesterday.",
+"reponse": "tour leader certificate"
+},
+{
+"id": 3634,
+"tag": "p",
+"phrase": "I know you just started working at Star ___.",
+"reponse": "Botanical Gardens"
+},
+{
+"id": 3635,
+"tag": "p",
+"phrase": "I'll help you load the ___ into your car.",
+"reponse": "product samples"
+},
+{
+"id": 3636,
+"tag": "p",
+"phrase": "A bunch of the ___ are going to dinner tonight.",
+"reponse": "customer service reps"
+},
+{
+"id": 3637,
+"tag": "p",
+"phrase": "I still have to finish the summary of the bank's ___.",
+"reponse": "quarterly earnings"
+},
+{
+"id": 3638,
+"tag": "n",
+"phrase": "I still have to finish that ___.",
+"reponse": "summary"
+},
+{
+"id": 3639,
+"tag": "n",
+"phrase": "The ___ is coming by in the morning.",
+"reponse": "regional manager"
+},
+{
+"id": 3640,
+"tag": "g",
+"phrase": "The lights in this room aren't ___.",
+"reponse": "functioning"
+},
+{
+"id": 3641,
+"tag": "n",
+"phrase": "I'm supposed to interview a ___ after lunch.",
+"reponse": "job applicant"
+},
+{
+"id": 3642,
+"tag": "n",
+"phrase": "I want to get rid of old documents with ___.",
+"reponse": "sensitive information"
+},
+{
+"id": 3643,
+"tag": "v",
+"phrase": "We collect the documents and ___ them right on-site.",
+"reponse": "shred"
+},
+{
+"id": 3644,
+"tag": "r",
+"phrase": "We shred them right ___.",
+"reponse": "on-site"
+},
+{
+"id": 3645,
+"tag": "n",
+"phrase": "I'm looking for an ___.",
+"reponse": "adjustable desk"
+},
+{
+"id": 3646,
+"tag": "n",
+"phrase": "Could you look at this ___ that I downloaded?",
+"reponse": "discount coupon"
+},
+{
+"id": 3647,
+"tag": "n",
+"phrase": "There's a new ___ Web site called EmployIn.com.",
+"reponse": "job search"
+},
+{
+"id": 3648,
+"tag": "g",
+"phrase": "I'm planning on ___ for myself soon.",
+"reponse": "going into business"
+},
+{
+"id": 3649,
+"tag": "p",
+"phrase": "I just need all of the ___ to listen for a second.",
+"reponse": "prep cooks"
+},
+{
+"id": 3650,
+"tag": "a",
+"phrase": "The ___ vegetables that go in our salad have been brown.",
+"reponse": "sliced"
+},
+{
+"id": 3651,
+"tag": "a",
+"phrase": "This is ___.",
+"reponse": "unacceptable"
+},
+{
+"id": 3652,
+"tag": "n",
+"phrase": "I heard some very good responses during our interview ___.",
+"reponse": "role-play"
+},
+{
+"id": 3653,
+"tag": "n",
+"phrase": "If you're considering signing up for ___, Kenta can help.",
+"reponse": "one-on-one coaching"
+},
+{
+"id": 3654,
+"tag": "p",
+"phrase": "Think about the ___ we talked about today.",
+"reponse": "principles"
+},
+{
+"id": 3655,
+"tag": "p",
+"phrase": "___ have already started gathering near the stadium.",
+"reponse": "Crowds"
+},
+{
+"id": 3656,
+"tag": "n",
+"phrase": "The ___ you requested has been sent to you by e-mail.",
+"reponse": "itemized bill"
+},
+{
+"id": 3657,
+"tag": "n",
+"phrase": "Your ___ is ready for pickup.",
+"reponse": "printing order"
+},
+{
+"id": 3658,
+"tag": "n",
+"phrase": "Your printing order is ready for ___.",
+"reponse": "pickup"
+},
+{
+"id": 3659,
+"tag": "g",
+"phrase": "I understand you're interested in ___ your home next month.",
+"reponse": "putting up for sale"
+},
+{
+"id": 3660,
+"tag": "v",
+"phrase": "The first step is for me to ___.",
+"reponse": "view your property"
+},
+{
+"id": 3661,
+"tag": "r",
+"phrase": "I can give you an idea of the price you could ___ get.",
+"reponse": "potentially"
+},
+{
+"id": 3662,
+"tag": "p",
+"phrase": "A lot of staff have been leaving ___ in the break room.",
+"reponse": "personal items"
+},
+{
+"id": 3663,
+"tag": "d",
+"phrase": "Each of her mosaics is ___ from hundreds of small tiles.",
+"reponse": "crafted"
+},
+{
+"id": 3664,
+"tag": "p",
+"phrase": "Ms. Santos specializes in making ___.",
+"reponse": "mosaics"
+},
+{
+"id": 3665,
+"tag": "n",
+"phrase": "Ms. Santos draws her ___ from nature.",
+"reponse": "inspiration"
+},
+{
+"id": 3666,
+"tag": "n",
+"phrase": "Thanks everyone for coming to Alina's ___.",
+"reponse": "farewell party"
+},
+{
+"id": 3667,
+"tag": "n",
+"phrase": "We all appreciate her ___.",
+"reponse": "positive attitude"
+},
+{
+"id": 3668,
+"tag": "n",
+"phrase": "We're developing our new ___.",
+"reponse": "handheld device"
+},
+{
+"id": 3669,
+"tag": "n",
+"phrase": "Customers rated the ___ and the sound quality.",
+"reponse": "processing speed"
+},
+{
+"id": 3670,
+"tag": "n",
+"phrase": "Only ten people liked the ___.",
+"reponse": "sound quality"
+},
+{
+"id": 3671,
+"tag": "n",
+"phrase": "You'll get a great view of the entire ___.",
+"reponse": "nature preserve"
+},
+{
+"id": 3672,
+"tag": "p",
+"phrase": "There are four ___ to choose from.",
+"reponse": "trails"
+},
+{
+"id": 3673,
+"tag": "n",
+"phrase": "I highly recommend going out to the Mountain ___.",
+"reponse": "Lodge"
+},
+{
+"id": 3674,
+"tag": "n",
+"phrase": "The red trail leads to the ___.",
+"reponse": "campground"
+},
+{
+"id": 3675,
+"tag": "p",
+"phrase": "We'll be meeting at the Wildflower Garden for some ___.",
+"reponse": "team-building activities"
+},
+{
+"id": 3676,
+"tag": "n",
+"phrase": "This morning we'll start with some ___.",
+"reponse": "hiking"
 }
 ]
