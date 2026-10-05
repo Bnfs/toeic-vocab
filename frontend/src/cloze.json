@@ -7084,5 +7084,1373 @@
 "tag": "a",
 "phrase": "The project is ___ finished; only a few details remain.",
 "reponse": "virtually"
+},
+{
+"id": 1,
+"tag": "n",
+"phrase": "The ___ announced a new policy on remote work.",
+"reponse": "company"
+},
+{
+"id": 2,
+"tag": "n",
+"phrase": "She applied for a ___ at an advertising agency.",
+"reponse": "job"
+},
+{
+"id": 3,
+"tag": "n",
+"phrase": "He felt nervous before the ___ with the director.",
+"reponse": "job interview"
+},
+{
+"id": 4,
+"tag": "v",
+"phrase": "Managers cannot ___ an employee without a valid reason.",
+"reponse": "fire"
+},
+{
+"id": 8,
+"tag": "n",
+"phrase": "The manager promised me a ___ after six months.",
+"reponse": "raise"
+},
+{
+"id": 10,
+"tag": "n",
+"phrase": "He was delighted with the ___ to senior manager.",
+"reponse": "promotion"
+},
+{
+"id": 11,
+"tag": "n",
+"phrase": "The company offers full-time ___ with benefits.",
+"reponse": "employment"
+},
+{
+"id": 12,
+"tag": "n",
+"phrase": "Your ___ should be no longer than two pages.",
+"reponse": "résumé"
+},
+{
+"id": 13,
+"tag": "n",
+"phrase": "Each ___ must include a cover letter.",
+"reponse": "job application"
+},
+{
+"id": 14,
+"tag": "p",
+"phrase": "She improved her computer ___ by taking a course.",
+"reponse": "skills"
+},
+{
+"id": 17,
+"tag": "n",
+"phrase": "He accepted the ___ of sales manager.",
+"reponse": "position"
+},
+{
+"id": 18,
+"tag": "v",
+"phrase": "The landlord may ___ the lease with a month's notice.",
+"reponse": "terminate"
+},
+{
+"id": 21,
+"tag": "n",
+"phrase": "Harassment is not tolerated in our ___.",
+"reponse": "workplace"
+},
+{
+"id": 22,
+"tag": "n",
+"phrase": "Employees complained about their heavy ___.",
+"reponse": "workload"
+},
+{
+"id": 24,
+"tag": "n",
+"phrase": "The ___ affected many workers in the factory.",
+"reponse": "layoff"
+},
+{
+"id": 25,
+"tag": "n",
+"phrase": "The morning ___ starts at six o'clock.",
+"reponse": "shift"
+},
+{
+"id": 28,
+"tag": "p",
+"phrase": "Travel discounts are among the ___ for employees.",
+"reponse": "perks"
+},
+{
+"id": 29,
+"tag": "n",
+"phrase": "Please submit your timesheets to the ___ office.",
+"reponse": "payroll"
+},
+{
+"id": 32,
+"tag": "n",
+"phrase": "Contact the ___ department for questions about vacation.",
+"reponse": "human resources"
+},
+{
+"id": 38,
+"tag": "n",
+"phrase": "She received excellent comments in her ___.",
+"reponse": "performance review"
+},
+{
+"id": 42,
+"tag": "n",
+"phrase": "According to the ___, the office will close early on Friday.",
+"reponse": "memo"
+},
+{
+"id": 43,
+"tag": "n",
+"phrase": "The ___ was postponed until next Tuesday.",
+"reponse": "meeting"
+},
+{
+"id": 54,
+"tag": "n",
+"phrase": "Workers are paid double for ___ on holidays.",
+"reponse": "overtime"
+},
+{
+"id": 57,
+"tag": "n",
+"phrase": "The ___ proves that she completed the course.",
+"reponse": "certificate"
+},
+{
+"id": 58,
+"tag": "n",
+"phrase": "The sales team proudly received the ___ for excellence.",
+"reponse": "award"
+},
+{
+"id": 64,
+"tag": "n",
+"phrase": "The ___ attended the board meeting.",
+"reponse": "executive"
+},
+{
+"id": 65,
+"tag": "n",
+"phrase": "Our ___ meets every Monday morning.",
+"reponse": "team"
+},
+{
+"id": 66,
+"tag": "n",
+"phrase": "I need to ask my ___ for permission.",
+"reponse": "boss"
+},
+{
+"id": 68,
+"tag": "p",
+"phrase": "Full-time workers receive medical ___.",
+"reponse": "benefits"
+},
+{
+"id": 74,
+"tag": "n",
+"phrase": "Rent takes a third of her monthly ___.",
+"reponse": "income"
+},
+{
+"id": 76,
+"tag": "n",
+"phrase": "The ___ was forwarded to the customer service manager.",
+"reponse": "complaint"
+},
+{
+"id": 77,
+"tag": "n",
+"phrase": "Every new ___ must attend an orientation session.",
+"reponse": "employee"
+},
+{
+"id": 78,
+"tag": "n",
+"phrase": "Her ___ offers flexible working hours.",
+"reponse": "employer"
+},
+{
+"id": 80,
+"tag": "n",
+"phrase": "The ___ for a graphic designer is still open.",
+"reponse": "vacancy"
+},
+{
+"id": 641,
+"tag": "n",
+"phrase": "Compare each ___ before you choose a contractor.",
+"reponse": "quote"
+},
+{
+"id": 648,
+"tag": "n",
+"phrase": "The ___ meeting begins at ten.",
+"reponse": "staff"
+},
+{
+"id": 650,
+"tag": "n",
+"phrase": "Please send your ___ to the HR department.",
+"reponse": "application"
+},
+{
+"id": 652,
+"tag": "n",
+"phrase": "The ___ will vote on the merger next week.",
+"reponse": "Board of Directors"
+},
+{
+"id": 164,
+"tag": "n",
+"phrase": "The global ___ slowed down last year.",
+"reponse": "economy"
+},
+{
+"id": 165,
+"tag": "n",
+"phrase": "The retailer filed for ___ last month.",
+"reponse": "bankruptcy"
+},
+{
+"id": 166,
+"tag": "n",
+"phrase": "The store only accepts ___.",
+"reponse": "cash"
+},
+{
+"id": 168,
+"tag": "n",
+"phrase": "We must reduce the ___ of production.",
+"reponse": "cost"
+},
+{
+"id": 169,
+"tag": "n",
+"phrase": "The local ___ lost value against the dollar.",
+"reponse": "currency"
+},
+{
+"id": 171,
+"tag": "n",
+"phrase": "The ___ is refundable if you cancel in time.",
+"reponse": "deposit"
+},
+{
+"id": 174,
+"tag": "n",
+"phrase": "A lower ___ makes loans more attractive.",
+"reponse": "interest rate"
+},
+{
+"id": 179,
+"tag": "n",
+"phrase": "Shareholders voted in favor of the ___.",
+"reponse": "merger"
+},
+{
+"id": 180,
+"tag": "n",
+"phrase": "Online ___ has grown quickly.",
+"reponse": "advertising"
+},
+{
+"id": 183,
+"tag": "n",
+"phrase": "The ___ closes at four on Fridays.",
+"reponse": "bank"
+},
+{
+"id": 189,
+"tag": "n",
+"phrase": "Please confirm the ___ of the funds.",
+"reponse": "transfer"
+},
+{
+"id": 193,
+"tag": "n",
+"phrase": "Do you accept ___ payments?",
+"reponse": "credit card"
+},
+{
+"id": 195,
+"tag": "p",
+"phrase": "He keeps his ___ in a high-interest account.",
+"reponse": "savings"
+},
+{
+"id": 199,
+"tag": "n",
+"phrase": "The ___ shows the company's assets and debts.",
+"reponse": "balance sheet"
+},
+{
+"id": 201,
+"tag": "n",
+"phrase": "A good reputation is a valuable ___.",
+"reponse": "asset"
+},
+{
+"id": 207,
+"tag": "p",
+"phrase": "Bank ___ vary depending on the account.",
+"reponse": "fees"
+},
+{
+"id": 214,
+"tag": "n",
+"phrase": "The insurance ___ compared several offers for us.",
+"reponse": "broker"
+},
+{
+"id": 215,
+"tag": "n",
+"phrase": "The firm's ___ rose by eight percent.",
+"reponse": "turnover"
+},
+{
+"id": 216,
+"tag": "n",
+"phrase": "The ___ was caused by a drop in sales.",
+"reponse": "loss"
+},
+{
+"id": 219,
+"tag": "n",
+"phrase": "Share prices fell on the ___ this morning.",
+"reponse": "stock exchange"
+},
+{
+"id": 220,
+"tag": "p",
+"phrase": "The company's ___ rose sharply after the announcement.",
+"reponse": "shares"
+},
+{
+"id": 222,
+"tag": "n",
+"phrase": "Higher costs reduced our profit ___.",
+"reponse": "margin"
+},
+{
+"id": 621,
+"tag": "n",
+"phrase": "The lowest ___ won the contract.",
+"reponse": "bid"
+},
+{
+"id": 622,
+"tag": "n",
+"phrase": "The electricity ___ arrives every two months.",
+"reponse": "bill"
+},
+{
+"id": 642,
+"tag": "n",
+"phrase": "The exchange ___ changes daily.",
+"reponse": "rate"
+},
+{
+"id": 810,
+"tag": "n",
+"phrase": "Please return the ___ from your client.",
+"reponse": "phone call"
+},
+{
+"id": 812,
+"tag": "n",
+"phrase": "Join the ___ using the number below.",
+"reponse": "conference call"
+},
+{
+"id": 818,
+"tag": "n",
+"phrase": "Read the ___ on our website for more details.",
+"reponse": "press release"
+},
+{
+"id": 820,
+"tag": "n",
+"phrase": "The ___ of the email is unknown.",
+"reponse": "sender"
+},
+{
+"id": 822,
+"tag": "n",
+"phrase": "I got an email ___ about my appointment.",
+"reponse": "reminder"
+},
+{
+"id": 829,
+"tag": "n",
+"phrase": "We have received your ___ and will reply shortly.",
+"reponse": "inquiry"
+},
+{
+"id": 1080,
+"tag": "n",
+"phrase": "The manager granted my ___ for extra leave.",
+"reponse": "request"
+},
+{
+"id": 1081,
+"tag": "n",
+"phrase": "Please wait for ___ before you travel.",
+"reponse": "confirmation"
+},
+{
+"id": 1082,
+"tag": "n",
+"phrase": "Thank you for your quick ___.",
+"reponse": "response"
+},
+{
+"id": 1091,
+"tag": "n",
+"phrase": "Both sides reached an ___ after a long meeting.",
+"reponse": "agreement"
+},
+{
+"id": 1093,
+"tag": "n",
+"phrase": "She gave an excellent ___ to the clients.",
+"reponse": "presentation"
+},
+{
+"id": 1095,
+"tag": "n",
+"phrase": "I would like to hear your ___ on this proposal.",
+"reponse": "opinion"
+},
+{
+"id": 1096,
+"tag": "n",
+"phrase": "The manager welcomed every ___ from the team.",
+"reponse": "suggestion"
+},
+{
+"id": 1099,
+"tag": "n",
+"phrase": "The ___ will arrive in two to three days.",
+"reponse": "parcel"
+},
+{
+"id": 1102,
+"tag": "n",
+"phrase": "Our ___ is open twenty-four hours a day.",
+"reponse": "hotline"
+},
+{
+"id": 341,
+"tag": "n",
+"phrase": "The ___ lists all our services.",
+"reponse": "brochure"
+},
+{
+"id": 343,
+"tag": "n",
+"phrase": "Tickets for the ___ are selling fast.",
+"reponse": "event"
+},
+{
+"id": 345,
+"tag": "n",
+"phrase": "The ___ is popular among teenagers.",
+"reponse": "brand"
+},
+{
+"id": 349,
+"tag": "n",
+"phrase": "The ___ does not cover accidental damage.",
+"reponse": "guarantee"
+},
+{
+"id": 352,
+"tag": "v",
+"phrase": "We expect to ___ all the tickets by Friday.",
+"reponse": "sell"
+},
+{
+"id": 353,
+"tag": "v",
+"phrase": "Customers can ___ gift cards at the front desk.",
+"reponse": "purchase"
+},
+{
+"id": 356,
+"tag": "p",
+"phrase": "Monthly ___ figures are posted on the intranet.",
+"reponse": "sales"
+},
+{
+"id": 360,
+"tag": "n",
+"phrase": "Customers can try a free ___ at the entrance.",
+"reponse": "sample"
+},
+{
+"id": 361,
+"tag": "n",
+"phrase": "Eco-friendly ___ attracts environmentally aware customers.",
+"reponse": "packaging"
+},
+{
+"id": 364,
+"tag": "n",
+"phrase": "Free ___ is available for orders above $100.",
+"reponse": "delivery"
+},
+{
+"id": 367,
+"tag": "p",
+"phrase": "Compare the ___ of the two models before buying.",
+"reponse": "features"
+},
+{
+"id": 368,
+"tag": "p",
+"phrase": "We study our ___ closely to stay ahead.",
+"reponse": "competitors"
+},
+{
+"id": 616,
+"tag": "n",
+"phrase": "The newspaper ___ offers a ten percent discount.",
+"reponse": "advertisement"
+},
+{
+"id": 1126,
+"tag": "n",
+"phrase": "Our new ___ will appear on all products.",
+"reponse": "logo"
+},
+{
+"id": 1130,
+"tag": "n",
+"phrase": "The company is trying to increase its ___.",
+"reponse": "market share"
+},
+{
+"id": 1132,
+"tag": "n",
+"phrase": "We face tough ___ from overseas manufacturers.",
+"reponse": "competition"
+},
+{
+"id": 1134,
+"tag": "n",
+"phrase": "Hundreds of journalists attended the ___.",
+"reponse": "product launch"
+},
+{
+"id": 1135,
+"tag": "n",
+"phrase": "Present this ___ at the reception to get a free drink.",
+"reponse": "voucher"
+},
+{
+"id": 228,
+"tag": "n",
+"phrase": "Turn off your ___ before you leave.",
+"reponse": "computer"
+},
+{
+"id": 231,
+"tag": "n",
+"phrase": "The coffee spilled on my ___.",
+"reponse": "keyboard"
+},
+{
+"id": 233,
+"tag": "n",
+"phrase": "The ___ is updated automatically.",
+"reponse": "software"
+},
+{
+"id": 234,
+"tag": "n",
+"phrase": "The ___ contains the details of all our clients.",
+"reponse": "database"
+},
+{
+"id": 235,
+"tag": "n",
+"phrase": "Employees cannot access the ___ from home.",
+"reponse": "network"
+},
+{
+"id": 237,
+"tag": "v",
+"phrase": "You need a password to ___.",
+"reponse": "log in"
+},
+{
+"id": 242,
+"tag": "v",
+"phrase": "Please ___ your address in the system.",
+"reponse": "update"
+},
+{
+"id": 243,
+"tag": "n",
+"phrase": "The ___ is too large to send by email.",
+"reponse": "file"
+},
+{
+"id": 245,
+"tag": "n",
+"phrase": "Follow the ___ to download the brochure.",
+"reponse": "link"
+},
+{
+"id": 247,
+"tag": "n",
+"phrase": "Each ___ must create a secure password.",
+"reponse": "user"
+},
+{
+"id": 250,
+"tag": "n",
+"phrase": "Open the ___ and enter the new figures.",
+"reponse": "spreadsheet"
+},
+{
+"id": 255,
+"tag": "n",
+"phrase": "The company's ___ displays its latest products.",
+"reponse": "homepage"
+},
+{
+"id": 256,
+"tag": "n",
+"phrase": "My phone has no ___ left for new photos.",
+"reponse": "memory"
+},
+{
+"id": 257,
+"tag": "n",
+"phrase": "Please turn off the ___ when you leave.",
+"reponse": "screen"
+},
+{
+"id": 265,
+"tag": "n",
+"phrase": "The daily ___ protects us against data loss.",
+"reponse": "backup"
+},
+{
+"id": 266,
+"tag": "n",
+"phrase": "Never share your ___ with anyone.",
+"reponse": "password"
+},
+{
+"id": 267,
+"tag": "n",
+"phrase": "The website does not work with this ___.",
+"reponse": "browser"
+},
+{
+"id": 272,
+"tag": "n",
+"phrase": "The technician restarted the ___ overnight.",
+"reponse": "server"
+},
+{
+"id": 275,
+"tag": "n",
+"phrase": "Our weekly ___ contains news and tips.",
+"reponse": "newsletter"
+},
+{
+"id": 278,
+"tag": "v",
+"phrase": "Please ___ the invoice to the accounting team.",
+"reponse": "forward"
+},
+{
+"id": 439,
+"tag": "n",
+"phrase": "Check the ___ before placing a new order.",
+"reponse": "inventory"
+},
+{
+"id": 440,
+"tag": "n",
+"phrase": "The shipping ___ was loaded onto the vessel.",
+"reponse": "container"
+},
+{
+"id": 448,
+"tag": "n",
+"phrase": "Our ___ is large enough to store 10,000 pallets.",
+"reponse": "warehouse"
+},
+{
+"id": 450,
+"tag": "v",
+"phrase": "The company will ___ all orders by air.",
+"reponse": "ship"
+},
+{
+"id": 451,
+"tag": "v",
+"phrase": "We guarantee to ___ within three days.",
+"reponse": "deliver"
+},
+{
+"id": 462,
+"tag": "p",
+"phrase": "Fragile ___ must be packed carefully.",
+"reponse": "goods"
+},
+{
+"id": 463,
+"tag": "n",
+"phrase": "Each ___ in the catalog has a reference number.",
+"reponse": "item"
+},
+{
+"id": 469,
+"tag": "n",
+"phrase": "The ___ promised to deliver on Monday.",
+"reponse": "supplier"
+},
+{
+"id": 472,
+"tag": "n",
+"phrase": "Shipping ___ by sea is cheaper.",
+"reponse": "freight"
+},
+{
+"id": 477,
+"tag": "n",
+"phrase": "A refrigerated ___ carries the fish.",
+"reponse": "truck"
+},
+{
+"id": 1147,
+"tag": "n",
+"phrase": "The ___ sector employs thousands of workers.",
+"reponse": "manufacturing"
+},
+{
+"id": 1150,
+"tag": "p",
+"phrase": "The company imports most of its ___.",
+"reponse": "raw materials"
+},
+{
+"id": 1157,
+"tag": "n",
+"phrase": "Higher productivity increased the factory's ___.",
+"reponse": "output"
+},
+{
+"id": 1159,
+"tag": "n",
+"phrase": "The product failed the ___ test.",
+"reponse": "quality control"
+},
+{
+"id": 1164,
+"tag": "n",
+"phrase": "The machines are shut down for ___ every Sunday.",
+"reponse": "maintenance"
+},
+{
+"id": 371,
+"tag": "n",
+"phrase": "The ___ of the conference has not yet been announced.",
+"reponse": "location"
+},
+{
+"id": 374,
+"tag": "v",
+"phrase": "Employees who ___ abroad must get approval.",
+"reponse": "travel"
+},
+{
+"id": 377,
+"tag": "v",
+"phrase": "Please ___ a room for two nights.",
+"reponse": "book"
+},
+{
+"id": 380,
+"tag": "n",
+"phrase": "The ___ was canceled because of the storm.",
+"reponse": "trip"
+},
+{
+"id": 385,
+"tag": "v",
+"phrase": "You can ___ online twenty-four hours before departure.",
+"reponse": "check in"
+},
+{
+"id": 388,
+"tag": "v",
+"phrase": "Flights cannot ___ in this thick fog.",
+"reponse": "take off"
+},
+{
+"id": 389,
+"tag": "v",
+"phrase": "The plane managed to ___ safely.",
+"reponse": "land"
+},
+{
+"id": 396,
+"tag": "n",
+"phrase": "Your ___ in Dubai leaves at 8:45.",
+"reponse": "connection"
+},
+{
+"id": 402,
+"tag": "n",
+"phrase": "The ___ is valid for one month.",
+"reponse": "return ticket"
+},
+{
+"id": 409,
+"tag": "v",
+"phrase": "The hotel will ___ during the festival.",
+"reponse": "be fully booked"
+},
+{
+"id": 419,
+"tag": "n",
+"phrase": "Please keep your ___ as proof of purchase.",
+"reponse": "receipt"
+},
+{
+"id": 427,
+"tag": "n",
+"phrase": "The ___ includes a visit to the castle.",
+"reponse": "guided tour"
+},
+{
+"id": 428,
+"tag": "n",
+"phrase": "Use the ___ on the wall to find the exit.",
+"reponse": "map"
+},
+{
+"id": 436,
+"tag": "n",
+"phrase": "Declare all valuables at ___.",
+"reponse": "customs"
+},
+{
+"id": 626,
+"tag": "a",
+"phrase": "Please update your ___ address.",
+"reponse": "current"
+},
+{
+"id": 632,
+"tag": "n",
+"phrase": "The new ___ comes into effect in January.",
+"reponse": "law"
+},
+{
+"id": 640,
+"tag": "n",
+"phrase": "What is the ___ of your visit?",
+"reponse": "purpose"
+},
+{
+"id": 911,
+"tag": "n",
+"phrase": "Experience is the main ___ for this job.",
+"reponse": "requirement"
+},
+{
+"id": 912,
+"tag": "a",
+"phrase": "Wearing a helmet is ___ on the site.",
+"reponse": "mandatory"
+},
+{
+"id": 914,
+"tag": "n",
+"phrase": "The main ___ of the plan is its cost.",
+"reponse": "drawback"
+},
+{
+"id": 916,
+"tag": "n",
+"phrase": "We have set a clear ___ for next quarter.",
+"reponse": "goal"
+},
+{
+"id": 918,
+"tag": "n",
+"phrase": "Online shopping is a growing ___.",
+"reponse": "trend"
+},
+{
+"id": 919,
+"tag": "n",
+"phrase": "The ___ for the repairs was higher than expected.",
+"reponse": "estimate"
+},
+{
+"id": 920,
+"tag": "n",
+"phrase": "The hotel offers rooms in a wide ___ of prices.",
+"reponse": "range"
+},
+{
+"id": 922,
+"tag": "n",
+"phrase": "Safety is a major ___ for parents.",
+"reponse": "concern"
+},
+{
+"id": 923,
+"tag": "n",
+"phrase": "Customer satisfaction is our highest ___.",
+"reponse": "priority"
+},
+{
+"id": 925,
+"tag": "n",
+"phrase": "Follow the ___ described in the manual.",
+"reponse": "procedure"
+},
+{
+"id": 926,
+"tag": "n",
+"phrase": "Our products meet the highest ___.",
+"reponse": "standard"
+},
+{
+"id": 927,
+"tag": "n",
+"phrase": "The new design is a great ___.",
+"reponse": "improvement"
+},
+{
+"id": 929,
+"tag": "n",
+"phrase": "The company sold its ___ stock at a discount.",
+"reponse": "surplus"
+},
+{
+"id": 930,
+"tag": "n",
+"phrase": "The laptop is still under ___.",
+"reponse": "warranty"
+},
+{
+"id": 938,
+"tag": "a",
+"phrase": "The data must be ___ and up to date.",
+"reponse": "accurate"
+},
+{
+"id": 939,
+"tag": "a",
+"phrase": "Our delivery service is fast and ___.",
+"reponse": "reliable"
+},
+{
+"id": 940,
+"tag": "a",
+"phrase": "The new printer is quicker and more ___.",
+"reponse": "efficient"
+},
+{
+"id": 942,
+"tag": "a",
+"phrase": "Only ___ experience will be considered.",
+"reponse": "relevant"
+},
+{
+"id": 944,
+"tag": "a",
+"phrase": "Please wear ___ clothing for the interview.",
+"reponse": "appropriate"
+},
+{
+"id": 945,
+"tag": "a",
+"phrase": "The ___ manager left in March.",
+"reponse": "previous"
+},
+{
+"id": 946,
+"tag": "a",
+"phrase": "Please prepare for the ___ audit.",
+"reponse": "upcoming"
+},
+{
+"id": 950,
+"tag": "a",
+"phrase": "Delays are ___ during the holiday season.",
+"reponse": "likely"
+},
+{
+"id": 951,
+"tag": "a",
+"phrase": "It is ___ that prices will fall.",
+"reponse": "unlikely"
+},
+{
+"id": 952,
+"tag": "q",
+"phrase": "Are you ___ relocate to our London office?",
+"reponse": "willing to"
+},
+{
+"id": 953,
+"tag": "q",
+"phrase": "Who is ___ the budget?",
+"reponse": "in charge of"
+},
+{
+"id": 954,
+"tag": "q",
+"phrase": "I am calling ___ Mr. Lopez.",
+"reponse": "on behalf of"
+},
+{
+"id": 955,
+"tag": "r",
+"phrase": "Reservations must be made ___.",
+"reponse": "in advance"
+},
+{
+"id": 956,
+"tag": "r",
+"phrase": "We need your answer ___.",
+"reponse": "as soon as possible"
+},
+{
+"id": 957,
+"tag": "r",
+"phrase": "Please be ___ for the meeting.",
+"reponse": "on time"
+},
+{
+"id": 958,
+"tag": "r",
+"phrase": "The first phase was completed ___.",
+"reponse": "ahead of schedule"
+},
+{
+"id": 959,
+"tag": "r",
+"phrase": "We are ___ because of supply problems.",
+"reponse": "behind schedule"
+},
+{
+"id": 960,
+"tag": "r",
+"phrase": "Keep your software ___.",
+"reponse": "up to date"
+},
+{
+"id": 963,
+"tag": "q",
+"phrase": "Customers should be ___ the new fees.",
+"reponse": "aware of"
+},
+{
+"id": 964,
+"tag": "v",
+"phrase": "She knows how to ___ difficult customers.",
+"reponse": "deal with"
+},
+{
+"id": 931,
+"tag": "c",
+"phrase": "___ of your experience, you must attend the training.",
+"reponse": "Regardless"
+},
+{
+"id": 932,
+"tag": "c",
+"phrase": "The price is high. ___, the quality justifies it.",
+"reponse": "Nevertheless"
+},
+{
+"id": 933,
+"tag": "c",
+"phrase": "Demand increased. ___, we hired more staff.",
+"reponse": "Therefore"
+},
+{
+"id": 934,
+"tag": "c",
+"phrase": "The CEO was abroad. ___, his assistant managed the office.",
+"reponse": "Meanwhile"
+},
+{
+"id": 935,
+"tag": "c",
+"phrase": "___ the first model is heavy, the new one is light.",
+"reponse": "Whereas"
+},
+{
+"id": 936,
+"tag": "c",
+"phrase": "The hotel is cheap. ___, it is close to the station.",
+"reponse": "Furthermore"
+},
+{
+"id": 624,
+"tag": "v",
+"phrase": "Always ___ your email before sending it.",
+"reponse": "check"
+},
+{
+"id": 639,
+"tag": "v",
+"phrase": "We ___ free training to all new staff.",
+"reponse": "provide"
+},
+{
+"id": 643,
+"tag": "v",
+"phrase": "This course does not ___ any previous knowledge.",
+"reponse": "require"
+},
+{
+"id": 649,
+"tag": "v",
+"phrase": "A private foundation will ___ the research.",
+"reponse": "fund"
+},
+{
+"id": 845,
+"tag": "v",
+"phrase": "The new office can ___ fifty employees.",
+"reponse": "accommodate"
+},
+{
+"id": 892,
+"tag": "v",
+"phrase": "You must ___ here to confirm delivery.",
+"reponse": "sign"
+},
+{
+"id": 907,
+"tag": "v",
+"phrase": "Visitors must ___ a safety helmet.",
+"reponse": "wear"
+},
+{
+"id": 908,
+"tag": "v",
+"phrase": "You may ___ your application at any time.",
+"reponse": "withdraw"
+},
+{
+"id": 481,
+"tag": "a",
+"phrase": "He looks young, but he is ___ forty.",
+"reponse": "actually"
+},
+{
+"id": 484,
+"tag": "v",
+"phrase": "Constant noise can ___ the whole team.",
+"reponse": "annoy"
+},
+{
+"id": 490,
+"tag": "n",
+"phrase": "The main ___ of exercise is better health.",
+"reponse": "benefit"
+},
+{
+"id": 496,
+"tag": "v",
+"phrase": "Restaurants often ___ a service fee.",
+"reponse": "charge"
+},
+{
+"id": 501,
+"tag": "v",
+"phrase": "Did you ___ the survey?",
+"reponse": "complete"
+},
+{
+"id": 508,
+"tag": "n",
+"phrase": "The article's ___ was very informative.",
+"reponse": "content"
+},
+{
+"id": 516,
+"tag": "a",
+"phrase": "This is ___ the best offer we have received.",
+"reponse": "definitely"
+},
+{
+"id": 517,
+"tag": "v",
+"phrase": "Customers ___ better service.",
+"reponse": "demand"
+},
+{
+"id": 518,
+"tag": "n",
+"phrase": "The ___ in front of the ministry blocked traffic.",
+"reponse": "demonstration"
+},
+{
+"id": 529,
+"tag": "n",
+"phrase": "There is no ___ that the product is unsafe.",
+"reponse": "evidence"
+},
+{
+"id": 530,
+"tag": "a",
+"phrase": "The prices ___ went down.",
+"reponse": "eventually"
+},
+{
+"id": 552,
+"tag": "n",
+"phrase": "The main ___ is the lack of funding.",
+"reponse": "issue"
+},
+{
+"id": 554,
+"tag": "n",
+"phrase": "Attendance at the ___ is optional.",
+"reponse": "lecture"
+},
+{
+"id": 556,
+"tag": "v",
+"phrase": "We try to ___ good relations with our clients.",
+"reponse": "maintain"
+},
+{
+"id": 561,
+"tag": "n",
+"phrase": "She gave two weeks' ___ before resigning.",
+"reponse": "notice"
+},
+{
+"id": 562,
+"tag": "v",
+"phrase": "Did you ___ the new sign?",
+"reponse": "notice"
+},
+{
+"id": 569,
+"tag": "n",
+"phrase": "The ___ was taken in 1950.",
+"reponse": "photograph"
+},
+{
+"id": 576,
+"tag": "v",
+"phrase": "Regular checks can ___ accidents.",
+"reponse": "prevent"
+},
+{
+"id": 578,
+"tag": "n",
+"phrase": "We waited in the ___ for an hour.",
+"reponse": "queue"
+},
+{
+"id": 579,
+"tag": "n",
+"phrase": "The email was sent to the wrong ___.",
+"reponse": "recipient"
+},
+{
+"id": 580,
+"tag": "v",
+"phrase": "The economy is starting to ___.",
+"reponse": "recover"
+},
+{
+"id": 585,
+"tag": "v",
+"phrase": "Please ___ any problem to the IT department.",
+"reponse": "report"
+},
+{
+"id": 586,
+"tag": "v",
+"phrase": "Work will ___ on Monday.",
+"reponse": "resume"
+},
+{
+"id": 587,
+"tag": "v",
+"phrase": "Good salaries help to ___ staff.",
+"reponse": "retain"
+},
+{
+"id": 594,
+"tag": "n",
+"phrase": "The project is now in its final ___.",
+"reponse": "stage"
+},
+{
+"id": 597,
+"tag": "p",
+"phrase": "Please order office ___ before the end of the month.",
+"reponse": "supplies"
+},
+{
+"id": 598,
+"tag": "v",
+"phrase": "Our team will ___ you during the transition.",
+"reponse": "support"
+},
+{
+"id": 603,
+"tag": "n",
+"phrase": "Seal the parcel with strong ___.",
+"reponse": "tape"
+},
+{
+"id": 609,
+"tag": "v",
+"phrase": "Do not ___ your phone during the exam.",
+"reponse": "use"
+},
+{
+"id": 611,
+"tag": "a",
+"phrase": "The coupon is ___ until the end of the month.",
+"reponse": "valid"
+},
+{
+"id": 615,
+"tag": "a",
+"phrase": "Registration is ___ complete.",
+"reponse": "virtually"
+},
+{
+"id": 538,
+"tag": "n",
+"phrase": "The tank is filled with ___.",
+"reponse": "gas"
 }
 ]
