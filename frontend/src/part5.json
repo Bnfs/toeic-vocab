@@ -1438,5 +1438,1805 @@
 ],
 "correct": "considered",
 "explication": "« be considered as » = être envisagé comme."
+},
+{
+"id": "ets6-101",
+"phrase": "Jesper Associates currently has ___ with 26 different food suppliers.",
+"options": [
+"contracting",
+"contracts",
+"contractor",
+"contract"
+],
+"correct": "contracts",
+"explication": "Nom pluriel après « has » : contracts."
+},
+{
+"id": "ets6-102",
+"phrase": "Passengers must be at the gate ___ 25 minutes prior to boarding their flight.",
+"options": [
+"at least",
+"as much",
+"in case",
+"by then"
+],
+"correct": "at least",
+"explication": "« at least » = au moins."
+},
+{
+"id": "ets6-103",
+"phrase": "Deltran analytics software can help ___ identify issues, predict trends, and improve business.",
+"options": [
+"you",
+"your",
+"yours",
+"yourself"
+],
+"correct": "you",
+"explication": "Pronom objet après « help »."
+},
+{
+"id": "ets6-104",
+"phrase": "The technology department ___ to purchase three new servers next year.",
+"options": [
+"announces",
+"thinks",
+"predicts",
+"plans"
+],
+"correct": "plans",
+"explication": "« plan to + verbe » = prévoir de."
+},
+{
+"id": "ets6-105",
+"phrase": "Jennson Motors hired an ___ new efficiency expert last month.",
+"options": [
+"approximate",
+"angular",
+"exceptional",
+"eventual"
+],
+"correct": "exceptional",
+"explication": "« an exceptional expert » = un expert exceptionnel."
+},
+{
+"id": "ets6-106",
+"phrase": "Mr. Winkel's ___ responsibilities include auditing and financial review of large clients.",
+"options": [
+"accounts",
+"accounted",
+"accounting",
+"accountable"
+],
+"correct": "accounting",
+"explication": "« accounting responsibilities » : nom composé."
+},
+{
+"id": "ets6-107",
+"phrase": "The prime minister greeted foreign diplomats ___ a luncheon today in London.",
+"options": [
+"at",
+"had",
+"such",
+"where"
+],
+"correct": "at",
+"explication": "« at a luncheon » : lieu / événement."
+},
+{
+"id": "ets6-108",
+"phrase": "The management team at Ofto Corporation offers incentives ___ employee productivity.",
+"options": [
+"stimulate",
+"to stimulate",
+"will stimulate",
+"are stimulating"
+],
+"correct": "to stimulate",
+"explication": "« incentives to + verbe » (but)."
+},
+{
+"id": "ets6-109",
+"phrase": "In response to customer ___, Lopez Naturals will release a line of organic soaps.",
+"options": [
+"demand",
+"permit",
+"arrival",
+"account"
+],
+"correct": "demand",
+"explication": "« in response to demand » = pour répondre à la demande."
+},
+{
+"id": "ets6-110",
+"phrase": "Before the computers leave the factory, they are ___ thoroughly to ensure they have no defects.",
+"options": [
+"selected",
+"inspected",
+"attached",
+"managed"
+],
+"correct": "inspected",
+"explication": "« inspected thoroughly » = contrôlé minutieusement."
+},
+{
+"id": "ets6-111",
+"phrase": "WRUZ Radio will broadcast a new show ___ to business news and economic analysis.",
+"options": [
+"allowed",
+"prepared",
+"dedicated",
+"introduced"
+],
+"correct": "dedicated",
+"explication": "« dedicated to » = consacré à."
+},
+{
+"id": "ets6-112",
+"phrase": "Mr. Okada met ___ with the building manager to discuss the demolition project.",
+"options": [
+"frequent",
+"frequenting",
+"frequently",
+"frequented"
+],
+"correct": "frequently",
+"explication": "Adverbe qui complète le verbe « met »."
+},
+{
+"id": "ets6-113",
+"phrase": "Mr. Montri politely ___ the job offer from Barranca Shipping Company.",
+"options": [
+"declined",
+"decreased",
+"prevented",
+"converted"
+],
+"correct": "declined",
+"explication": "« decline an offer » = refuser une offre."
+},
+{
+"id": "ets6-114",
+"phrase": "Written permission must ___ before using Thavor Corporation's logo.",
+"options": [
+"to obtain",
+"obtained",
+"be obtained",
+"obtaining"
+],
+"correct": "be obtained",
+"explication": "Voix passive avec modal : must be obtained."
+},
+{
+"id": "ets6-115",
+"phrase": "___ it is relatively small, the fitness center at Ginder Apartments is very popular with residents.",
+"options": [
+"Reasoning",
+"Essentially",
+"Although",
+"Throughout"
+],
+"correct": "Although",
+"explication": "« Although » = bien que."
+},
+{
+"id": "ets6-116",
+"phrase": "All communications must be approved by the public relations director before they can be shared ___.",
+"options": [
+"certainly",
+"externally",
+"deeply",
+"utterly"
+],
+"correct": "externally",
+"explication": "« shared externally » = diffusé à l'extérieur."
+},
+{
+"id": "ets6-117",
+"phrase": "Providing precision welding to a ___ array of industries, Mistone Metalworks celebrated a century of service.",
+"options": [
+"widely",
+"widen",
+"width",
+"wide"
+],
+"correct": "wide",
+"explication": "Adjectif devant un nom : a wide array."
+},
+{
+"id": "ets6-118",
+"phrase": "Mr. Kim considers punctuality a crucial ___ for all his assistants to have.",
+"options": [
+"device",
+"type",
+"action",
+"trait"
+],
+"correct": "trait",
+"explication": "« trait » = qualité, trait de caractère."
+},
+{
+"id": "ets6-119",
+"phrase": "The chief financial officer has ___ the importance of attracting new customers next quarter.",
+"options": [
+"applied",
+"demanded",
+"administered",
+"emphasized"
+],
+"correct": "emphasized",
+"explication": "« emphasize the importance of » = souligner l'importance de."
+},
+{
+"id": "ets6-120",
+"phrase": "Sewerd Furnishings is closing some of its showrooms because customers are ___ ordering furniture online.",
+"options": [
+"increasing",
+"increase",
+"increasingly",
+"increased"
+],
+"correct": "increasingly",
+"explication": "Adverbe devant le participe : increasingly ordering."
+},
+{
+"id": "ets6-121",
+"phrase": "___ construction in progress at the old town hall building, tourist groups will not be allowed to enter the site.",
+"options": [
+"Now that",
+"While",
+"Even if",
+"Due to"
+],
+"correct": "Due to",
+"explication": "« Due to » + nom = à cause de."
+},
+{
+"id": "ets6-122",
+"phrase": "Several drilling-technology experts will present the results of their ___ on June 23.",
+"options": [
+"comprehension",
+"resolution",
+"investigation",
+"specification"
+],
+"correct": "investigation",
+"explication": "« the results of their investigation » = résultats de leur étude."
+},
+{
+"id": "ets6-123",
+"phrase": "The store had a ___ display to promote the newest book from the best-selling mystery author.",
+"options": [
+"default",
+"grateful",
+"talented",
+"massive"
+],
+"correct": "massive",
+"explication": "« a massive display » = une présentation énorme."
+},
+{
+"id": "ets6-124",
+"phrase": "Most of the people ___ attended yesterday's workshop have already submitted their feedback.",
+"options": [
+"who",
+"those",
+"whose",
+"some"
+],
+"correct": "who",
+"explication": "Pronom relatif sujet : who."
+},
+{
+"id": "ets6-125",
+"phrase": "Both tasty and healthy, the tomato salad is also large ___ to be served as a main dish.",
+"options": [
+"enough",
+"fully",
+"nearly",
+"well"
+],
+"correct": "enough",
+"explication": "« large enough to » = assez grand pour."
+},
+{
+"id": "ets6-126",
+"phrase": "The Klassin Group's booth at the Liberty Architecture Expo has garnered much ___.",
+"options": [
+"interest",
+"interests",
+"interested",
+"interesting"
+],
+"correct": "interest",
+"explication": "Nom indénombrable après « much »."
+},
+{
+"id": "ets6-127",
+"phrase": "Save 25 percent on any printer ___ you buy a laptop computer at Diego's Electronics.",
+"options": [
+"whereas",
+"whenever",
+"such as",
+"seeing that"
+],
+"correct": "whenever",
+"explication": "« whenever » = chaque fois que."
+},
+{
+"id": "ets6-128",
+"phrase": "The recently adopted policy restructures the company's debt according to a ___ five-step plan.",
+"options": [
+"managing",
+"manageably",
+"manages",
+"manageable"
+],
+"correct": "manageable",
+"explication": "Adjectif devant un nom : manageable."
+},
+{
+"id": "ets6-129",
+"phrase": "The quality assurance department needs to hire additional staff ___ production has increased by 50 percent.",
+"options": [
+"even though",
+"since",
+"because of",
+"therefore"
+],
+"correct": "since",
+"explication": "« since » = puisque / depuis que."
+},
+{
+"id": "ets6-130",
+"phrase": "Your order cannot ___ until we have received full payment.",
+"options": [
+"to process",
+"be processed",
+"being processed",
+"has processed"
+],
+"correct": "be processed",
+"explication": "Voix passive avec modal : cannot be processed."
+},
+{
+"id": "ets7-101",
+"phrase": "If ___ are not satisfied with an item, return it for a full refund within 30 days of purchase.",
+"options": [
+"you",
+"your",
+"yours",
+"yourself"
+],
+"correct": "you",
+"explication": "Pronom sujet : you."
+},
+{
+"id": "ets7-102",
+"phrase": "The location of next month's online gaming forum is yet to be ___.",
+"options": [
+"concluded",
+"prevented",
+"invited",
+"decided"
+],
+"correct": "decided",
+"explication": "« yet to be decided » = reste à décider."
+},
+{
+"id": "ets7-103",
+"phrase": "Guests were ___ with the table decorations for the company banquet.",
+"options": [
+"impressive",
+"impressed",
+"impressing",
+"impressively"
+],
+"correct": "impressed",
+"explication": "« be impressed with » = être impressionné par."
+},
+{
+"id": "ets7-104",
+"phrase": "The Shubert Company is ___ effective at helping power plants reduce their carbon dioxide emissions.",
+"options": [
+"once",
+"far",
+"early",
+"very"
+],
+"correct": "very",
+"explication": "« very effective » : adverbe devant un adjectif."
+},
+{
+"id": "ets7-105",
+"phrase": "Mr. Hodges ___ that volunteers sign up to assist with the Hannock River cleanup by Friday.",
+"options": [
+"requesting",
+"to be requested",
+"requests",
+"to request"
+],
+"correct": "requests",
+"explication": "Verbe conjugué au présent : requests."
+},
+{
+"id": "ets7-106",
+"phrase": "Last year, the Daejeon English News ___ the number of readers by adding a digital subscription option.",
+"options": [
+"needed",
+"increased",
+"joined",
+"asked"
+],
+"correct": "increased",
+"explication": "« increased the number of » = a augmenté le nombre de."
+},
+{
+"id": "ets7-107",
+"phrase": "Before the updated design can go into ___, it must be approved by management.",
+"options": [
+"product",
+"producer",
+"productive",
+"production"
+],
+"correct": "production",
+"explication": "« go into production » = être mis en production."
+},
+{
+"id": "ets7-108",
+"phrase": "The economic development summit will be held ___ the Xi'an Trade Tower on September 22.",
+"options": [
+"to",
+"at",
+"down",
+"of"
+],
+"correct": "at",
+"explication": "« held at » + lieu."
+},
+{
+"id": "ets7-109",
+"phrase": "Inclement weather was ___ responsible for the low turnout at Saturday's Exton Music Festival.",
+"options": [
+"largely",
+"large",
+"largest",
+"larger"
+],
+"correct": "largely",
+"explication": "« largely responsible » = en grande partie responsable."
+},
+{
+"id": "ets7-110",
+"phrase": "Our most recent survey was sent to clients just last week, ___ it is too soon to send another one.",
+"options": [
+"when",
+"since",
+"so",
+"finally"
+],
+"correct": "so",
+"explication": "« so » = donc (conséquence)."
+},
+{
+"id": "ets7-111",
+"phrase": "___ necklace that is shipped from Gillis Designers is given a thorough quality check.",
+"options": [
+"Whenever",
+"Also",
+"All",
+"Each"
+],
+"correct": "Each",
+"explication": "« Each » + nom singulier."
+},
+{
+"id": "ets7-112",
+"phrase": "Ms. Valdez' sales numbers are good ___ for her to be considered for the employee-of-the-month award.",
+"options": [
+"forward",
+"even",
+"ahead",
+"enough"
+],
+"correct": "enough",
+"explication": "« good enough to » = assez bon pour."
+},
+{
+"id": "ets7-113",
+"phrase": "Aaron Park's new book features photographs of homes designed and built by the homeowners ___.",
+"options": [
+"itself",
+"himself",
+"themselves",
+"ourselves"
+],
+"correct": "themselves",
+"explication": "Pronom réfléchi pluriel : themselves."
+},
+{
+"id": "ets7-114",
+"phrase": "It is ___ for the audience to hold its applause until the speaker has finished.",
+"options": [
+"enthusiastic",
+"casual",
+"exclusive",
+"customary"
+],
+"correct": "customary",
+"explication": "« it is customary to » = il est d'usage de."
+},
+{
+"id": "ets7-115",
+"phrase": "Despite ___ that Legend Air would perform poorly with the entry of cheaper competition, it posted strong second-quarter earnings.",
+"options": [
+"predicted",
+"predictable",
+"predicts",
+"predictions"
+],
+"correct": "predictions",
+"explication": "Nom après « despite » : predictions."
+},
+{
+"id": "ets7-116",
+"phrase": "Mr. Nigam was ___ retirement when his boss asked him to be the head of security at the new facility.",
+"options": [
+"under",
+"ahead of",
+"nearby",
+"close to"
+],
+"correct": "close to",
+"explication": "« close to retirement » = proche de la retraite."
+},
+{
+"id": "ets7-117",
+"phrase": "Main Street Restaurant offers a menu of ___ prepared lunch and dinner meals.",
+"options": [
+"thought",
+"thoughtfulness",
+"thoughts",
+"thoughtfully"
+],
+"correct": "thoughtfully",
+"explication": "Adverbe devant un participe : thoughtfully prepared."
+},
+{
+"id": "ets7-118",
+"phrase": "___ our public relations manager, Ms. Ghazarian has just been appointed vice president of media relations.",
+"options": [
+"Sincerely",
+"Immediately",
+"Solely",
+"Formerly"
+],
+"correct": "Formerly",
+"explication": "« Formerly » = auparavant."
+},
+{
+"id": "ets7-119",
+"phrase": "Videos of Korean pop music have become very popular ___ adolescents worldwide.",
+"options": [
+"including",
+"whereas",
+"among",
+"within"
+],
+"correct": "among",
+"explication": "« popular among » = populaire auprès de."
+},
+{
+"id": "ets7-120",
+"phrase": "Milante Shoes ___ altered the firm's marketing strategy after a recent economic shift.",
+"options": [
+"quick",
+"quickest",
+"quickly",
+"quicken"
+],
+"correct": "quickly",
+"explication": "Adverbe devant le verbe : quickly altered."
+},
+{
+"id": "ets7-121",
+"phrase": "The annual report has been posted online, ___ the director's office has not yet received a printed copy.",
+"options": [
+"but",
+"why",
+"with",
+"once"
+],
+"correct": "but",
+"explication": "« but » = mais (opposition)."
+},
+{
+"id": "ets7-122",
+"phrase": "Hasin Fariz turned a study on the ___ effects of sleep into a best-selling book.",
+"options": [
+"favorable",
+"favor",
+"favors",
+"favorably"
+],
+"correct": "favorable",
+"explication": "Adjectif devant un nom : favorable."
+},
+{
+"id": "ets7-123",
+"phrase": "Wynston Containers is ___ a yearly shutdown of its factory so that it can be evaluated for safety and efficiency.",
+"options": [
+"involving",
+"participating",
+"implementing",
+"producing"
+],
+"correct": "implementing",
+"explication": "« implement a shutdown » = mettre en place un arrêt."
+},
+{
+"id": "ets7-124",
+"phrase": "The Girard Botanical Archive has almost 300,000 plant ___, all neatly pressed onto archival paper.",
+"options": [
+"authorities",
+"specimens",
+"founders",
+"specifics"
+],
+"correct": "specimens",
+"explication": "« plant specimens » = échantillons de plantes."
+},
+{
+"id": "ets7-125",
+"phrase": "Hotels and universities are ___ to recycle their used mattresses through the city's recycling program.",
+"options": [
+"systematic",
+"eligible",
+"familiar",
+"successful"
+],
+"correct": "eligible",
+"explication": "« be eligible to » = avoir le droit de."
+},
+{
+"id": "ets7-126",
+"phrase": "The ___ to review plans to replace the Tronton Bridge will be scheduled soon.",
+"options": [
+"heard",
+"hears",
+"hearing",
+"hear"
+],
+"correct": "hearing",
+"explication": "« a hearing » = une audience."
+},
+{
+"id": "ets7-127",
+"phrase": "Kovox Ltd. aims to optimize quality ___ reducing the impact on the environment.",
+"options": [
+"which",
+"while",
+"because",
+"unless"
+],
+"correct": "while",
+"explication": "« while + participe présent » = tout en."
+},
+{
+"id": "ets7-128",
+"phrase": "The grocery store ___ vegetables from out of town until local prices went down last month.",
+"options": [
+"is buying",
+"will be buying",
+"has been buying",
+"had been buying"
+],
+"correct": "had been buying",
+"explication": "Past perfect continu avant une action passée."
+},
+{
+"id": "ets7-129",
+"phrase": "All Hershel Industries employees must have a valid ID card ___ enter the building.",
+"options": [
+"in order to",
+"as long as",
+"regarding",
+"always"
+],
+"correct": "in order to",
+"explication": "« in order to + verbe » = pour."
+},
+{
+"id": "ets7-130",
+"phrase": "___ and cost factored equally in choosing Cantavox as our main supplier.",
+"options": [
+"Reliability",
+"Allowance",
+"Dependence",
+"Estimation"
+],
+"correct": "Reliability",
+"explication": "« reliability and cost » = fiabilité et coût."
+},
+{
+"id": "ets8-101",
+"phrase": "Ms. Villanueva has extensive experience in corporate ___ and budgeting.",
+"options": [
+"financially",
+"financed",
+"financial",
+"finance"
+],
+"correct": "finance",
+"explication": "Nom : corporate finance."
+},
+{
+"id": "ets8-102",
+"phrase": "Because Mr. Lewis works so ___, he was given a pay raise.",
+"options": [
+"bright",
+"hard",
+"tight",
+"sharp"
+],
+"correct": "hard",
+"explication": "« work hard » = travailler dur."
+},
+{
+"id": "ets8-103",
+"phrase": "Full of old-fashioned charm, the Bronstad Inn ___ offers modern conveniences.",
+"options": [
+"plus",
+"else",
+"also",
+"less"
+],
+"correct": "also",
+"explication": "« also offers » = propose aussi."
+},
+{
+"id": "ets8-104",
+"phrase": "Franklin Bookstore will be moving next month ___ a larger location on Queen Street.",
+"options": [
+"to",
+"at",
+"out",
+"over"
+],
+"correct": "to",
+"explication": "« move to » + lieu."
+},
+{
+"id": "ets8-105",
+"phrase": "Marina Hou ___ considered becoming an actor before deciding to write plays instead.",
+"options": [
+"briefly",
+"briefs",
+"briefing",
+"briefed"
+],
+"correct": "briefly",
+"explication": "Adverbe : briefly considered."
+},
+{
+"id": "ets8-106",
+"phrase": "On Fixit Time's Web site, homeowners will find economical solutions for ___ repairs.",
+"options": [
+"dark",
+"broken",
+"cleaning",
+"common"
+],
+"correct": "common",
+"explication": "« common repairs » = réparations courantes."
+},
+{
+"id": "ets8-107",
+"phrase": "Walter Keegan was ___ hired as a salesperson, but he soon became head of the marketing department.",
+"options": [
+"originality",
+"original",
+"originals",
+"originally"
+],
+"correct": "originally",
+"explication": "Adverbe : originally hired."
+},
+{
+"id": "ets8-108",
+"phrase": "Durr Island has become popular with tourists ___ its rich culture of art and music.",
+"options": [
+"provided that",
+"because of",
+"even",
+"how"
+],
+"correct": "because of",
+"explication": "« because of » + nom."
+},
+{
+"id": "ets8-109",
+"phrase": "While he is not enthusiastic about the suggestions, Mr. Shang ___ them.",
+"options": [
+"considering",
+"to consider",
+"will consider",
+"consider"
+],
+"correct": "will consider",
+"explication": "Futur après « while » concessif."
+},
+{
+"id": "ets8-110",
+"phrase": "The design ___ of Tavalyo Toys has been relocated to the company's headquarters.",
+"options": [
+"division",
+"specification",
+"allowance",
+"construction"
+],
+"correct": "division",
+"explication": "« design division » = service conception."
+},
+{
+"id": "ets8-111",
+"phrase": "The Merrick Travel Agency organizes tours of national monuments and other ___ sites.",
+"options": [
+"historian",
+"historic",
+"historically",
+"histories"
+],
+"correct": "historic",
+"explication": "Adjectif devant un nom : historic sites."
+},
+{
+"id": "ets8-112",
+"phrase": "The MHS wireless speaker not only works with smartphones ___ is waterproof as well.",
+"options": [
+"but",
+"and",
+"however",
+"besides"
+],
+"correct": "but",
+"explication": "« not only ... but »."
+},
+{
+"id": "ets8-113",
+"phrase": "Assistant managers are largely responsible for the day-to-day operations in ___ departments.",
+"options": [
+"theirs",
+"them",
+"their",
+"they"
+],
+"correct": "their",
+"explication": "Adjectif possessif devant un nom."
+},
+{
+"id": "ets8-114",
+"phrase": "Customers must ___ review the terms of the fitness center's membership agreement before they sign it.",
+"options": [
+"smoothly",
+"probably",
+"legibly",
+"thoroughly"
+],
+"correct": "thoroughly",
+"explication": "« review thoroughly » = relire attentivement."
+},
+{
+"id": "ets8-115",
+"phrase": "We made a ___ estimate of how many tourists to expect in the coming month.",
+"options": [
+"conservative",
+"conservation",
+"conservatism",
+"conservatively"
+],
+"correct": "conservative",
+"explication": "« a conservative estimate » = estimation prudente."
+},
+{
+"id": "ets8-116",
+"phrase": "Once they have completed three years of employment, the workers at Loruja ___ additional vacation time.",
+"options": [
+"reserve",
+"earn",
+"continue",
+"find"
+],
+"correct": "earn",
+"explication": "« earn vacation time » = acquérir des congés."
+},
+{
+"id": "ets8-117",
+"phrase": "___ has time at the end of the day should make sure that all of the file cabinets are locked.",
+"options": [
+"Whom",
+"Who",
+"Whoever",
+"Whose"
+],
+"correct": "Whoever",
+"explication": "« Whoever » = quiconque (sujet)."
+},
+{
+"id": "ets8-118",
+"phrase": "North River Linens promises next-day shipping ___ Asia.",
+"options": [
+"without",
+"between",
+"throughout",
+"along"
+],
+"correct": "throughout",
+"explication": "« throughout » = dans toute."
+},
+{
+"id": "ets8-119",
+"phrase": "___ last year, the unpublished novel by Martin Sim has attracted intense interest from several publishing companies.",
+"options": [
+"Discover",
+"Discovery",
+"Discovered",
+"Discovering"
+],
+"correct": "Discovered",
+"explication": "Participe passé en début de phrase."
+},
+{
+"id": "ets8-120",
+"phrase": "Hoonton Realty clients can search property listings in ___ neighborhood by using a special online database.",
+"options": [
+"other",
+"several",
+"all",
+"any"
+],
+"correct": "any",
+"explication": "« any » + nom singulier."
+},
+{
+"id": "ets8-121",
+"phrase": "Exceptional service is what sets our hotels apart from those of our ___.",
+"options": [
+"compete",
+"competing",
+"competitive",
+"competition"
+],
+"correct": "competition",
+"explication": "Nom après « our » : competition."
+},
+{
+"id": "ets8-122",
+"phrase": "The Internet connection will be closely monitored ___ the source of the slowdown can be confirmed.",
+"options": [
+"why",
+"until",
+"due to",
+"just as"
+],
+"correct": "until",
+"explication": "« until » = jusqu'à ce que."
+},
+{
+"id": "ets8-123",
+"phrase": "Thank you for being one of Danton Transportation's most ___ customers over the past ten years.",
+"options": [
+"valuation",
+"valued",
+"value",
+"values"
+],
+"correct": "valued",
+"explication": "« most valued customers » = clients les plus précieux."
+},
+{
+"id": "ets8-124",
+"phrase": "Mr. Tang is a successful recruiter because he can quickly ___ talented sales agents from the rest.",
+"options": [
+"distinguish",
+"persuade",
+"alter",
+"assist"
+],
+"correct": "distinguish",
+"explication": "« distinguish A from B » = distinguer de."
+},
+{
+"id": "ets8-125",
+"phrase": "Ms. Penner assured us that ___ work stopped during the power failure, production targets would be met.",
+"options": [
+"although",
+"at",
+"her",
+"never"
+],
+"correct": "although",
+"explication": "« although » = bien que."
+},
+{
+"id": "ets8-126",
+"phrase": "Please provide the exact dimensions of the custom fence, and your quote will be adjusted ___.",
+"options": [
+"namely",
+"accordingly",
+"frequently",
+"supposedly"
+],
+"correct": "accordingly",
+"explication": "« adjusted accordingly » = ajusté en conséquence."
+},
+{
+"id": "ets8-127",
+"phrase": "The vice president believes that ___ employees is vital to the company's success.",
+"options": [
+"empowered",
+"empower",
+"empowering",
+"empowers"
+],
+"correct": "empowering",
+"explication": "Gérondif sujet : empowering employees."
+},
+{
+"id": "ets8-128",
+"phrase": "The ___ for the city council's Monday meeting is posted on the municipal Web site by 3:00 P.M. on the preceding Friday.",
+"options": [
+"catalog",
+"inventory",
+"agenda",
+"record"
+],
+"correct": "agenda",
+"explication": "« agenda » = ordre du jour."
+},
+{
+"id": "ets8-129",
+"phrase": "The building inspector declared the new facility ___ sound and ready to open.",
+"options": [
+"structured",
+"structuring",
+"structural",
+"structurally"
+],
+"correct": "structurally",
+"explication": "Adverbe devant un adjectif : structurally sound."
+},
+{
+"id": "ets8-130",
+"phrase": "Dr. Huertas received the ___ Brighton Award for her groundbreaking work in plant biology.",
+"options": [
+"overwhelmed",
+"intentional",
+"prestigious",
+"deserving"
+],
+"correct": "prestigious",
+"explication": "« prestigious award » = prix prestigieux."
+},
+{
+"id": "ets9-101",
+"phrase": "Every batch of sauce at Generita's Bistro is processed meticulously by ___ expert chefs.",
+"options": [
+"they",
+"their",
+"them",
+"themselves"
+],
+"correct": "their",
+"explication": "Adjectif possessif devant un nom : their."
+},
+{
+"id": "ets9-102",
+"phrase": "Computerization of medical records ___ increases a physician's ability to diagnose and treat patients.",
+"options": [
+"great",
+"greatly",
+"greatness",
+"greatest"
+],
+"correct": "greatly",
+"explication": "Adverbe devant le verbe : greatly increases."
+},
+{
+"id": "ets9-103",
+"phrase": "At Rojelle's Fine Dining, we use the freshest ___ available to make our salads.",
+"options": [
+"applications",
+"subjects",
+"ingredients",
+"factors"
+],
+"correct": "ingredients",
+"explication": "« ingredients » : ce qui entre dans une recette."
+},
+{
+"id": "ets9-104",
+"phrase": "Professor Benguigui will present his paper ___ the natural history conference tomorrow.",
+"options": [
+"by",
+"at",
+"of",
+"on"
+],
+"correct": "at",
+"explication": "« present a paper at a conference »."
+},
+{
+"id": "ets9-105",
+"phrase": "The chefs are still waiting for a ___ date for the new convection oven that was ordered two weeks ago.",
+"options": [
+"shipper",
+"ships",
+"shipments",
+"shipping"
+],
+"correct": "shipping",
+"explication": "Nom composé : shipping date."
+},
+{
+"id": "ets9-106",
+"phrase": "Mr. Kang works ___ with our internal team members as well as various regional sales representatives.",
+"options": [
+"mildly",
+"nearly",
+"closely",
+"narrowly"
+],
+"correct": "closely",
+"explication": "« work closely with » = travailler étroitement avec."
+},
+{
+"id": "ets9-107",
+"phrase": "Fashion designer Hye-Ja Pak knows ___ to update her line in response to changing tastes.",
+"options": [
+"and",
+"when",
+"need",
+"for"
+],
+"correct": "when",
+"explication": "« know when to + verbe » = savoir quand."
+},
+{
+"id": "ets9-108",
+"phrase": "The samba class was so well ___ that the Yulara Dance School decided to make the course a permanent offering.",
+"options": [
+"attended",
+"educated",
+"gathered",
+"protected"
+],
+"correct": "attended",
+"explication": "« well attended » = très fréquenté."
+},
+{
+"id": "ets9-109",
+"phrase": "The factory will be situated away ___ the city's residential area to reduce complaints about noise and emissions.",
+"options": [
+"from",
+"about",
+"with",
+"out"
+],
+"correct": "from",
+"explication": "« away from » = loin de."
+},
+{
+"id": "ets9-110",
+"phrase": "Ms. Kuramoto selected the most ___ mailing option available.",
+"options": [
+"economical",
+"economy",
+"economize",
+"economized"
+],
+"correct": "economical",
+"explication": "Adjectif au superlatif devant un nom."
+},
+{
+"id": "ets9-111",
+"phrase": "Companies without information technology specialists can ___ on Vyber Software Advisers for assistance with online services.",
+"options": [
+"reliable",
+"reliably",
+"rely",
+"relying"
+],
+"correct": "rely",
+"explication": "« can rely on » = peuvent compter sur."
+},
+{
+"id": "ets9-112",
+"phrase": "Next year, our team will have a new task, ___ is to review design portfolios.",
+"options": [
+"although",
+"which",
+"after",
+"because"
+],
+"correct": "which",
+"explication": "Pronom relatif : which."
+},
+{
+"id": "ets9-113",
+"phrase": "Cook the meat for 30 minutes to ensure ___ readiness to be eaten.",
+"options": [
+"both",
+"this",
+"its",
+"that"
+],
+"correct": "its",
+"explication": "Adjectif possessif devant un nom : its readiness."
+},
+{
+"id": "ets9-114",
+"phrase": "Amoxitron's research team will hire ___ interns to assist with laboratory duties.",
+"options": [
+"given",
+"several",
+"whole",
+"natural"
+],
+"correct": "several",
+"explication": "« several interns » = plusieurs stagiaires."
+},
+{
+"id": "ets9-115",
+"phrase": "___ the new acai juice blend has proved so popular, we should move quickly to increase our production volume.",
+"options": [
+"If",
+"Whether",
+"Since",
+"Unless"
+],
+"correct": "Since",
+"explication": "« Since » = puisque (cause)."
+},
+{
+"id": "ets9-116",
+"phrase": "New emissions standards have forced Rider Auto to modify the process of engine ___.",
+"options": [
+"construction",
+"constructed",
+"constructive",
+"construct"
+],
+"correct": "construction",
+"explication": "Nom après « of engine » : engine construction."
+},
+{
+"id": "ets9-117",
+"phrase": "Maki Kayano's book offers techniques for ___ business tasks with speed and precision.",
+"options": [
+"executing",
+"equipping",
+"returning",
+"involving"
+],
+"correct": "executing",
+"explication": "« execute tasks » = exécuter des tâches."
+},
+{
+"id": "ets9-118",
+"phrase": "To control costs, updated credit card readers will be installed in branch stores ___.",
+"options": [
+"gradual",
+"gradually",
+"more gradual",
+"most gradual"
+],
+"correct": "gradually",
+"explication": "Adverbe en fin de phrase : gradually."
+},
+{
+"id": "ets9-119",
+"phrase": "In this quarter, the Montel Beverage Company is expecting sales ___ £160,000 and £180,000.",
+"options": [
+"without",
+"among",
+"throughout",
+"between"
+],
+"correct": "between",
+"explication": "« between A and B » = entre A et B."
+},
+{
+"id": "ets9-120",
+"phrase": "Because Mount Akoyola is so challenging for climbers, ___ have reached its peak.",
+"options": [
+"any",
+"either",
+"other",
+"few"
+],
+"correct": "few",
+"explication": "« few have reached » = très peu."
+},
+{
+"id": "ets9-121",
+"phrase": "King Street Bridge will be closed in the month of September ___ repair work.",
+"options": [
+"because of",
+"so that",
+"as if",
+"rather than"
+],
+"correct": "because of",
+"explication": "« because of » + nom."
+},
+{
+"id": "ets9-122",
+"phrase": "Ms. Taniguchi's supervisor commended her for negotiating ___ with Furuyama Corporation.",
+"options": [
+"effective",
+"effecting",
+"effected",
+"effectively"
+],
+"correct": "effectively",
+"explication": "Adverbe après le verbe : negotiating effectively."
+},
+{
+"id": "ets9-123",
+"phrase": "Staff members may reserve the conference room ___ they need it.",
+"options": [
+"somewhere",
+"whatever",
+"everything",
+"anytime"
+],
+"correct": "anytime",
+"explication": "« anytime » = chaque fois que."
+},
+{
+"id": "ets9-124",
+"phrase": "The public relations director must have a high level of ___ in English and Spanish.",
+"options": [
+"proficiency",
+"advancement",
+"routine",
+"strength"
+],
+"correct": "proficiency",
+"explication": "« proficiency in » = maîtrise de (une langue)."
+},
+{
+"id": "ets9-125",
+"phrase": "Patterson Products ___ seeks innovative ways of meeting changing consumer demand.",
+"options": [
+"dually",
+"favorably",
+"continually",
+"generically"
+],
+"correct": "continually",
+"explication": "« continually seeks » = cherche en permanence."
+},
+{
+"id": "ets9-126",
+"phrase": "Mr. Volante is working at home tomorrow so he ___ the technical report without any distractions.",
+"options": [
+"can finish",
+"would finish",
+"finished",
+"has been finishing"
+],
+"correct": "can finish",
+"explication": "« can finish » : possibilité à venir."
+},
+{
+"id": "ets9-127",
+"phrase": "All of the billing procedures remain the same, ___ new payment codes need to be inserted into the invoice documents.",
+"options": [
+"in order that",
+"during",
+"across from",
+"except that"
+],
+"correct": "except that",
+"explication": "« except that » = sauf que."
+},
+{
+"id": "ets9-128",
+"phrase": "The lightweight design of the new sedan is ___ because it can cause the vehicle to slide on icy roads.",
+"options": [
+"possible",
+"mechanical",
+"questionable",
+"multiple"
+],
+"correct": "questionable",
+"explication": "« questionable » = discutable."
+},
+{
+"id": "ets9-129",
+"phrase": "When the bank president retired, the common ___ was that the vice president would take over.",
+"options": [
+"assume",
+"assumption",
+"assuming",
+"assumable"
+],
+"correct": "assumption",
+"explication": "« the common assumption » = l'hypothèse courante."
+},
+{
+"id": "ets9-130",
+"phrase": "West Bengali Airlines ___ fees for oversized items that are still within weight limitations.",
+"options": [
+"invites",
+"cooperates",
+"transports",
+"waives"
+],
+"correct": "waives",
+"explication": "« waive fees » = renoncer à des frais."
+},
+{
+"id": "ets10-101",
+"phrase": "Please contact the product distributor, not the retail store, if ___ need replacement parts.",
+"options": [
+"your",
+"you",
+"yourself",
+"yours"
+],
+"correct": "you",
+"explication": "Pronom sujet : you."
+},
+{
+"id": "ets10-102",
+"phrase": "AGU Group's insurance rates have remained steady ___ the last three years.",
+"options": [
+"at",
+"by",
+"to",
+"for"
+],
+"correct": "for",
+"explication": "« for the last three years » = depuis trois ans."
+},
+{
+"id": "ets10-103",
+"phrase": "Sage Bistro's menu features a ___ variety of seafood items than Almaner Pavilion's.",
+"options": [
+"wide",
+"widest",
+"wider",
+"widely"
+],
+"correct": "wider",
+"explication": "Comparatif devant « than »."
+},
+{
+"id": "ets10-104",
+"phrase": "Frequent training enables our technicians to resolve most computer problems ___.",
+"options": [
+"swiftly",
+"avoidably",
+"doubtfully",
+"rigidly"
+],
+"correct": "swiftly",
+"explication": "« resolve swiftly » = résoudre rapidement."
+},
+{
+"id": "ets10-105",
+"phrase": "Most of the manufacturing sector has reported higher profits as a result of the trade ___.",
+"options": [
+"agreement",
+"agreeing",
+"agreeably",
+"agrees"
+],
+"correct": "agreement",
+"explication": "Nom composé : trade agreement."
+},
+{
+"id": "ets10-106",
+"phrase": "The cooking instructions call for reducing the heat and letting the sauce simmer ___ it thickens.",
+"options": [
+"whereas",
+"likewise",
+"instead",
+"until"
+],
+"correct": "until",
+"explication": "« until » = jusqu'à ce que."
+},
+{
+"id": "ets10-107",
+"phrase": "The Cullingford Bridge took a ___ short amount of time to be repaired.",
+"options": [
+"surprise",
+"surprisingly",
+"surprising",
+"surprised"
+],
+"correct": "surprisingly",
+"explication": "Adverbe devant un adjectif : surprisingly short."
+},
+{
+"id": "ets10-108",
+"phrase": "The company's summer picnic is ___ held outside town, in Warren County Lakeside Park.",
+"options": [
+"apart",
+"always",
+"much",
+"far"
+],
+"correct": "always",
+"explication": "« always held » = toujours organisé."
+},
+{
+"id": "ets10-109",
+"phrase": "Ms. Navarro wants to fill the administrative assistant ___ as soon as possible.",
+"options": [
+"worker",
+"employment",
+"position",
+"experience"
+],
+"correct": "position",
+"explication": "« fill a position » = pourvoir un poste."
+},
+{
+"id": "ets10-110",
+"phrase": "The item that Ms. Bak ordered from our catalog is ___ until 16 October.",
+"options": [
+"unavailable",
+"occupied",
+"uneventful",
+"delivered"
+],
+"correct": "unavailable",
+"explication": "« unavailable » = indisponible."
+},
+{
+"id": "ets10-111",
+"phrase": "Kespi Brand cookies, delicious by ___, are even better when paired with a glass of milk.",
+"options": [
+"they",
+"theirs",
+"them",
+"themselves"
+],
+"correct": "themselves",
+"explication": "« by themselves » = tels quels."
+},
+{
+"id": "ets10-112",
+"phrase": "The North India Electricians Association ___ various online courses covering licensure, safety, and technology.",
+"options": [
+"offers",
+"takes",
+"pays",
+"allows"
+],
+"correct": "offers",
+"explication": "« offer courses » = proposer des cours."
+},
+{
+"id": "ets10-113",
+"phrase": "The latest survey shows that our downtown store is more ___ for local shoppers than our suburban location.",
+"options": [
+"conveniences",
+"conveniently",
+"convenience",
+"convenient"
+],
+"correct": "convenient",
+"explication": "Adjectif au comparatif : more convenient."
+},
+{
+"id": "ets10-114",
+"phrase": "Weaving Fire is the most popular television show ___ women ages 18–34.",
+"options": [
+"among",
+"toward",
+"within",
+"along"
+],
+"correct": "among",
+"explication": "« popular among » = populaire auprès de."
+},
+{
+"id": "ets10-115",
+"phrase": "___ a designer has completed a prototype product, the rest of the team will be invited to critique it.",
+"options": [
+"So that",
+"Whether",
+"From",
+"After"
+],
+"correct": "After",
+"explication": "« After » + sujet + verbe = après que."
+},
+{
+"id": "ets10-116",
+"phrase": "Rather than archiving routine e-mails, please delete them ___.",
+"options": [
+"especially",
+"likewise",
+"quite",
+"instead"
+],
+"correct": "instead",
+"explication": "« instead » = à la place."
+},
+{
+"id": "ets10-117",
+"phrase": "Mr. Khana made a phone call yesterday during which he ___ for the delay in the shipment of the clothing order.",
+"options": [
+"to apologize",
+"apologized",
+"apologize",
+"will be apologizing"
+],
+"correct": "apologized",
+"explication": "Prétérit : hier."
+},
+{
+"id": "ets10-118",
+"phrase": "Following many months of research, the marketing team finally decided on a ___ for the new perfume bottle.",
+"options": [
+"force",
+"style",
+"belief",
+"request"
+],
+"correct": "style",
+"explication": "« decide on a style » = choisir un style."
+},
+{
+"id": "ets10-119",
+"phrase": "For more information about product warranties or ___ your new appliance, please contact customer service.",
+"options": [
+"to register",
+"registered",
+"registers",
+"registration"
+],
+"correct": "to register",
+"explication": "« to register » : infinitif parallèle à « about »."
+},
+{
+"id": "ets10-120",
+"phrase": "There will be a software upgrade tomorrow, ___ please back up any important files you have stored on the server.",
+"options": [
+"rather",
+"while",
+"so",
+"because"
+],
+"correct": "so",
+"explication": "« so » = donc."
+},
+{
+"id": "ets10-121",
+"phrase": "Ambassador Chaturvedi wrote that his parents taught him to do each job well, ___ it was.",
+"options": [
+"whoever",
+"anyone",
+"everything",
+"whatever"
+],
+"correct": "whatever",
+"explication": "« whatever it was » = quel qu'il soit."
+},
+{
+"id": "ets10-122",
+"phrase": "Yields from your garden will ___ rise as you add Natrium Compost to the soil.",
+"options": [
+"steady",
+"steadying",
+"steadily",
+"steadier"
+],
+"correct": "steadily",
+"explication": "Adverbe devant le verbe : steadily rise."
+},
+{
+"id": "ets10-123",
+"phrase": "The Tokyo division handles product ___ and customer service for the company.",
+"options": [
+"distribute",
+"distributor",
+"distribution",
+"distributed"
+],
+"correct": "distribution",
+"explication": "Nom : product distribution."
+},
+{
+"id": "ets10-124",
+"phrase": "Our newest executive assistant will be responsible for ___ between the marketing and accounting departments.",
+"options": [
+"coordination",
+"attention",
+"appreciation",
+"consideration"
+],
+"correct": "coordination",
+"explication": "« coordination between » = coordination entre."
+},
+{
+"id": "ets10-125",
+"phrase": "Hemlin Corporation is looking for a sales representative ___ primary role will be expanding business in the northwest region.",
+"options": [
+"that",
+"whose",
+"who",
+"which"
+],
+"correct": "whose",
+"explication": "Pronom relatif possessif : whose."
+},
+{
+"id": "ets10-126",
+"phrase": "To eliminate ___ inventory of winter outerwear, Ashley Fashions has cut prices on all coats, hats, and scarves.",
+"options": [
+"chilly",
+"adequate",
+"excess",
+"revised"
+],
+"correct": "excess",
+"explication": "« excess inventory » = surplus de stock."
+},
+{
+"id": "ets10-127",
+"phrase": "Search the Labesse Financial Web site for the most current and detailed ___ of investment options.",
+"options": [
+"explain",
+"explanation",
+"to explain",
+"explainable"
+],
+"correct": "explanation",
+"explication": "Nom après « detailed » : explanation."
+},
+{
+"id": "ets10-128",
+"phrase": "The last paragraph ___ to have been added to the contract as an afterthought.",
+"options": [
+"arranged",
+"permitted",
+"transferred",
+"appeared"
+],
+"correct": "appeared",
+"explication": "« appear to have been » = sembler avoir été."
+},
+{
+"id": "ets10-129",
+"phrase": "Unless the shipment of tiles arrives early, work on the lobby floor ___ after the holiday.",
+"options": [
+"has commenced",
+"commencing",
+"will commence",
+"commenced"
+],
+"correct": "will commence",
+"explication": "Futur après « unless » au présent."
+},
+{
+"id": "ets10-130",
+"phrase": "Neeson Pro garments are made of a synthetic blend that is ___ to staining.",
+"options": [
+"exposed",
+"automatic",
+"limited",
+"vulnerable"
+],
+"correct": "vulnerable",
+"explication": "« vulnerable to » = sensible à (ici : peu résistant)."
 }
 ]
