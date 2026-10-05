@@ -115,7 +115,7 @@ function questionTrou(mot) {
     options: melanger([...mauvaises, c.reponse]),
     correct: c.reponse,
     traduction: `${c.reponse} = ${mot.francais}`,
-    complete: c.phrase.replace("___", c.reponse),
+    complete: c.phrase.replace("___", c.phrase.startsWith("___") ? c.reponse[0].toUpperCase() + c.reponse.slice(1) : c.reponse),
     fr: c.fr,
     favori: mot.favori,
   };
