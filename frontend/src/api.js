@@ -63,8 +63,14 @@ const CATEGORIE_DE = new Map(VOCAB.map(m => [m.id, m.categorie]));
 const TROUS = new Map();
 CLOZE.forEach(c => TROUS.set(c.id, [...(TROUS.get(c.id) || []), c]));
 
+// 3 distracteurs aux libellés tous différents (certains mots partagent la même traduction)
+function distracteurs(candidats, champ) {
+  const vus = new Set();
+  return melanger(candidats).filter(m => !vus.has(m[champ]) && vus.add(m[champ])).slice(0, 3);
+}
+
 function questionTraduction(mot, tous) {
-  const mauvaises = melanger(tous.filter(m => m.id !== mot.id)).slice(0, 3);
+  const mauvaises = distracteurs(tous.filter(m => m.id !== mot.id && m.francais !== mot.francais), "francais");
   return {
     mot_id: mot.id,
     type: "traduction",
@@ -78,7 +84,7 @@ function questionTraduction(mot, tous) {
 
 // Sens inverse : on affiche le français, on cherche l'anglais
 function questionInverse(mot, tous) {
-  const mauvaises = melanger(tous.filter(m => m.id !== mot.id && m.anglais !== mot.anglais)).slice(0, 3);
+  const mauvaises = distracteurs(tous.filter(m => m.id !== mot.id && m.anglais !== mot.anglais && m.francais !== mot.francais), "anglais");
   return {
     mot_id: mot.id,
     type: "inverse",

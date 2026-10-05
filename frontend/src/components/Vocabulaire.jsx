@@ -12,11 +12,11 @@ export default function Vocabulaire() {
   const [erreur, setErreur] = useState("");
   const [chargement, setChargement] = useState(false);
 
-  const categories = [
-    "général", "faux amis", "emploi", "finance", "communication", "travel",
-    "RH", "marketing", "informatique", "environnement", "industrie",
-    "divertissement", "objets", "métiers", "lieux", "vêtements", "transport", "verbes"
-  ];
+  const [categories, setCategories] = useState(["général"]);
+
+  useEffect(() => {
+    api.getCategories().then(c => setCategories([...new Set(["général", ...c])]));
+  }, [mots.length]);
 
   useEffect(() => {
     charger();

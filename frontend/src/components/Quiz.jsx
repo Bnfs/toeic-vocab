@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { api } from "../api";
 
 export default function Quiz() {
@@ -17,11 +17,8 @@ export default function Quiz() {
   // Le choix de la question courante est dérivé des réponses déjà données
   const choix = reponses[index]?.choix ?? null;
 
-  const categories = [
-    "", "faux amis", "emploi", "finance", "communication", "voyage",
-    "marketing", "informatique", "environnement", "industrie",
-    "divertissement", "objets", "métiers", "lieux", "vêtements", "transport", "verbes", "général"
-  ];
+  const [categories, setCategories] = useState([""]);
+  useEffect(() => { api.getCategories().then(c => setCategories(["", ...c])); }, []);
 
   const demarrer = async () => {
     setChargement(true);
