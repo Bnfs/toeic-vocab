@@ -718,5 +718,725 @@
 ],
 "correct": "Supplementary",
 "explication": "« supplementary » = complémentaire."
+},
+{
+"id": "ets4-101",
+"phrase": "The regional manager will arrive tomorrow, so please ensure that all ___ documents are ready.",
+"options": [
+"she",
+"her",
+"hers",
+"herself"
+],
+"correct": "her",
+"explication": "Adjectif possessif devant un nom : her."
+},
+{
+"id": "ets4-102",
+"phrase": "The historic Waldridge Building was constructed nearly 200 years ___.",
+"options": [
+"away",
+"enough",
+"ago",
+"still"
+],
+"correct": "ago",
+"explication": "« 200 years ago » = il y a 200 ans."
+},
+{
+"id": "ets4-103",
+"phrase": "Consumers ___ enthusiastically to the new colors developed by Sanwell Paint.",
+"options": [
+"responding",
+"response",
+"responsively",
+"responded"
+],
+"correct": "responded",
+"explication": "Verbe conjugué au passé."
+},
+{
+"id": "ets4-104",
+"phrase": "The ___ files contain your employment contract and information about our company.",
+"options": [
+"directed",
+"attached",
+"interested",
+"connected"
+],
+"correct": "attached",
+"explication": "« attached files » = fichiers joints."
+},
+{
+"id": "ets4-105",
+"phrase": "Please submit each reimbursement request ___ according to its category.",
+"options": [
+"separately",
+"separateness",
+"separates",
+"separate"
+],
+"correct": "separately",
+"explication": "Adverbe après le complément du verbe."
+},
+{
+"id": "ets4-106",
+"phrase": "Customers can wait in the reception area ___ our mechanics complete the car repairs.",
+"options": [
+"whether",
+"except",
+"while",
+"during"
+],
+"correct": "while",
+"explication": "« while » + sujet + verbe = pendant que."
+},
+{
+"id": "ets4-107",
+"phrase": "No one without a pass will be granted ___ to the conference.",
+"options": [
+"admission",
+"is admitting",
+"admitted",
+"to admit"
+],
+"correct": "admission",
+"explication": "Nom après « be granted »."
+},
+{
+"id": "ets4-108",
+"phrase": "To receive an electronic reminder when payment is due, set up an online account ___ Albright Bank.",
+"options": [
+"of",
+"about",
+"over",
+"with"
+],
+"correct": "with",
+"explication": "« an account with a bank » : un compte auprès d'une banque."
+},
+{
+"id": "ets4-109",
+"phrase": "The registration fee is ___ refundable up to two weeks prior to the conference date.",
+"options": [
+"fullest",
+"fuller",
+"fully",
+"full"
+],
+"correct": "fully",
+"explication": "Adverbe devant l'adjectif « refundable »."
+},
+{
+"id": "ets4-110",
+"phrase": "All identifying information has been ___ from this letter of complaint so that it can be used for training purposes.",
+"options": [
+"produced",
+"extended",
+"removed",
+"resolved"
+],
+"correct": "removed",
+"explication": "« removed from » = retiré de."
+},
+{
+"id": "ets4-111",
+"phrase": "___ this time next year, Larkview Technology will have acquired two new subsidiaries.",
+"options": [
+"To",
+"By",
+"Quite",
+"Begin"
+],
+"correct": "By",
+"explication": "« By this time next year » + futur antérieur."
+},
+{
+"id": "ets4-112",
+"phrase": "Table reservations for ___ greater than ten must be made at least one day in advance.",
+"options": [
+"plates",
+"meals",
+"sizes",
+"parties"
+],
+"correct": "parties",
+"explication": "« a party of ten » = un groupe de dix personnes."
+},
+{
+"id": "ets4-113",
+"phrase": "Because of ___ weather conditions, tonight's concert in Harbin Park has been canceled.",
+"options": [
+"worsening",
+"worsens",
+"worsen",
+"worst"
+],
+"correct": "worsening",
+"explication": "Participe présent employé comme adjectif."
+},
+{
+"id": "ets4-114",
+"phrase": "Ms. Al-Omani will rely ___ team leaders to develop employee incentive programs.",
+"options": [
+"onto",
+"into",
+"within",
+"upon"
+],
+"correct": "upon",
+"explication": "« rely upon » = compter sur."
+},
+{
+"id": "ets4-115",
+"phrase": "Survey ___ analyze the layout of a land area above and below ground level.",
+"options": [
+"technicians",
+"technically",
+"technical",
+"technicality"
+],
+"correct": "technicians",
+"explication": "Nom pluriel sujet : survey technicians."
+},
+{
+"id": "ets4-116",
+"phrase": "___ assemble your Gessen product, first read all instructions and gather all required tools.",
+"options": [
+"For the purpose of",
+"To be sure",
+"In order to",
+"For example"
+],
+"correct": "In order to",
+"explication": "« In order to + verbe » = afin de."
+},
+{
+"id": "ets4-117",
+"phrase": "Online shoppers who experience long waits for their orders tend ___ the business low ratings.",
+"options": [
+"have given",
+"gave",
+"to give",
+"giving"
+],
+"correct": "to give",
+"explication": "« tend to + verbe »."
+},
+{
+"id": "ets4-118",
+"phrase": "___ of the new Delran train station will begin in late September.",
+"options": [
+"Association",
+"Construction",
+"Violation",
+"Comprehension"
+],
+"correct": "Construction",
+"explication": "« construction of a station » = construction d'une gare."
+},
+{
+"id": "ets4-119",
+"phrase": "The computing power of the new laptop is ___ to any desktop computer in the same price range.",
+"options": [
+"compare",
+"comparing",
+"comparison",
+"comparable"
+],
+"correct": "comparable",
+"explication": "« comparable to » = comparable à."
+},
+{
+"id": "ets4-120",
+"phrase": "Dr. Hashimoto recently added another doctor to her practice, ___ allowing more patients to be seen.",
+"options": [
+"that",
+"thus",
+"which",
+"so that"
+],
+"correct": "thus",
+"explication": "« thus » + participe présent = ainsi."
+},
+{
+"id": "ets4-121",
+"phrase": "Graden Hotel ___ its superior reputation thanks to the leadership of its president.",
+"options": [
+"practiced",
+"treated",
+"heard",
+"earned"
+],
+"correct": "earned",
+"explication": "« earn a reputation » = se forger une réputation."
+},
+{
+"id": "ets4-122",
+"phrase": "Aki Katsuro's latest novel is his most exciting ___ and is sure to make the best-seller list.",
+"options": [
+"just",
+"later",
+"yet",
+"very"
+],
+"correct": "yet",
+"explication": "« his most exciting yet » = son plus passionnant à ce jour."
+},
+{
+"id": "ets4-123",
+"phrase": "Thanks ___ to pastry chef Ana Villagra, the restaurant has become a favorite with local patrons.",
+"options": [
+"largely",
+"larger",
+"large",
+"largest"
+],
+"correct": "largely",
+"explication": "« thanks largely to » = en grande partie grâce à."
+},
+{
+"id": "ets4-124",
+"phrase": "At Crintack Manufacturing, we acknowledge our ___ to provide a safe workplace for our employees.",
+"options": [
+"assumption",
+"valuation",
+"perception",
+"obligation"
+],
+"correct": "obligation",
+"explication": "« obligation to + verbe » = obligation de."
+},
+{
+"id": "ets4-125",
+"phrase": "___ Mr. Donovan had expected the charity event to be a success, the response from the community still overwhelmed him.",
+"options": [
+"Whenever",
+"Although",
+"Even so",
+"In spite of"
+],
+"correct": "Although",
+"explication": "« Although » + sujet + verbe = bien que."
+},
+{
+"id": "ets4-126",
+"phrase": "This free mobile app provides ___ calendar updates, so salespeople will never miss an appointment.",
+"options": [
+"casual",
+"equal",
+"continual",
+"eventual"
+],
+"correct": "continual",
+"explication": "« continual » = continu, répété."
+},
+{
+"id": "ets4-127",
+"phrase": "Most senior managers approved the proposal, although ___ expressed concerns about the cost.",
+"options": [
+"one",
+"one another",
+"each other",
+"other"
+],
+"correct": "one",
+"explication": "« one » = l'un d'entre eux."
+},
+{
+"id": "ets4-128",
+"phrase": "Greenville Library has hired an office assistant not only to perform general duties ___ to support an ongoing special project.",
+"options": [
+"but also",
+"only if",
+"other than",
+"as for"
+],
+"correct": "but also",
+"explication": "Structure « not only ... but also »."
+},
+{
+"id": "ets4-129",
+"phrase": "The lease with The Pawlicki Group ___ if modifications to the existing offices are made.",
+"options": [
+"had continued",
+"will be continued",
+"was continuing",
+"has been continuing"
+],
+"correct": "will be continued",
+"explication": "Futur passif après « if » au présent."
+},
+{
+"id": "ets4-130",
+"phrase": "Wrazen Associates ___ a summary with a list of recommendations as a routine part of any audit.",
+"options": [
+"realizes",
+"induces",
+"causes",
+"issues"
+],
+"correct": "issues",
+"explication": "« issue a summary » = publier un résumé."
+},
+{
+"id": "ets5-101",
+"phrase": "Ms. Tillinghast has received several awards ___ her innovative ideas.",
+"options": [
+"away",
+"for",
+"often",
+"across"
+],
+"correct": "for",
+"explication": "« award for » = récompense pour."
+},
+{
+"id": "ets5-102",
+"phrase": "Using proper techniques to ___ items drastically reduces the risk of back injury.",
+"options": [
+"select",
+"lift",
+"damage",
+"attract"
+],
+"correct": "lift",
+"explication": "« lift items » = soulever des objets (risque de dos)."
+},
+{
+"id": "ets5-103",
+"phrase": "Restaurants in Rondale must follow all ___ health guidelines.",
+"options": [
+"local",
+"locals",
+"locally",
+"localize"
+],
+"correct": "local",
+"explication": "Adjectif devant un nom : local."
+},
+{
+"id": "ets5-104",
+"phrase": "Sinee's Catering is always ___ to deliver outstanding food to your special events.",
+"options": [
+"ready",
+"skillful",
+"complete",
+"delicious"
+],
+"correct": "ready",
+"explication": "« be ready to + verbe » = être prêt à."
+},
+{
+"id": "ets5-105",
+"phrase": "A ___ way to support economic growth in Ludlow City is to shop at area businesses.",
+"options": [
+"practice",
+"practicing",
+"practical",
+"practically"
+],
+"correct": "practical",
+"explication": "Adjectif devant un nom : practical."
+},
+{
+"id": "ets5-106",
+"phrase": "A record number of appliance ___ came into the Port of Reece last month.",
+"options": [
+"shipments",
+"shipping",
+"shipment",
+"shipped"
+],
+"correct": "shipments",
+"explication": "Nom pluriel composé : appliance shipments."
+},
+{
+"id": "ets5-107",
+"phrase": "At Sloat Publishing, interns are assigned to a ___ of positions with increasing responsibility.",
+"options": [
+"frequency",
+"length",
+"shortage",
+"series"
+],
+"correct": "series",
+"explication": "« a series of » = une série de."
+},
+{
+"id": "ets5-108",
+"phrase": "The conference fee ___ admittance to more than twenty workshops and seminars.",
+"options": [
+"include",
+"includes",
+"is included",
+"including"
+],
+"correct": "includes",
+"explication": "Verbe au présent, sujet singulier."
+},
+{
+"id": "ets5-109",
+"phrase": "Cabinetmaker Finley Orcheta uses the finest woodworking machines imported ___ Denmark.",
+"options": [
+"from",
+"against",
+"about",
+"before"
+],
+"correct": "from",
+"explication": "« imported from » = importé de."
+},
+{
+"id": "ets5-110",
+"phrase": "Senior hotel manager salaries differ ___ by company, location, and experience.",
+"options": [
+"great",
+"greater",
+"greatly",
+"greatest"
+],
+"correct": "greatly",
+"explication": "Adverbe qui complète le verbe « differ »."
+},
+{
+"id": "ets5-111",
+"phrase": "Pantep, Inc., works ___ with customers to establish long-term partnerships.",
+"options": [
+"nearly",
+"closely",
+"recently",
+"newly"
+],
+"correct": "closely",
+"explication": "« work closely with » = travailler en étroite collaboration."
+},
+{
+"id": "ets5-112",
+"phrase": "Adalet Farm's unique method of irrigating vegetables has proved to be ___ effective.",
+"options": [
+"far",
+"correctly",
+"highly",
+"much"
+],
+"correct": "highly",
+"explication": "« highly effective » = très efficace."
+},
+{
+"id": "ets5-113",
+"phrase": "Customers who submit payments ___ March 10 will be charged a late fee.",
+"options": [
+"after",
+"behind",
+"quite",
+"almost"
+],
+"correct": "after",
+"explication": "« after March 10 » = après le 10 mars."
+},
+{
+"id": "ets5-114",
+"phrase": "The poll shows how often company executives make financial decisions that are ___ by employee opinions.",
+"options": [
+"acted",
+"trained",
+"reminded",
+"influenced"
+],
+"correct": "influenced",
+"explication": "« be influenced by » = être influencé par."
+},
+{
+"id": "ets5-115",
+"phrase": "Prices at Taylor City Books are ___ lower than at other online bookstores.",
+"options": [
+"more significant",
+"significant",
+"significance",
+"significantly"
+],
+"correct": "significantly",
+"explication": "Adverbe devant un comparatif : significantly lower."
+},
+{
+"id": "ets5-116",
+"phrase": "The ___ of this workshop is to equip business leaders with the tools to make prudent financial decisions.",
+"options": [
+"guide",
+"experience",
+"aim",
+"solution"
+],
+"correct": "aim",
+"explication": "« the aim of » = le but de."
+},
+{
+"id": "ets5-117",
+"phrase": "A marketing campaign was designed to target ___ of the three demographics we identified.",
+"options": [
+"which",
+"other",
+"either",
+"each"
+],
+"correct": "each",
+"explication": "« each of the three » = chacun des trois."
+},
+{
+"id": "ets5-118",
+"phrase": "___ food critics recommend ZJ's Bistro as the best restaurant in the area, most local residents prefer Dree's Café.",
+"options": [
+"Whenever",
+"Although",
+"So that",
+"Among"
+],
+"correct": "Although",
+"explication": "« Although » = bien que (opposition)."
+},
+{
+"id": "ets5-119",
+"phrase": "Green Grocer customers should request assistance from staff instead of removing products from the top shelves ___.",
+"options": [
+"themselves",
+"their own",
+"them",
+"their"
+],
+"correct": "themselves",
+"explication": "Pronom réfléchi en fin de phrase."
+},
+{
+"id": "ets5-120",
+"phrase": "Skovent Products' sales revenue showed a ___ improvement at the end of last quarter.",
+"options": [
+"respective",
+"crowded",
+"marked",
+"diverse"
+],
+"correct": "marked",
+"explication": "« a marked improvement » = une nette amélioration."
+},
+{
+"id": "ets5-121",
+"phrase": "Before work can begin at the construction site, the ___ permit applications must be processed.",
+"options": [
+"relevant",
+"relevantly",
+"relevance",
+"relevancies"
+],
+"correct": "relevant",
+"explication": "Adjectif devant un nom : relevant."
+},
+{
+"id": "ets5-122",
+"phrase": "During negotiations, Mr. DuPont insisted that price ___ be implemented without delay.",
+"options": [
+"expectations",
+"institutions",
+"sensations",
+"reductions"
+],
+"correct": "reductions",
+"explication": "« price reductions » = baisses de prix."
+},
+{
+"id": "ets5-123",
+"phrase": "After the team meeting next week, Ms. Li ___ whether the project deadline needs to be changed.",
+"options": [
+"to decide",
+"deciding",
+"will decide",
+"has decided"
+],
+"correct": "will decide",
+"explication": "Futur après « next week »."
+},
+{
+"id": "ets5-124",
+"phrase": "___ the proposal for the Southside Library garden was incomplete and had an unclear timetable, it was rejected.",
+"options": [
+"Until",
+"Because",
+"While",
+"Unless"
+],
+"correct": "Because",
+"explication": "« Because » = parce que (cause)."
+},
+{
+"id": "ets5-125",
+"phrase": "As the rental agreement with the Smith Group is set ___ soon, the available office space can be advertised.",
+"options": [
+"expired",
+"to expire",
+"will have expired",
+"expiring"
+],
+"correct": "to expire",
+"explication": "« be set to + verbe » = devoir se produire."
+},
+{
+"id": "ets5-126",
+"phrase": "Any furniture purchased at Marty's Superstore throughout February will be delivered ___ five business days.",
+"options": [
+"since",
+"between",
+"within",
+"above"
+],
+"correct": "within",
+"explication": "« within five business days » = sous cinq jours ouvrés."
+},
+{
+"id": "ets5-127",
+"phrase": "The manager presented data on employee performance with ___ on measurable achievements.",
+"options": [
+"emphatic",
+"emphasis",
+"emphasize",
+"emphasized"
+],
+"correct": "emphasis",
+"explication": "Nom après la préposition « with »."
+},
+{
+"id": "ets5-128",
+"phrase": "Even employees who ___ were not familiar with the new software program have found it easy to use.",
+"options": [
+"initially",
+"annually",
+"successfully",
+"inadvertently"
+],
+"correct": "initially",
+"explication": "« initially » = au début."
+},
+{
+"id": "ets5-129",
+"phrase": "Supervisors will not ___ approve time off for employees during peak operational months.",
+"options": [
+"generalization",
+"generalize",
+"generally",
+"general"
+],
+"correct": "generally",
+"explication": "Adverbe devant un verbe : generally approve."
+},
+{
+"id": "ets5-130",
+"phrase": "Toronto is one of three cities being ___ as the host for the next convention of the Global Society of Accountants.",
+"options": [
+"found",
+"categorized",
+"known",
+"considered"
+],
+"correct": "considered",
+"explication": "« be considered as » = être envisagé comme."
 }
 ]
