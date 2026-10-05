@@ -22048,5 +22048,203 @@
 "tag": "n",
 "phrase": "You can use ___ at the institute toward your credit hours.",
 "reponse": "coursework"
+},
+{
+"id": 4509,
+"tag": "n",
+"phrase": "Kayla Sanchez is a ___.",
+"reponse": "sound engineer"
+},
+{
+"id": 4510,
+"tag": "n",
+"phrase": "When buying a home, a ___ is your best source for advice.",
+"reponse": "licensed realtor"
+},
+{
+"id": 4511,
+"tag": "n",
+"phrase": "Neither smoking nor ___ is allowed inside the museum.",
+"reponse": "flash photography"
+},
+{
+"id": 4512,
+"tag": "n",
+"phrase": "The ___ will be away from the factory all week.",
+"reponse": "head of operations"
+},
+{
+"id": 4513,
+"tag": "n",
+"phrase": "Guests can find a directory and a ___ in their rooms.",
+"reponse": "binder"
+},
+{
+"id": 4514,
+"tag": "p",
+"phrase": "The binder has information about ___.",
+"reponse": "local attractions"
+},
+{
+"id": 4515,
+"tag": "p",
+"phrase": "The supervisor had her write down her ___.",
+"reponse": "job responsibilities"
+},
+{
+"id": 4516,
+"tag": "n",
+"phrase": "As part of her ___, she wrote down her duties.",
+"reponse": "annual evaluation"
+},
+{
+"id": 4517,
+"tag": "n",
+"phrase": "Stuart isn't able to use his ___ because it was stolen.",
+"reponse": "corporate credit card"
+},
+{
+"id": 4518,
+"tag": "p",
+"phrase": "The captain requests that all passengers review ___.",
+"reponse": "emergency procedures"
+},
+{
+"id": 4519,
+"tag": "n",
+"phrase": "The new campaign is for the county's ___.",
+"reponse": "recycling program"
+},
+{
+"id": 4520,
+"tag": "n",
+"phrase": "We will not be able to honor the ___ because it had expired.",
+"reponse": "rebate"
+},
+{
+"id": 4521,
+"tag": "n",
+"phrase": "We received your ___ card this week.",
+"reponse": "mail-in rebate"
+},
+{
+"id": 4522,
+"tag": "v",
+"phrase": "We will not be able to ___ because the offer had expired.",
+"reponse": "honor it"
+},
+{
+"id": 4523,
+"tag": "n",
+"phrase": "In place of the rebate, we would like to offer you a ___.",
+"reponse": "book of coupons"
+},
+{
+"id": 4524,
+"tag": "n",
+"phrase": "Our new ___ has improved sound quality.",
+"reponse": "speaker phone"
+},
+{
+"id": 4525,
+"tag": "p",
+"phrase": "Thank you for purchasing the XY40 ___.",
+"reponse": "USB digital speakers"
+},
+{
+"id": 4526,
+"tag": "p",
+"phrase": "Registration for the ___ begins in April.",
+"reponse": "computer training workshops"
+},
+{
+"id": 4527,
+"tag": "n",
+"phrase": "Staff members plan to gather for a small ___ in Martha's honor.",
+"reponse": "staff party"
+},
+{
+"id": 4528,
+"tag": "n",
+"phrase": "You don't have to accept an ___ because it is almost always negotiable.",
+"reponse": "initial salary offer"
+},
+{
+"id": 4529,
+"tag": "a",
+"phrase": "The salary is almost always ___.",
+"reponse": "negotiable"
+},
+{
+"id": 4530,
+"tag": "p",
+"phrase": "We are still not able to meet our ___.",
+"reponse": "weekly quotas"
+},
+{
+"id": 4531,
+"tag": "n",
+"phrase": "Please notify the ___ as soon as possible.",
+"reponse": "personnel director"
+},
+{
+"id": 4532,
+"tag": "n",
+"phrase": "We have a problem with our ___.",
+"reponse": "mailing list"
+},
+{
+"id": 4533,
+"tag": "n",
+"phrase": "The ___ is buried so far down on the website.",
+"reponse": "sign-up form"
+},
+{
+"id": 4534,
+"tag": "p",
+"phrase": "I am asking that ___ also consider pushing furniture.",
+"reponse": "movers"
+},
+{
+"id": 4535,
+"tag": "p",
+"phrase": "Please use ___ to move stacks of boxes.",
+"reponse": "hand carts"
+},
+{
+"id": 4536,
+"tag": "n",
+"phrase": "Lifting furniture into the ___ is often the quickest option.",
+"reponse": "moving van"
+},
+{
+"id": 4537,
+"tag": "n",
+"phrase": "A piece of ___ can be placed under heavy furniture.",
+"reponse": "cardboard"
+},
+{
+"id": 4538,
+"tag": "p",
+"phrase": "Remember not to damage the ___.",
+"reponse": "client's valuables"
+},
+{
+"id": 4539,
+"tag": "p",
+"phrase": "We do not currently have any ___ for which you would be qualified.",
+"reponse": "vacant positions"
+},
+{
+"id": 4540,
+"tag": "v",
+"phrase": "We will ___ your information and contact you.",
+"reponse": "keep your information on file"
+},
+{
+"id": 4541,
+"tag": "n",
+"phrase": "We will contact you when a ___ becomes available.",
+"reponse": "suitable position"
 }
 ]
