@@ -25954,5 +25954,2798 @@
 "phrase": "We will contact you when a ___ becomes available.",
 "reponse": "suitable position",
 "fr": "Nous vous contacterons lorsqu'un poste adapté sera disponible."
+},
+{
+"id": 5000,
+"tag": "n",
+"phrase": "Each ___ received a name badge at the entrance.",
+"reponse": "attendee",
+"fr": "Chaque participant a reçu un badge nominatif à l'entrée."
+},
+{
+"id": 5001,
+"tag": "a",
+"phrase": "Sorry, the hotel is ___ for the whole month of August.",
+"reponse": "booked up",
+"fr": "Désolé, l'hôtel est complet pour tout le mois d'août."
+},
+{
+"id": 5002,
+"tag": "n",
+"phrase": "You need a passport to cross the ___ between the two countries.",
+"reponse": "border",
+"fr": "Il faut un passeport pour franchir la frontière entre les deux pays."
+},
+{
+"id": 5003,
+"tag": "n",
+"phrase": "The ___ is at noon, so please leave your room before then.",
+"reponse": "check-out time",
+"fr": "L'heure limite de libération de la chambre est midi ; veuillez donc la quitter avant."
+},
+{
+"id": 5004,
+"tag": "p",
+"phrase": "Thousands of ___ attended the annual trade event.",
+"reponse": "conventioneers",
+"fr": "Des milliers de congressistes ont assisté à l'événement professionnel annuel."
+},
+{
+"id": 5005,
+"tag": "n",
+"phrase": "The hotel offers live ___ in the lounge every evening.",
+"reponse": "entertainment",
+"fr": "L'hôtel propose chaque soir des animations en direct dans le salon."
+},
+{
+"id": 5006,
+"tag": "n",
+"phrase": "I bought a ___ before our trip to Spain.",
+"reponse": "guidebook",
+"fr": "J'ai acheté un guide avant notre voyage en Espagne."
+},
+{
+"id": 5007,
+"tag": "n",
+"phrase": "The hotel has a heated ___ on the first floor.",
+"reponse": "indoor pool",
+"fr": "L'hôtel dispose d'une piscine couverte et chauffée au premier étage."
+},
+{
+"id": 5008,
+"tag": "n",
+"phrase": "The resort is known for its ___ suites and fine dining.",
+"reponse": "luxury",
+"fr": "La station est connue pour ses suites de luxe et sa gastronomie."
+},
+{
+"id": 5009,
+"tag": "a",
+"phrase": "We booked an ___ flight and arrived at dawn.",
+"reponse": "overnight",
+"fr": "Nous avons réservé un vol de nuit et sommes arrivés à l'aube."
+},
+{
+"id": 5010,
+"tag": "a",
+"phrase": "The train was ___ during the holidays, so we stood the whole way.",
+"reponse": "packed",
+"fr": "Le train était bondé pendant les vacances ; nous sommes donc restés debout tout le trajet."
+},
+{
+"id": 5011,
+"tag": "n",
+"phrase": "The ___ carried our luggage to the room.",
+"reponse": "porter",
+"fr": "Le portier a porté nos bagages jusqu'à la chambre."
+},
+{
+"id": 5012,
+"tag": "n",
+"phrase": "I ordered breakfast through ___.",
+"reponse": "room service",
+"fr": "J'ai commandé le petit-déjeuner au service d'étage."
+},
+{
+"id": 5013,
+"tag": "n",
+"phrase": "The concert will take place in the main ___.",
+"reponse": "show hall",
+"fr": "Le concert aura lieu dans la grande salle de spectacle."
+},
+{
+"id": 5014,
+"tag": "n",
+"phrase": "We spent the afternoon on ___ in the old town.",
+"reponse": "sightseeing",
+"fr": "Nous avons passé l'après-midi à faire du tourisme dans la vieille ville."
+},
+{
+"id": 5015,
+"tag": "n",
+"phrase": "I'd like to book a ___ for two nights, please.",
+"reponse": "single",
+"fr": "Je voudrais réserver une chambre simple pour deux nuits, s'il vous plaît."
+},
+{
+"id": 5016,
+"tag": "a",
+"phrase": "Is this a ___ floor, or can guests smoke?",
+"reponse": "smoke free",
+"fr": "Est-ce un étage non-fumeur, ou les clients peuvent-ils fumer ?"
+},
+{
+"id": 5017,
+"tag": "n",
+"phrase": "The bathroom has free shampoo and ___.",
+"reponse": "soap",
+"fr": "La salle de bains propose shampooing et savon gratuits."
+},
+{
+"id": 5018,
+"tag": "n",
+"phrase": "Your ___ covers meals and transport during the trip.",
+"reponse": "travel allowance",
+"fr": "Vos frais de déplacement couvrent les repas et les transports pendant le voyage."
+},
+{
+"id": 5019,
+"tag": "n",
+"phrase": "The hotel offers ___ for all its guests.",
+"reponse": "valet parking",
+"fr": "L'hôtel propose un service de voiturier à tous ses clients."
+},
+{
+"id": 5020,
+"tag": "p",
+"phrase": "Please leave your ___ in the hotel safe.",
+"reponse": "valuables",
+"fr": "Veuillez laisser vos objets de valeur dans le coffre-fort de l'hôtel."
+},
+{
+"id": 5021,
+"tag": "v",
+"phrase": "Please ___ the potatoes for forty minutes.",
+"reponse": "bake",
+"fr": "Veuillez faire cuire les pommes de terre au four pendant quarante minutes."
+},
+{
+"id": 5022,
+"tag": "n",
+"phrase": "The restaurant serves its dishes on fine ___.",
+"reponse": "china",
+"fr": "Le restaurant sert ses plats sur de la belle porcelaine."
+},
+{
+"id": 5023,
+"tag": "a",
+"phrase": "Add the ___ onions to the pan.",
+"reponse": "chopped",
+"fr": "Ajoutez les oignons hachés dans la poêle."
+},
+{
+"id": 5024,
+"tag": "n",
+"phrase": "For ___, I'll have the chocolate cake.",
+"reponse": "dessert",
+"fr": "En dessert, je prendrai le gâteau au chocolat."
+},
+{
+"id": 5025,
+"tag": "a",
+"phrase": "Add the ___ carrots to the soup.",
+"reponse": "diced",
+"fr": "Ajoutez les carottes coupées en dés à la soupe."
+},
+{
+"id": 5026,
+"tag": "n",
+"phrase": "The chef added a little lemon for extra ___.",
+"reponse": "flavor",
+"fr": "Le chef a ajouté un peu de citron pour plus d'arôme."
+},
+{
+"id": 5027,
+"tag": "n",
+"phrase": "Please put the knife on the right and the ___ on the left.",
+"reponse": "fork",
+"fr": "Veuillez mettre le couteau à droite et la fourchette à gauche."
+},
+{
+"id": 5028,
+"tag": "n",
+"phrase": "The ___ was so generous that I couldn't finish it.",
+"reponse": "helping",
+"fr": "La portion était si généreuse que je n'ai pas pu la finir."
+},
+{
+"id": 5029,
+"tag": "n",
+"phrase": "The waiter put a clean ___ next to my plate.",
+"reponse": "knife",
+"fr": "Le serveur a posé un couteau propre à côté de mon assiette."
+},
+{
+"id": 5030,
+"tag": "n",
+"phrase": "The ___ showed us to our table by the window.",
+"reponse": "maître d'",
+"fr": "Le maître d'hôtel nous a conduits à notre table près de la fenêtre."
+},
+{
+"id": 5031,
+"tag": "n",
+"phrase": "Lunch is the main ___ of the day in this country.",
+"reponse": "meal",
+"fr": "Le déjeuner est le repas principal de la journée dans ce pays."
+},
+{
+"id": 5032,
+"tag": "n",
+"phrase": "Preheat the ___ to 180 degrees.",
+"reponse": "oven",
+"fr": "Préchauffez le four à 180 degrés."
+},
+{
+"id": 5033,
+"tag": "n",
+"phrase": "Heat the oil in a large ___.",
+"reponse": "pan",
+"fr": "Faites chauffer l'huile dans une grande casserole."
+},
+{
+"id": 5034,
+"tag": "n",
+"phrase": "The waiter put a hot ___ in front of me.",
+"reponse": "plate",
+"fr": "Le serveur a posé une assiette chaude devant moi."
+},
+{
+"id": 5035,
+"tag": "n",
+"phrase": "I'll have a ___ of salad with my steak.",
+"reponse": "side order",
+"fr": "Je prendrai une garniture de salade avec mon steak."
+},
+{
+"id": 5036,
+"tag": "n",
+"phrase": "The hotel counts its ___ after every banquet.",
+"reponse": "silver",
+"fr": "L'hôtel compte son argenterie après chaque banquet."
+},
+{
+"id": 5037,
+"tag": "v",
+"phrase": "Please ___ the bread thinly.",
+"reponse": "slice",
+"fr": "Veuillez trancher le pain finement."
+},
+{
+"id": 5038,
+"tag": "n",
+"phrase": "For the ___ I'd like the mushroom soup.",
+"reponse": "starter",
+"fr": "En entrée, je voudrais la soupe de champignons."
+},
+{
+"id": 5039,
+"tag": "v",
+"phrase": "Would you like to ___ the sauce before serving it?",
+"reponse": "taste",
+"fr": "Voulez-vous goûter la sauce avant de la servir ?"
+},
+{
+"id": 5040,
+"tag": "a",
+"phrase": "The soup was ___; it needed more salt.",
+"reponse": "tasteless",
+"fr": "La soupe était insipide ; elle manquait de sel."
+},
+{
+"id": 5041,
+"tag": "n",
+"phrase": "The pizza has a cheese ___.",
+"reponse": "topping",
+"fr": "La pizza est garnie de fromage."
+},
+{
+"id": 5042,
+"tag": "n",
+"phrase": "A knife is a useful kitchen ___.",
+"reponse": "utensil",
+"fr": "Un couteau est un ustensile de cuisine utile."
+},
+{
+"id": 5043,
+"tag": "p",
+"phrase": "Temperatures will be in the ___ this afternoon.",
+"reponse": "lower seventies",
+"fr": "Les températures seront d'environ 21 °C cet après-midi."
+},
+{
+"id": 5044,
+"tag": "p",
+"phrase": "Tomorrow's high will be in the ___.",
+"reponse": "mid sixties",
+"fr": "Le maximum de demain sera d'environ 15 °C."
+},
+{
+"id": 5045,
+"tag": "r",
+"phrase": "Because it was sunny, we ate ___.",
+"reponse": "outdoors",
+"fr": "Comme il faisait beau, nous avons mangé dehors."
+},
+{
+"id": 5046,
+"tag": "n",
+"phrase": "The heavy rain caused an ___ of the river.",
+"reponse": "overflow",
+"fr": "Les fortes pluies ont provoqué une crue de la rivière."
+},
+{
+"id": 5047,
+"tag": "n",
+"phrase": "A ___ of light came through the window.",
+"reponse": "ray",
+"fr": "Un rayon de lumière est entré par la fenêtre."
+},
+{
+"id": 5048,
+"tag": "n",
+"phrase": "After a cold ___, the weather turned warm.",
+"reponse": "spell",
+"fr": "Après une période de froid, le temps s'est réchauffé."
+},
+{
+"id": 5049,
+"tag": "p",
+"phrase": "It will be in the ___ by the end of the week.",
+"reponse": "upper eighties",
+"fr": "Il fera environ 32 °C d'ici la fin de la semaine."
+},
+{
+"id": 5050,
+"tag": "a",
+"phrase": "Don't sit on the bench; it's still ___.",
+"reponse": "wet",
+"fr": "Ne vous asseyez pas sur le banc ; il est encore mouillé."
+},
+{
+"id": 5051,
+"tag": "n",
+"phrase": "Please check in at the ___ near the entrance.",
+"reponse": "airline ticket counter",
+"fr": "Veuillez vous enregistrer au comptoir de la compagnie près de l'entrée."
+},
+{
+"id": 5052,
+"tag": "n",
+"phrase": "Wait for your suitcase at the ___.",
+"reponse": "baggage claim",
+"fr": "Attendez votre valise au lieu de récupération des bagages."
+},
+{
+"id": 5053,
+"tag": "n",
+"phrase": "Our ___ is in the front of the ship.",
+"reponse": "cabin",
+"fr": "Notre cabine se trouve à l'avant du bateau."
+},
+{
+"id": 5054,
+"tag": "n",
+"phrase": "The ___ showed us how to use the life jacket.",
+"reponse": "cabin attendant",
+"fr": "Le membre d'équipage nous a montré comment utiliser le gilet de sauvetage."
+},
+{
+"id": 5055,
+"tag": "n",
+"phrase": "Your gate is at the far end of the ___.",
+"reponse": "concourse",
+"fr": "Votre porte est tout au bout du hall."
+},
+{
+"id": 5056,
+"tag": "n",
+"phrase": "Each ___ must go through security again.",
+"reponse": "connecting passenger",
+"fr": "Chaque passager en transit doit repasser par la sécurité."
+},
+{
+"id": 5057,
+"tag": "n",
+"phrase": "Only the pilots may enter the ___.",
+"reponse": "flight deck",
+"fr": "Seuls les pilotes peuvent entrer dans la cabine de pilotage."
+},
+{
+"id": 5058,
+"tag": "n",
+"phrase": "I'd like a seat at the ___ of the plane.",
+"reponse": "front",
+"fr": "J'aimerais une place à l'avant de l'avion."
+},
+{
+"id": 5059,
+"tag": "a",
+"phrase": "Sorry, the flight is ___; we have no seats left.",
+"reponse": "full",
+"fr": "Désolé, le vol est complet ; il ne reste plus de places."
+},
+{
+"id": 5060,
+"tag": "v",
+"phrase": "You can ___ the bus at the front door.",
+"reponse": "get in",
+"fr": "Vous pouvez monter dans le bus par la porte avant."
+},
+{
+"id": 5061,
+"tag": "n",
+"phrase": "Passengers must fill out a ___ before arrival.",
+"reponse": "landing card",
+"fr": "Les passagers doivent remplir une carte de débarquement avant l'arrivée."
+},
+{
+"id": 5062,
+"tag": "n",
+"phrase": "We waited for our flight in the airport ___.",
+"reponse": "lounge",
+"fr": "Nous avons attendu notre vol dans le salon de l'aéroport."
+},
+{
+"id": 5063,
+"tag": "n",
+"phrase": "Put your bag on the ___ above your seat.",
+"reponse": "luggage rack",
+"fr": "Posez votre sac sur le porte-bagages au-dessus de votre siège."
+},
+{
+"id": 5064,
+"tag": "v",
+"phrase": "Hurry up, or you will ___ the train!",
+"reponse": "miss",
+"fr": "Dépêchez-vous, ou vous allez rater le train !"
+},
+{
+"id": 5065,
+"tag": "a",
+"phrase": "It's a ___ flight from London to Sydney.",
+"reponse": "nonstop",
+"fr": "C'est un vol sans escale de Londres à Sydney."
+},
+{
+"id": 5066,
+"tag": "n",
+"phrase": "Please place small bags in the ___.",
+"reponse": "overhead compartment",
+"fr": "Veuillez ranger les petits bagages dans le compartiment au-dessus des sièges."
+},
+{
+"id": 5067,
+"tag": "n",
+"phrase": "We booked a ___ with a guide and all meals included.",
+"reponse": "package tour",
+"fr": "Nous avons réservé un voyage organisé avec guide et tous les repas compris."
+},
+{
+"id": 5068,
+"tag": "v",
+"phrase": "Passengers should ___ at least thirty minutes before departure.",
+"reponse": "proceed through gate",
+"fr": "Les passagers doivent se présenter à la porte d'embarquement au moins trente minutes avant le départ."
+},
+{
+"id": 5069,
+"tag": "p",
+"phrase": "The railway line is closed for ___.",
+"reponse": "repairs",
+"fr": "La ligne de chemin de fer est fermée pour réparations."
+},
+{
+"id": 5070,
+"tag": "n",
+"phrase": "The ___ from the airport to the hotel takes twenty minutes.",
+"reponse": "ride",
+"fr": "Le trajet de l'aéroport à l'hôtel dure vingt minutes."
+},
+{
+"id": 5071,
+"tag": "n",
+"phrase": "Every ___ must have a valid ticket.",
+"reponse": "rider",
+"fr": "Chaque passager doit avoir un billet valide."
+},
+{
+"id": 5072,
+"tag": "n",
+"phrase": "A ___ is cheaper than two single tickets.",
+"reponse": "round trip ticket",
+"fr": "Un aller-retour est moins cher que deux allers simples."
+},
+{
+"id": 5073,
+"tag": "n",
+"phrase": "Our seats are in the third ___.",
+"reponse": "row",
+"fr": "Nos places sont à la troisième rangée."
+},
+{
+"id": 5074,
+"tag": "n",
+"phrase": "We had a two-hour ___ in Frankfurt.",
+"reponse": "stopover",
+"fr": "Nous avons eu deux heures d'escale à Francfort."
+},
+{
+"id": 5075,
+"tag": "v",
+"phrase": "Please ___ your bags under the seat in front of you.",
+"reponse": "stow",
+"fr": "Veuillez ranger vos bagages sous le siège devant vous."
+},
+{
+"id": 5076,
+"tag": "n",
+"phrase": "The train leaves from ___ number five.",
+"reponse": "track",
+"fr": "Le train part de la voie numéro cinq."
+},
+{
+"id": 5077,
+"tag": "n",
+"phrase": "The ___ of the budget took three weeks.",
+"reponse": "allocation",
+"fr": "La répartition du budget a pris trois semaines."
+},
+{
+"id": 5078,
+"tag": "a",
+"phrase": "Please see the ___ document for more details.",
+"reponse": "attached",
+"fr": "Veuillez consulter le document joint pour plus de détails."
+},
+{
+"id": 5079,
+"tag": "a",
+"phrase": "The title is written in ___ letters.",
+"reponse": "bold",
+"fr": "Le titre est écrit en caractères gras."
+},
+{
+"id": 5080,
+"tag": "v",
+"phrase": "The team will ___ a survey next month.",
+"reponse": "carry out",
+"fr": "L'équipe réalisera une enquête le mois prochain."
+},
+{
+"id": 5081,
+"tag": "n",
+"phrase": "The printer needs a new ink ___.",
+"reponse": "cartridge",
+"fr": "L'imprimante a besoin d'une nouvelle cartouche d'encre."
+},
+{
+"id": 5082,
+"tag": "a",
+"phrase": "The ___ policy applies to all branches.",
+"reponse": "corporate",
+"fr": "La politique d'entreprise s'applique à toutes les agences."
+},
+{
+"id": 5083,
+"tag": "n",
+"phrase": "She works in ___ at a large bank.",
+"reponse": "data processing",
+"fr": "Elle travaille dans le traitement de données dans une grande banque."
+},
+{
+"id": 5084,
+"tag": "n",
+"phrase": "Please send the form to the sales ___.",
+"reponse": "department",
+"fr": "Veuillez envoyer le formulaire au service des ventes."
+},
+{
+"id": 5085,
+"tag": "a",
+"phrase": "Employees are ___ five weeks of paid leave.",
+"reponse": "entitled to",
+"fr": "Les employés ont droit à cinq semaines de congés payés."
+},
+{
+"id": 5086,
+"tag": "p",
+"phrase": "The company is trying to reduce its ___.",
+"reponse": "expenditures",
+"fr": "L'entreprise essaie de réduire ses dépenses."
+},
+{
+"id": 5087,
+"tag": "n",
+"phrase": "Turn on the ___; it's too hot in here.",
+"reponse": "fan",
+"fr": "Allumez le ventilateur ; il fait trop chaud ici."
+},
+{
+"id": 5088,
+"tag": "a",
+"phrase": "The plan is ___ and will cost very little.",
+"reponse": "feasible",
+"fr": "Le plan est faisable et coûtera très peu."
+},
+{
+"id": 5089,
+"tag": "n",
+"phrase": "Choose a larger ___ so the text is easier to read.",
+"reponse": "font",
+"fr": "Choisissez une police plus grande pour que le texte soit plus facile à lire."
+},
+{
+"id": 5090,
+"tag": "n",
+"phrase": "Use ___ to attach the photo to the page.",
+"reponse": "glue",
+"fr": "Utilisez de la colle pour fixer la photo sur la page."
+},
+{
+"id": 5091,
+"tag": "n",
+"phrase": "Careful ___ of the boxes prevents damage.",
+"reponse": "handling",
+"fr": "Une manutention soigneuse des cartons évite les dégâts."
+},
+{
+"id": 5092,
+"tag": "n",
+"phrase": "The ___ of the department will speak at the meeting.",
+"reponse": "head",
+"fr": "Le chef du service prendra la parole à la réunion."
+},
+{
+"id": 5093,
+"tag": "n",
+"phrase": "Please call ___ if your computer does not start.",
+"reponse": "IT",
+"fr": "Veuillez appeler l'informatique si votre ordinateur ne démarre pas."
+},
+{
+"id": 5094,
+"tag": "n",
+"phrase": "There is a paper ___ in the copier again.",
+"reponse": "jam",
+"fr": "Il y a encore un bourrage de papier dans le photocopieur."
+},
+{
+"id": 5095,
+"tag": "n",
+"phrase": "The designer changed the ___ of the brochure.",
+"reponse": "layout",
+"fr": "Le graphiste a modifié la mise en page de la brochure."
+},
+{
+"id": 5096,
+"tag": "n",
+"phrase": "She took a week of ___ to visit her family.",
+"reponse": "leave",
+"fr": "Elle a pris une semaine de congé pour rendre visite à sa famille."
+},
+{
+"id": 5097,
+"tag": "a",
+"phrase": "The files are ___, so I can't find the right one.",
+"reponse": "mixed up",
+"fr": "Les dossiers sont mélangés, je ne trouve donc pas le bon."
+},
+{
+"id": 5098,
+"tag": "n",
+"phrase": "Please send the contract by ___.",
+"reponse": "overnight mail",
+"fr": "Veuillez envoyer le contrat par courrier du lendemain."
+},
+{
+"id": 5099,
+"tag": "n",
+"phrase": "I wrote the numbers on a ___.",
+"reponse": "pad of paper",
+"fr": "J'ai écrit les chiffres sur un bloc de papier."
+},
+{
+"id": 5100,
+"tag": "n",
+"phrase": "The ___ owns more than twenty subsidiaries.",
+"reponse": "parent company",
+"fr": "La société mère possède plus de vingt filiales."
+},
+{
+"id": 5101,
+"tag": "n",
+"phrase": "The company's ___ rose by ten percent this year.",
+"reponse": "revenue",
+"fr": "Le chiffre d'affaires de l'entreprise a augmenté de dix pour cent cette année."
+},
+{
+"id": 5102,
+"tag": "n",
+"phrase": "The company introduced a new bonus ___.",
+"reponse": "scheme",
+"fr": "L'entreprise a mis en place un nouveau système de primes."
+},
+{
+"id": 5103,
+"tag": "n",
+"phrase": "Please write your name on this ___ of paper.",
+"reponse": "sheet",
+"fr": "Veuillez écrire votre nom sur cette feuille de papier."
+},
+{
+"id": 5104,
+"tag": "n",
+"phrase": "Good communication is an important ___ for this job.",
+"reponse": "skill",
+"fr": "Une bonne communication est une compétence importante pour ce poste."
+},
+{
+"id": 5105,
+"tag": "n",
+"phrase": "I need a ___ to fasten these pages.",
+"reponse": "staple",
+"fr": "J'ai besoin d'une agrafe pour fixer ces pages."
+},
+{
+"id": 5106,
+"tag": "n",
+"phrase": "You can find extra pens in the ___.",
+"reponse": "supply room",
+"fr": "Vous trouverez des stylos supplémentaires dans la réserve de fournitures."
+},
+{
+"id": 5107,
+"tag": "n",
+"phrase": "Every visitor must wear a ___ at all times.",
+"reponse": "tag",
+"fr": "Chaque visiteur doit porter un badge en permanence."
+},
+{
+"id": 5108,
+"tag": "n",
+"phrase": "The shareholders accepted the ___.",
+"reponse": "takeover bid",
+"fr": "Les actionnaires ont accepté l'OPA."
+},
+{
+"id": 5109,
+"tag": "n",
+"phrase": "The ___ must be completed by Friday.",
+"reponse": "task",
+"fr": "La tâche doit être terminée d'ici vendredi."
+},
+{
+"id": 5110,
+"tag": "n",
+"phrase": "Please put the ___ in the bin outside.",
+"reponse": "trash",
+"fr": "Veuillez mettre les ordures dans la poubelle à l'extérieur."
+},
+{
+"id": 5111,
+"tag": "n",
+"phrase": "The customer placed a small ___ to test our service.",
+"reponse": "trial order",
+"fr": "Le client a passé une petite commande d'essai pour tester notre service."
+},
+{
+"id": 5112,
+"tag": "a",
+"phrase": "Please fill out the form ___.",
+"reponse": "in triplicate",
+"fr": "Veuillez remplir le formulaire en trois exemplaires."
+},
+{
+"id": 5113,
+"tag": "n",
+"phrase": "I found a ___ in the second line.",
+"reponse": "typing error",
+"fr": "J'ai trouvé une faute de frappe à la deuxième ligne."
+},
+{
+"id": 5114,
+"tag": "n",
+"phrase": "She uses ___ software to write letters.",
+"reponse": "word processing",
+"fr": "Elle utilise un logiciel de traitement de texte pour écrire des lettres."
+},
+{
+"id": 5115,
+"tag": "v",
+"phrase": "Please ___ the gift carefully.",
+"reponse": "wrap",
+"fr": "Veuillez emballer le cadeau avec soin."
+},
+{
+"id": 5116,
+"tag": "n",
+"phrase": "What is the ___ for Boston?",
+"reponse": "area code",
+"fr": "Quel est l'indicatif de Boston ?"
+},
+{
+"id": 5117,
+"tag": "n",
+"phrase": "Leave a message after the ___.",
+"reponse": "beep",
+"fr": "Laissez un message après le bip."
+},
+{
+"id": 5118,
+"tag": "a",
+"phrase": "I was afraid we would be ___ in the middle of the call.",
+"reponse": "cut off",
+"fr": "J'avais peur que nous soyons coupés en pleine conversation."
+},
+{
+"id": 5119,
+"tag": "n",
+"phrase": "Dial 911 to make an ___.",
+"reponse": "emergency call",
+"fr": "Composez le 911 pour passer un appel d'urgence."
+},
+{
+"id": 5120,
+"tag": "a",
+"phrase": "The phone was ___, so nobody could reach her.",
+"reponse": "off the hook",
+"fr": "Le téléphone était décroché, personne ne pouvait donc la joindre."
+},
+{
+"id": 5121,
+"tag": "v",
+"phrase": "Please ___ and then enter your account number.",
+"reponse": "press a key",
+"fr": "Veuillez appuyer sur une touche, puis saisir votre numéro de compte."
+},
+{
+"id": 5122,
+"tag": "v",
+"phrase": "Hold on, I'll ___ to the manager.",
+"reponse": "put you through",
+"fr": "Ne quittez pas, je vous passe le directeur."
+},
+{
+"id": 5123,
+"tag": "v",
+"phrase": "Could you ___? The line is very bad.",
+"reponse": "speak up",
+"fr": "Pourriez-vous parler plus fort ? La ligne est très mauvaise."
+},
+{
+"id": 5124,
+"tag": "a",
+"phrase": "Hello, Ms. Park ___.",
+"reponse": "speaking",
+"fr": "Bonjour, Mme Park à l'appareil."
+},
+{
+"id": 5125,
+"tag": "v",
+"phrase": "Please ___; someone will be with you shortly.",
+"reponse": "stay on the line",
+"fr": "Veuillez rester en ligne ; quelqu'un sera bientôt à vous."
+},
+{
+"id": 5126,
+"tag": "n",
+"phrase": "The number you have dialed is no longer used by the ___.",
+"reponse": "subscriber",
+"fr": "Le numéro que vous avez composé n'est plus utilisé par l'abonné."
+},
+{
+"id": 5127,
+"tag": "n",
+"phrase": "Wait for the dial ___ before you call.",
+"reponse": "tone",
+"fr": "Attendez la tonalité avant d'appeler."
+},
+{
+"id": 5128,
+"tag": "n",
+"phrase": "Please check the total ___ on the invoice.",
+"reponse": "amount",
+"fr": "Veuillez vérifier le montant total de la facture."
+},
+{
+"id": 5129,
+"tag": "n",
+"phrase": "Please send the ___ details to our accounting office.",
+"reponse": "billing",
+"fr": "Veuillez envoyer les informations de facturation à notre service comptable."
+},
+{
+"id": 5130,
+"tag": "n",
+"phrase": "The ___ of spare parts arrived on Tuesday.",
+"reponse": "consignment",
+"fr": "L'envoi de pièces détachées est arrivé mardi."
+},
+{
+"id": 5131,
+"tag": "n",
+"phrase": "A ___ delivered the documents within an hour.",
+"reponse": "courier",
+"fr": "Un coursier a livré les documents en moins d'une heure."
+},
+{
+"id": 5132,
+"tag": "n",
+"phrase": "We will issue a ___ for the damaged goods.",
+"reponse": "credit note",
+"fr": "Nous émettrons un avoir pour les marchandises endommagées."
+},
+{
+"id": 5133,
+"tag": "a",
+"phrase": "The package arrived ___, so we asked for a refund.",
+"reponse": "damaged",
+"fr": "Le colis est arrivé endommagé ; nous avons donc demandé un remboursement."
+},
+{
+"id": 5134,
+"tag": "n",
+"phrase": "There is a ___ between the order and the delivery.",
+"reponse": "discrepancy",
+"fr": "Il y a une différence entre la commande et la livraison."
+},
+{
+"id": 5135,
+"tag": "p",
+"phrase": "We offer a discount if you buy ___.",
+"reponse": "in bulk",
+"fr": "Nous offrons une remise si vous achetez en grande quantité."
+},
+{
+"id": 5136,
+"tag": "n",
+"phrase": "We apologize for any ___ caused by the delay.",
+"reponse": "inconvenience",
+"fr": "Nous nous excusons pour la gêne occasionnée par le retard."
+},
+{
+"id": 5137,
+"tag": "p",
+"phrase": "I am writing ___ your order of May 3.",
+"reponse": "regarding",
+"fr": "Je vous écris concernant votre commande du 3 mai."
+},
+{
+"id": 5138,
+"tag": "n",
+"phrase": "Please send the contract by ___.",
+"reponse": "registered mail",
+"fr": "Veuillez envoyer le contrat par courrier recommandé."
+},
+{
+"id": 5139,
+"tag": "a",
+"phrase": "We are ___ staff this week, so deliveries may be late.",
+"reponse": "short of",
+"fr": "Nous manquons de personnel cette semaine ; les livraisons peuvent donc être en retard."
+},
+{
+"id": 5140,
+"tag": "v",
+"phrase": "Please ___ the boxes and check the contents.",
+"reponse": "unpack",
+"fr": "Veuillez déballer les cartons et vérifier leur contenu."
+},
+{
+"id": 5141,
+"tag": "n",
+"phrase": "The full list of prices is in the ___ at the end of the report.",
+"reponse": "appendix",
+"fr": "La liste complète des prix figure dans l'annexe à la fin du rapport."
+},
+{
+"id": 5142,
+"tag": "n",
+"phrase": "The factory hired fifty new ___ workers.",
+"reponse": "blue collar",
+"fr": "L'usine a embauché cinquante nouveaux ouvriers."
+},
+{
+"id": 5143,
+"tag": "n",
+"phrase": "The ___ negotiated a better price with the supplier.",
+"reponse": "buyer",
+"fr": "L'acheteur a négocié un meilleur prix avec le fournisseur."
+},
+{
+"id": 5144,
+"tag": "p",
+"phrase": "I found this job in the ___.",
+"reponse": "classified ads",
+"fr": "J'ai trouvé cet emploi dans les petites annonces."
+},
+{
+"id": 5145,
+"tag": "n",
+"phrase": "The team deserves the ___ for this success.",
+"reponse": "credit",
+"fr": "L'équipe mérite le mérite de ce succès."
+},
+{
+"id": 5146,
+"tag": "n",
+"phrase": "Our sales director closed a big ___ yesterday.",
+"reponse": "deal",
+"fr": "Notre directeur commercial a conclu une grosse affaire hier."
+},
+{
+"id": 5147,
+"tag": "n",
+"phrase": "The architect presented a ___ to the committee.",
+"reponse": "draft project",
+"fr": "L'architecte a présenté un avant-projet au comité."
+},
+{
+"id": 5148,
+"tag": "v",
+"phrase": "The company had to ___ twenty employees last year.",
+"reponse": "fire",
+"fr": "L'entreprise a dû renvoyer vingt employés l'an dernier."
+},
+{
+"id": 5149,
+"tag": "n",
+"phrase": "Our ___ ends on March 31.",
+"reponse": "fiscal year",
+"fr": "Notre exercice comptable se termine le 31 mars."
+},
+{
+"id": 5150,
+"tag": "n",
+"phrase": "A ___ contacted her about a job in Paris.",
+"reponse": "headhunter",
+"fr": "Un chasseur de têtes l'a contactée pour un poste à Paris."
+},
+{
+"id": 5151,
+"tag": "n",
+"phrase": "The ___ is located in Chicago.",
+"reponse": "head office",
+"fr": "Le siège social est situé à Chicago."
+},
+{
+"id": 5152,
+"tag": "n",
+"phrase": "The job comes with a good ___.",
+"reponse": "health care package",
+"fr": "Le poste s'accompagne d'une bonne couverture santé."
+},
+{
+"id": 5153,
+"tag": "n",
+"phrase": "The company placed a ___ in the local newspaper.",
+"reponse": "help wanted ad",
+"fr": "L'entreprise a passé une annonce de recrutement dans le journal local."
+},
+{
+"id": 5154,
+"tag": "n",
+"phrase": "Every ___ must bring a résumé to the interview.",
+"reponse": "job hunter",
+"fr": "Chaque demandeur d'emploi doit apporter un CV à l'entretien."
+},
+{
+"id": 5155,
+"tag": "n",
+"phrase": "The company lost the ___ and had to pay damages.",
+"reponse": "lawsuit",
+"fr": "L'entreprise a perdu le procès et a dû verser des dommages et intérêts."
+},
+{
+"id": 5156,
+"tag": "n",
+"phrase": "Employees get a one-hour ___.",
+"reponse": "lunch break",
+"fr": "Les employés ont une pause déjeuner d'une heure."
+},
+{
+"id": 5157,
+"tag": "n",
+"phrase": "Please state your name and ___ on the form.",
+"reponse": "occupation",
+"fr": "Veuillez indiquer votre nom et votre profession sur le formulaire."
+},
+{
+"id": 5158,
+"tag": "n",
+"phrase": "The chief financial ___ will report to the board.",
+"reponse": "officer",
+"fr": "Le directeur financier rendra compte au conseil d'administration."
+},
+{
+"id": 5159,
+"tag": "n",
+"phrase": "I receive my ___ on the last day of each month.",
+"reponse": "pay check",
+"fr": "Je reçois ma paye le dernier jour de chaque mois."
+},
+{
+"id": 5160,
+"tag": "n",
+"phrase": "The ___ is reviewed every year.",
+"reponse": "pay scale",
+"fr": "L'échelle des salaires est révisée chaque année."
+},
+{
+"id": 5161,
+"tag": "n",
+"phrase": "A company car is one of the ___ of this job.",
+"reponse": "perk",
+"fr": "Une voiture de fonction est l'un des avantages de ce poste."
+},
+{
+"id": 5162,
+"tag": "n",
+"phrase": "The law protects women during ___.",
+"reponse": "pregnancy",
+"fr": "La loi protège les femmes pendant la grossesse."
+},
+{
+"id": 5163,
+"tag": "n",
+"phrase": "Many workers feared ___ after the merger.",
+"reponse": "redundancy",
+"fr": "Beaucoup d'employés craignaient un licenciement après la fusion."
+},
+{
+"id": 5164,
+"tag": "n",
+"phrase": "Safety ___ require all visitors to wear a helmet.",
+"reponse": "regulations",
+"fr": "Le règlement de sécurité oblige tous les visiteurs à porter un casque."
+},
+{
+"id": 5165,
+"tag": "n",
+"phrase": "Promotions are partly based on ___.",
+"reponse": "seniority",
+"fr": "Les promotions reposent en partie sur l'ancienneté."
+},
+{
+"id": 5166,
+"tag": "n",
+"phrase": "The ___ of the firm was announced yesterday.",
+"reponse": "takeover",
+"fr": "Le rachat de l'entreprise a été annoncé hier."
+},
+{
+"id": 5167,
+"tag": "a",
+"phrase": "The contract was ___ after the company went bankrupt.",
+"reponse": "terminated",
+"fr": "Le contrat a été résilié après la faillite de l'entreprise."
+},
+{
+"id": 5168,
+"tag": "n",
+"phrase": "The ___ negotiated higher wages for its members.",
+"reponse": "union",
+"fr": "Le syndicat a négocié de meilleurs salaires pour ses membres."
+},
+{
+"id": 5169,
+"tag": "n",
+"phrase": "Most ___ workers spend their day in an office.",
+"reponse": "white collar",
+"fr": "La plupart des cols blancs passent leur journée dans un bureau."
+},
+{
+"id": 5170,
+"tag": "n",
+"phrase": "The ___ will run on television next week.",
+"reponse": "ad",
+"fr": "L'annonce publicitaire passera à la télévision la semaine prochaine."
+},
+{
+"id": 5171,
+"tag": "n",
+"phrase": "The ___ came up with a catchy slogan.",
+"reponse": "adman",
+"fr": "Le publicitaire a trouvé un slogan accrocheur."
+},
+{
+"id": 5172,
+"tag": "n",
+"phrase": "The study looks at consumer ___ online.",
+"reponse": "behaviour",
+"fr": "L'étude porte sur le comportement des consommateurs en ligne."
+},
+{
+"id": 5173,
+"tag": "v",
+"phrase": "We hope the new campaign will ___ sales.",
+"reponse": "boost",
+"fr": "Nous espérons que la nouvelle campagne dynamisera les ventes."
+},
+{
+"id": 5174,
+"tag": "n",
+"phrase": "Most of our customers are in the 25–35 age ___.",
+"reponse": "bracket",
+"fr": "La plupart de nos clients ont entre 25 et 35 ans."
+},
+{
+"id": 5175,
+"tag": "v",
+"phrase": "The channel will ___ the match live tonight.",
+"reponse": "broadcast",
+"fr": "La chaîne diffusera le match en direct ce soir."
+},
+{
+"id": 5176,
+"tag": "p",
+"phrase": "The company sells ___ such as soap and shampoo.",
+"reponse": "consumer goods",
+"fr": "L'entreprise vend des biens de consommation comme le savon et le shampooing."
+},
+{
+"id": 5177,
+"tag": "n",
+"phrase": "A giant ___ stands at the entrance to the city.",
+"reponse": "hoarding",
+"fr": "Un immense panneau publicitaire se dresse à l'entrée de la ville."
+},
+{
+"id": 5178,
+"tag": "n",
+"phrase": "Please send me the product ___.",
+"reponse": "literature",
+"fr": "Veuillez m'envoyer la documentation sur le produit."
+},
+{
+"id": 5179,
+"tag": "n",
+"phrase": "Discounts help to build customer ___.",
+"reponse": "loyalty",
+"fr": "Les remises aident à fidéliser les clients."
+},
+{
+"id": 5180,
+"tag": "n",
+"phrase": "A recent ___ shows that most people prefer online shopping.",
+"reponse": "poll",
+"fr": "Un récent sondage montre que la plupart des gens préfèrent les achats en ligne."
+},
+{
+"id": 5181,
+"tag": "n",
+"phrase": "We hung a ___ of the concert on the wall.",
+"reponse": "poster",
+"fr": "Nous avons accroché une affiche du concert au mur."
+},
+{
+"id": 5182,
+"tag": "v",
+"phrase": "We plan to ___ in the Sunday newspaper.",
+"reponse": "run an ad",
+"fr": "Nous prévoyons de passer une annonce dans le journal du dimanche."
+},
+{
+"id": 5183,
+"tag": "n",
+"phrase": "Free ___ in the store encourages people to try new products.",
+"reponse": "sampling",
+"fr": "La distribution d'échantillons gratuits en magasin incite à essayer de nouveaux produits."
+},
+{
+"id": 5184,
+"tag": "n",
+"phrase": "The designer drew a quick ___ of the logo.",
+"reponse": "sketch",
+"fr": "Le graphiste a dessiné un rapide croquis du logo."
+},
+{
+"id": 5185,
+"tag": "n",
+"phrase": "The bank's ___ of the marathon increased its visibility.",
+"reponse": "sponsorship",
+"fr": "Le sponsoring du marathon par la banque a augmenté sa visibilité."
+},
+{
+"id": 5186,
+"tag": "n",
+"phrase": "Put a ___ with your name on the box.",
+"reponse": "sticker",
+"fr": "Collez un autocollant avec votre nom sur la boîte."
+},
+{
+"id": 5187,
+"tag": "v",
+"phrase": "The firm wants to ___ in Asia.",
+"reponse": "tap a market",
+"fr": "L'entreprise veut exploiter un marché en Asie."
+},
+{
+"id": 5188,
+"tag": "n",
+"phrase": "___ is aimed at businesses rather than the general public.",
+"reponse": "trade advertising",
+"fr": "La publicité professionnelle s'adresse aux entreprises plutôt qu'au grand public."
+},
+{
+"id": 5189,
+"tag": "n",
+"phrase": "The company registered its ___ last year.",
+"reponse": "trade mark",
+"fr": "L'entreprise a déposé sa marque l'an dernier."
+},
+{
+"id": 5190,
+"tag": "n",
+"phrase": "The technician repaired the testing ___.",
+"reponse": "apparatus",
+"fr": "Le technicien a réparé l'appareil de test."
+},
+{
+"id": 5191,
+"tag": "n",
+"phrase": "A steel ___ supports the roof.",
+"reponse": "beam",
+"fr": "Une poutre en acier soutient le toit."
+},
+{
+"id": 5192,
+"tag": "n",
+"phrase": "He opened a ___ of tomato soup.",
+"reponse": "can",
+"fr": "Il a ouvert une boîte de soupe à la tomate."
+},
+{
+"id": 5193,
+"tag": "n",
+"phrase": "The ___ tested the water samples.",
+"reponse": "chemist",
+"fr": "Le chimiste a testé les échantillons d'eau."
+},
+{
+"id": 5194,
+"tag": "n",
+"phrase": "A short ___ caused the power failure.",
+"reponse": "circuit",
+"fr": "Un court-circuit a provoqué la panne de courant."
+},
+{
+"id": 5195,
+"tag": "n",
+"phrase": "The tank holds fifty ___ of fuel.",
+"reponse": "gallons",
+"fr": "Le réservoir contient cinquante gallons de carburant."
+},
+{
+"id": 5196,
+"tag": "n",
+"phrase": "The screw is one ___ long.",
+"reponse": "inch",
+"fr": "La vis mesure un pouce de long."
+},
+{
+"id": 5197,
+"tag": "n",
+"phrase": "Most of her time is spent on ___.",
+"reponse": "lab work",
+"fr": "Elle passe l'essentiel de son temps à travailler en laboratoire."
+},
+{
+"id": 5198,
+"tag": "n",
+"phrase": "Pull the ___ to start the machine.",
+"reponse": "lever",
+"fr": "Tirez le levier pour démarrer la machine."
+},
+{
+"id": 5199,
+"tag": "v",
+"phrase": "Please ___ each repair in the maintenance book.",
+"reponse": "log",
+"fr": "Veuillez noter chaque réparation dans le registre de maintenance."
+},
+{
+"id": 5200,
+"tag": "n",
+"phrase": "The gas ___ is outside the building.",
+"reponse": "meter",
+"fr": "Le compteur de gaz est à l'extérieur du bâtiment."
+},
+{
+"id": 5201,
+"tag": "n",
+"phrase": "The recipe requires one ___ of butter.",
+"reponse": "ounce",
+"fr": "La recette demande une once de beurre."
+},
+{
+"id": 5202,
+"tag": "n",
+"phrase": "The parcel weighs about two ___.",
+"reponse": "pounds",
+"fr": "Le colis pèse environ deux livres."
+},
+{
+"id": 5203,
+"tag": "v",
+"phrase": "___ the door to open it.",
+"reponse": "pull",
+"fr": "Tirez la porte pour l'ouvrir."
+},
+{
+"id": 5204,
+"tag": "n",
+"phrase": "The ___ came to fix the washing machine.",
+"reponse": "repair man",
+"fr": "Le réparateur est venu réparer la machine à laver."
+},
+{
+"id": 5205,
+"tag": "n",
+"phrase": "Tighten the ___ with a screwdriver.",
+"reponse": "screw",
+"fr": "Serrez la vis avec un tournevis."
+},
+{
+"id": 5206,
+"tag": "v",
+"phrase": "___ the paint evenly across the wall.",
+"reponse": "spread",
+"fr": "Étalez la peinture uniformément sur le mur."
+},
+{
+"id": 5207,
+"tag": "n",
+"phrase": "The warehouse is only one hundred ___ from here.",
+"reponse": "yards",
+"fr": "L'entrepôt n'est qu'à une centaine de yards d'ici."
+},
+{
+"id": 5208,
+"tag": "v",
+"phrase": "Helicopters had to ___ the injured to the hospital.",
+"reponse": "airlift",
+"fr": "Des hélicoptères ont dû évacuer les blessés par pont aérien vers l'hôpital."
+},
+{
+"id": 5209,
+"tag": "v",
+"phrase": "Take the back road to ___ the traffic jam.",
+"reponse": "avoid",
+"fr": "Prenez la route de derrière pour éviter l'embouteillage."
+},
+{
+"id": 5210,
+"tag": "n",
+"phrase": "A loud ___ shook the building.",
+"reponse": "blast",
+"fr": "Une forte détonation a secoué le bâtiment."
+},
+{
+"id": 5211,
+"tag": "v",
+"phrase": "Be careful not to ___ your hand on the stove.",
+"reponse": "burn",
+"fr": "Faites attention à ne pas vous brûler la main sur la cuisinière."
+},
+{
+"id": 5212,
+"tag": "v",
+"phrase": "The water pipe may ___ in the cold.",
+"reponse": "burst",
+"fr": "Le tuyau d'eau risque d'éclater avec le froid."
+},
+{
+"id": 5213,
+"tag": "n",
+"phrase": "The accident caused only one ___.",
+"reponse": "casualty",
+"fr": "L'accident n'a fait qu'une seule victime."
+},
+{
+"id": 5214,
+"tag": "n",
+"phrase": "Inspectors found a ___ in the wall.",
+"reponse": "crack",
+"fr": "Les inspecteurs ont trouvé une fissure dans le mur."
+},
+{
+"id": 5215,
+"tag": "v",
+"phrase": "The old bridge began to ___ after the flood.",
+"reponse": "crumble",
+"fr": "Le vieux pont a commencé à s'effriter après la crue."
+},
+{
+"id": 5216,
+"tag": "n",
+"phrase": "The court ordered the firm to pay ___.",
+"reponse": "damages",
+"fr": "Le tribunal a condamné l'entreprise à verser des dommages et intérêts."
+},
+{
+"id": 5217,
+"tag": "v",
+"phrase": "The boat began to ___ away from the shore.",
+"reponse": "drift",
+"fr": "Le bateau a commencé à dériver loin du rivage."
+},
+{
+"id": 5218,
+"tag": "v",
+"phrase": "Supplies began to ___ as the storm continued.",
+"reponse": "dwindle",
+"fr": "Les provisions ont commencé à s'amenuiser à mesure que la tempête durait."
+},
+{
+"id": 5219,
+"tag": "n",
+"phrase": "Do not park in front of the ___.",
+"reponse": "fire hydrant",
+"fr": "Ne vous garez pas devant la bouche d'incendie."
+},
+{
+"id": 5220,
+"tag": "v",
+"phrase": "The roof could ___ under the weight of the snow.",
+"reponse": "give way",
+"fr": "Le toit pourrait céder sous le poids de la neige."
+},
+{
+"id": 5221,
+"tag": "n",
+"phrase": "A ___ left the whole district in the dark.",
+"reponse": "power blackout",
+"fr": "Une panne de courant a plongé tout le quartier dans le noir."
+},
+{
+"id": 5222,
+"tag": "n",
+"phrase": "___ workers brought food and blankets to the victims.",
+"reponse": "relief",
+"fr": "Les équipes de secours ont apporté de la nourriture et des couvertures aux victimes."
+},
+{
+"id": 5223,
+"tag": "n",
+"phrase": "The ___ pulled the child out of the water.",
+"reponse": "rescuer",
+"fr": "Le sauveteur a sorti l'enfant de l'eau."
+},
+{
+"id": 5224,
+"tag": "v",
+"phrase": "Be careful not to ___ the page.",
+"reponse": "rip",
+"fr": "Faites attention à ne pas déchirer la page."
+},
+{
+"id": 5225,
+"tag": "v",
+"phrase": "The truck lost control and ___ the wall.",
+"reponse": "smash into",
+"fr": "Le camion a perdu le contrôle et s'est écrasé contre le mur."
+},
+{
+"id": 5226,
+"tag": "v",
+"phrase": "We waited for the floodwater to ___.",
+"reponse": "subside",
+"fr": "Nous avons attendu que les eaux de la crue se calment."
+},
+{
+"id": 5227,
+"tag": "n",
+"phrase": "A ___ destroyed several houses in the village.",
+"reponse": "twister",
+"fr": "Une tornade a détruit plusieurs maisons du village."
+},
+{
+"id": 5228,
+"tag": "n",
+"phrase": "There is a ___ in the road, so drive slowly.",
+"reponse": "bump",
+"fr": "Il y a une bosse sur la route, roulez donc lentement."
+},
+{
+"id": 5229,
+"tag": "n",
+"phrase": "The car's front ___ was damaged in the accident.",
+"reponse": "bumper",
+"fr": "Le pare-chocs avant de la voiture a été endommagé dans l'accident."
+},
+{
+"id": 5230,
+"tag": "v",
+"phrase": "Check your mirror before you ___.",
+"reponse": "change lanes",
+"fr": "Vérifiez votre rétroviseur avant de changer de file."
+},
+{
+"id": 5231,
+"tag": "v",
+"phrase": "The driver braked too late and ___ a fence.",
+"reponse": "crash into",
+"fr": "Le conducteur a freiné trop tard et est entré en collision avec une clôture."
+},
+{
+"id": 5232,
+"tag": "n",
+"phrase": "Someone left a ___ in my car door.",
+"reponse": "dent",
+"fr": "Quelqu'un a laissé une bosse dans la portière de ma voiture."
+},
+{
+"id": 5233,
+"tag": "n",
+"phrase": "I stopped to ask for ___ to the airport.",
+"reponse": "directions",
+"fr": "Je me suis arrêté pour demander la route de l'aéroport."
+},
+{
+"id": 5234,
+"tag": "n",
+"phrase": "Turn off the ___ before you leave the car.",
+"reponse": "ignition",
+"fr": "Coupez le contact avant de quitter la voiture."
+},
+{
+"id": 5235,
+"tag": "n",
+"phrase": "I can't find my car's ___.",
+"reponse": "ignition key",
+"fr": "Je ne trouve pas la clé de contact de ma voiture."
+},
+{
+"id": 5236,
+"tag": "n",
+"phrase": "The parking ___ is full on weekends.",
+"reponse": "lot",
+"fr": "Le parking est plein le week-end."
+},
+{
+"id": 5237,
+"tag": "n",
+"phrase": "You should check the ___ level before a long trip.",
+"reponse": "oil",
+"fr": "Vous devriez vérifier le niveau d'huile avant un long voyage."
+},
+{
+"id": 5238,
+"tag": "n",
+"phrase": "We tied the luggage to the ___.",
+"reponse": "roof rack",
+"fr": "Nous avons attaché les bagages sur la galerie."
+},
+{
+"id": 5239,
+"tag": "v",
+"phrase": "It's time to ___ before the long trip.",
+"reponse": "service the car",
+"fr": "Il est temps de réviser la voiture avant le long voyage."
+},
+{
+"id": 5240,
+"tag": "n",
+"phrase": "The fuel ___ is almost empty.",
+"reponse": "tank",
+"fr": "Le réservoir de carburant est presque vide."
+},
+{
+"id": 5241,
+"tag": "n",
+"phrase": "He got a parking ___ for leaving his car there.",
+"reponse": "ticket",
+"fr": "Il a reçu une amende de stationnement pour avoir laissé sa voiture là."
+},
+{
+"id": 5242,
+"tag": "n",
+"phrase": "Workers dug a ___ across the road.",
+"reponse": "trench",
+"fr": "Des ouvriers ont creusé une tranchée en travers de la route."
+},
+{
+"id": 5243,
+"tag": "n",
+"phrase": "You have to pay a toll on the ___.",
+"reponse": "turnpike",
+"fr": "Il faut payer un péage sur l'autoroute."
+},
+{
+"id": 5244,
+"tag": "n",
+"phrase": "Keep both hands on the ___ while driving.",
+"reponse": "wheel",
+"fr": "Gardez les deux mains sur le volant en conduisant."
+},
+{
+"id": 5245,
+"tag": "n",
+"phrase": "The shop is known for its excellent ___.",
+"reponse": "after-sales service",
+"fr": "Le magasin est connu pour son excellent service après-vente."
+},
+{
+"id": 5246,
+"tag": "n",
+"phrase": "The cashier scanned the ___ on the box.",
+"reponse": "barcode",
+"fr": "Le caissier a scanné le code-barres sur la boîte."
+},
+{
+"id": 5247,
+"tag": "n",
+"phrase": "The money is kept in the ___.",
+"reponse": "cash register",
+"fr": "L'argent est conservé dans la caisse enregistreuse."
+},
+{
+"id": 5248,
+"tag": "n",
+"phrase": "The shop sells ___ such as candy and chocolate.",
+"reponse": "confectionery",
+"fr": "Le magasin vend de la confiserie comme des bonbons et du chocolat."
+},
+{
+"id": 5249,
+"tag": "n",
+"phrase": "A ___ is worth ten cents.",
+"reponse": "dime",
+"fr": "Une pièce de dix cents vaut dix cents."
+},
+{
+"id": 5250,
+"tag": "n",
+"phrase": "The ___ pays a monthly fee to the parent company.",
+"reponse": "franchisee",
+"fr": "Le franchisé verse une redevance mensuelle à la société mère."
+},
+{
+"id": 5251,
+"tag": "n",
+"phrase": "I bought a ___ for my sister's birthday.",
+"reponse": "gift",
+"fr": "J'ai acheté un cadeau pour l'anniversaire de ma sœur."
+},
+{
+"id": 5252,
+"tag": "n",
+"phrase": "Please show a photo ___ at the entrance.",
+"reponse": "ID",
+"fr": "Veuillez présenter une pièce d'identité avec photo à l'entrée."
+},
+{
+"id": 5253,
+"tag": "n",
+"phrase": "What ___ of laptop do you use?",
+"reponse": "make",
+"fr": "Quelle marque d'ordinateur portable utilisez-vous ?"
+},
+{
+"id": 5254,
+"tag": "n",
+"phrase": "The ___ takes a commission on every sale.",
+"reponse": "middleman",
+"fr": "L'intermédiaire prend une commission sur chaque vente."
+},
+{
+"id": 5255,
+"tag": "n",
+"phrase": "I bought a magazine at the ___.",
+"reponse": "news agent",
+"fr": "J'ai acheté un magazine chez le marchand de journaux."
+},
+{
+"id": 5256,
+"tag": "n",
+"phrase": "A ___ is worth five cents.",
+"reponse": "nickel",
+"fr": "Une pièce de cinq cents vaut cinq cents."
+},
+{
+"id": 5257,
+"tag": "n",
+"phrase": "A ___ is worth twenty-five cents.",
+"reponse": "quarter",
+"fr": "Une pièce de vingt-cinq cents vaut vingt-cinq cents."
+},
+{
+"id": 5258,
+"tag": "n",
+"phrase": "Please fill out a ___ at the service desk.",
+"reponse": "repair request",
+"fr": "Veuillez remplir une demande de réparation au service client."
+},
+{
+"id": 5259,
+"tag": "v",
+"phrase": "We will ___ the faulty item free of charge.",
+"reponse": "replace",
+"fr": "Nous remplacerons gratuitement l'article défectueux."
+},
+{
+"id": 5260,
+"tag": "n",
+"phrase": "The ___ visits our store every month.",
+"reponse": "sales rep",
+"fr": "Le représentant passe dans notre magasin chaque mois."
+},
+{
+"id": 5261,
+"tag": "a",
+"phrase": "I bought a ___ car at a good price.",
+"reponse": "second hand",
+"fr": "J'ai acheté une voiture d'occasion à un bon prix."
+},
+{
+"id": 5262,
+"tag": "n",
+"phrase": "The books are on the top ___.",
+"reponse": "shelves",
+"fr": "Les livres sont sur les étagères du haut."
+},
+{
+"id": 5263,
+"tag": "n",
+"phrase": "The store hired a guard to prevent ___.",
+"reponse": "shoplifting",
+"fr": "Le magasin a embauché un vigile pour éviter le vol à l'étalage."
+},
+{
+"id": 5264,
+"tag": "n",
+"phrase": "I need some ___ for the parking meter.",
+"reponse": "small change",
+"fr": "J'ai besoin de menue monnaie pour l'horodateur."
+},
+{
+"id": 5265,
+"tag": "n",
+"phrase": "The cashier put the money in the ___.",
+"reponse": "till",
+"fr": "Le caissier a mis l'argent dans la caisse."
+},
+{
+"id": 5266,
+"tag": "n",
+"phrase": "She bought a ___ for her nephew.",
+"reponse": "toy",
+"fr": "Elle a acheté un jouet pour son neveu."
+},
+{
+"id": 5267,
+"tag": "n",
+"phrase": "We spent Saturday afternoon on ___ downtown.",
+"reponse": "window shopping",
+"fr": "Nous avons passé le samedi après-midi à faire du lèche-vitrine en centre-ville."
+},
+{
+"id": 5268,
+"tag": "v",
+"phrase": "This old painting may be ___ a lot of money.",
+"reponse": "worth",
+"fr": "Ce vieux tableau vaut peut-être beaucoup d'argent."
+},
+{
+"id": 5269,
+"tag": "v",
+"phrase": "The total will ___ about two thousand dollars.",
+"reponse": "amount to",
+"fr": "Le total s'élèvera à environ deux mille dollars."
+},
+{
+"id": 5270,
+"tag": "n",
+"phrase": "Check the ___ on your monthly statement.",
+"reponse": "bank charges",
+"fr": "Vérifiez les frais bancaires sur votre relevé mensuel."
+},
+{
+"id": 5271,
+"tag": "n",
+"phrase": "The firm earns a fee called ___ on each transaction.",
+"reponse": "brokerage",
+"fr": "L'entreprise perçoit des frais appelés courtage sur chaque transaction."
+},
+{
+"id": 5272,
+"tag": "v",
+"phrase": "Where can I ___ dollars into euros?",
+"reponse": "change",
+"fr": "Où puis-je changer des dollars en euros ?"
+},
+{
+"id": 5273,
+"tag": "v",
+"phrase": "The store will ___ the amount on your credit card.",
+"reponse": "charge",
+"fr": "Le magasin débitera le montant de votre carte de crédit."
+},
+{
+"id": 5274,
+"tag": "n",
+"phrase": "I wrote a check from my ___.",
+"reponse": "checkbook",
+"fr": "J'ai rédigé un chèque avec mon chéquier."
+},
+{
+"id": 5275,
+"tag": "n",
+"phrase": "The interest on a ___ is quite low.",
+"reponse": "deposit account",
+"fr": "Les intérêts d'un compte de dépôt sont assez faibles."
+},
+{
+"id": 5276,
+"tag": "v",
+"phrase": "You must ___ to open an account.",
+"reponse": "fill out a form",
+"fr": "Vous devez remplir un formulaire pour ouvrir un compte."
+},
+{
+"id": 5277,
+"tag": "n",
+"phrase": "You can pay in twelve monthly ___.",
+"reponse": "installments",
+"fr": "Vous pouvez payer en douze mensualités."
+},
+{
+"id": 5278,
+"tag": "n",
+"phrase": "An ___ helps companies raise money.",
+"reponse": "investment bank",
+"fr": "Une banque d'affaires aide les entreprises à lever des fonds."
+},
+{
+"id": 5279,
+"tag": "n",
+"phrase": "He paid the full amount as a ___.",
+"reponse": "lump sum",
+"fr": "Il a payé la totalité du montant en une seule fois."
+},
+{
+"id": 5280,
+"tag": "v",
+"phrase": "I still ___ you ten dollars.",
+"reponse": "owe",
+"fr": "Je te dois encore dix dollars."
+},
+{
+"id": 5281,
+"tag": "n",
+"phrase": "Please bring your ___ to update your balance.",
+"reponse": "passbook",
+"fr": "Veuillez apporter votre livret d'épargne pour mettre à jour votre solde."
+},
+{
+"id": 5282,
+"tag": "n",
+"phrase": "The manager reviewed her investment ___.",
+"reponse": "portfolio",
+"fr": "Le gestionnaire a examiné son portefeuille d'investissements."
+},
+{
+"id": 5283,
+"tag": "n",
+"phrase": "We received your ___ yesterday.",
+"reponse": "remittance",
+"fr": "Nous avons reçu votre versement hier."
+},
+{
+"id": 5284,
+"tag": "n",
+"phrase": "The ___ of the loan will take five years.",
+"reponse": "repayment",
+"fr": "Le remboursement du prêt prendra cinq ans."
+},
+{
+"id": 5285,
+"tag": "n",
+"phrase": "Please wait at the ___ until your number is called.",
+"reponse": "window",
+"fr": "Veuillez patienter au guichet jusqu'à ce que votre numéro soit appelé."
+},
+{
+"id": 5286,
+"tag": "a",
+"phrase": "Saving money every month is ___.",
+"reponse": "worthwhile",
+"fr": "Mettre de l'argent de côté chaque mois est rentable."
+},
+{
+"id": 5287,
+"tag": "v",
+"phrase": "Please ___ and mail it before Friday.",
+"reponse": "write a check",
+"fr": "Veuillez établir un chèque et l'envoyer avant vendredi."
+},
+{
+"id": 5288,
+"tag": "v",
+"phrase": "These bonds ___ a steady return.",
+"reponse": "yield",
+"fr": "Ces obligations rapportent un rendement régulier."
+},
+{
+"id": 5289,
+"tag": "n",
+"phrase": "Turn on the ___; it's very hot in here.",
+"reponse": "air conditioner",
+"fr": "Allumez le climatiseur ; il fait très chaud ici."
+},
+{
+"id": 5290,
+"tag": "n",
+"phrase": "We store old furniture in the ___.",
+"reponse": "attic",
+"fr": "Nous rangeons les vieux meubles dans le grenier."
+},
+{
+"id": 5291,
+"tag": "n",
+"phrase": "They replaced the ___ in the living room.",
+"reponse": "carpeting",
+"fr": "Ils ont remplacé la moquette du salon."
+},
+{
+"id": 5292,
+"tag": "n",
+"phrase": "Washing the dishes is my least favorite ___.",
+"reponse": "chore",
+"fr": "Faire la vaisselle est la corvée que j'aime le moins."
+},
+{
+"id": 5293,
+"tag": "n",
+"phrase": "Hang your coat in the ___.",
+"reponse": "closet",
+"fr": "Accrochez votre manteau dans le placard."
+},
+{
+"id": 5294,
+"tag": "n",
+"phrase": "Please close the ___; the sun is too bright.",
+"reponse": "curtains",
+"fr": "Veuillez fermer les rideaux ; le soleil est trop fort."
+},
+{
+"id": 5295,
+"tag": "n",
+"phrase": "The ___ on the front door is broken.",
+"reponse": "door knob",
+"fr": "La poignée de la porte d'entrée est cassée."
+},
+{
+"id": 5296,
+"tag": "r",
+"phrase": "The kitchen is ___, next to the garage.",
+"reponse": "downstairs",
+"fr": "La cuisine est en bas, à côté du garage."
+},
+{
+"id": 5297,
+"tag": "n",
+"phrase": "The ___ in the bathroom is leaking.",
+"reponse": "faucet",
+"fr": "Le robinet de la salle de bains fuit."
+},
+{
+"id": 5298,
+"tag": "a",
+"phrase": "Each apartment is ___ a modern kitchen.",
+"reponse": "fitted with",
+"fr": "Chaque appartement est équipé d'une cuisine moderne."
+},
+{
+"id": 5299,
+"tag": "n",
+"phrase": "The ___ promised to repair the roof.",
+"reponse": "landlord",
+"fr": "Le propriétaire a promis de réparer le toit."
+},
+{
+"id": 5300,
+"tag": "n",
+"phrase": "I need to change the ___ in the hallway.",
+"reponse": "light bulb",
+"fr": "Je dois changer l'ampoule du couloir."
+},
+{
+"id": 5301,
+"tag": "n",
+"phrase": "The ___ in the office is too dim.",
+"reponse": "lighting",
+"fr": "L'éclairage du bureau est trop faible."
+},
+{
+"id": 5302,
+"tag": "n",
+"phrase": "The ___ needs to be repaired before winter.",
+"reponse": "roof",
+"fr": "Le toit doit être réparé avant l'hiver."
+},
+{
+"id": 5303,
+"tag": "n",
+"phrase": "The new building has twenty ___.",
+"reponse": "stories",
+"fr": "Le nouvel immeuble compte vingt étages."
+},
+{
+"id": 5304,
+"tag": "n",
+"phrase": "The ___ pays the rent on the first of each month.",
+"reponse": "tenant",
+"fr": "Le locataire paie son loyer le premier de chaque mois."
+},
+{
+"id": 5305,
+"tag": "r",
+"phrase": "The bedrooms are ___.",
+"reponse": "upstairs",
+"fr": "Les chambres sont en haut."
+},
+{
+"id": 5306,
+"tag": "n",
+"phrase": "The rent does not include the ___.",
+"reponse": "utility bill",
+"fr": "Le loyer ne comprend pas les charges."
+},
+{
+"id": 5307,
+"tag": "n",
+"phrase": "We chose blue ___ for the bedroom.",
+"reponse": "wallpaper",
+"fr": "Nous avons choisi du papier peint bleu pour la chambre."
+},
+{
+"id": 5308,
+"tag": "n",
+"phrase": "The company sells sports ___ for men and women.",
+"reponse": "apparel",
+"fr": "L'entreprise vend de l'habillement de sport pour hommes et femmes."
+},
+{
+"id": 5309,
+"tag": "a",
+"phrase": "On Fridays employees may wear ___ clothes.",
+"reponse": "casual",
+"fr": "Le vendredi, les employés peuvent porter des vêtements décontractés."
+},
+{
+"id": 5310,
+"tag": "n",
+"phrase": "The dress is made from fine ___.",
+"reponse": "cloth",
+"fr": "La robe est faite d'une étoffe fine."
+},
+{
+"id": 5311,
+"tag": "a",
+"phrase": "This jacket is very ___ this season.",
+"reponse": "fashionable",
+"fr": "Cette veste est très à la mode cette saison."
+},
+{
+"id": 5312,
+"tag": "v",
+"phrase": "This jacket doesn't ___ me; it's too tight.",
+"reponse": "fit",
+"fr": "Cette veste ne me va pas ; elle est trop serrée."
+},
+{
+"id": 5313,
+"tag": "a",
+"phrase": "A suit and tie are required for ___ occasions.",
+"reponse": "formal",
+"fr": "Un costume et une cravate sont exigés pour les occasions habillées."
+},
+{
+"id": 5314,
+"tag": "n",
+"phrase": "Please put your shirt on a ___.",
+"reponse": "hanger",
+"fr": "Veuillez mettre votre chemise sur un cintre."
+},
+{
+"id": 5315,
+"tag": "n",
+"phrase": "The ___ of these trousers is too long.",
+"reponse": "hem",
+"fr": "L'ourlet de ce pantalon est trop long."
+},
+{
+"id": 5316,
+"tag": "v",
+"phrase": "Can you ___ the sleeves by two centimeters?",
+"reponse": "lengthen",
+"fr": "Pouvez-vous allonger les manches de deux centimètres ?"
+},
+{
+"id": 5317,
+"tag": "a",
+"phrase": "In summer I prefer ___ clothes.",
+"reponse": "loose-fitting",
+"fr": "L'été, je préfère les vêtements amples."
+},
+{
+"id": 5318,
+"tag": "v",
+"phrase": "He tried to ___ his tie because it was too tight.",
+"reponse": "loosen",
+"fr": "Il a essayé de desserrer sa cravate car elle était trop serrée."
+},
+{
+"id": 5319,
+"tag": "a",
+"phrase": "Her shirt was neatly ___.",
+"reponse": "pressed",
+"fr": "Sa chemise était soigneusement repassée."
+},
+{
+"id": 5320,
+"tag": "n",
+"phrase": "Do you have this sweater in a darker ___?",
+"reponse": "shade",
+"fr": "Avez-vous ce pull dans un ton plus foncé ?"
+},
+{
+"id": 5321,
+"tag": "v",
+"phrase": "Could you ___ these trousers by two inches?",
+"reponse": "shorten",
+"fr": "Pourriez-vous raccourcir ce pantalon de deux pouces ?"
+},
+{
+"id": 5322,
+"tag": "n",
+"phrase": "The scarf is made of pure ___.",
+"reponse": "silk",
+"fr": "L'écharpe est en soie pure."
+},
+{
+"id": 5323,
+"tag": "a",
+"phrase": "You look very ___ in that suit.",
+"reponse": "smart",
+"fr": "Vous avez l'air très élégant dans ce costume."
+},
+{
+"id": 5324,
+"tag": "n",
+"phrase": "He used ___ to keep the collar stiff.",
+"reponse": "starch",
+"fr": "Il a utilisé de l'amidon pour garder le col rigide."
+},
+{
+"id": 5325,
+"tag": "n",
+"phrase": "The tailor sewed a few ___ to close the tear.",
+"reponse": "stitches",
+"fr": "Le tailleur a fait quelques points pour refermer la déchirure."
+},
+{
+"id": 5326,
+"tag": "a",
+"phrase": "She bought a ___ raincoat.",
+"reponse": "tan",
+"fr": "Elle a acheté un imperméable beige."
+},
+{
+"id": 5327,
+"tag": "n",
+"phrase": "The store sells socks and ___.",
+"reponse": "underwear",
+"fr": "Le magasin vend des chaussettes et des sous-vêtements."
+},
+{
+"id": 5328,
+"tag": "v",
+"phrase": "Only managers can ___ customer files.",
+"reponse": "access",
+"fr": "Seuls les directeurs peuvent accéder aux fichiers clients."
+},
+{
+"id": 5329,
+"tag": "n",
+"phrase": "The company imposed a ___ on personal e-mail at work.",
+"reponse": "ban",
+"fr": "L'entreprise a imposé une interdiction des e-mails personnels au travail."
+},
+{
+"id": 5330,
+"tag": "v",
+"phrase": "It takes a minute for my computer to ___.",
+"reponse": "boot up",
+"fr": "Mon ordinateur met une minute à démarrer."
+},
+{
+"id": 5331,
+"tag": "n",
+"phrase": "Customers can start a ___ with our support team.",
+"reponse": "chat",
+"fr": "Les clients peuvent lancer un tchat avec notre équipe d'assistance."
+},
+{
+"id": 5332,
+"tag": "v",
+"phrase": "___ the icon to open the file.",
+"reponse": "click on",
+"fr": "Cliquez sur l'icône pour ouvrir le fichier."
+},
+{
+"id": 5333,
+"tag": "a",
+"phrase": "The library has a ___ catalog.",
+"reponse": "computerized",
+"fr": "La bibliothèque dispose d'un catalogue informatisé."
+},
+{
+"id": 5334,
+"tag": "v",
+"phrase": "Employees must not ___ confidential information.",
+"reponse": "disclose",
+"fr": "Les employés ne doivent pas divulguer d'informations confidentielles."
+},
+{
+"id": 5335,
+"tag": "n",
+"phrase": "Our company's address ends in ___.",
+"reponse": "dot com",
+"fr": "L'adresse de notre entreprise se termine par .com."
+},
+{
+"id": 5336,
+"tag": "n",
+"phrase": "Announcements are posted on the ___.",
+"reponse": "electronic bulletin board",
+"fr": "Les annonces sont affichées sur le tableau d'affichage électronique."
+},
+{
+"id": 5337,
+"tag": "v",
+"phrase": "The bank will ___ all customer data.",
+"reponse": "encrypt",
+"fr": "La banque cryptera toutes les données de ses clients."
+},
+{
+"id": 5338,
+"tag": "v",
+"phrase": "A clerk will ___ the figures into the computer.",
+"reponse": "feed",
+"fr": "Un employé saisira les chiffres dans l'ordinateur."
+},
+{
+"id": 5339,
+"tag": "n",
+"phrase": "Save the file on a ___ and bring it to the meeting.",
+"reponse": "flash drive",
+"fr": "Enregistrez le fichier sur une clé USB et apportez-la à la réunion."
+},
+{
+"id": 5340,
+"tag": "v",
+"phrase": "Criminals tried to ___ the bank's network.",
+"reponse": "hack into",
+"fr": "Des criminels ont tenté de pirater le réseau de la banque."
+},
+{
+"id": 5341,
+"tag": "n",
+"phrase": "Add the company logo to the page ___.",
+"reponse": "header",
+"fr": "Ajoutez le logo de l'entreprise à l'en-tête de la page."
+},
+{
+"id": 5342,
+"tag": "v",
+"phrase": "A local company will ___ our website.",
+"reponse": "host",
+"fr": "Une entreprise locale hébergera notre site Internet."
+},
+{
+"id": 5343,
+"tag": "n",
+"phrase": "Our ___ offers fast and reliable connections.",
+"reponse": "ISP",
+"fr": "Notre fournisseur d'accès Internet offre des connexions rapides et fiables."
+},
+{
+"id": 5344,
+"tag": "n",
+"phrase": "Most of my e-mail is ___.",
+"reponse": "junk mail",
+"fr": "La plupart de mes e-mails sont du courrier publicitaire."
+},
+{
+"id": 5345,
+"tag": "v",
+"phrase": "Please ___ the figures into the spreadsheet.",
+"reponse": "key in",
+"fr": "Veuillez saisir les chiffres dans le tableur."
+},
+{
+"id": 5346,
+"tag": "v",
+"phrase": "You need a password to ___ the network.",
+"reponse": "log onto",
+"fr": "Vous avez besoin d'un mot de passe pour vous connecter au réseau."
+},
+{
+"id": 5347,
+"tag": "n",
+"phrase": "I copied the files onto a ___.",
+"reponse": "memory stick",
+"fr": "J'ai copié les fichiers sur une clé USB."
+},
+{
+"id": 5348,
+"tag": "n",
+"phrase": "Please switch off your ___ during the meeting.",
+"reponse": "mobile phone",
+"fr": "Veuillez éteindre votre téléphone mobile pendant la réunion."
+},
+{
+"id": 5349,
+"tag": "n",
+"phrase": "Customers can talk to an agent in an ___.",
+"reponse": "online chat",
+"fr": "Les clients peuvent parler à un conseiller dans un tchat en ligne."
+},
+{
+"id": 5350,
+"tag": "n",
+"phrase": "___ has grown rapidly in recent years.",
+"reponse": "online shopping",
+"fr": "Les achats en ligne ont connu une forte croissance ces dernières années."
+},
+{
+"id": 5351,
+"tag": "n",
+"phrase": "The printer stopped because of a ___.",
+"reponse": "paper jam",
+"fr": "L'imprimante s'est arrêtée à cause d'un bourrage papier."
+},
+{
+"id": 5352,
+"tag": "v",
+"phrase": "Copy the text and ___ it into the e-mail.",
+"reponse": "paste",
+"fr": "Copiez le texte et collez-le dans l'e-mail."
+},
+{
+"id": 5353,
+"tag": "v",
+"phrase": "A window may ___ when you open the site.",
+"reponse": "pop up",
+"fr": "Une fenêtre peut apparaître lorsque vous ouvrez le site."
+},
+{
+"id": 5354,
+"tag": "v",
+"phrase": "Please ___ the schedule on the notice board.",
+"reponse": "post",
+"fr": "Veuillez afficher le planning sur le tableau d'affichage."
+},
+{
+"id": 5355,
+"tag": "n",
+"phrase": "The ___ of the old files took a whole day.",
+"reponse": "removal",
+"fr": "La suppression des anciens fichiers a pris une journée entière."
+},
+{
+"id": 5356,
+"tag": "v",
+"phrase": "Please ___ the cover before you use the machine.",
+"reponse": "remove",
+"fr": "Veuillez enlever le capot avant d'utiliser la machine."
+},
+{
+"id": 5357,
+"tag": "n",
+"phrase": "There was a ___ in the network this morning.",
+"reponse": "slowdown",
+"fr": "Il y a eu un ralentissement du réseau ce matin."
+},
+{
+"id": 5358,
+"tag": "v",
+"phrase": "He likes to ___ in the evening.",
+"reponse": "surf the Internet",
+"fr": "Il aime surfer sur Internet le soir."
+},
+{
+"id": 5359,
+"tag": "n",
+"phrase": "She reads the news on her ___.",
+"reponse": "tablet",
+"fr": "Elle lit les actualités sur sa tablette."
+},
+{
+"id": 5360,
+"tag": "n",
+"phrase": "___ allows employees to work from home.",
+"reponse": "teleworking",
+"fr": "Le télétravail permet aux employés de travailler depuis chez eux."
+},
+{
+"id": 5361,
+"tag": "n",
+"phrase": "I'll send you a ___ when I arrive.",
+"reponse": "text message",
+"fr": "Je t'enverrai un sms à mon arrivée."
+},
+{
+"id": 5362,
+"tag": "n",
+"phrase": "___ while driving is dangerous.",
+"reponse": "texting",
+"fr": "Envoyer des sms en conduisant est dangereux."
+},
+{
+"id": 5363,
+"tag": "n",
+"phrase": "This phone has a large ___.",
+"reponse": "touchscreen",
+"fr": "Ce téléphone a un grand écran tactile."
+},
+{
+"id": 5364,
+"tag": "v",
+"phrase": "Technicians managed to ___ the source of the error.",
+"reponse": "trace",
+"fr": "Les techniciens ont réussi à retrouver l'origine de l'erreur."
+},
+{
+"id": 5365,
+"tag": "n",
+"phrase": "The security system detected an ___ into the network.",
+"reponse": "trespass",
+"fr": "Le système de sécurité a détecté une intrusion dans le réseau."
+},
+{
+"id": 5366,
+"tag": "n",
+"phrase": "They bought a new ___ for the living room.",
+"reponse": "tv set",
+"fr": "Ils ont acheté un nouveau poste de télé pour le salon."
+},
+{
+"id": 5367,
+"tag": "v",
+"phrase": "The mayor likes to ___ about local events.",
+"reponse": "tweet",
+"fr": "Le maire aime tweeter sur les événements locaux."
+},
+{
+"id": 5368,
+"tag": "v",
+"phrase": "Please ___ your password.",
+"reponse": "type in",
+"fr": "Veuillez saisir votre mot de passe."
+},
+{
+"id": 5369,
+"tag": "n",
+"phrase": "The ___ on his desk is very large.",
+"reponse": "VDU",
+"fr": "Le moniteur posé sur son bureau est très grand."
+},
+{
+"id": 5370,
+"tag": "n",
+"phrase": "The program attracts millions of ___.",
+"reponse": "viewers",
+"fr": "L'émission attire des millions de téléspectateurs."
+},
+{
+"id": 5371,
+"tag": "n",
+"phrase": "Our new ___ will be launched next week.",
+"reponse": "website",
+"fr": "Notre nouveau site Internet sera lancé la semaine prochaine."
+},
+{
+"id": 5372,
+"tag": "n",
+"phrase": "She uses ___ software to write her reports.",
+"reponse": "word-processing",
+"fr": "Elle utilise un logiciel de traitement de texte pour rédiger ses rapports."
+},
+{
+"id": 5373,
+"tag": "n",
+"phrase": "Each employee has a computer on their ___.",
+"reponse": "workstation",
+"fr": "Chaque employé a un ordinateur à son poste de travail."
+},
+{
+"id": 5374,
+"tag": "n",
+"phrase": "She wrapped herself in a warm ___.",
+"reponse": "blanket",
+"fr": "Elle s'est enveloppée dans une couverture chaude."
+},
+{
+"id": 5375,
+"tag": "n",
+"phrase": "The map shows the ___ of the property.",
+"reponse": "boundaries",
+"fr": "La carte montre les limites de la propriété."
+},
+{
+"id": 5376,
+"tag": "a",
+"phrase": "The company offers a ___ range of products.",
+"reponse": "broad",
+"fr": "L'entreprise propose une large gamme de produits."
+},
+{
+"id": 5377,
+"tag": "n",
+"phrase": "Heavy rain damaged this year's ___.",
+"reponse": "crop",
+"fr": "Les fortes pluies ont abîmé la récolte de cette année."
+},
+{
+"id": 5378,
+"tag": "a",
+"phrase": "She has a very ___ job with long hours.",
+"reponse": "demanding",
+"fr": "Elle a un travail très exigeant avec de longues heures."
+},
+{
+"id": 5379,
+"tag": "r",
+"phrase": "The sales curve is trending ___.",
+"reponse": "downward",
+"fr": "La courbe des ventes est orientée à la baisse."
+},
+{
+"id": 5380,
+"tag": "r",
+"phrase": "I arrive ___ to avoid the traffic.",
+"reponse": "early",
+"fr": "J'arrive tôt pour éviter la circulation."
+},
+{
+"id": 5381,
+"tag": "n",
+"phrase": "Satellites orbit the ___.",
+"reponse": "earth",
+"fr": "Les satellites orbitent autour de la Terre."
+},
+{
+"id": 5382,
+"tag": "n",
+"phrase": "The house sits at the top of a ___.",
+"reponse": "hill",
+"fr": "La maison est située au sommet d'une colline."
+},
+{
+"id": 5383,
+"tag": "a",
+"phrase": "The new stadium is ___.",
+"reponse": "huge",
+"fr": "Le nouveau stade est énorme."
+},
+{
+"id": 5384,
+"tag": "n",
+"phrase": "They rented a cabin beside the ___.",
+"reponse": "lake",
+"fr": "Ils ont loué une cabane au bord du lac."
+},
+{
+"id": 5385,
+"tag": "a",
+"phrase": "Please read the instructions ___.",
+"reponse": "loud",
+"fr": "Veuillez lire les instructions à voix haute."
+},
+{
+"id": 5386,
+"tag": "v",
+"phrase": "Errors can ___ when the data is entered by hand.",
+"reponse": "occur",
+"fr": "Des erreurs peuvent se produire quand les données sont saisies à la main."
+},
+{
+"id": 5387,
+"tag": "n",
+"phrase": "The winner will receive a ___ of one thousand dollars.",
+"reponse": "prize",
+"fr": "Le gagnant recevra un prix de mille dollars."
+},
+{
+"id": 5388,
+"tag": "c",
+"phrase": "You may leave early, ___ you finish your work.",
+"reponse": "provided",
+"fr": "Vous pouvez partir tôt, du moment que vous terminez votre travail."
+},
+{
+"id": 5389,
+"tag": "a",
+"phrase": "We took a ___ car at the airport.",
+"reponse": "rental",
+"fr": "Nous avons pris une voiture de location à l'aéroport."
+},
+{
+"id": 5390,
+"tag": "n",
+"phrase": "Each ___ answered ten questions.",
+"reponse": "respondent",
+"fr": "Chaque personne sondée a répondu à dix questions."
+},
+{
+"id": 5391,
+"tag": "n",
+"phrase": "There is a ___ through the park.",
+"reponse": "shortcut",
+"fr": "Il y a un raccourci à travers le parc."
+},
+{
+"id": 5392,
+"tag": "n",
+"phrase": "The ___ of the new factory has not been chosen yet.",
+"reponse": "site",
+"fr": "L'emplacement de la nouvelle usine n'a pas encore été choisi."
+},
+{
+"id": 5393,
+"tag": "v",
+"phrase": "Don't let the rain ___ your plans.",
+"reponse": "spoil",
+"fr": "Ne laissez pas la pluie gâcher vos plans."
+},
+{
+"id": 5394,
+"tag": "n",
+"phrase": "Traffic came to a ___ because of the accident.",
+"reponse": "standstill",
+"fr": "La circulation s'est arrêtée à cause de l'accident."
+},
+{
+"id": 5395,
+"tag": "n",
+"phrase": "Please read the ___ of the contract carefully.",
+"reponse": "terms",
+"fr": "Veuillez lire attentivement les conditions du contrat."
+},
+{
+"id": 5396,
+"tag": "a",
+"phrase": "She was ___ by the news of the delay.",
+"reponse": "upset",
+"fr": "Elle a été bouleversée par la nouvelle du retard."
+},
+{
+"id": 5397,
+"tag": "v",
+"phrase": "The clerk will ___ the parcel before sending it.",
+"reponse": "weigh",
+"fr": "L'employé pèsera le colis avant de l'envoyer."
+},
+{
+"id": 5398,
+"tag": "n",
+"phrase": "The ___ of the package is two kilograms.",
+"reponse": "weight",
+"fr": "Le poids du colis est de deux kilogrammes."
 }
 ]
