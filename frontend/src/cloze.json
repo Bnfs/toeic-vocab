@@ -29517,5 +29517,103 @@
 "phrase": "The program offers training to the ___ of the region.",
 "reponse": "youth",
 "fr": "Le programme propose une formation aux jeunes de la région."
+},
+{
+"id": 7000,
+"tag": "n",
+"phrase": "Employees may leave their cars in the ___ behind the building.",
+"reponse": "parking lot",
+"fr": "Les employés peuvent laisser leur voiture sur le parking derrière le bâtiment."
+},
+{
+"id": 7001,
+"tag": "n",
+"phrase": "She asked for a ___ to enjoy the view.",
+"reponse": "window seat",
+"fr": "Elle a demandé une place côté hublot pour profiter de la vue."
+},
+{
+"id": 7002,
+"tag": "p",
+"phrase": "Our sales have increased for three months ___.",
+"reponse": "in a row",
+"fr": "Nos ventes augmentent depuis trois mois d'affilée."
+},
+{
+"id": 7003,
+"tag": "n",
+"phrase": "Could you give me the ___ for the guest network?",
+"reponse": "wifi password",
+"fr": "Pourriez-vous me donner le mot de passe wifi du réseau invité ?"
+},
+{
+"id": 7004,
+"tag": "n",
+"phrase": "A tourist office clerk handed me a ___ about the museum.",
+"reponse": "leaflet",
+"fr": "Un employé de l'office de tourisme m'a remis un dépliant sur le musée."
+},
+{
+"id": 7005,
+"tag": "n",
+"phrase": "Every room has an ___ with a shower.",
+"reponse": "en suite bathroom",
+"fr": "Chaque chambre a une salle de bains privative avec douche."
+},
+{
+"id": 7006,
+"tag": "n",
+"phrase": "We bought postcards at the ___ near the exit.",
+"reponse": "souvenir shop",
+"fr": "Nous avons acheté des cartes postales à la boutique de souvenirs près de la sortie."
+},
+{
+"id": 7007,
+"tag": "n",
+"phrase": "I forgot my ___, so my battery is almost dead.",
+"reponse": "phone charger",
+"fr": "J'ai oublié mon chargeur de téléphone, ma batterie est donc presque à plat."
+},
+{
+"id": 7008,
+"tag": "n",
+"phrase": "Don't forget to bring ___ on the boat trip.",
+"reponse": "sun cream",
+"fr": "N'oubliez pas d'emporter de la crème solaire pour la sortie en bateau."
+},
+{
+"id": 7009,
+"tag": "a",
+"phrase": "The weather was ___ all week, with grey skies.",
+"reponse": "gloomy",
+"fr": "Le temps a été maussade toute la semaine, avec un ciel gris."
+},
+{
+"id": 7010,
+"tag": "v",
+"phrase": "We decided to ___ the storage room before the inspection.",
+"reponse": "declutter",
+"fr": "Nous avons décidé de faire du tri dans la réserve avant l'inspection."
+},
+{
+"id": 7011,
+"tag": "n",
+"phrase": "Shares fell sharply on the ___ this morning.",
+"reponse": "stock market",
+"fr": "Les actions ont fortement chuté à la bourse ce matin."
+},
+{
+"id": 7012,
+"tag": "a",
+"phrase": "The conference was informative and very ___.",
+"reponse": "enjoyable",
+"fr": "La conférence était instructive et très agréable."
+},
+{
+"id": 7013,
+"tag": "a",
+"phrase": "The sudden drop in sales was ___.",
+"reponse": "surprising",
+"fr": "La chute soudaine des ventes était surprenante."
 }
 ]

@@ -491,5 +491,274 @@
 "pourquoi": "out of the office."
 }
 ]
+},
+{
+"id": "nature-du-mot",
+"titre": "Nature du mot (Parts 5 et 6)",
+"fiche": [
+{
+"titre": "La méthode du livre (Parts 5 et 6)",
+"regles": [
+"1. Lisez la phrase sans regarder les réponses et demandez-vous ce que vous mettriez.",
+"2. Regardez les mots autour du blanc, surtout les prépositions et les articles.",
+"3. Identifiez la nature du mot manquant: nom (singulier ou pluriel), adjectif, adverbe, verbe (à quel temps)?",
+"4. Éliminez les réponses impossibles, puis relisez la phrase avec les choix restants.",
+"5. Visez moins d'une minute par question."
+]
+},
+{
+"titre": "Reconnaître la nature du mot",
+"regles": [
+"Après un article ou un possessif (the, a, her): un nom (growth, reduction).",
+"Devant un nom: un adjectif (reliable, final).",
+"Entre un auxiliaire et un participe, ou après un verbe: un adverbe en -ly (carefully).",
+"Après will, must, can, to: un verbe à l'infinitif.",
+"Après be + by / for (passif): un participe passé (opened, recognized).",
+"than = comparatif (faster) ; the ... in = superlatif (best)."
+]
+}
+],
+"exos": [
+{
+"phrase": "The company's ___ has increased steadily.",
+"options": [
+"grow",
+"growth",
+"grown",
+"growing"
+],
+"reponse": "growth",
+"fr": "La croissance de l'entreprise a augmenté régulièrement.",
+"pourquoi": "Après 'The company's' il faut un nom : growth."
+},
+{
+"phrase": "Please complete the form ___.",
+"options": [
+"careful",
+"care",
+"carefully",
+"caring"
+],
+"reponse": "carefully",
+"fr": "Veuillez remplir le formulaire avec soin.",
+"pourquoi": "Il manque un adverbe (-ly) pour décrire comment on remplit."
+},
+{
+"phrase": "The ___ of the new policy was announced on Monday.",
+"options": [
+"implement",
+"implementation",
+"implemented",
+"implementing"
+],
+"reponse": "implementation",
+"fr": "La mise en œuvre de la nouvelle politique a été annoncée lundi.",
+"pourquoi": "Après 'The' + ___ + 'of', on attend un nom : implementation."
+},
+{
+"phrase": "She is a very ___ employee.",
+"options": [
+"rely",
+"reliable",
+"reliably",
+"reliability"
+],
+"reponse": "reliable",
+"fr": "C'est une employée très fiable.",
+"pourquoi": "Devant un nom (employee), il faut un adjectif : reliable."
+},
+{
+"phrase": "The manager will ___ the schedule tomorrow.",
+"options": [
+"revision",
+"revise",
+"revised",
+"revising"
+],
+"reponse": "revise",
+"fr": "Le directeur révisera le planning demain.",
+"pourquoi": "Après 'will', on attend un verbe à l'infinitif : revise."
+},
+{
+"phrase": "Sales have ___ increased this quarter.",
+"options": [
+"significant",
+"significance",
+"significantly",
+"signify"
+],
+"reponse": "significantly",
+"fr": "Les ventes ont nettement augmenté ce trimestre.",
+"pourquoi": "Entre 'have' et 'increased' : un adverbe (significantly)."
+},
+{
+"phrase": "We need a more ___ way to process orders.",
+"options": [
+"efficient",
+"efficiency",
+"efficiently",
+"efficients"
+],
+"reponse": "efficient",
+"fr": "Nous avons besoin d'un moyen plus efficace de traiter les commandes.",
+"pourquoi": "Après 'more' et devant 'way' : un adjectif."
+},
+{
+"phrase": "All employees must ___ with the new rules.",
+"options": [
+"comply",
+"compliant",
+"compliance",
+"complying"
+],
+"reponse": "comply",
+"fr": "Tous les employés doivent se conformer aux nouvelles règles.",
+"pourquoi": "Après 'must' : verbe à l'infinitif (comply with)."
+},
+{
+"phrase": "Her ___ in the field made her the ideal candidate.",
+"options": [
+"experience",
+"experienced",
+"experiencing",
+"experiences are"
+],
+"reponse": "experience",
+"fr": "Son expérience dans le domaine en a fait la candidate idéale.",
+"pourquoi": "Après 'Her' : un nom (sujet de la phrase)."
+},
+{
+"phrase": "The meeting was ___ by the CEO.",
+"options": [
+"open",
+"opened",
+"opening",
+"openly"
+],
+"reponse": "opened",
+"fr": "La réunion a été ouverte par le PDG.",
+"pourquoi": "'was ... by' = passif : participe passé (opened)."
+},
+{
+"phrase": "The ___ report will be sent next week.",
+"options": [
+"finally",
+"final",
+"finalize",
+"finality"
+],
+"reponse": "final",
+"fr": "Le rapport final sera envoyé la semaine prochaine.",
+"pourquoi": "Devant un nom (report) : adjectif."
+},
+{
+"phrase": "The company is ___ new staff.",
+"options": [
+"recruit",
+"recruitment",
+"recruiting",
+"recruited by"
+],
+"reponse": "recruiting",
+"fr": "L'entreprise recrute du personnel.",
+"pourquoi": "'is' + ___ + complément : forme en -ing (présent continu)."
+},
+{
+"phrase": "We were ___ by the quality of the service.",
+"options": [
+"impress",
+"impressed",
+"impression",
+"impressive"
+],
+"reponse": "impressed",
+"fr": "Nous avons été impressionnés par la qualité du service.",
+"pourquoi": "'were ... by' = passif : participe passé."
+},
+{
+"phrase": "Please read the instructions ___ before you start.",
+"options": [
+"thorough",
+"thoroughly",
+"thoroughness",
+"through"
+],
+"reponse": "thoroughly",
+"fr": "Veuillez lire attentivement les instructions avant de commencer.",
+"pourquoi": "Après le verbe et son complément : adverbe de manière."
+},
+{
+"phrase": "He gave a ___ presentation on the new product.",
+"options": [
+"persuade",
+"persuasion",
+"persuasive",
+"persuasively"
+],
+"reponse": "persuasive",
+"fr": "Il a fait une présentation convaincante sur le nouveau produit.",
+"pourquoi": "Devant un nom (presentation) : adjectif."
+},
+{
+"phrase": "There has been a ___ in the number of complaints.",
+"options": [
+"reduce",
+"reduction",
+"reduced",
+"reducing"
+],
+"reponse": "reduction",
+"fr": "Il y a eu une baisse du nombre de réclamations.",
+"pourquoi": "Après 'a' : un nom (reduction)."
+},
+{
+"phrase": "The new system is ___ than the old one.",
+"options": [
+"fast",
+"faster",
+"fastest",
+"more fast"
+],
+"reponse": "faster",
+"fr": "Le nouveau système est plus rapide que l'ancien.",
+"pourquoi": "'than' = comparatif (faster)."
+},
+{
+"phrase": "This is the ___ restaurant in the city.",
+"options": [
+"good",
+"better",
+"best",
+"well"
+],
+"reponse": "best",
+"fr": "C'est le meilleur restaurant de la ville.",
+"pourquoi": "'the' + 'in the city' = superlatif (best)."
+},
+{
+"phrase": "Ms. Lee was ___ for her outstanding performance.",
+"options": [
+"recognize",
+"recognition",
+"recognized",
+"recognizing"
+],
+"reponse": "recognized",
+"fr": "Mme Lee a été distinguée pour son excellente performance.",
+"pourquoi": "'was ... for' = passif : participe passé."
+},
+{
+"phrase": "The staff were ___ to hear about the merger.",
+"options": [
+"surprise",
+"surprising",
+"surprised",
+"surprisingly"
+],
+"reponse": "surprised",
+"fr": "Le personnel a été surpris d'apprendre la fusion.",
+"pourquoi": "Une personne ressent : adjectif en -ed (surprised) ; une chose surprend : -ing."
+}
+]
 }
 ]
