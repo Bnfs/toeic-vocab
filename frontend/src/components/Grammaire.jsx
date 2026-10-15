@@ -25,7 +25,11 @@ export default function Grammaire() {
     <div className="grammaire-page">
       {themes.length > 1 && (
         <select className="gram-select" value={themeId} onChange={e => setThemeId(e.target.value)}>
-          {themes.map(t => <option key={t.id} value={t.id}>{t.titre}</option>)}
+          {[...new Set(themes.map(t => t.groupe))].map(g => (
+            <optgroup key={g} label={g}>
+              {themes.filter(t => t.groupe === g).map(t => <option key={t.id} value={t.id}>{t.titre}</option>)}
+            </optgroup>
+          ))}
         </select>
       )}
       <div className="card">

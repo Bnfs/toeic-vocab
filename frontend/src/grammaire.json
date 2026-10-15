@@ -490,7 +490,8 @@
 "fr": "Je serai absent du bureau jusqu'à jeudi.",
 "pourquoi": "out of the office."
 }
-]
+],
+"groupe": "Prépositions"
 },
 {
 "id": "prep-lieu",
@@ -691,7 +692,8 @@
 "fr": "Ils voyagent en voiture.",
 "pourquoi": "by + moyen de transport (sans article)."
 }
-]
+],
+"groupe": "Prépositions"
 },
 {
 "id": "prep-mouvement",
@@ -867,7 +869,8 @@
 "fr": "Le magasin est ouvert du lundi au vendredi.",
 "pourquoi": "from ... to = début et fin."
 }
-]
+],
+"groupe": "Prépositions"
 },
 {
 "id": "prep-locutions",
@@ -1101,7 +1104,8 @@
 "fr": "Contrairement à son frère, il adore le sport.",
 "pourquoi": "unlike = contrairement à."
 }
-]
+],
+"groupe": "Prépositions"
 },
 {
 "id": "prep-50",
@@ -1432,7 +1436,1581 @@
 "fr": "Je t'entends facilement malgré le bruit.",
 "pourquoi": "despite = malgré."
 }
+],
+"groupe": "Prépositions"
+},
+{
+"id": "g-articles",
+"titre": "Les articles (a / an / the / zéro)",
+"fiche": [
+{
+"titre": "a / an",
+"regles": [
+"Devant un métier: He's a doctor / She's an engineer",
+"Exclamations: What a beautiful day!",
+"Fréquence et prix: once a week, $5 a kilo, 20 miles an hour"
 ]
+},
+{
+"titre": "On met « the » avec",
+"regles": [
+"Inventions (the Internet), journaux (The Times), océans, mers, fleuves (the Atlantic, the Seine)",
+"Chaînes de montagnes et archipels (the Alps, the Bahamas) ; pays au pluriel ou avec un nom collectif (the United States, the Netherlands)",
+"Hôtels, restaurants, organisations (the Ritz, the BBC) ; the Smiths (famille)",
+"Superlatifs et the same ; the + adjectif pour un groupe (the unemployed)"
+]
+},
+{
+"titre": "On ne met pas « the » avec",
+"regles": [
+"Noms indénombrables ou pluriels en général: Shoes are expensive. History is fun.",
+"Jours de la semaine, repas (Lunch is at noon), langues, couleurs, maladies (cancer)",
+"Pays (France), îles ou montagnes isolées (Corsica), lacs (Lake Ontario), rues (Fifth Avenue)",
+"Titre + nom (President Obama) ; lieux familiers (home, school, work, hospital) en sens général"
+]
+},
+{
+"titre": "Exceptions",
+"regles": [
+"the flu, the plague, the measles",
+"the Earth, the sun, the moon",
+"at the weekend (UK)"
+]
+}
+],
+"exos": [
+{
+"phrase": "She's ___ engineer at a large company.",
+"options": [
+"an",
+"a",
+"the",
+"—"
+],
+"reponse": "an",
+"fr": "Elle est ingénieure dans une grande entreprise.",
+"pourquoi": "Article devant un métier ; engineer commence par une voyelle."
+},
+{
+"phrase": "___ Internet has changed the way we work.",
+"options": [
+"The",
+"A",
+"An",
+"—"
+],
+"reponse": "The",
+"fr": "Internet a changé notre façon de travailler.",
+"pourquoi": "the + inventions."
+},
+{
+"phrase": "We went to ___ France last summer.",
+"options": [
+"—",
+"the",
+"a",
+"an"
+],
+"reponse": "—",
+"fr": "Nous sommes allés en France l'été dernier.",
+"pourquoi": "Pas d'article avec un pays."
+},
+{
+"phrase": "The Smiths live near ___ Alps.",
+"options": [
+"the",
+"a",
+"—",
+"an"
+],
+"reponse": "the",
+"fr": "Les Smith habitent près des Alpes.",
+"pourquoi": "the + chaînes de montagnes."
+},
+{
+"phrase": "___ lunch is at noon.",
+"options": [
+"—",
+"The",
+"A",
+"An"
+],
+"reponse": "—",
+"fr": "Le déjeuner est à midi.",
+"pourquoi": "Pas d'article avec les repas."
+},
+{
+"phrase": "He was born on ___ Monday.",
+"options": [
+"—",
+"the",
+"a",
+"an"
+],
+"reponse": "—",
+"fr": "Il est né un lundi.",
+"pourquoi": "Pas d'article avec les jours."
+},
+{
+"phrase": "We meet once ___ week.",
+"options": [
+"a",
+"the",
+"an",
+"—"
+],
+"reponse": "a",
+"fr": "Nous nous voyons une fois par semaine.",
+"pourquoi": "a / an dans les expressions de fréquence."
+},
+{
+"phrase": "Cancer is ___ deadly disease.",
+"options": [
+"a",
+"the",
+"an",
+"—"
+],
+"reponse": "a",
+"fr": "Le cancer est une maladie mortelle.",
+"pourquoi": "Ici 'a deadly disease' = une maladie ; mais Cancer n'a pas d'article."
+},
+{
+"phrase": "What ___ beautiful day!",
+"options": [
+"a",
+"the",
+"an",
+"—"
+],
+"reponse": "a",
+"fr": "Quelle belle journée !",
+"pourquoi": "a / an dans les phrases exclamatives."
+},
+{
+"phrase": "___ best way to learn is to practise.",
+"options": [
+"The",
+"A",
+"—",
+"An"
+],
+"reponse": "The",
+"fr": "La meilleure façon d'apprendre est de pratiquer.",
+"pourquoi": "the + superlatif."
+},
+{
+"phrase": "He is at ___ school today.",
+"options": [
+"—",
+"the",
+"a",
+"an"
+],
+"reponse": "—",
+"fr": "Il est à l'école aujourd'hui.",
+"pourquoi": "Pas d'article avec un lieu familier dans son usage normal."
+},
+{
+"phrase": "She reads ___ Times every morning.",
+"options": [
+"The",
+"A",
+"An",
+"—"
+],
+"reponse": "The",
+"fr": "Elle lit le Times tous les matins.",
+"pourquoi": "the + journaux."
+},
+{
+"phrase": "___ President Obama visited the factory.",
+"options": [
+"—",
+"The",
+"A",
+"An"
+],
+"reponse": "—",
+"fr": "Le président Obama a visité l'usine.",
+"pourquoi": "Titre + nom = pas d'article."
+},
+{
+"phrase": "We spent the day on ___ Atlantic coast.",
+"options": [
+"the",
+"a",
+"—",
+"an"
+],
+"reponse": "the",
+"fr": "Nous avons passé la journée sur la côte atlantique.",
+"pourquoi": "the + océans, mers."
+}
+],
+"groupe": "Noms, articles, accord"
+},
+{
+"id": "g-accord",
+"titre": "Accord sujet-verbe",
+"fiche": [
+{
+"titre": "Pluriel et singulier",
+"regles": [
+"Noms toujours pluriels: police, jeans, scissors, glasses → verbe au pluriel (The police have…)",
+"Noms indénombrables (information, advice, news) → verbe au singulier",
+"every / everybody / everyone / anyone / someone / nobody / each → verbe au singulier"
+]
+},
+{
+"titre": "and / or / either / neither",
+"regles": [
+"A and B → verbe au pluriel",
+"A or B → le verbe s'accorde avec le sujet le plus proche",
+"Either … or … → singulier (avec deux sujets singuliers) ; Neither … nor … → on accorde avec le sujet le plus proche, le pluriel est courant",
+"The manager, but not the employees, has… → c'est la partie positive qui commande l'accord"
+]
+}
+],
+"exos": [
+{
+"phrase": "The police ___ stopped the riot.",
+"options": [
+"have",
+"has",
+"is",
+"was"
+],
+"reponse": "have",
+"fr": "La police a mis fin à l'émeute.",
+"pourquoi": "police = toujours pluriel."
+},
+{
+"phrase": "That information ___ very interesting.",
+"options": [
+"is",
+"are",
+"were",
+"have been"
+],
+"reponse": "is",
+"fr": "Cette information est très intéressante.",
+"pourquoi": "information = indénombrable, donc singulier."
+},
+{
+"phrase": "My colleagues and I ___ interested in the new project.",
+"options": [
+"are",
+"is",
+"was",
+"has been"
+],
+"reponse": "are",
+"fr": "Mes collègues et moi sommes intéressés par le nouveau projet.",
+"pourquoi": "A and B = pluriel."
+},
+{
+"phrase": "Everybody ___ watching a good film.",
+"options": [
+"likes",
+"like",
+"are liking",
+"have liked"
+],
+"reponse": "likes",
+"fr": "Tout le monde aime regarder un bon film.",
+"pourquoi": "everybody = singulier."
+},
+{
+"phrase": "Each person ___ responsible for their workstation.",
+"options": [
+"is",
+"are",
+"were",
+"have been"
+],
+"reponse": "is",
+"fr": "Chaque personne est responsable de son poste de travail.",
+"pourquoi": "each = singulier."
+},
+{
+"phrase": "My new jeans ___ too tight.",
+"options": [
+"are",
+"is",
+"was",
+"has"
+],
+"reponse": "are",
+"fr": "Mon nouveau jean est trop serré.",
+"pourquoi": "jeans = nom pluriel (paire)."
+},
+{
+"phrase": "Mary or the Smiths ___ booked the hotel room.",
+"options": [
+"have",
+"has",
+"is",
+"was"
+],
+"reponse": "have",
+"fr": "Mary ou les Smith ont réservé la chambre d'hôtel.",
+"pourquoi": "Avec 'or', on accorde avec le sujet le plus proche (the Smiths = pluriel)."
+},
+{
+"phrase": "The Smiths or Mary ___ booked the room.",
+"options": [
+"has",
+"have",
+"are",
+"were"
+],
+"reponse": "has",
+"fr": "Les Smith ou Mary ont réservé la chambre.",
+"pourquoi": "Le sujet le plus proche est Mary (singulier)."
+},
+{
+"phrase": "Either John or James ___ the book.",
+"options": [
+"has",
+"have",
+"are having",
+"were"
+],
+"reponse": "has",
+"fr": "John ou James a le livre.",
+"pourquoi": "either … or avec deux sujets singuliers = singulier."
+},
+{
+"phrase": "The manager, but not the employees, ___ decided to work on Saturday.",
+"options": [
+"has",
+"have",
+"are",
+"were"
+],
+"reponse": "has",
+"fr": "Le directeur, mais pas les employés, a décidé de travailler samedi.",
+"pourquoi": "La partie positive (the manager) commande l'accord."
+},
+{
+"phrase": "The employees, but not the manager, ___ decided to take Friday off.",
+"options": [
+"have",
+"has",
+"is",
+"was"
+],
+"reponse": "have",
+"fr": "Les employés, mais pas le directeur, ont décidé de prendre vendredi.",
+"pourquoi": "La partie positive (the employees) est au pluriel."
+},
+{
+"phrase": "Neither computer ___ a free mouse.",
+"options": [
+"has",
+"have",
+"are",
+"were"
+],
+"reponse": "has",
+"fr": "Aucun des ordinateurs n'a de souris disponible.",
+"pourquoi": "neither + nom singulier = singulier."
+},
+{
+"phrase": "The news from the factory ___ good.",
+"options": [
+"is",
+"are",
+"were",
+"have been"
+],
+"reponse": "is",
+"fr": "Les nouvelles de l'usine sont bonnes.",
+"pourquoi": "news = indénombrable, singulier."
+}
+],
+"groupe": "Noms, articles, accord"
+},
+{
+"id": "g-quantificateurs",
+"titre": "Les quantificateurs (all, both, each, every, either, neither)",
+"fiche": [
+{
+"titre": "all / most / half",
+"regles": [
+"all / most + nom (général): Most passengers expect good service.",
+"all of the / most of the / half of the + nom précis ; all of us, half of them",
+"all week, all year (sans 'the') ; most of the week"
+]
+},
+{
+"titre": "both / each / every",
+"regles": [
+"both = les deux, pas de 'the' devant: Both factories… / both (of) these brochures",
+"each = chacun individuellement (singulier) ; every = tout le groupe (singulier) ; every pour la fréquence: every month",
+"each of / every one of + pluriel défini"
+]
+},
+{
+"titre": "either / neither",
+"regles": [
+"either = l'un ou l'autre ; neither = ni l'un ni l'autre (verbe positif)",
+"neither / either of + us / you / them",
+"Neither … nor … / Either … or …",
+"whole = entier: the whole day, a whole set"
+]
+}
+],
+"exos": [
+{
+"phrase": "___ passengers expect friendly service.",
+"options": [
+"Most",
+"Most of",
+"The most",
+"Almost the"
+],
+"reponse": "Most",
+"fr": "La plupart des passagers s'attendent à un service aimable.",
+"pourquoi": "most + nom pluriel (général)."
+},
+{
+"phrase": "___ of the investors were disappointed.",
+"options": [
+"All",
+"Every",
+"Each one",
+"Whole"
+],
+"reponse": "All",
+"fr": "Tous les investisseurs ont été déçus.",
+"pourquoi": "all of the + nom."
+},
+{
+"phrase": "The snowy weather lasted ___ week.",
+"options": [
+"all",
+"the all",
+"during",
+"most"
+],
+"reponse": "all",
+"fr": "Le temps neigeux a duré toute la semaine.",
+"pourquoi": "all + durée, sans 'the'."
+},
+{
+"phrase": "___ factory outlets sell branded goods.",
+"options": [
+"Both",
+"The both",
+"All",
+"Each"
+],
+"reponse": "Both",
+"fr": "Les deux magasins d'usine vendent des produits de marque.",
+"pourquoi": "both + nom, pas de 'the' devant."
+},
+{
+"phrase": "Both ___ us saw the eclipse.",
+"options": [
+"of",
+"the",
+"to",
+"from"
+],
+"reponse": "of",
+"fr": "Nous avons tous les deux vu l'éclipse.",
+"pourquoi": "both of + pronom: of obligatoire."
+},
+{
+"phrase": "___ consumer has a different taste.",
+"options": [
+"Each",
+"All",
+"Both",
+"Most of"
+],
+"reponse": "Each",
+"fr": "Chaque consommateur a des goûts différents.",
+"pourquoi": "each + singulier."
+},
+{
+"phrase": "They try a new restaurant ___ month.",
+"options": [
+"every",
+"each of",
+"both",
+"all"
+],
+"reponse": "every",
+"fr": "Ils essaient un nouveau restaurant tous les mois.",
+"pourquoi": "every pour la fréquence."
+},
+{
+"phrase": "___ visitor to the fair has an admission ticket.",
+"options": [
+"Every",
+"Both",
+"Several of",
+"All of"
+],
+"reponse": "Every",
+"fr": "Chaque visiteur de la foire a un billet d'entrée.",
+"pourquoi": "every + singulier (tout le groupe)."
+},
+{
+"phrase": "It doesn't matter: ___ hotel near the town centre will do.",
+"options": [
+"Either",
+"Neither",
+"Both",
+"Every"
+],
+"reponse": "Either",
+"fr": "Peu importe : n'importe lequel des deux hôtels près du centre-ville fera l'affaire.",
+"pourquoi": "either = l'un ou l'autre."
+},
+{
+"phrase": "Both samples failed: ___ of them suits our purpose.",
+"options": [
+"Neither",
+"Either",
+"Both",
+"Each"
+],
+"reponse": "Neither",
+"fr": "Les deux échantillons ont échoué : aucun des deux ne convient à notre objectif.",
+"pourquoi": "neither of + pronom (verbe positif)."
+},
+{
+"phrase": "___ Jane nor Tom works in fashion.",
+"options": [
+"Neither",
+"Either",
+"Both",
+"Not"
+],
+"reponse": "Neither",
+"fr": "Ni Jane ni Tom ne travaillent dans la mode.",
+"pourquoi": "neither … nor …"
+},
+{
+"phrase": "Either you finish the weeding, ___ I'll find another gardener.",
+"options": [
+"or",
+"nor",
+"and",
+"but"
+],
+"reponse": "or",
+"fr": "Soit vous finissez le désherbage, soit je trouverai un autre jardinier.",
+"pourquoi": "either … or …"
+},
+{
+"phrase": "We worked on the house the ___ day.",
+"options": [
+"whole",
+"all",
+"both",
+"each"
+],
+"reponse": "whole",
+"fr": "Nous avons travaillé sur la maison toute la journée.",
+"pourquoi": "the whole + nom singulier."
+},
+{
+"phrase": "Half ___ the employees were absent today.",
+"options": [
+"of",
+"the of",
+"to",
+"from"
+],
+"reponse": "of",
+"fr": "La moitié des employés étaient absents aujourd'hui.",
+"pourquoi": "half of the + nom."
+}
+],
+"groupe": "Noms, articles, accord"
+},
+{
+"id": "g-conditionnels",
+"titre": "Les conditionnels (0, 1, 2, 3)",
+"fiche": [
+{
+"titre": "Les 4 types",
+"regles": [
+"0 (vérité générale): If + présent, présent — If you press that switch, the light comes on.",
+"1 (réel, possible): If + présent, will — If we go now, we'll catch the bus.",
+"2 (irréel, présent): If + prétérit, would — If James were here, he would know. (were pour tous les sujets)",
+"3 (passé, regret): If + past perfect, would have + participe passé — If I had known, I wouldn't have come."
+]
+},
+{
+"titre": "À retenir",
+"regles": [
+"Jamais 'would' dans la partie if (sauf demande polie).",
+"wish + prétérit (regret présent): I wish I knew. ; wish + past perfect (regret passé): I wish I had known. Jamais 'would have' après wish.",
+"Inversion formelle: Had I known… ; Should you need more information…",
+"Même structure que le type 1 avec when, until, as soon as, unless, as long as, providing that"
+]
+}
+],
+"exos": [
+{
+"phrase": "If you press that switch, the light ___ on.",
+"options": [
+"comes",
+"will come",
+"came",
+"would come"
+],
+"reponse": "comes",
+"fr": "Si vous appuyez sur cet interrupteur, la lumière s'allume.",
+"pourquoi": "Type 0: if + présent, présent."
+},
+{
+"phrase": "If we go now, we ___ the last bus.",
+"options": [
+"will catch",
+"would catch",
+"caught",
+"are catching"
+],
+"reponse": "will catch",
+"fr": "Si nous partons maintenant, nous attraperons le dernier bus.",
+"pourquoi": "Type 1: if + présent, will."
+},
+{
+"phrase": "If James ___ here, he would know the answer.",
+"options": [
+"were",
+"is",
+"would be",
+"has been"
+],
+"reponse": "were",
+"fr": "Si James était là, il connaîtrait la réponse.",
+"pourquoi": "Type 2: if + prétérit (were)."
+},
+{
+"phrase": "If I ___ the answer, I would tell you.",
+"options": [
+"knew",
+"know",
+"will know",
+"had known"
+],
+"reponse": "knew",
+"fr": "Si je connaissais la réponse, je vous la dirais.",
+"pourquoi": "Type 2: if + prétérit."
+},
+{
+"phrase": "If I had known, I ___ come.",
+"options": [
+"wouldn't have",
+"wouldn't",
+"won't have",
+"hadn't"
+],
+"reponse": "wouldn't have",
+"fr": "Si j'avais su, je ne serais pas venu.",
+"pourquoi": "Type 3: would have + participe passé."
+},
+{
+"phrase": "We won't begin the visit ___ the guide arrives.",
+"options": [
+"until",
+"during",
+"by",
+"since"
+],
+"reponse": "until",
+"fr": "Nous ne commencerons pas la visite avant l'arrivée du guide.",
+"pourquoi": "until + présent (pas de will)."
+},
+{
+"phrase": "I wish I ___ a shorter presentation.",
+"options": [
+"had given",
+"would have given",
+"will give",
+"give"
+],
+"reponse": "had given",
+"fr": "J'aimerais avoir fait un exposé plus court.",
+"pourquoi": "wish + past perfect (jamais 'would have')."
+},
+{
+"phrase": "___ you require any further information, please contact us.",
+"options": [
+"Should",
+"Would",
+"Were",
+"Had"
+],
+"reponse": "Should",
+"fr": "Si vous avez besoin d'informations complémentaires, veuillez nous contacter.",
+"pourquoi": "Should + sujet = if, anglais formel."
+},
+{
+"phrase": "___ I known, I wouldn't have come.",
+"options": [
+"Had",
+"Have",
+"Did",
+"Would"
+],
+"reponse": "Had",
+"fr": "Si j'avais su, je ne serais pas venu.",
+"pourquoi": "Inversion du type 3."
+},
+{
+"phrase": "If it rains, we ___ the picnic.",
+"options": [
+"will cancel",
+"would cancel",
+"cancelled",
+"have cancelled"
+],
+"reponse": "will cancel",
+"fr": "S'il pleut, nous annulerons le pique-nique.",
+"pourquoi": "Type 1."
+},
+{
+"phrase": "If I ___ you, I would take notes.",
+"options": [
+"were",
+"am",
+"would be",
+"was being"
+],
+"reponse": "were",
+"fr": "À votre place, je prendrais des notes.",
+"pourquoi": "If I were you."
+},
+{
+"phrase": "I would be grateful if you ___ sign the visitor's book.",
+"options": [
+"would",
+"will have",
+"did",
+"had"
+],
+"reponse": "would",
+"fr": "Je vous serais reconnaissant de signer le registre des visiteurs.",
+"pourquoi": "Would est possible dans la partie if pour une demande polie."
+},
+{
+"phrase": "You can leave as soon as you ___ finished.",
+"options": [
+"have",
+"will have",
+"would have",
+"had"
+],
+"reponse": "have",
+"fr": "Vous pouvez partir dès que vous avez terminé.",
+"pourquoi": "as soon as + présent (pas de will)."
+},
+{
+"phrase": "If he had had more time, we ___ discussed the contract.",
+"options": [
+"could have",
+"can",
+"could",
+"would"
+],
+"reponse": "could have",
+"fr": "S'il avait eu plus de temps, nous aurions pu discuter du contrat.",
+"pourquoi": "Type 3: could have + participe passé."
+}
+],
+"groupe": "Verbes et phrases"
+},
+{
+"id": "g-passif",
+"titre": "Le passif",
+"fiche": [
+{
+"titre": "Formation",
+"regles": [
+"be (conjugué) + participe passé : The room is cleaned every day.",
+"Présent: is cleaned ; passé: was cleaned ; present perfect: has been cleaned ; futur: will be cleaned ; modal: might have been drawn ; continu: is being used",
+"L'agent est introduit par by (facultatif): The room is cleaned by the maid.",
+"Date de naissance: Simon was born in 1997 (jamais 'is born')"
+]
+},
+{
+"titre": "Prépositions avec make",
+"regles": [
+"made of = matière visible (The table is made of wood)",
+"made from = matière transformée (Paper is made from wood)",
+"made into = devenir (Wood is made into paper)",
+"made in = lieu ; made by = fabricant ; filled with = rempli de"
+]
+}
+],
+"exos": [
+{
+"phrase": "The room ___ every day by the maid.",
+"options": [
+"is cleaned",
+"cleans",
+"is cleaning",
+"cleaned"
+],
+"reponse": "is cleaned",
+"fr": "La chambre est nettoyée tous les jours par la femme de ménage.",
+"pourquoi": "Passif au présent: is + participe passé."
+},
+{
+"phrase": "John ___ to work by the chauffeur yesterday.",
+"options": [
+"was driven",
+"drove",
+"is driven",
+"has driven"
+],
+"reponse": "was driven",
+"fr": "John a été conduit au travail par le chauffeur hier.",
+"pourquoi": "Passif au prétérit: was + participe passé."
+},
+{
+"phrase": "The lunch ___ cooked by Charlotte.",
+"options": [
+"has been",
+"has",
+"was being",
+"is have"
+],
+"reponse": "has been",
+"fr": "Le déjeuner a été préparé par Charlotte.",
+"pourquoi": "Present perfect passif: has been + participe passé."
+},
+{
+"phrase": "The computer isn't ___ used at the moment.",
+"options": [
+"being",
+"been",
+"be",
+"was"
+],
+"reponse": "being",
+"fr": "L'ordinateur n'est pas utilisé en ce moment.",
+"pourquoi": "Passif continu: is being + participe passé."
+},
+{
+"phrase": "Will the grass ___ mown this afternoon?",
+"options": [
+"be",
+"been",
+"being",
+"is"
+],
+"reponse": "be",
+"fr": "L'herbe sera-t-elle tondue cet après-midi ?",
+"pourquoi": "Futur passif: will be + participe passé."
+},
+{
+"phrase": "Simon ___ born in 1997.",
+"options": [
+"was",
+"is",
+"has",
+"did"
+],
+"reponse": "was",
+"fr": "Simon est né en 1997.",
+"pourquoi": "Date de naissance: was born."
+},
+{
+"phrase": "The new policy ___ announced next week.",
+"options": [
+"will be",
+"will",
+"is",
+"has"
+],
+"reponse": "will be",
+"fr": "La nouvelle politique sera annoncée la semaine prochaine.",
+"pourquoi": "will be + participe passé."
+},
+{
+"phrase": "The table is made ___ wood.",
+"options": [
+"of",
+"from",
+"into",
+"by"
+],
+"reponse": "of",
+"fr": "La table est en bois.",
+"pourquoi": "made of = matière sans transformation visible."
+},
+{
+"phrase": "Paper is made ___ wood.",
+"options": [
+"from",
+"of",
+"into",
+"at"
+],
+"reponse": "from",
+"fr": "Le papier est fabriqué à partir du bois.",
+"pourquoi": "made from = matière transformée."
+},
+{
+"phrase": "The product was made ___ Thailand.",
+"options": [
+"in",
+"by",
+"of",
+"from"
+],
+"reponse": "in",
+"fr": "Le produit a été fabriqué en Thaïlande.",
+"pourquoi": "made in + lieu."
+},
+{
+"phrase": "The product was made ___ Makeit Inc.",
+"options": [
+"by",
+"in",
+"of",
+"from"
+],
+"reponse": "by",
+"fr": "Le produit a été fabriqué par Makeit Inc.",
+"pourquoi": "made by + fabricant."
+},
+{
+"phrase": "The report must ___ finished by Friday.",
+"options": [
+"be",
+"been",
+"being",
+"is"
+],
+"reponse": "be",
+"fr": "Le rapport doit être terminé d'ici vendredi.",
+"pourquoi": "modal + be + participe passé."
+},
+{
+"phrase": "The customers ___ informed about the delay yesterday.",
+"options": [
+"were",
+"was",
+"being",
+"have"
+],
+"reponse": "were",
+"fr": "Les clients ont été informés du retard hier.",
+"pourquoi": "were + participe passé (sujet pluriel)."
+},
+{
+"phrase": "The machine might ___ repaired already.",
+"options": [
+"have been",
+"be having",
+"has been",
+"were"
+],
+"reponse": "have been",
+"fr": "La machine a peut-être déjà été réparée.",
+"pourquoi": "might have been + participe passé."
+}
+],
+"groupe": "Verbes et phrases"
+},
+{
+"id": "g-relatives",
+"titre": "Les propositions relatives",
+"fiche": [
+{
+"titre": "Les pronoms",
+"regles": [
+"who = personnes ; which = choses ; that = choses (ou personnes, who est préférable)",
+"whose = possession ; where = lieu ; when = temps ; why = cause",
+"whom = objet (rare), obligatoire après une préposition formelle: the person to whom I spoke",
+"Ne jamais remplacer 'that' par 'what'"
+]
+},
+{
+"titre": "Defining / non-defining",
+"regles": [
+"Defining (indispensable): pas de virgule, pronom objet facultatif: The book (that) I lent you.",
+"Non-defining (information en plus): virgules obligatoires, 'that' impossible: My aunt, who lives in Thailand, sent a postcard.",
+"Préposition + whom / which: without which, to whom, by which time",
+"most of whom, none of which… ; whoever / whatever / whenever / wherever"
+]
+}
+],
+"exos": [
+{
+"phrase": "The man ___ wrote the letter is my manager.",
+"options": [
+"who",
+"which",
+"whose",
+"where"
+],
+"reponse": "who",
+"fr": "L'homme qui a écrit la lettre est mon directeur.",
+"pourquoi": "who = personnes."
+},
+{
+"phrase": "The computer ___ is in his office is new.",
+"options": [
+"which",
+"who",
+"whose",
+"whom"
+],
+"reponse": "which",
+"fr": "L'ordinateur qui est dans son bureau est neuf.",
+"pourquoi": "which = choses."
+},
+{
+"phrase": "The man ___ book you borrowed is here.",
+"options": [
+"whose",
+"who",
+"which",
+"where"
+],
+"reponse": "whose",
+"fr": "L'homme dont vous avez emprunté le livre est ici.",
+"pourquoi": "whose = possession."
+},
+{
+"phrase": "This is the town ___ they work.",
+"options": [
+"where",
+"which",
+"who",
+"whose"
+],
+"reponse": "where",
+"fr": "Voici la ville où ils travaillent.",
+"pourquoi": "where = lieu."
+},
+{
+"phrase": "My aunt, ___ is away in Thailand, sent me a postcard.",
+"options": [
+"who",
+"that",
+"which",
+"what"
+],
+"reponse": "who",
+"fr": "Ma tante, qui est en Thaïlande, m'a envoyé une carte postale.",
+"pourquoi": "Non-defining: virgules, pas de 'that'."
+},
+{
+"phrase": "We wrote a firm letter, ___ should make them improve quality.",
+"options": [
+"which",
+"that",
+"what",
+"who"
+],
+"reponse": "which",
+"fr": "Nous avons écrit une lettre ferme, qui devrait leur faire améliorer la qualité.",
+"pourquoi": "Non-defining: which (pas that)."
+},
+{
+"phrase": "My phone, without ___ I am completely lost, has gone missing.",
+"options": [
+"which",
+"that",
+"what",
+"whom"
+],
+"reponse": "which",
+"fr": "Mon téléphone, sans lequel je suis perdu, a disparu.",
+"pourquoi": "préposition + which."
+},
+{
+"phrase": "The reason ___ I'm calling is to ask a favour.",
+"options": [
+"why",
+"which",
+"where",
+"who"
+],
+"reponse": "why",
+"fr": "La raison de mon appel est de vous demander un service.",
+"pourquoi": "the reason (why)."
+},
+{
+"phrase": "Hundreds of people were at the airport, most of ___ were furious.",
+"options": [
+"whom",
+"who",
+"which",
+"whose"
+],
+"reponse": "whom",
+"fr": "Des centaines de personnes étaient à l'aéroport, la plupart furieuses.",
+"pourquoi": "quantité + of + whom (personnes)."
+},
+{
+"phrase": "___ you need, we can supply it.",
+"options": [
+"Whatever",
+"Whoever",
+"Wherever",
+"Whenever"
+],
+"reponse": "Whatever",
+"fr": "Tout ce dont vous avez besoin, nous pouvons le fournir.",
+"pourquoi": "whatever = n'importe quelle chose."
+},
+{
+"phrase": "We can leave ___ you want.",
+"options": [
+"whenever",
+"whoever",
+"whatever",
+"whichever"
+],
+"reponse": "whenever",
+"fr": "Nous pouvons partir quand vous voulez.",
+"pourquoi": "whenever = n'importe quand."
+},
+{
+"phrase": "The supplier ___ Bill wrote to has replied.",
+"options": [
+"who",
+"where",
+"whose",
+"why"
+],
+"reponse": "who",
+"fr": "Le fournisseur à qui Bill a écrit a répondu.",
+"pourquoi": "who (objet) ; la préposition 'to' reste en fin de proposition."
+},
+{
+"phrase": "The firemen arrived within half an hour, by ___ time most of the building had burnt down.",
+"options": [
+"which",
+"what",
+"that",
+"when"
+],
+"reponse": "which",
+"fr": "Les pompiers sont arrivés en moins d'une demi-heure, et à ce moment l'essentiel du bâtiment avait brûlé.",
+"pourquoi": "by which time."
+}
+],
+"groupe": "Verbes et phrases"
+},
+{
+"id": "g-comparatifs",
+"titre": "Comparatifs et superlatifs",
+"fiche": [
+{
+"titre": "Formation",
+"regles": [
+"Adjectif court: cheap → cheaper (than) → the cheapest",
+"Adjectif long: more intelligent (than) → the most intelligent",
+"Irréguliers: good → better → best ; bad → worse → worst ; far → farther / further",
+"Quantités: more / less (indénombrables) ; fewer (pluriel dénombrable) ; the most / the least / the fewest"
+]
+},
+{
+"titre": "Constructions",
+"regles": [
+"as + adjectif + as (aussi … que) ; not as … as (pas aussi … que) ; the same … as",
+"the + comparatif, the + comparatif: The faster we drive, the quicker we'll get there",
+"comparatif + and + comparatif: harder and harder (de plus en plus)",
+"Superlatif: in + lieu / groupe (in town) ; of + temps (of the year) ; one of the + superlatif + nom au pluriel",
+"Nuancer: far / much / a lot / slightly / a bit + comparatif"
+]
+}
+],
+"exos": [
+{
+"phrase": "The new machine is ___ than the old one.",
+"options": [
+"quieter",
+"quietest",
+"more quietest",
+"most quiet"
+],
+"reponse": "quieter",
+"fr": "La nouvelle machine est plus silencieuse que l'ancienne.",
+"pourquoi": "than = comparatif."
+},
+{
+"phrase": "This is the ___ restaurant in town.",
+"options": [
+"best",
+"better",
+"good",
+"most good"
+],
+"reponse": "best",
+"fr": "C'est le meilleur restaurant de la ville.",
+"pourquoi": "the + superlatif + in."
+},
+{
+"phrase": "The new model is ___ expensive than the old one.",
+"options": [
+"more",
+"most",
+"much",
+"very"
+],
+"reponse": "more",
+"fr": "Le nouveau modèle est plus cher que l'ancien.",
+"pourquoi": "adjectif long: more + adjectif + than."
+},
+{
+"phrase": "Sales this year are ___ than last year.",
+"options": [
+"worse",
+"worst",
+"badder",
+"more bad"
+],
+"reponse": "worse",
+"fr": "Les ventes de cette année sont pires que celles de l'an dernier.",
+"pourquoi": "bad → worse → worst."
+},
+{
+"phrase": "The table is the same height ___ the desk.",
+"options": [
+"as",
+"than",
+"like",
+"that"
+],
+"reponse": "as",
+"fr": "La table a la même hauteur que le bureau.",
+"pourquoi": "the same … as."
+},
+{
+"phrase": "The ___ we drive, the quicker we'll get there.",
+"options": [
+"faster",
+"fast",
+"fastest",
+"more fast"
+],
+"reponse": "faster",
+"fr": "Plus nous roulons vite, plus tôt nous arriverons.",
+"pourquoi": "the + comparatif, the + comparatif."
+},
+{
+"phrase": "It is getting ___ and harder to find a good job.",
+"options": [
+"harder",
+"hard",
+"hardest",
+"more hard"
+],
+"reponse": "harder",
+"fr": "Il est de plus en plus difficile de trouver un bon emploi.",
+"pourquoi": "comparatif + and + comparatif."
+},
+{
+"phrase": "Spring is the best time ___ the year.",
+"options": [
+"of",
+"in",
+"at",
+"on"
+],
+"reponse": "of",
+"fr": "Le printemps est la meilleure période de l'année.",
+"pourquoi": "superlatif + of + temps."
+},
+{
+"phrase": "That is one of the ___ presents I have ever been given.",
+"options": [
+"nicest",
+"nicer",
+"nice",
+"most nicer"
+],
+"reponse": "nicest",
+"fr": "C'est l'un des plus beaux cadeaux qu'on m'ait jamais faits.",
+"pourquoi": "one of the + superlatif."
+},
+{
+"phrase": "The new salesperson is ___ more efficient than the last one.",
+"options": [
+"far",
+"very",
+"most",
+"too"
+],
+"reponse": "far",
+"fr": "Le nouveau vendeur est bien plus efficace que le précédent.",
+"pourquoi": "far / much / a lot + comparatif."
+},
+{
+"phrase": "There are ___ errors in this report than in the last one.",
+"options": [
+"fewer",
+"less",
+"least",
+"fewest"
+],
+"reponse": "fewer",
+"fr": "Il y a moins d'erreurs dans ce rapport que dans le dernier.",
+"pourquoi": "fewer + nom pluriel dénombrable."
+},
+{
+"phrase": "We have ___ time than we thought.",
+"options": [
+"less",
+"fewer",
+"fewest",
+"lesser"
+],
+"reponse": "less",
+"fr": "Nous avons moins de temps que prévu.",
+"pourquoi": "less + nom indénombrable."
+},
+{
+"phrase": "The appliance is not ___ efficient as the last one.",
+"options": [
+"as",
+"so than",
+"more",
+"most"
+],
+"reponse": "as",
+"fr": "L'appareil n'est pas aussi efficace que le précédent.",
+"pourquoi": "not as … as."
+},
+{
+"phrase": "She is the company's ___ salesperson.",
+"options": [
+"best",
+"the best",
+"better",
+"most good"
+],
+"reponse": "best",
+"fr": "C'est la meilleure commerciale de l'entreprise.",
+"pourquoi": "Pas de 'the' après un génitif."
+}
+],
+"groupe": "Comparer et relier"
+},
+{
+"id": "g-transition",
+"titre": "Les mots de transition",
+"fiche": [
+{
+"titre": "Ajouter, comparer, conclure",
+"regles": [
+"Ajouter: also, as well, too, besides, moreover, furthermore, in addition (to), what's more",
+"Comparer: likewise, similarly, in comparison",
+"Conclure: finally, lastly, to conclude, in conclusion, last but not least ; résumer: in brief, to sum up"
+]
+},
+{
+"titre": "Contraster et nuancer",
+"regles": [
+"however, nevertheless, yet, even so, all the same, still = cependant, pourtant",
+"although / though / while = bien que, tandis que ; despite / in spite of + nom",
+"on the one hand … on the other hand ; in contrast / by contrast ; on the contrary = au contraire ; otherwise = autrement"
+]
+},
+{
+"titre": "Cause, conséquence, condition",
+"regles": [
+"Cause: because, because of, since, as, given that",
+"Conséquence: therefore, thus, consequently, as a result, that's why",
+"Condition: unless (à moins que), providing that, on condition that, assuming that, in that case"
+]
+},
+{
+"titre": "Exemples, reformulation, séquence",
+"regles": [
+"for example, for instance, such as ; namely, that is to say",
+"firstly, secondly, afterwards, meanwhile, eventually, subsequently",
+"in fact, actually, as a matter of fact ; indeed, obviously, of course"
+]
+}
+],
+"exos": [
+{
+"phrase": "The prices are high; ___, the quality is excellent.",
+"options": [
+"however",
+"therefore",
+"moreover",
+"furthermore"
+],
+"reponse": "however",
+"fr": "Les prix sont élevés ; cependant, la qualité est excellente.",
+"pourquoi": "however = cependant."
+},
+{
+"phrase": "The software is fast. ___, it is easy to use.",
+"options": [
+"Moreover",
+"However",
+"Otherwise",
+"Instead"
+],
+"reponse": "Moreover",
+"fr": "Le logiciel est rapide. De plus, il est facile à utiliser.",
+"pourquoi": "moreover = de plus."
+},
+{
+"phrase": "The roads were closed; ___, the delivery was late.",
+"options": [
+"therefore",
+"although",
+"unless",
+"whereas"
+],
+"reponse": "therefore",
+"fr": "Les routes étaient fermées ; par conséquent, la livraison a été en retard.",
+"pourquoi": "therefore = par conséquent."
+},
+{
+"phrase": "We will start ___ everyone has arrived.",
+"options": [
+"unless",
+"as soon as",
+"despite",
+"instead"
+],
+"reponse": "as soon as",
+"fr": "Nous commencerons dès que tout le monde sera arrivé.",
+"pourquoi": "as soon as = dès que."
+},
+{
+"phrase": "___ the rain, the event went ahead.",
+"options": [
+"Despite",
+"Although",
+"However",
+"Even so"
+],
+"reponse": "Despite",
+"fr": "Malgré la pluie, l'événement a eu lieu.",
+"pourquoi": "despite + nom."
+},
+{
+"phrase": "___ it was raining, the event went ahead.",
+"options": [
+"Although",
+"Despite",
+"Instead",
+"Therefore"
+],
+"reponse": "Although",
+"fr": "Bien qu'il pleuve, l'événement a eu lieu.",
+"pourquoi": "although + sujet + verbe."
+},
+{
+"phrase": "Finish the report today; ___, you will miss the deadline.",
+"options": [
+"otherwise",
+"moreover",
+"likewise",
+"namely"
+],
+"reponse": "otherwise",
+"fr": "Terminez le rapport aujourd'hui ; sinon vous manquerez la date limite.",
+"pourquoi": "otherwise = autrement, sinon."
+},
+{
+"phrase": "Take the bus ___ driving to avoid parking costs.",
+"options": [
+"instead of",
+"because of",
+"in addition",
+"as well"
+],
+"reponse": "instead of",
+"fr": "Prenez le bus au lieu de conduire pour éviter les frais de stationnement.",
+"pourquoi": "instead of + verbe en -ing."
+},
+{
+"phrase": "You can pay by card, ___ in cash.",
+"options": [
+"or",
+"nor",
+"yet",
+"so"
+],
+"reponse": "or",
+"fr": "Vous pouvez payer par carte ou en espèces.",
+"pourquoi": "or = ou."
+},
+{
+"phrase": "The product was cheap; ___, it broke after a week.",
+"options": [
+"nevertheless",
+"therefore",
+"besides",
+"likewise"
+],
+"reponse": "nevertheless",
+"fr": "Le produit n'était pas cher ; néanmoins, il s'est cassé au bout d'une semaine.",
+"pourquoi": "nevertheless = néanmoins."
+},
+{
+"phrase": "We offer many services, ___ training, repairs and delivery.",
+"options": [
+"such as",
+"as long as",
+"unless",
+"except"
+],
+"reponse": "such as",
+"fr": "Nous offrons de nombreux services, tels que la formation, les réparations et la livraison.",
+"pourquoi": "such as = tel que."
+},
+{
+"phrase": "___ you pay in advance, you will receive a discount.",
+"options": [
+"Providing that",
+"Despite",
+"Whereas",
+"Moreover"
+],
+"reponse": "Providing that",
+"fr": "À condition de payer à l'avance, vous recevrez une remise.",
+"pourquoi": "providing that = à condition que."
+},
+{
+"phrase": "Two options remain, ___ to cancel or to postpone.",
+"options": [
+"namely",
+"besides",
+"otherwise",
+"likewise"
+],
+"reponse": "namely",
+"fr": "Il reste deux options, à savoir annuler ou reporter.",
+"pourquoi": "namely = à savoir."
+},
+{
+"phrase": "___, the meeting went well.",
+"options": [
+"Overall",
+"Despite",
+"Unless",
+"Otherwise"
+],
+"reponse": "Overall",
+"fr": "Dans l'ensemble, la réunion s'est bien passée.",
+"pourquoi": "overall = dans l'ensemble."
+}
+],
+"groupe": "Comparer et relier"
 },
 {
 "id": "nature-du-mot",
@@ -1701,6 +3279,7 @@
 "fr": "Le personnel a été surpris d'apprendre la fusion.",
 "pourquoi": "Une personne ressent : adjectif en -ed (surprised) ; une chose surprend : -ing."
 }
-]
+],
+"groupe": "Comparer et relier"
 }
 ]
