@@ -1104,6 +1104,337 @@
 ]
 },
 {
+"id": "prep-50",
+"titre": "Les 50 prépositions courantes (fiche Léa English)",
+"fiche": [
+{
+"titre": "Lieu, position, mouvement",
+"regles": [
+"above = au-dessus de ; over = par-dessus ; under = sous ; across = de l'autre côté / à travers (une surface) ; through = à travers (un espace)",
+"along = le long de ; around = autour de ; beyond = au-delà de ; past = devant, au-delà de",
+"at = lieu précis ; in = dans un espace ; on = sur ; by / near = près de ; behind = derrière ; in front of = devant",
+"between = entre ; among = parmi ; within = à l'intérieur de",
+"from = provenance ; to = vers ; towards = en direction de ; into = dans (mouvement) ; out (of) = hors de ; off = loin de / à bas de",
+"up / down = en haut / en bas de ; away = loin ; back = retour"
+]
+},
+{
+"titre": "Temps et durée",
+"regles": [
+"at + heure ; on + jour / date ; in + mois, année, saison",
+"before / after = avant / après ; following = à la suite de ; during = pendant ; throughout = tout au long de",
+"for = durée (for ages) ; since = depuis une date ; until = jusqu'à ce que ; within = dans un délai de"
+]
+},
+{
+"titre": "Autres prépositions courantes",
+"regles": [
+"about / concerning / upon = au sujet de ; against = contre ; by = par (agent du passif) ; with / without = avec / sans",
+"despite = malgré ; except = sauf ; including = y compris ; plus = en plus de ; like = comme ; of = de, en (matière)",
+"for = pour (un destinataire, un but)"
+]
+},
+{
+"titre": "Attention (corrections du PDF)",
+"regles": [
+"'for' + durée se traduit souvent par « depuis » avec le present perfect, mais « pendant » avec un temps du passé simple (He lived there for two years).",
+"across = de l'autre côté de / à travers ; ce n'est pas simplement « au-dessus ».",
+"despite = malgré ; le PDF ajoute « sinon », ce qui est faux."
+]
+}
+],
+"exos": [
+{
+"phrase": "They live ___ the sea, in a small village.",
+"options": [
+"by",
+"off",
+"into",
+"upon"
+],
+"reponse": "by",
+"fr": "Ils habitent près de la mer, dans un petit village.",
+"pourquoi": "by = à proximité."
+},
+{
+"phrase": "She hung the picture ___ the fireplace.",
+"options": [
+"above",
+"beyond",
+"off",
+"across"
+],
+"reponse": "above",
+"fr": "Elle a accroché le tableau au-dessus de la cheminée.",
+"pourquoi": "above = au-dessus."
+},
+{
+"phrase": "Clouds are visible ___ the mountains.",
+"options": [
+"beyond",
+"into",
+"among",
+"by"
+],
+"reponse": "beyond",
+"fr": "On voit des nuages au-delà des montagnes.",
+"pourquoi": "beyond = au-delà de."
+},
+{
+"phrase": "There are a lot of trees ___ this road.",
+"options": [
+"along",
+"into",
+"within",
+"upon"
+],
+"reponse": "along",
+"fr": "Il y a beaucoup d'arbres le long de cette route.",
+"pourquoi": "along = le long de."
+},
+{
+"phrase": "They put a fence ___ the swimming pool.",
+"options": [
+"around",
+"at",
+"off",
+"among"
+],
+"reponse": "around",
+"fr": "Ils ont mis une clôture autour de la piscine.",
+"pourquoi": "around = autour de."
+},
+{
+"phrase": "The restaurant is ___ the street, on the left.",
+"options": [
+"down",
+"off",
+"upon",
+"among"
+],
+"reponse": "down",
+"fr": "Le restaurant est plus bas dans la rue, sur la gauche.",
+"pourquoi": "down the street = plus loin dans la rue."
+},
+{
+"phrase": "The glass fell ___ the table.",
+"options": [
+"off",
+"into",
+"across",
+"along"
+],
+"reponse": "off",
+"fr": "Le verre est tombé de la table.",
+"pourquoi": "off = se détacher de."
+},
+{
+"phrase": "She walked ___ of the house and closed the door.",
+"options": [
+"out",
+"off",
+"away",
+"past"
+],
+"reponse": "out",
+"fr": "Elle est sortie de la maison et a fermé la porte.",
+"pourquoi": "out of = hors de."
+},
+{
+"phrase": "He walked ___ the bakery without stopping.",
+"options": [
+"past",
+"through",
+"among",
+"upon"
+],
+"reponse": "past",
+"fr": "Il est passé devant la boulangerie sans s'arrêter.",
+"pourquoi": "past = devant, en passant."
+},
+{
+"phrase": "The cat was ___ the tree.",
+"options": [
+"up",
+"by",
+"off",
+"into"
+],
+"reponse": "up",
+"fr": "Le chat était en haut de l'arbre.",
+"pourquoi": "up = en haut de."
+},
+{
+"phrase": "You live far ___ from me.",
+"options": [
+"away",
+"off",
+"down",
+"back"
+],
+"reponse": "away",
+"fr": "Vous habitez loin de moi.",
+"pourquoi": "far away from = loin de."
+},
+{
+"phrase": "I went ___ to sleep after the alarm.",
+"options": [
+"back",
+"away",
+"off",
+"upon"
+],
+"reponse": "back",
+"fr": "Je me suis rendormi après le réveil.",
+"pourquoi": "back = retour."
+},
+{
+"phrase": "___ her speech, we will raise a toast.",
+"options": [
+"Following",
+"Throughout",
+"Within",
+"Among"
+],
+"reponse": "Following",
+"fr": "À la suite de son discours, nous porterons un toast.",
+"pourquoi": "following = à la suite de."
+},
+{
+"phrase": "We've known each other ___ a while.",
+"options": [
+"for",
+"since",
+"during",
+"upon"
+],
+"reponse": "for",
+"fr": "Nous nous connaissons depuis un moment.",
+"pourquoi": "for + durée."
+},
+{
+"phrase": "I will not leave ___ I see the manager.",
+"options": [
+"until",
+"within",
+"during",
+"by"
+],
+"reponse": "until",
+"fr": "Je ne partirai pas tant que je n'aurai pas vu le responsable.",
+"pourquoi": "until = jusqu'à ce que."
+},
+{
+"phrase": "Tell me more ___ your new project.",
+"options": [
+"about",
+"against",
+"across",
+"upon"
+],
+"reponse": "about",
+"fr": "Dites-m'en plus sur votre nouveau projet.",
+"pourquoi": "about = au sujet de."
+},
+{
+"phrase": "The painting was made ___ a French artist.",
+"options": [
+"by",
+"with",
+"from",
+"upon"
+],
+"reponse": "by",
+"fr": "Ce tableau a été fait par un artiste français.",
+"pourquoi": "by = agent du passif."
+},
+{
+"phrase": "___ our current project, we need to hurry.",
+"options": [
+"Concerning",
+"Including",
+"Against",
+"Throughout"
+],
+"reponse": "Concerning",
+"fr": "Concernant notre projet actuel, nous devons nous dépêcher.",
+"pourquoi": "concerning = concernant."
+},
+{
+"phrase": "We are all going to the shop, ___ the children.",
+"options": [
+"including",
+"except",
+"against",
+"without"
+],
+"reponse": "including",
+"fr": "Nous allons tous au magasin, y compris les enfants.",
+"pourquoi": "including = y compris."
+},
+{
+"phrase": "Everybody ___ you will go to the party.",
+"options": [
+"except",
+"including",
+"plus",
+"like"
+],
+"reponse": "except",
+"fr": "Tout le monde ira à la fête sauf toi.",
+"pourquoi": "except = sauf."
+},
+{
+"phrase": "There will be Max and James, ___ Katherine.",
+"options": [
+"plus",
+"except",
+"against",
+"upon"
+],
+"reponse": "plus",
+"fr": "Il y aura Max et James, plus Katherine.",
+"pourquoi": "plus = en plus de."
+},
+{
+"phrase": "I always drink coffee ___ sugar or milk.",
+"options": [
+"without",
+"except",
+"against",
+"despite"
+],
+"reponse": "without",
+"fr": "Je bois toujours mon café sans sucre ni lait.",
+"pourquoi": "without = sans."
+},
+{
+"phrase": "She talks ___ her mother.",
+"options": [
+"like",
+"as",
+"of",
+"plus"
+],
+"reponse": "like",
+"fr": "Elle parle comme sa mère.",
+"pourquoi": "like = comme (comparaison)."
+},
+{
+"phrase": "I can easily hear you ___ the noise.",
+"options": [
+"despite",
+"except",
+"against",
+"like"
+],
+"reponse": "despite",
+"fr": "Je t'entends facilement malgré le bruit.",
+"pourquoi": "despite = malgré."
+}
+]
+},
+{
 "id": "nature-du-mot",
 "titre": "Nature du mot (Parts 5 et 6)",
 "fiche": [

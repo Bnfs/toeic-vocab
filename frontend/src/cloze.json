@@ -29615,5 +29615,173 @@
 "phrase": "The sudden drop in sales was ___.",
 "reponse": "surprising",
 "fr": "La chute soudaine des ventes était surprenante."
+},
+{
+"id": 8000,
+"tag": "p",
+"phrase": "Tell me more ___ your new colleague.",
+"reponse": "about",
+"fr": "Dis-m'en plus sur ton nouveau collègue."
+},
+{
+"id": 8001,
+"tag": "p",
+"phrase": "He felt very tired ___ the long flight.",
+"reponse": "after",
+"fr": "Il se sentait très fatigué après le long vol."
+},
+{
+"id": 8002,
+"tag": "p",
+"phrase": "The union voted ___ the new schedule.",
+"reponse": "against",
+"fr": "Le syndicat a voté contre le nouveau planning."
+},
+{
+"id": 8003,
+"tag": "p",
+"phrase": "They put a fence ___ the swimming pool.",
+"reponse": "around",
+"fr": "Ils ont mis une clôture autour de la piscine."
+},
+{
+"id": 8004,
+"tag": "p",
+"phrase": "The warehouse is far ___ from the city center.",
+"reponse": "away",
+"fr": "L'entrepôt est loin du centre-ville."
+},
+{
+"id": 8005,
+"tag": "p",
+"phrase": "She will be ___ in the office on Monday.",
+"reponse": "back",
+"fr": "Elle sera de retour au bureau lundi."
+},
+{
+"id": 8006,
+"tag": "p",
+"phrase": "Please sign the form ___ you leave.",
+"reponse": "before",
+"fr": "Veuillez signer le formulaire avant de partir."
+},
+{
+"id": 8008,
+"tag": "p",
+"phrase": "___ our current project, we need to hurry.",
+"reponse": "Concerning",
+"fr": "Concernant notre projet actuel, nous devons nous dépêcher."
+},
+{
+"id": 8009,
+"tag": "p",
+"phrase": "The match went ahead ___ the rain.",
+"reponse": "despite",
+"fr": "Le match a eu lieu malgré la pluie."
+},
+{
+"id": 8010,
+"tag": "p",
+"phrase": "Please turn off your phone ___ the presentation.",
+"reponse": "during",
+"fr": "Veuillez éteindre votre téléphone pendant la présentation."
+},
+{
+"id": 8011,
+"tag": "p",
+"phrase": "All the shops are open ___ the bank.",
+"reponse": "except",
+"fr": "Tous les magasins sont ouverts sauf la banque."
+},
+{
+"id": 8013,
+"tag": "p",
+"phrase": "I have worked in this company ___ five years.",
+"reponse": "for",
+"fr": "Je travaille dans cette entreprise depuis cinq ans."
+},
+{
+"id": 8014,
+"tag": "p",
+"phrase": "The shipment came ___ our supplier in Germany.",
+"reponse": "from",
+"fr": "L'envoi vient de notre fournisseur en Allemagne."
+},
+{
+"id": 8015,
+"tag": "p",
+"phrase": "The price is $50, ___ tax.",
+"reponse": "including",
+"fr": "Le prix est de 50 $, taxe comprise."
+},
+{
+"id": 8016,
+"tag": "p",
+"phrase": "She speaks English ___ a native speaker.",
+"reponse": "like",
+"fr": "Elle parle anglais comme une locutrice native."
+},
+{
+"id": 8017,
+"tag": "p",
+"phrase": "She is the chief executive ___ a large bank.",
+"reponse": "of",
+"fr": "Elle est la directrice générale d'une grande banque."
+},
+{
+"id": 8018,
+"tag": "p",
+"phrase": "The bus drove ___ the station without stopping.",
+"reponse": "past",
+"fr": "Le bus est passé devant la gare sans s'arrêter."
+},
+{
+"id": 8019,
+"tag": "p",
+"phrase": "The fee is $20, ___ a small service charge.",
+"reponse": "plus",
+"fr": "Les frais sont de 20 $, plus de petits frais de service."
+},
+{
+"id": 8020,
+"tag": "p",
+"phrase": "He has worked here ___ 2015.",
+"reponse": "since",
+"fr": "Il travaille ici depuis 2015."
+},
+{
+"id": 8022,
+"tag": "p",
+"phrase": "We are traveling ___ London next week.",
+"reponse": "to",
+"fr": "Nous partons à Londres la semaine prochaine."
+},
+{
+"id": 8023,
+"tag": "p",
+"phrase": "I will not leave ___ I see the manager.",
+"reponse": "until",
+"fr": "Je ne partirai pas tant que je n'aurai pas vu le responsable."
+},
+{
+"id": 8025,
+"tag": "p",
+"phrase": "I don't agree ___ this proposal.",
+"reponse": "with",
+"fr": "Je ne suis pas d'accord avec cette proposition."
+},
+{
+"id": 8026,
+"tag": "p",
+"phrase": "The product must be returned ___ thirty days of purchase.",
+"reponse": "within",
+"fr": "Le produit doit être retourné dans les trente jours suivant l'achat."
+},
+{
+"id": 8027,
+"tag": "p",
+"phrase": "I drink my coffee ___ sugar.",
+"reponse": "without",
+"fr": "Je bois mon café sans sucre."
 }
 ]
