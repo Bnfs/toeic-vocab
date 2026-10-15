@@ -29783,5 +29783,292 @@
 "phrase": "I drink my coffee ___ sugar.",
 "reponse": "without",
 "fr": "Je bois mon café sans sucre."
+},
+{
+"id": 9000,
+"tag": "n",
+"phrase": "The new phone was a ___ and sold out in two days.",
+"reponse": "blockbuster",
+"fr": "Le nouveau téléphone a été un grand succès et s'est vendu en deux jours."
+},
+{
+"id": 9001,
+"tag": "n",
+"phrase": "Prices are falling because it is a ___ right now.",
+"reponse": "buyer's market",
+"fr": "Les prix baissent car c'est un marché favorable aux acheteurs en ce moment."
+},
+{
+"id": 9002,
+"tag": "n",
+"phrase": "With so few houses available, it is a ___.",
+"reponse": "seller's market",
+"fr": "Avec si peu de maisons disponibles, c'est un marché favorable aux vendeurs."
+},
+{
+"id": 9003,
+"tag": "n",
+"phrase": "She is a real ___ and makes friends with every client.",
+"reponse": "people person",
+"fr": "C'est une personne très sociable qui se fait des amis de chaque client."
+},
+{
+"id": 9004,
+"tag": "n",
+"phrase": "Every company wants a ___ of the growing market.",
+"reponse": "slice of the pie",
+"fr": "Chaque entreprise veut sa part du gâteau sur le marché en pleine croissance."
+},
+{
+"id": 9005,
+"tag": "n",
+"phrase": "The merger is a ___ for both companies.",
+"reponse": "win-win situation",
+"fr": "La fusion est une situation gagnant-gagnant pour les deux entreprises."
+},
+{
+"id": 9006,
+"tag": "n",
+"phrase": "The old product line is still the company's ___.",
+"reponse": "cash cow",
+"fr": "L'ancienne gamme reste la vache à lait de l'entreprise."
+},
+{
+"id": 9007,
+"tag": "n",
+"phrase": "The seller only accepts ___, no cards or checks.",
+"reponse": "cold hard cash",
+"fr": "Le vendeur n'accepte que de l'argent liquide, ni cartes ni chèques."
+},
+{
+"id": 9008,
+"tag": "v",
+"phrase": "The firm tried to ___ in rare metals.",
+"reponse": "corner the market",
+"fr": "L'entreprise a essayé d'accaparer le marché des métaux rares."
+},
+{
+"id": 9009,
+"tag": "n",
+"phrase": "I dislike shops where the staff use a ___.",
+"reponse": "hard sell",
+"fr": "Je n'aime pas les magasins où le personnel pratique la vente sous pression."
+},
+{
+"id": 9010,
+"tag": "g",
+"phrase": "We are ___ a new delivery van.",
+"reponse": "in the market for",
+"fr": "Nous cherchons à acheter une nouvelle camionnette de livraison."
+},
+{
+"id": 9011,
+"tag": "n",
+"phrase": "He bought three cars; he clearly has ___.",
+"reponse": "money to burn",
+"fr": "Il a acheté trois voitures ; il a clairement de l'argent à jeter par les fenêtres."
+},
+{
+"id": 9012,
+"tag": "p",
+"phrase": "Their house has been ___ for six months.",
+"reponse": "on the market",
+"fr": "Leur maison est en vente depuis six mois."
+},
+{
+"id": 9013,
+"tag": "n",
+"phrase": "The rep gave a convincing ___ to the client.",
+"reponse": "sales pitch",
+"fr": "Le commercial a fait un argumentaire de vente convaincant au client."
+},
+{
+"id": 9014,
+"tag": "v",
+"phrase": "The store plans to ___ of its winter coats.",
+"reponse": "bring down the price",
+"fr": "Le magasin prévoit de faire baisser le prix de ses manteaux d'hiver."
+},
+{
+"id": 9015,
+"tag": "v",
+"phrase": "It took three meetings to ___.",
+"reponse": "close a sale",
+"fr": "Il a fallu trois réunions pour conclure la vente."
+},
+{
+"id": 9016,
+"tag": "v",
+"phrase": "Laptops usually ___ after a few months.",
+"reponse": "come down in price",
+"fr": "Les ordinateurs portables baissent généralement de prix après quelques mois."
+},
+{
+"id": 9017,
+"tag": "v",
+"phrase": "The design team managed to ___.",
+"reponse": "come up with a winner",
+"fr": "L'équipe de design a réussi à trouver une idée gagnante."
+},
+{
+"id": 9018,
+"tag": "g",
+"phrase": "The board decided to ___ to meet the deadline.",
+"reponse": "fast track the project",
+"fr": "Le conseil a décidé d'accélérer le projet pour respecter la date limite."
+},
+{
+"id": 9019,
+"tag": "g",
+"phrase": "The press got ___ the merger before the announcement.",
+"reponse": "wind of",
+"fr": "La presse a eu vent de la fusion avant l'annonce."
+},
+{
+"id": 9020,
+"tag": "g",
+"phrase": "This model ___ than its competitors.",
+"reponse": "gives more bang for the buck",
+"fr": "Ce modèle offre un meilleur rapport qualité-prix que ses concurrents."
+},
+{
+"id": 9021,
+"tag": "g",
+"phrase": "He tried to ___ to get the permit faster.",
+"reponse": "grease the official's palm",
+"fr": "Il a essayé de graisser la patte du fonctionnaire pour obtenir le permis plus vite."
+},
+{
+"id": 9022,
+"tag": "g",
+"phrase": "Don't worry, I still ___ for the negotiation.",
+"reponse": "have an ace up my sleeve",
+"fr": "Ne vous inquiétez pas, j'ai encore un atout dans ma manche pour la négociation."
+},
+{
+"id": 9023,
+"tag": "g",
+"phrase": "She can find a supplier quickly because she ___.",
+"reponse": "has good contacts",
+"fr": "Elle peut trouver rapidement un fournisseur car elle a un bon réseau."
+},
+{
+"id": 9024,
+"tag": "g",
+"phrase": "The company will ___ until the launch.",
+"reponse": "keep the project under wraps",
+"fr": "L'entreprise gardera le projet secret jusqu'au lancement."
+},
+{
+"id": 9025,
+"tag": "v",
+"phrase": "I managed to ___ by ten percent.",
+"reponse": "knock down the price",
+"fr": "J'ai réussi à faire baisser le prix de dix pour cent."
+},
+{
+"id": 9026,
+"tag": "g",
+"phrase": "Some investors ___ when the shares doubled.",
+"reponse": "made a killing",
+"fr": "Certains investisseurs ont fait fortune quand les actions ont doublé."
+},
+{
+"id": 9027,
+"tag": "g",
+"phrase": "New sales staff spend the morning ___.",
+"reponse": "making cold calls",
+"fr": "Les nouveaux commerciaux passent la matinée à faire du démarchage téléphonique."
+},
+{
+"id": 9028,
+"tag": "g",
+"phrase": "Tourists were ___ by the unlicensed taxi driver.",
+"reponse": "ripped off",
+"fr": "Les touristes ont été arnaqués par le chauffeur de taxi sans licence."
+},
+{
+"id": 9029,
+"tag": "v",
+"phrase": "He is so persuasive he could ___.",
+"reponse": "sell ice to Eskimos",
+"fr": "Il est si persuasif qu'il pourrait vendre n'importe quoi à n'importe qui."
+},
+{
+"id": 9030,
+"tag": "g",
+"phrase": "The new tablets are ___.",
+"reponse": "selling like hotcakes",
+"fr": "Les nouvelles tablettes se vendent comme des petits pains."
+},
+{
+"id": 9031,
+"tag": "v",
+"phrase": "We launched a small version to ___ first.",
+"reponse": "test the waters",
+"fr": "Nous avons lancé une petite version pour tâter le terrain d'abord."
+},
+{
+"id": 9032,
+"tag": "p",
+"phrase": "He was paid ___ to avoid taxes.",
+"reponse": "under the table",
+"fr": "Il était payé au noir pour éviter les impôts."
+},
+{
+"id": 9033,
+"tag": "n",
+"phrase": "The marketing ___ was cut by ten percent.",
+"reponse": "budget",
+"fr": "Le budget marketing a été réduit de dix pour cent."
+},
+{
+"id": 9034,
+"tag": "n",
+"phrase": "The national ___ is carried out every ten years.",
+"reponse": "census",
+"fr": "Le recensement national a lieu tous les dix ans."
+},
+{
+"id": 9035,
+"tag": "n",
+"phrase": "The stock market ___ ruined many small investors.",
+"reponse": "crash",
+"fr": "Le krach boursier a ruiné de nombreux petits investisseurs."
+},
+{
+"id": 9036,
+"tag": "n",
+"phrase": "She studied ___ at university.",
+"reponse": "economics",
+"fr": "Elle a étudié les sciences économiques à l'université."
+},
+{
+"id": 9037,
+"tag": "n",
+"phrase": "The annual ___ is expected to reach three percent.",
+"reponse": "growth rate",
+"fr": "Le taux de croissance annuel devrait atteindre trois pour cent."
+},
+{
+"id": 9038,
+"tag": "n",
+"phrase": "Rising ___ reduces consumers' purchasing power.",
+"reponse": "inflation",
+"fr": "La hausse de l'inflation réduit le pouvoir d'achat des consommateurs."
+},
+{
+"id": 9039,
+"tag": "n",
+"phrase": "The company saw a ___ in sales before the holidays.",
+"reponse": "spurt",
+"fr": "L'entreprise a connu une poussée soudaine des ventes avant les fêtes."
+},
+{
+"id": 9040,
+"tag": "v",
+"phrase": "Households ___ less energy in summer.",
+"reponse": "consume",
+"fr": "Les ménages consomment moins d'énergie en été."
 }
 ]

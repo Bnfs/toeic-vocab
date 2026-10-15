@@ -1,5 +1,5 @@
 const GROUPES = [
-  ["Travail", ["emploi", "vie de bureau", "métiers", "finance", "moyens de paiement", "marketing", "industrie", "communication", "commandes et expéditions", "appels téléphoniques", "informatique"]],
+  ["Travail", ["emploi", "vie de bureau", "métiers", "finance", "moyens de paiement", "marketing", "industrie", "communication", "commandes et expéditions", "appels téléphoniques", "informatique", "économie", "expressions d'affaires"]],
   ["Voyage et sorties", ["voyage", "transport", "conduite", "restaurants", "divertissement", "lieux"]],
   ["Vie quotidienne", ["achats", "la maison", "vêtements", "objets", "temps", "environnement", "urgences"]],
   ["Langue", ["général", "verbes", "verbes à particule", "prépositions", "faux amis", "expressions"]],
