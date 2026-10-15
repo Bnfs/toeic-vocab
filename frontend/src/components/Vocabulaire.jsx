@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { api } from "../api";
+import SelectCategorie from "./SelectCategorie";
 
 export default function Vocabulaire() {
   const [mots, setMots] = useState([]);
@@ -78,9 +79,7 @@ export default function Vocabulaire() {
               onChange={e => setFrancais(e.target.value)}
               required
             />
-            <select value={categorie} onChange={e => setCategorie(e.target.value)}>
-              {categories.map(c => <option key={c} value={c}>{c}</option>)}
-            </select>
+            <SelectCategorie value={categorie} onChange={setCategorie} categories={categories} />
             <button type="submit" className="btn-primary" disabled={chargement}>
               {chargement ? "..." : "+ Ajouter"}
             </button>
@@ -96,10 +95,7 @@ export default function Vocabulaire() {
             value={recherche}
             onChange={e => setRecherche(e.target.value)}
           />
-          <select value={filtreCategorie} onChange={e => setFiltreCategorie(e.target.value)}>
-            <option value="">Tous les thèmes</option>
-            {categories.map(c => <option key={c} value={c}>{c}</option>)}
-          </select>
+          <SelectCategorie value={filtreCategorie} onChange={setFiltreCategorie} categories={categories} toutes="Tous les thèmes" />
           <button
             className={`btn-filtre-fav ${seulementFavoris ? "active" : ""}`}
             onClick={() => setSeulementFavoris(f => !f)}

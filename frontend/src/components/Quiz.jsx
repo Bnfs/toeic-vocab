@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { api } from "../api";
 import PhraseComplete from "./PhraseComplete";
+import SelectCategorie from "./SelectCategorie";
 
 export default function Quiz({ modeInitial = "normal" }) {
   const [etape, setEtape] = useState("config"); // config | quiz | resultat
@@ -111,11 +112,7 @@ export default function Quiz({ modeInitial = "normal" }) {
       </div>
       <div className="config-ligne">
         <label>Thème (optionnel)</label>
-        <select value={categorie} onChange={e => setCategorie(e.target.value)}>
-          {categories.map(c => (
-            <option key={c} value={c}>{c || "Tous les thèmes"}</option>
-          ))}
-        </select>
+        <SelectCategorie value={categorie} onChange={setCategorie} categories={categories} toutes="Tous les thèmes" />
       </div>
       <button className="btn-start" onClick={demarrer} disabled={chargement}>
         {chargement ? "Chargement..." : "🚀 Commencer"}

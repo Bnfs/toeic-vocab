@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { api } from "../api";
+import SelectCategorie from "./SelectCategorie";
 
 export default function Fiches() {
   const [categories, setCategories] = useState([]);
@@ -67,10 +68,7 @@ export default function Fiches() {
       </div>
       <div className="config-ligne">
         <label>Thème (optionnel)</label>
-        <select value={categorie} onChange={e => setCategorie(e.target.value)}>
-          <option value="">Tous les thèmes</option>
-          {categories.map(c => <option key={c} value={c}>{c}</option>)}
-        </select>
+        <SelectCategorie value={categorie} onChange={setCategorie} categories={categories} toutes="Tous les thèmes" />
       </div>
       <button className="btn-start" onClick={demarrer}>🃏 Commencer (20 fiches)</button>
     </div>

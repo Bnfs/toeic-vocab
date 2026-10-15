@@ -283,3 +283,24 @@ body {
 .gram-opt.bonne { border-color: #16a34a; background: #dcfce7; }
 .gram-opt.mauvaise { border-color: #dc2626; background: #fee2e2; }
 .gram-check { display: block; margin-top: 10px; font-size: .9rem; }
+
+/* Sous-navigation et accueil */
+.sous-nav { display: flex; gap: 8px; margin-bottom: 12px; }
+.sous-btn { padding: 6px 16px; border-radius: 20px; border: 2px solid #cbd5e1; background: #fff; cursor: pointer; font-size: .9rem; }
+.sous-btn.active { background: #1e3a8a; border-color: #1e3a8a; color: #fff; font-weight: 600; }
+.accueil-grille { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-top: 12px; }
+.accueil-tuile { display: flex; flex-direction: column; align-items: center; gap: 6px; cursor: pointer; border: none; font-size: 1rem; text-align: center; }
+.accueil-emoji { font-size: 1.8rem; }
+.gram-select { margin-bottom: 12px; }
+
+/* Téléphone : navigation fixée en bas */
+@media (max-width: 700px) {
+  .app-header { height: 48px; padding: 0 16px; }
+  .app-nav {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 50;
+    background: #1e3a8a; padding: 6px 8px; gap: 4px; justify-content: space-around; flex-wrap: nowrap;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.2);
+  }
+  .nav-btn { flex: 1; padding: 8px 4px; border-radius: 10px; font-size: .75rem; }
+  .app-main { padding-bottom: 76px; }
+}
