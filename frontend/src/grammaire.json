@@ -493,6 +493,617 @@
 ]
 },
 {
+"id": "prep-lieu",
+"titre": "Prépositions de lieu",
+"fiche": [
+{
+"titre": "in / on / at",
+"regles": [
+"in = espace fermé ou zone (in France, in the bag)",
+"on = surface, contact (on the wall, on the desk)",
+"at = point précis (at the entrance, at the bus stop)",
+"in the car, mais on the bus / train / plane / boat"
+]
+},
+{
+"titre": "Au-dessus, en dessous",
+"regles": [
+"above = au-dessus sans contact ; over = au-dessus en recouvrant ou en passant",
+"under = sous (le plus courant) ; below = plus bas, à distance ; underneath = sous, caché ; beneath = soutenu"
+]
+},
+{
+"titre": "Entre, parmi, à côté",
+"regles": [
+"between = deux éléments ; among = plus de deux ; amid = au milieu d'une ambiance (formel)",
+"next to / beside / by = à côté de ; adjacent to = attenant à",
+"opposite = en face de ; in front of = devant ; behind = derrière",
+"within = dans les limites de ; against = contre ; alongside = le long de"
+]
+}
+],
+"exos": [
+{
+"phrase": "The keys are ___ my bag.",
+"options": [
+"in",
+"on",
+"at",
+"over"
+],
+"reponse": "in",
+"fr": "Les clés sont dans mon sac.",
+"pourquoi": "in = espace fermé."
+},
+{
+"phrase": "Meet me ___ the entrance.",
+"options": [
+"at",
+"in",
+"on",
+"between"
+],
+"reponse": "at",
+"fr": "Retrouve-moi à l'entrée.",
+"pourquoi": "at = point précis."
+},
+{
+"phrase": "The cup is ___ the desk.",
+"options": [
+"on",
+"in",
+"at",
+"among"
+],
+"reponse": "on",
+"fr": "La tasse est sur le bureau.",
+"pourquoi": "on = surface avec contact."
+},
+{
+"phrase": "A lamp hangs ___ the table.",
+"options": [
+"above",
+"between",
+"against",
+"within"
+],
+"reponse": "above",
+"fr": "Une lampe est suspendue au-dessus de la table.",
+"pourquoi": "above = au-dessus sans contact."
+},
+{
+"phrase": "The dog sleeps ___ the table.",
+"options": [
+"under",
+"above",
+"among",
+"beside"
+],
+"reponse": "under",
+"fr": "Le chien dort sous la table.",
+"pourquoi": "under = sous."
+},
+{
+"phrase": "The café is ___ the bank and the library.",
+"options": [
+"between",
+"among",
+"amid",
+"against"
+],
+"reponse": "between",
+"fr": "Le café est entre la banque et la bibliothèque.",
+"pourquoi": "between = deux éléments."
+},
+{
+"phrase": "The cat hid ___ the boxes.",
+"options": [
+"among",
+"between",
+"opposite",
+"onto"
+],
+"reponse": "among",
+"fr": "Le chat s'est caché parmi les cartons.",
+"pourquoi": "among = plus de deux éléments."
+},
+{
+"phrase": "The bank is ___ the cinema, on the other side of the street.",
+"options": [
+"opposite",
+"behind",
+"under",
+"among"
+],
+"reponse": "opposite",
+"fr": "La banque est en face du cinéma, de l'autre côté de la rue.",
+"pourquoi": "opposite = en face de."
+},
+{
+"phrase": "The parking lot is ___ to the office.",
+"options": [
+"adjacent",
+"near",
+"between",
+"opposite"
+],
+"reponse": "adjacent",
+"fr": "Le parking jouxte le bureau.",
+"pourquoi": "adjacent to = attenant à."
+},
+{
+"phrase": "Costs must stay ___ the budget.",
+"options": [
+"within",
+"against",
+"among",
+"beneath"
+],
+"reponse": "within",
+"fr": "Les coûts doivent rester dans le budget.",
+"pourquoi": "within = dans les limites de."
+},
+{
+"phrase": "The ladder leans ___ the wall.",
+"options": [
+"against",
+"above",
+"between",
+"at"
+],
+"reponse": "against",
+"fr": "L'échelle est appuyée contre le mur.",
+"pourquoi": "against = contre une surface."
+},
+{
+"phrase": "Please wait for me ___ the bus stop.",
+"options": [
+"at",
+"on",
+"in",
+"over"
+],
+"reponse": "at",
+"fr": "Veuillez m'attendre à l'arrêt de bus.",
+"pourquoi": "at = point précis."
+},
+{
+"phrase": "I left my briefcase ___ the train.",
+"options": [
+"on",
+"in",
+"at",
+"by"
+],
+"reponse": "on",
+"fr": "J'ai laissé ma mallette dans le train.",
+"pourquoi": "On prend 'on' pour les transports en commun (bus, train, plane)."
+},
+{
+"phrase": "They are traveling ___ car.",
+"options": [
+"by",
+"in",
+"on",
+"with"
+],
+"reponse": "by",
+"fr": "Ils voyagent en voiture.",
+"pourquoi": "by + moyen de transport (sans article)."
+}
+]
+},
+{
+"id": "prep-mouvement",
+"titre": "Prépositions de mouvement et de temps (compléments)",
+"fiche": [
+{
+"titre": "Mouvement",
+"regles": [
+"to = vers une destination ; from = origine",
+"into = entrer dans ; out of = sortir de ; onto = monter sur ; off = descendre de",
+"across = d'un côté à l'autre ; through = à travers ; along = le long de",
+"towards = en direction de ; past = passer devant ; around = autour de ; beyond = au-delà de"
+]
+},
+{
+"titre": "in / into, on / onto",
+"regles": [
+"in / on = position (statique) ; into / onto = mouvement vers",
+"go home (jamais 'go to home')"
+]
+},
+{
+"titre": "Temps: nuances",
+"regles": [
+"by = au plus tard ; until / till = jusqu'à ; since = depuis ; for = pendant (durée) ; during = pendant (période)",
+"as of = à partir de ; throughout = pendant toute la durée ; up to = jusqu'à",
+"at night (en général) / in the night (un événement précis) ; at the weekend (UK) / on the weekend (US)"
+]
+}
+],
+"exos": [
+{
+"phrase": "She walked ___ the room and sat down.",
+"options": [
+"into",
+"in",
+"at",
+"on"
+],
+"reponse": "into",
+"fr": "Elle est entrée dans la pièce et s'est assise.",
+"pourquoi": "into = mouvement vers l'intérieur."
+},
+{
+"phrase": "He got ___ the car and left.",
+"options": [
+"out of",
+"off",
+"from",
+"away"
+],
+"reponse": "out of",
+"fr": "Il est sorti de la voiture et est parti.",
+"pourquoi": "out of = sortir d'un espace fermé."
+},
+{
+"phrase": "The train passed ___ the tunnel.",
+"options": [
+"through",
+"across",
+"along",
+"above"
+],
+"reponse": "through",
+"fr": "Le train est passé par le tunnel.",
+"pourquoi": "through = à travers un espace fermé."
+},
+{
+"phrase": "We walked ___ the beach for an hour.",
+"options": [
+"along",
+"across",
+"into",
+"onto"
+],
+"reponse": "along",
+"fr": "Nous avons marché le long de la plage pendant une heure.",
+"pourquoi": "along = le long de."
+},
+{
+"phrase": "He jumped ___ the stage.",
+"options": [
+"onto",
+"on",
+"at",
+"in"
+],
+"reponse": "onto",
+"fr": "Il a sauté sur la scène.",
+"pourquoi": "onto = mouvement vers une surface."
+},
+{
+"phrase": "I'm going ___ now. See you tomorrow!",
+"options": [
+"home",
+"to home",
+"at home",
+"in home"
+],
+"reponse": "home",
+"fr": "Je rentre chez moi. À demain !",
+"pourquoi": "go home : pas de préposition."
+},
+{
+"phrase": "She ran ___ the exit.",
+"options": [
+"towards",
+"through",
+"above",
+"among"
+],
+"reponse": "towards",
+"fr": "Elle a couru vers la sortie.",
+"pourquoi": "towards = en direction de."
+},
+{
+"phrase": "The new rule applies ___ January 1.",
+"options": [
+"as of",
+"during",
+"since",
+"for"
+],
+"reponse": "as of",
+"fr": "La nouvelle règle s'applique à partir du 1er janvier.",
+"pourquoi": "as of = à partir de."
+},
+{
+"phrase": "The offer is valid ___ the end of the month.",
+"options": [
+"up to",
+"since",
+"during",
+"at"
+],
+"reponse": "up to",
+"fr": "L'offre est valable jusqu'à la fin du mois.",
+"pourquoi": "up to = jusqu'à."
+},
+{
+"phrase": "The music played ___ the whole concert.",
+"options": [
+"throughout",
+"between",
+"within",
+"by"
+],
+"reponse": "throughout",
+"fr": "La musique a été jouée pendant tout le concert.",
+"pourquoi": "throughout = du début à la fin."
+},
+{
+"phrase": "I usually sleep ___ night.",
+"options": [
+"at",
+"in",
+"on",
+"during"
+],
+"reponse": "at",
+"fr": "Je dors habituellement la nuit.",
+"pourquoi": "at night = la nuit, en général."
+},
+{
+"phrase": "The shop is open ___ Monday to Friday.",
+"options": [
+"from",
+"since",
+"by",
+"until"
+],
+"reponse": "from",
+"fr": "Le magasin est ouvert du lundi au vendredi.",
+"pourquoi": "from ... to = début et fin."
+}
+]
+},
+{
+"id": "prep-locutions",
+"titre": "Locutions prépositives et pièges",
+"fiche": [
+{
+"titre": "Cause et opposition",
+"regles": [
+"because of / due to / owing to / thanks to + nom (cause ; thanks to = cause positive)",
+"despite / in spite of + nom = malgré ; unlike = contrairement à ; contrary to = contrairement à (une idée)",
+"instead of + nom = au lieu de ; instead seul = à la place"
+]
+},
+{
+"titre": "Autres locutions utiles",
+"regles": [
+"according to = d'après ; regarding / concerning = concernant ; apart from = hormis",
+"except (for) = sauf ; as well as = ainsi que ; rather than = plutôt que",
+"per = par (20 $ per hour) ; via = en passant par ; as = en tant que ; like = comme"
+]
+},
+{
+"titre": "Verbes + préposition",
+"regles": [
+"ask for, wait for, look for, apply for",
+"look at, listen to, belong to, object to",
+"depend on, agree on (un sujet) / agree with (quelqu'un) / agree to (consentir)",
+"made of (matière), made from (transformée), made with (ingrédient)"
+]
+},
+{
+"titre": "Erreurs fréquentes",
+"regles": [
+"I'm going home (pas 'to home')",
+"It depends on the weather (pas 'of')",
+"She asked for advice (pas 'asked advice')",
+"attack someone (pas 'attack to')"
+]
+}
+],
+"exos": [
+{
+"phrase": "The flight was delayed ___ the storm.",
+"options": [
+"because of",
+"because",
+"despite",
+"although"
+],
+"reponse": "because of",
+"fr": "Le vol a été retardé à cause de l'orage.",
+"pourquoi": "because of + nom."
+},
+{
+"phrase": "The delay was ___ to technical issues.",
+"options": [
+"due",
+"owing",
+"because",
+"thanks"
+],
+"reponse": "due",
+"fr": "Le retard est dû à des problèmes techniques.",
+"pourquoi": "due to = dû à."
+},
+{
+"phrase": "We succeeded ___ your help.",
+"options": [
+"thanks to",
+"despite",
+"instead of",
+"regarding"
+],
+"reponse": "thanks to",
+"fr": "Nous avons réussi grâce à votre aide.",
+"pourquoi": "thanks to = cause positive."
+},
+{
+"phrase": "She won ___ the difficulties.",
+"options": [
+"despite",
+"because of",
+"due to",
+"thanks to"
+],
+"reponse": "despite",
+"fr": "Elle a gagné malgré les difficultés.",
+"pourquoi": "despite + nom = malgré."
+},
+{
+"phrase": "___ the news, it will rain tomorrow.",
+"options": [
+"According to",
+"Regarding",
+"Despite",
+"Instead of"
+],
+"reponse": "According to",
+"fr": "D'après les informations, il va pleuvoir demain.",
+"pourquoi": "according to = d'après (source)."
+},
+{
+"phrase": "Take tea ___ coffee; it's lighter.",
+"options": [
+"instead of",
+"instead",
+"despite",
+"rather"
+],
+"reponse": "instead of",
+"fr": "Prends du thé plutôt que du café ; c'est plus léger.",
+"pourquoi": "instead of + nom."
+},
+{
+"phrase": "Everyone came ___ John.",
+"options": [
+"except",
+"besides",
+"among",
+"unlike"
+],
+"reponse": "except",
+"fr": "Tout le monde est venu sauf John.",
+"pourquoi": "except = sauf."
+},
+{
+"phrase": "He earns twenty dollars ___ hour.",
+"options": [
+"per",
+"by",
+"in",
+"on"
+],
+"reponse": "per",
+"fr": "Il gagne vingt dollars de l'heure.",
+"pourquoi": "per = par (fréquence, proportion)."
+},
+{
+"phrase": "We flew to Rome ___ Paris.",
+"options": [
+"via",
+"from",
+"over",
+"among"
+],
+"reponse": "via",
+"fr": "Nous avons volé vers Rome en passant par Paris.",
+"pourquoi": "via = en passant par."
+},
+{
+"phrase": "It depends ___ the weather.",
+"options": [
+"on",
+"of",
+"from",
+"to"
+],
+"reponse": "on",
+"fr": "Cela dépend du temps.",
+"pourquoi": "depend on."
+},
+{
+"phrase": "She asked ___ advice from her manager.",
+"options": [
+"for",
+"about",
+"to",
+"of"
+],
+"reponse": "for",
+"fr": "Elle a demandé conseil à son responsable.",
+"pourquoi": "ask for = demander."
+},
+{
+"phrase": "This book belongs ___ me.",
+"options": [
+"to",
+"for",
+"of",
+"with"
+],
+"reponse": "to",
+"fr": "Ce livre m'appartient.",
+"pourquoi": "belong to."
+},
+{
+"phrase": "We agreed ___ a price after a long discussion.",
+"options": [
+"on",
+"with",
+"at",
+"of"
+],
+"reponse": "on",
+"fr": "Nous nous sommes mis d'accord sur un prix après une longue discussion.",
+"pourquoi": "agree on + sujet."
+},
+{
+"phrase": "I'll look ___ the problem and call you back.",
+"options": [
+"into",
+"away",
+"with",
+"by"
+],
+"reponse": "into",
+"fr": "Je vais examiner le problème et vous rappeler.",
+"pourquoi": "look into = examiner."
+},
+{
+"phrase": "This table is made ___ wood.",
+"options": [
+"of",
+"by",
+"at",
+"on"
+],
+"reponse": "of",
+"fr": "Cette table est en bois.",
+"pourquoi": "made of + matière."
+},
+{
+"phrase": "___ his brother, he loves sports.",
+"options": [
+"Unlike",
+"Despite",
+"Except",
+"Instead"
+],
+"reponse": "Unlike",
+"fr": "Contrairement à son frère, il adore le sport.",
+"pourquoi": "unlike = contrairement à."
+}
+]
+},
+{
 "id": "nature-du-mot",
 "titre": "Nature du mot (Parts 5 et 6)",
 "fiche": [
