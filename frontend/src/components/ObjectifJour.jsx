@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { api } from "../api";
 
-const CHOIX = [10, 20, 30, 50, 100];
+const CHOIX = [10, 20, 30, 50, 100, 200, 300, 500];
 
 export default function ObjectifJour() {
   const [d, setD] = useState(null);
