@@ -5,6 +5,7 @@ import Fiches from "./components/Fiches";
 import Stats from "./components/Stats";
 import Examen from "./components/Examen";
 import Erreurs from "./components/Erreurs";
+import Grammaire from "./components/Grammaire";
 import ObjectifJour from "./components/ObjectifJour";
 import "./index.css";
 
@@ -12,6 +13,7 @@ const ONGLETS = [
   { id: "quiz", label: "🎯 Quiz" },
   { id: "examen", label: "⏱️ Examen" },
   { id: "erreurs", label: "❌ Erreurs" },
+  { id: "grammaire", label: "📖 Grammaire" },
   { id: "fiches", label: "🃏 Fiches" },
   { id: "stats", label: "📊 Stats" },
   { id: "vocabulaire", label: "📚 Vocabulaire" },
@@ -45,6 +47,7 @@ export default function App() {
         {onglet === "quiz" && <Quiz key={cleQuiz} modeInitial={modeQuiz} />}
         {onglet === "erreurs" && <Erreurs onRefaire={() => { setModeQuiz("erreurs"); setCleQuiz(k => k + 1); setOnglet("quiz"); }} />}
         {onglet === "examen" && <Examen />}
+        {onglet === "grammaire" && <Grammaire />}
         {onglet === "fiches" && <Fiches />}
         {onglet === "stats" && <Stats />}
         {onglet === "vocabulaire" && <Vocabulaire />}

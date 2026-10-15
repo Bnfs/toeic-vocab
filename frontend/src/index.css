@@ -273,3 +273,13 @@ body {
 .phrase-complete { margin-top: 12px; padding: 10px 12px; background: #f0f9ff; border-radius: 8px; font-size: 0.9rem; line-height: 1.5; text-align: left; }
 .phrase-complete p { margin: 2px 0; }
 .recap-item .phrase-complete { flex-basis: 100%; }
+
+/* Grammaire */
+.gram-bloc h3 { margin: 12px 0 4px; font-size: 1rem; }
+.gram-bloc ul { margin: 0; padding-left: 20px; }
+.gram-phrase { font-size: 1.1rem; }
+.gram-options { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.gram-opt { padding: 8px 14px; border: 2px solid #cbd5e1; border-radius: 8px; background: #fff; cursor: pointer; font-size: 1rem; }
+.gram-opt.bonne { border-color: #16a34a; background: #dcfce7; }
+.gram-opt.mauvaise { border-color: #dc2626; background: #fee2e2; }
+.gram-check { display: block; margin-top: 10px; font-size: .9rem; }

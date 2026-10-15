@@ -1,0 +1,495 @@
+[
+{
+"id": "prepositions",
+"titre": "Les prépositions",
+"fiche": [
+{
+"titre": "Le temps",
+"regles": [
+"at + heure précise: at 9 a.m., at noon, at night",
+"on + jour ou date: on Monday, on May 3",
+"in + mois, année, saison, partie de la journée: in June, in 2025, in the morning",
+"for + durée (for two years) / since + point de départ (since 2020)",
+"during + nom (during the meeting) / while + sujet + verbe (while we were waiting)",
+"by = avant ou à cette date (échéance) / until = jusqu'à (durée)",
+"within = dans un délai de (within 30 days)"
+]
+},
+{
+"titre": "Le lieu",
+"regles": [
+"at + point précis (at the airport, at the entrance)",
+"on + surface ou étage (on the table, on the third floor)",
+"in + espace fermé, ville, pays (in the office, in Paris)",
+"between = deux éléments / among = plus de deux",
+"across the street from = en face / behind = derrière / next to = à côté de"
+]
+},
+{
+"titre": "Prépositions après un mot (à apprendre par cœur)",
+"regles": [
+"responsible for, in charge of, depend on, interested in",
+"comply with, familiar with, satisfied with, pleased with",
+"result in (avoir pour effet) / result from (être causé par)",
+"known for (célèbre pour) / known as (connu en tant que)",
+"inform someone of / about, apply for (un poste), apply to (une entreprise)"
+]
+},
+{
+"titre": "Les pièges classiques",
+"regles": [
+"because of / due to + nom ; because + sujet + verbe",
+"despite / in spite of + nom ; although + sujet + verbe",
+"during + nom ; while + sujet + verbe",
+"by + moyen (by air, by e-mail) ; on a business trip, on vacation, on strike"
+]
+}
+],
+"exos": [
+{
+"phrase": "The meeting will start ___ 9:30 a.m.",
+"options": [
+"at",
+"on",
+"in",
+"by"
+],
+"reponse": "at",
+"fr": "La réunion commencera à 9 h 30.",
+"pourquoi": "at + heure précise."
+},
+{
+"phrase": "The conference is scheduled ___ Tuesday.",
+"options": [
+"on",
+"at",
+"in",
+"for"
+],
+"reponse": "on",
+"fr": "La conférence est prévue mardi.",
+"pourquoi": "on + jour ou date précise."
+},
+{
+"phrase": "Our new store will open ___ March.",
+"options": [
+"in",
+"on",
+"at",
+"by"
+],
+"reponse": "in",
+"fr": "Notre nouveau magasin ouvrira en mars.",
+"pourquoi": "in + mois, année, saison."
+},
+{
+"phrase": "Please submit the report ___ Friday at the latest.",
+"options": [
+"by",
+"until",
+"during",
+"since"
+],
+"reponse": "by",
+"fr": "Veuillez remettre le rapport vendredi au plus tard.",
+"pourquoi": "by = avant ou à cette date (échéance)."
+},
+{
+"phrase": "The office will be closed ___ next Monday.",
+"options": [
+"until",
+"by",
+"at",
+"on"
+],
+"reponse": "until",
+"fr": "Le bureau sera fermé jusqu'à lundi prochain.",
+"pourquoi": "until = jusqu'à (action qui dure jusqu'à ce moment)."
+},
+{
+"phrase": "She has worked here ___ 2019.",
+"options": [
+"since",
+"for",
+"from",
+"during"
+],
+"reponse": "since",
+"fr": "Elle travaille ici depuis 2019.",
+"pourquoi": "since + point de départ (date)."
+},
+{
+"phrase": "He has been the manager ___ five years.",
+"options": [
+"for",
+"since",
+"during",
+"in"
+],
+"reponse": "for",
+"fr": "Il est directeur depuis cinq ans.",
+"pourquoi": "for + durée."
+},
+{
+"phrase": "Several clients called ___ the meeting.",
+"options": [
+"during",
+"while",
+"for",
+"since"
+],
+"reponse": "during",
+"fr": "Plusieurs clients ont appelé pendant la réunion.",
+"pourquoi": "during + nom ; while + sujet + verbe."
+},
+{
+"phrase": "The report must be finished ___ two days.",
+"options": [
+"within",
+"during",
+"until",
+"at"
+],
+"reponse": "within",
+"fr": "Le rapport doit être terminé dans les deux jours.",
+"pourquoi": "within = dans un délai de."
+},
+{
+"phrase": "The new policy takes effect ___ the first of July.",
+"options": [
+"on",
+"at",
+"in",
+"by"
+],
+"reponse": "on",
+"fr": "La nouvelle politique entre en vigueur le 1er juillet.",
+"pourquoi": "on + date précise."
+},
+{
+"phrase": "The manager is ___ a business trip this week.",
+"options": [
+"on",
+"at",
+"in",
+"for"
+],
+"reponse": "on",
+"fr": "Le directeur est en voyage d'affaires cette semaine.",
+"pourquoi": "on a business trip, on vacation, on leave."
+},
+{
+"phrase": "Mr. Lee is sitting ___ the two directors.",
+"options": [
+"between",
+"among",
+"across",
+"through"
+],
+"reponse": "between",
+"fr": "M. Lee est assis entre les deux directeurs.",
+"pourquoi": "between = deux éléments ; among = plus de deux."
+},
+{
+"phrase": "The budget was divided ___ the five departments.",
+"options": [
+"among",
+"between",
+"along",
+"beside"
+],
+"reponse": "among",
+"fr": "Le budget a été réparti entre les cinq services.",
+"pourquoi": "among + groupe de plus de deux."
+},
+{
+"phrase": "The bank is located ___ the street from the post office.",
+"options": [
+"across",
+"over",
+"through",
+"along"
+],
+"reponse": "across",
+"fr": "La banque est située en face de la poste, de l'autre côté de la rue.",
+"pourquoi": "across the street from = en face."
+},
+{
+"phrase": "Our offices are ___ the third floor.",
+"options": [
+"on",
+"at",
+"in",
+"to"
+],
+"reponse": "on",
+"fr": "Nos bureaux sont au troisième étage.",
+"pourquoi": "on + étage."
+},
+{
+"phrase": "Employees can park ___ the building.",
+"options": [
+"behind",
+"between",
+"among",
+"onto"
+],
+"reponse": "behind",
+"fr": "Les employés peuvent se garer derrière le bâtiment.",
+"pourquoi": "behind = derrière."
+},
+{
+"phrase": "The products are shipped ___ air freight.",
+"options": [
+"by",
+"with",
+"in",
+"on"
+],
+"reponse": "by",
+"fr": "Les produits sont expédiés par fret aérien.",
+"pourquoi": "by + moyen de transport / procédé."
+},
+{
+"phrase": "Please send the documents ___ e-mail.",
+"options": [
+"by",
+"with",
+"through",
+"onto"
+],
+"reponse": "by",
+"fr": "Veuillez envoyer les documents par e-mail.",
+"pourquoi": "by e-mail, by mail, by phone."
+},
+{
+"phrase": "Ms. Cho is responsible ___ training new staff.",
+"options": [
+"for",
+"of",
+"to",
+"with"
+],
+"reponse": "for",
+"fr": "Mme Cho est chargée de former les nouveaux employés.",
+"pourquoi": "responsible for."
+},
+{
+"phrase": "The success of the project depends ___ everyone's effort.",
+"options": [
+"on",
+"of",
+"from",
+"to"
+],
+"reponse": "on",
+"fr": "Le succès du projet dépend des efforts de chacun.",
+"pourquoi": "depend on."
+},
+{
+"phrase": "We are interested ___ working with your company.",
+"options": [
+"in",
+"on",
+"at",
+"for"
+],
+"reponse": "in",
+"fr": "Nous souhaiterions travailler avec votre entreprise.",
+"pourquoi": "interested in."
+},
+{
+"phrase": "All employees must comply ___ the safety rules.",
+"options": [
+"with",
+"to",
+"of",
+"for"
+],
+"reponse": "with",
+"fr": "Tous les employés doivent respecter les règles de sécurité.",
+"pourquoi": "comply with."
+},
+{
+"phrase": "The delay resulted ___ a loss of revenue.",
+"options": [
+"in",
+"from",
+"of",
+"by"
+],
+"reponse": "in",
+"fr": "Le retard a entraîné une perte de revenus.",
+"pourquoi": "result in = avoir pour résultat ; result from = résulter de."
+},
+{
+"phrase": "The loss resulted ___ poor planning.",
+"options": [
+"from",
+"in",
+"to",
+"at"
+],
+"reponse": "from",
+"fr": "La perte résulte d'une mauvaise planification.",
+"pourquoi": "result from = être causé par."
+},
+{
+"phrase": "Mr. Park is in charge ___ the sales team.",
+"options": [
+"of",
+"for",
+"with",
+"on"
+],
+"reponse": "of",
+"fr": "M. Park dirige l'équipe commerciale.",
+"pourquoi": "in charge of."
+},
+{
+"phrase": "The flight was cancelled ___ the storm.",
+"options": [
+"because of",
+"because",
+"although",
+"despite"
+],
+"reponse": "because of",
+"fr": "Le vol a été annulé à cause de la tempête.",
+"pourquoi": "because of + nom ; because + sujet + verbe."
+},
+{
+"phrase": "___ the heavy rain, the event went ahead as planned.",
+"options": [
+"Despite",
+"Although",
+"Because",
+"However"
+],
+"reponse": "Despite",
+"fr": "Malgré la forte pluie, l'événement a eu lieu comme prévu.",
+"pourquoi": "despite + nom ; although + sujet + verbe."
+},
+{
+"phrase": "Please contact us ___ your order.",
+"options": [
+"regarding",
+"regarded",
+"regard",
+"regards"
+],
+"reponse": "regarding",
+"fr": "Veuillez nous contacter au sujet de votre commande.",
+"pourquoi": "regarding = concernant."
+},
+{
+"phrase": "We are pleased to inform you ___ your promotion.",
+"options": [
+"of",
+"about",
+"on",
+"for"
+],
+"reponse": "of",
+"fr": "Nous avons le plaisir de vous informer de votre promotion.",
+"pourquoi": "inform someone of / about something."
+},
+{
+"phrase": "The company is known ___ its excellent service.",
+"options": [
+"for",
+"as",
+"of",
+"with"
+],
+"reponse": "for",
+"fr": "L'entreprise est connue pour son excellent service.",
+"pourquoi": "be known for = être connu pour."
+},
+{
+"phrase": "Ms. Rossi is known ___ the best designer in the region.",
+"options": [
+"as",
+"for",
+"to",
+"at"
+],
+"reponse": "as",
+"fr": "Mme Rossi est connue comme la meilleure designer de la région.",
+"pourquoi": "be known as = être connu en tant que."
+},
+{
+"phrase": "The workers are ___ strike over wages.",
+"options": [
+"on",
+"at",
+"in",
+"for"
+],
+"reponse": "on",
+"fr": "Les ouvriers sont en grève à propos des salaires.",
+"pourquoi": "on strike."
+},
+{
+"phrase": "Prices are ___ review and may change.",
+"options": [
+"under",
+"at",
+"onto",
+"into"
+],
+"reponse": "under",
+"fr": "Les prix sont à l'étude et peuvent changer.",
+"pourquoi": "under review, under construction."
+},
+{
+"phrase": "She is ___ charge of the budget, so please ask her.",
+"options": [
+"in",
+"on",
+"at",
+"by"
+],
+"reponse": "in",
+"fr": "Elle est responsable du budget, adressez-vous donc à elle.",
+"pourquoi": "in charge of = responsable de."
+},
+{
+"phrase": "The invoice is due ___ thirty days of receipt.",
+"options": [
+"within",
+"during",
+"until",
+"since"
+],
+"reponse": "within",
+"fr": "La facture est due dans les trente jours suivant sa réception.",
+"pourquoi": "within + délai."
+},
+{
+"phrase": "Our supplier is ___ of stock, so the order will be late.",
+"options": [
+"out",
+"off",
+"away",
+"free"
+],
+"reponse": "out",
+"fr": "Notre fournisseur est en rupture de stock, la commande sera donc en retard.",
+"pourquoi": "out of stock."
+},
+{
+"phrase": "I will be ___ the office until Thursday.",
+"options": [
+"out of",
+"off",
+"away from",
+"far from"
+],
+"reponse": "out of",
+"fr": "Je serai absent du bureau jusqu'à jeudi.",
+"pourquoi": "out of the office."
+}
+]
+}
+]
