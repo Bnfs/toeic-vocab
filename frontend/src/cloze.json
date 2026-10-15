@@ -28747,5 +28747,775 @@
 "phrase": "The ___ of the package is two kilograms.",
 "reponse": "weight",
 "fr": "Le poids du colis est de deux kilogrammes."
+},
+{
+"id": 6000,
+"tag": "r",
+"phrase": "The new schedule is ___ essential for the project.",
+"reponse": "absolutely",
+"fr": "Le nouveau planning est absolument indispensable au projet."
+},
+{
+"id": 6001,
+"tag": "v",
+"phrase": "The team hopes to ___ all its goals this year.",
+"reponse": "accomplish",
+"fr": "L'équipe espère atteindre tous ses objectifs cette année."
+},
+{
+"id": 6002,
+"tag": "p",
+"phrase": "___ the report, sales rose by ten percent.",
+"reponse": "According to",
+"fr": "Selon le rapport, les ventes ont augmenté de dix pour cent."
+},
+{
+"id": 6003,
+"tag": "v",
+"phrase": "The company plans to ___ a smaller rival.",
+"reponse": "acquire",
+"fr": "L'entreprise prévoit d'acquérir un petit concurrent."
+},
+{
+"id": 6004,
+"tag": "n",
+"phrase": "The new ___ protects consumers from false advertising.",
+"reponse": "act",
+"fr": "La nouvelle loi protège les consommateurs de la publicité mensongère."
+},
+{
+"id": 6005,
+"tag": "v",
+"phrase": "The manager had to ___ that the figures were wrong.",
+"reponse": "admit",
+"fr": "Le directeur a dû reconnaître que les chiffres étaient faux."
+},
+{
+"id": 6006,
+"tag": "v",
+"phrase": "We will ___ the position in the local newspaper.",
+"reponse": "advertise",
+"fr": "Nous annoncerons le poste dans le journal local."
+},
+{
+"id": 6007,
+"tag": "n",
+"phrase": "Thank you for your ___ on this matter.",
+"reponse": "advice",
+"fr": "Merci pour vos conseils sur ce sujet."
+},
+{
+"id": 6008,
+"tag": "v",
+"phrase": "Both parties must ___ to the terms of the contract.",
+"reponse": "agree",
+"fr": "Les deux parties doivent accepter les termes du contrat."
+},
+{
+"id": 6009,
+"tag": "n",
+"phrase": "The main ___ of the meeting is to approve the budget.",
+"reponse": "aim",
+"fr": "L'objectif principal de la réunion est d'approuver le budget."
+},
+{
+"id": 6010,
+"tag": "v",
+"phrase": "The board voted to ___ the contract.",
+"reponse": "amend",
+"fr": "Le conseil a voté pour modifier le contrat."
+},
+{
+"id": 6011,
+"tag": "a",
+"phrase": "The noise from the construction site is very ___.",
+"reponse": "annoying",
+"fr": "Le bruit du chantier est très agaçant."
+},
+{
+"id": 6012,
+"tag": "v",
+"phrase": "We ___ for the delay in delivery.",
+"reponse": "apologize",
+"fr": "Nous nous excusons pour le retard de livraison."
+},
+{
+"id": 6013,
+"tag": "n",
+"phrase": "The waiter recommended the soup as an ___.",
+"reponse": "appetizer",
+"fr": "Le serveur a recommandé la soupe en entrée."
+},
+{
+"id": 6014,
+"tag": "n",
+"phrase": "The ___ learns the trade from an experienced carpenter.",
+"reponse": "apprentice",
+"fr": "L'apprenti apprend le métier auprès d'un charpentier expérimenté."
+},
+{
+"id": 6015,
+"tag": "n",
+"phrase": "The company has stores in the Chicago ___.",
+"reponse": "area",
+"fr": "L'entreprise a des magasins dans la région de Chicago."
+},
+{
+"id": 6016,
+"tag": "v",
+"phrase": "The two colleagues began to ___ about the schedule.",
+"reponse": "argue",
+"fr": "Les deux collègues ont commencé à se disputer à propos du planning."
+},
+{
+"id": 6017,
+"tag": "n",
+"phrase": "The meeting ended after a heated ___ about the budget.",
+"reponse": "argument",
+"fr": "La réunion s'est terminée après une vive dispute sur le budget."
+},
+{
+"id": 6018,
+"tag": "a",
+"phrase": "It was ___ to ask for a raise in front of everyone.",
+"reponse": "awkward",
+"fr": "Il était gênant de demander une augmentation devant tout le monde."
+},
+{
+"id": 6019,
+"tag": "n",
+"phrase": "She has a strong ___ in finance.",
+"reponse": "background",
+"fr": "Elle a une solide formation en finance."
+},
+{
+"id": 6020,
+"tag": "a",
+"phrase": "The company went ___ after losing its biggest client.",
+"reponse": "bankrupt",
+"fr": "L'entreprise a fait faillite après avoir perdu son plus gros client."
+},
+{
+"id": 6021,
+"tag": "v",
+"phrase": "Employees are expected to ___ professionally at all times.",
+"reponse": "behave",
+"fr": "Les employés doivent se comporter de façon professionnelle en toute circonstance."
+},
+{
+"id": 6022,
+"tag": "n",
+"phrase": "Please keep your ___ with you at all times.",
+"reponse": "belongings",
+"fr": "Veuillez garder vos affaires personnelles avec vous en permanence."
+},
+{
+"id": 6023,
+"tag": "n",
+"phrase": "Food and ___ are not allowed in the library.",
+"reponse": "beverages",
+"fr": "La nourriture et les boissons sont interdites dans la bibliothèque."
+},
+{
+"id": 6024,
+"tag": "v",
+"phrase": "He likes to ___ about his sales results.",
+"reponse": "boast",
+"fr": "Il aime se vanter de ses résultats de vente."
+},
+{
+"id": 6025,
+"tag": "a",
+"phrase": "The audience looked ___ during the long presentation.",
+"reponse": "bored",
+"fr": "Le public avait l'air ennuyé pendant la longue présentation."
+},
+{
+"id": 6026,
+"tag": "a",
+"phrase": "I found the training session rather ___.",
+"reponse": "boring",
+"fr": "J'ai trouvé la session de formation plutôt ennuyeuse."
+},
+{
+"id": 6027,
+"tag": "a",
+"phrase": "A ___ mistake cost the company a lot of money.",
+"reponse": "careless",
+"fr": "Une erreur d'inattention a coûté beaucoup d'argent à l'entreprise."
+},
+{
+"id": 6028,
+"tag": "v",
+"phrase": "The staff gathered to ___ the company's anniversary.",
+"reponse": "celebrate",
+"fr": "Le personnel s'est réuni pour fêter l'anniversaire de l'entreprise."
+},
+{
+"id": 6029,
+"tag": "v",
+"phrase": "Several customers ___ about the slow service.",
+"reponse": "complain",
+"fr": "Plusieurs clients se plaignent de la lenteur du service."
+},
+{
+"id": 6030,
+"tag": "a",
+"phrase": "Attendance at the safety training is ___.",
+"reponse": "compulsory",
+"fr": "La présence à la formation sécurité est obligatoire."
+},
+{
+"id": 6031,
+"tag": "v",
+"phrase": "She managed to ___ the board to approve the plan.",
+"reponse": "convince",
+"fr": "Elle a réussi à convaincre le conseil d'approuver le plan."
+},
+{
+"id": 6032,
+"tag": "n",
+"phrase": "My ___ will cover for me while I am away.",
+"reponse": "co-worker",
+"fr": "Mon collègue me remplacera pendant mon absence."
+},
+{
+"id": 6033,
+"tag": "a",
+"phrase": "The laboratory uses ___ technology.",
+"reponse": "cutting edge",
+"fr": "Le laboratoire utilise une technologie de pointe."
+},
+{
+"id": 6034,
+"tag": "v",
+"phrase": "She plans to ___ more time to training new staff.",
+"reponse": "dedicate",
+"fr": "Elle prévoit de consacrer plus de temps à la formation des nouveaux employés."
+},
+{
+"id": 6035,
+"tag": "a",
+"phrase": "Customers may return ___ products within thirty days.",
+"reponse": "defective",
+"fr": "Les clients peuvent retourner les produits défectueux dans les trente jours."
+},
+{
+"id": 6036,
+"tag": "a",
+"phrase": "She is ___ to finish the project on time.",
+"reponse": "determined",
+"fr": "Elle est déterminée à terminer le projet à temps."
+},
+{
+"id": 6037,
+"tag": "n",
+"phrase": "The ___ in the housing market affected many builders.",
+"reponse": "downturn",
+"fr": "Le ralentissement du marché immobilier a touché de nombreux constructeurs."
+},
+{
+"id": 6038,
+"tag": "v",
+"phrase": "Employees who ___ to work can use the parking lot.",
+"reponse": "drive",
+"fr": "Les employés qui viennent travailler en voiture peuvent utiliser le parking."
+},
+{
+"id": 6039,
+"tag": "a",
+"phrase": "I bought some perfume in the ___ shop at the airport.",
+"reponse": "duty-free",
+"fr": "J'ai acheté du parfum à la boutique hors taxes de l'aéroport."
+},
+{
+"id": 6040,
+"tag": "a",
+"phrase": "E-mail is an ___ way to reach all employees.",
+"reponse": "effective",
+"fr": "L'e-mail est un moyen efficace de joindre tous les employés."
+},
+{
+"id": 6041,
+"tag": "a",
+"phrase": "The bus has seats reserved for ___ passengers.",
+"reponse": "elderly",
+"fr": "Le bus dispose de places réservées aux personnes âgées."
+},
+{
+"id": 6042,
+"tag": "v",
+"phrase": "The new software will ___ us to work faster.",
+"reponse": "enable",
+"fr": "Le nouveau logiciel nous permettra de travailler plus vite."
+},
+{
+"id": 6043,
+"tag": "v",
+"phrase": "You can ___ in the course online.",
+"reponse": "enrol",
+"fr": "Vous pouvez vous inscrire au cours en ligne."
+},
+{
+"id": 6044,
+"tag": "v",
+"phrase": "We ___ the shipment to arrive on Monday.",
+"reponse": "expect",
+"fr": "Nous attendons la livraison lundi."
+},
+{
+"id": 6045,
+"tag": "n",
+"phrase": "The new phone exceeded our ___.",
+"reponse": "expectations",
+"fr": "Le nouveau téléphone a dépassé nos attentes."
+},
+{
+"id": 6046,
+"tag": "a",
+"phrase": "We are looking for an ___ accountant.",
+"reponse": "experienced",
+"fr": "Nous cherchons un comptable expérimenté."
+},
+{
+"id": 6047,
+"tag": "v",
+"phrase": "The bank agreed to ___ the deadline by a week.",
+"reponse": "extend",
+"fr": "La banque a accepté de prolonger le délai d'une semaine."
+},
+{
+"id": 6048,
+"tag": "n",
+"phrase": "She has ten years of experience in the medical ___.",
+"reponse": "field",
+"fr": "Elle a dix ans d'expérience dans le domaine médical."
+},
+{
+"id": 6049,
+"tag": "a",
+"phrase": "He is so ___ that he writes everything down.",
+"reponse": "forgetful",
+"fr": "Il oublie tellement de choses qu'il note tout."
+},
+{
+"id": 6050,
+"tag": "a",
+"phrase": "For ___ information, please visit our website.",
+"reponse": "further",
+"fr": "Pour plus d'informations, veuillez consulter notre site Internet."
+},
+{
+"id": 6051,
+"tag": "v",
+"phrase": "Customers often ___ over the price at the market.",
+"reponse": "haggle",
+"fr": "Les clients marchandent souvent le prix au marché."
+},
+{
+"id": 6052,
+"tag": "a",
+"phrase": "This small tool is very ___ for quick repairs.",
+"reponse": "handy",
+"fr": "Ce petit outil est très pratique pour les réparations rapides."
+},
+{
+"id": 6053,
+"tag": "v",
+"phrase": "We plan to ___ five new engineers this year.",
+"reponse": "hire",
+"fr": "Nous prévoyons d'embaucher cinq nouveaux ingénieurs cette année."
+},
+{
+"id": 6054,
+"tag": "a",
+"phrase": "The ___ use of the equipment may cause accidents.",
+"reponse": "improper",
+"fr": "Une mauvaise utilisation de l'équipement peut provoquer des accidents."
+},
+{
+"id": 6055,
+"tag": "v",
+"phrase": "The company wants to ___ its customer service.",
+"reponse": "improve",
+"fr": "L'entreprise veut améliorer son service client."
+},
+{
+"id": 6056,
+"tag": "v",
+"phrase": "The price does not ___ shipping costs.",
+"reponse": "include",
+"fr": "Le prix ne comprend pas les frais d'expédition."
+},
+{
+"id": 6057,
+"tag": "a",
+"phrase": "The company often hires ___ graduates and trains them.",
+"reponse": "inexperienced",
+"fr": "L'entreprise embauche souvent de jeunes diplômés sans expérience et les forme."
+},
+{
+"id": 6058,
+"tag": "n",
+"phrase": "The company provides health ___ for all employees.",
+"reponse": "insurance",
+"fr": "L'entreprise offre une assurance santé à tous ses employés."
+},
+{
+"id": 6059,
+"tag": "n",
+"phrase": "The travel agent sent us a detailed ___.",
+"reponse": "itinerary",
+"fr": "L'agent de voyage nous a envoyé un itinéraire détaillé."
+},
+{
+"id": 6060,
+"tag": "a",
+"phrase": "He was ___ of his colleague's promotion.",
+"reponse": "jealous",
+"fr": "Il était jaloux de la promotion de son collègue."
+},
+{
+"id": 6061,
+"tag": "v",
+"phrase": "A delay could ___ the whole project.",
+"reponse": "jeopardize",
+"fr": "Un retard pourrait compromettre tout le projet."
+},
+{
+"id": 6062,
+"tag": "a",
+"phrase": "The new employees are ___ to learn.",
+"reponse": "keen",
+"fr": "Les nouveaux employés sont désireux d'apprendre."
+},
+{
+"id": 6063,
+"tag": "v",
+"phrase": "Please ___ the receipt as proof of purchase.",
+"reponse": "keep",
+"fr": "Veuillez conserver le reçu comme preuve d'achat."
+},
+{
+"id": 6064,
+"tag": "v",
+"phrase": "Please ___ before entering the manager's office.",
+"reponse": "knock",
+"fr": "Veuillez frapper avant d'entrer dans le bureau du directeur."
+},
+{
+"id": 6065,
+"tag": "n",
+"phrase": "The job requires a good ___ of accounting.",
+"reponse": "knowledge",
+"fr": "Le poste exige de bonnes connaissances en comptabilité."
+},
+{
+"id": 6066,
+"tag": "v",
+"phrase": "The factory had to ___ fifty workers.",
+"reponse": "lay off",
+"fr": "L'usine a dû licencier cinquante ouvriers."
+},
+{
+"id": 6067,
+"tag": "a",
+"phrase": "The company is running a ___ operation with very few staff.",
+"reponse": "lean",
+"fr": "L'entreprise fonctionne de façon allégée avec très peu de personnel."
+},
+{
+"id": 6068,
+"tag": "v",
+"phrase": "The bank agreed to ___ us the money.",
+"reponse": "lend",
+"fr": "La banque a accepté de nous prêter l'argent."
+},
+{
+"id": 6069,
+"tag": "n",
+"phrase": "The farmer sold his ___ at the market.",
+"reponse": "livestock",
+"fr": "Le fermier a vendu son bétail au marché."
+},
+{
+"id": 6070,
+"tag": "n",
+"phrase": "Passengers may take one piece of ___ on board.",
+"reponse": "luggage",
+"fr": "Les passagers peuvent emporter un bagage à bord."
+},
+{
+"id": 6071,
+"tag": "a",
+"phrase": "The road is too ___ for large trucks.",
+"reponse": "narrow",
+"fr": "La route est trop étroite pour les gros camions."
+},
+{
+"id": 6072,
+"tag": "n",
+"phrase": "Our ___ complained about the noise.",
+"reponse": "neighbour",
+"fr": "Notre voisin s'est plaint du bruit."
+},
+{
+"id": 6073,
+"tag": "n",
+"phrase": "The store is located in a quiet ___.",
+"reponse": "neighbourhood",
+"fr": "Le magasin est situé dans un quartier calme."
+},
+{
+"id": 6074,
+"tag": "v",
+"phrase": "You must ___ a permit before you start building.",
+"reponse": "obtain",
+"fr": "Vous devez obtenir un permis avant de commencer à construire."
+},
+{
+"id": 6075,
+"tag": "a",
+"phrase": "The reason for the delay was ___.",
+"reponse": "obvious",
+"fr": "La raison du retard était évidente."
+},
+{
+"id": 6076,
+"tag": "n",
+"phrase": "We would like to hear your ___ on the new design.",
+"reponse": "opinion",
+"fr": "Nous aimerions connaître votre avis sur le nouveau design."
+},
+{
+"id": 6077,
+"tag": "n",
+"phrase": "This job is a great ___ to learn new skills.",
+"reponse": "opportunity",
+"fr": "Ce poste est une excellente occasion d'acquérir de nouvelles compétences."
+},
+{
+"id": 6078,
+"tag": "a",
+"phrase": "It is ___ to repair such an old machine.",
+"reponse": "pointless",
+"fr": "Il est inutile de réparer une machine aussi vieille."
+},
+{
+"id": 6079,
+"tag": "a",
+"phrase": "The results of the election were fairly ___.",
+"reponse": "predictable",
+"fr": "Les résultats de l'élection étaient assez prévisibles."
+},
+{
+"id": 6080,
+"tag": "a",
+"phrase": "The museum's collection is ___.",
+"reponse": "priceless",
+"fr": "La collection du musée est inestimable."
+},
+{
+"id": 6081,
+"tag": "n",
+"phrase": "The school ___ welcomed the new teachers.",
+"reponse": "principal",
+"fr": "Le directeur de l'école a accueilli les nouveaux enseignants."
+},
+{
+"id": 6082,
+"tag": "r",
+"phrase": "The shipment will ___ arrive on Thursday.",
+"reponse": "probably",
+"fr": "L'envoi arrivera probablement jeudi."
+},
+{
+"id": 6083,
+"tag": "a",
+"phrase": "Thank you for your ___ reply.",
+"reponse": "prompt",
+"fr": "Merci pour votre réponse rapide."
+},
+{
+"id": 6084,
+"tag": "n",
+"phrase": "Please send us a ___ for fifty chairs.",
+"reponse": "quotation",
+"fr": "Veuillez nous envoyer un devis pour cinquante chaises."
+},
+{
+"id": 6085,
+"tag": "n",
+"phrase": "We asked three suppliers for a ___.",
+"reponse": "quote",
+"fr": "Nous avons demandé un devis à trois fournisseurs."
+},
+{
+"id": 6086,
+"tag": "v",
+"phrase": "You can ___ me at this number until six.",
+"reponse": "reach",
+"fr": "Vous pouvez me joindre à ce numéro jusqu'à dix-huit heures."
+},
+{
+"id": 6087,
+"tag": "a",
+"phrase": "Ten workers were made ___ when the factory closed.",
+"reponse": "redundant",
+"fr": "Dix ouvriers ont été licenciés à la fermeture de l'usine."
+},
+{
+"id": 6088,
+"tag": "v",
+"phrase": "Please ___ to this e-mail by Friday.",
+"reponse": "respond",
+"fr": "Veuillez répondre à cet e-mail avant vendredi."
+},
+{
+"id": 6089,
+"tag": "n",
+"phrase": "The car broke down at the ___.",
+"reponse": "roadside",
+"fr": "La voiture est tombée en panne au bord de la route."
+},
+{
+"id": 6090,
+"tag": "r",
+"phrase": "The trip will take ___ three hours.",
+"reponse": "roughly",
+"fr": "Le trajet durera environ trois heures."
+},
+{
+"id": 6091,
+"tag": "n",
+"phrase": "The store is having a big ___ this weekend.",
+"reponse": "sale",
+"fr": "Le magasin fait de grosses soldes ce week-end."
+},
+{
+"id": 6092,
+"tag": "v",
+"phrase": "Remember to ___ your work before closing the file.",
+"reponse": "save",
+"fr": "N'oubliez pas de sauvegarder votre travail avant de fermer le fichier."
+},
+{
+"id": 6093,
+"tag": "n",
+"phrase": "The hotel offers beautiful mountain ___.",
+"reponse": "scenery",
+"fr": "L'hôtel offre un magnifique paysage de montagne."
+},
+{
+"id": 6094,
+"tag": "n",
+"phrase": "The logo has the ___ of a circle.",
+"reponse": "shape",
+"fr": "Le logo a la forme d'un cercle."
+},
+{
+"id": 6095,
+"tag": "a",
+"phrase": "There was a ___ increase in prices last month.",
+"reponse": "sharp",
+"fr": "Il y a eu une forte hausse des prix le mois dernier."
+},
+{
+"id": 6096,
+"tag": "a",
+"phrase": "The road to the factory is very ___.",
+"reponse": "steep",
+"fr": "La route de l'usine est très raide."
+},
+{
+"id": 6097,
+"tag": "n",
+"phrase": "The store has a large ___ of winter coats.",
+"reponse": "stock",
+"fr": "Le magasin a un grand stock de manteaux d'hiver."
+},
+{
+"id": 6098,
+"tag": "a",
+"phrase": "The inspector made a ___ check of the building.",
+"reponse": "thorough",
+"fr": "L'inspecteur a effectué un contrôle minutieux du bâtiment."
+},
+{
+"id": 6099,
+"tag": "a",
+"phrase": "The store offers an ___ money-back guarantee.",
+"reponse": "unconditional",
+"fr": "Le magasin offre une garantie de remboursement sans condition."
+},
+{
+"id": 6100,
+"tag": "a",
+"phrase": "The weather was ___ for the outdoor event.",
+"reponse": "unfavourable",
+"fr": "Le temps était défavorable à l'événement en plein air."
+},
+{
+"id": 6101,
+"tag": "r",
+"phrase": "___, the flight has been cancelled.",
+"reponse": "Unfortunately",
+"fr": "Malheureusement, le vol a été annulé."
+},
+{
+"id": 6102,
+"tag": "n",
+"phrase": "The rent includes all ___.",
+"reponse": "utilities",
+"fr": "Le loyer comprend tous les services (eau, gaz, électricité)."
+},
+{
+"id": 6103,
+"tag": "n",
+"phrase": "The manager gave him a final ___ about his lateness.",
+"reponse": "warning",
+"fr": "Le directeur lui a donné un dernier avertissement pour ses retards."
+},
+{
+"id": 6104,
+"tag": "n",
+"phrase": "The new system should reduce ___ in the kitchen.",
+"reponse": "wastage",
+"fr": "Le nouveau système devrait réduire le gaspillage en cuisine."
+},
+{
+"id": 6105,
+"tag": "a",
+"phrase": "This ___ jacket is ideal for rainy days.",
+"reponse": "waterproof",
+"fr": "Cette veste imperméable est idéale pour les jours de pluie."
+},
+{
+"id": 6106,
+"tag": "a",
+"phrase": "The old shares are now ___.",
+"reponse": "worthless",
+"fr": "Les anciennes actions n'ont plus aucune valeur."
+},
+{
+"id": 6107,
+"tag": "n",
+"phrase": "The doctor ordered an ___ of my knee.",
+"reponse": "x-ray",
+"fr": "Le médecin a prescrit une radiographie de mon genou."
+},
+{
+"id": 6108,
+"tag": "a",
+"phrase": "The ___ report will be published in March.",
+"reponse": "yearly",
+"fr": "Le rapport annuel sera publié en mars."
+},
+{
+"id": 6109,
+"tag": "n",
+"phrase": "The program offers training to the ___ of the region.",
+"reponse": "youth",
+"fr": "Le programme propose une formation aux jeunes de la région."
 }
 ]
